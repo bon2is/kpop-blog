@@ -33,17 +33,13 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             )}
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
 
-            {/* Source badge */}
-            <a
-              href={article.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={(e) => e.stopPropagation()}
-              className="absolute top-4 right-4 flex items-center gap-1.5 px-3 py-1.5 bg-black/40 backdrop-blur-sm rounded-full text-white text-xs hover:bg-black/60 transition-colors"
-            >
-              <ExternalLink className="w-3 h-3" />
-              {article.source}
-            </a>
+            {/* Image source caption */}
+            {article.thumbnail && (
+              <div className="absolute top-4 right-4 flex items-center gap-1.5 px-3 py-1.5 bg-black/40 backdrop-blur-sm rounded-full text-white text-xs">
+                <ExternalLink className="w-3 h-3" />
+                Image from {article.source}
+              </div>
+            )}
           </div>
 
           <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
@@ -87,18 +83,22 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
               className="w-full h-full bg-gradient-to-br from-pink-500 to-purple-600"
             />
           )}
-          {/* Source badge */}
-          <a
-            href={article.sourceUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            onClick={(e) => e.stopPropagation()}
-            className="absolute bottom-2 right-2 flex items-center gap-1 px-2 py-1 bg-black/50 backdrop-blur-sm rounded text-white text-xs hover:bg-black/70 transition-colors"
-          >
-            <ExternalLink className="w-2.5 h-2.5" />
-            {article.source}
-          </a>
         </div>
+        {/* Image source caption */}
+        {article.thumbnail && (
+          <div className="px-4 py-1.5 bg-gray-100 border-b border-gray-200">
+            <a
+              href={article.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.stopPropagation()}
+              className="flex items-center gap-1 text-xs text-gray-500 hover:text-gray-700 transition-colors"
+            >
+              <ExternalLink className="w-3 h-3" />
+              Image from {article.source}
+            </a>
+          </div>
+        )}
         <div className="p-4">
           <span
             className="inline-block px-2 py-0.5 rounded text-xs font-medium mb-2"

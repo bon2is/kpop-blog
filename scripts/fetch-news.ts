@@ -52,32 +52,39 @@ const CATEGORY_PROMPTS: Record<string, string[]> = {
   ],
 };
 
-// Generate AI image URL using Pollinations (FREE, no API key needed)
-function generateAIImageUrl(category: string, title: string): string {
-  const prompts = CATEGORY_PROMPTS[category] || CATEGORY_PROMPTS.news;
-  // Use title hash for variety
-  const hash = title.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
-  const basePrompt = prompts[hash % prompts.length];
+// Fetch original image from article page
+async function fetchOriginalImage(url: string): Promise<string | undefined> {
+  try {
+    const response = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+      }
+    });
+    const html = await response.text();
 
-  // Extract meaningful keywords from title
-  const titleWords = title.toLowerCase()
-    .replace(/[^a-z\s]/g, '')
-    .split(' ')
-    .filter(w => w.length > 3 && !['with', 'from', 'that', 'this', 'will', 'have', 'been', 'their', 'about'].includes(w))
-    .slice(0, 4)
-    .join(' ');
+    // Try og:image meta tag first (most reliable)
+    const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
+    if (ogMatch?.[1]) {
+      return ogMatch[1];
+    }
 
-  // Create unique prompt with more variety
-  const styles = ['cinematic', 'professional', 'vibrant', 'elegant', 'modern', 'artistic'];
-  const style = styles[hash % styles.length];
+    // Try twitter:image
+    const twitterMatch = html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    if (twitterMatch?.[1]) {
+      return twitterMatch[1];
+    }
 
-  const fullPrompt = `${basePrompt}, ${titleWords}, ${style} style, 4k quality`;
+    // Try first large image in article
+    const imgMatch = html.match(/<img[^>]+src=["']([^"']+(?:jpg|jpeg|png|webp)[^"']*)["'][^>]*>/i);
+    if (imgMatch?.[1]) {
+      return imgMatch[1];
+    }
 
-  // Use seed based on title hash for unique but consistent images
-  const seed = hash % 100000;
-
-  // Pollinations.ai - completely free AI image generation
-  return `https://image.pollinations.ai/prompt/${encodeURIComponent(fullPrompt)}?width=800&height=450&seed=${seed}&nologo=true`;
+    return undefined;
+  } catch (error) {
+    console.error('  Error fetching image:', error);
+    return undefined;
+  }
 }
 
 // Types
@@ -382,13 +389,13 @@ async function main(): Promise<void> {
         continue;
       }
 
-      // Detect category first for image selection
+      // Detect category
       const category = detectCategory(rewritten.title, rewritten.content);
       const slug = `${generateSlug(rewritten.title)}-${generateId(item.link)}`;
 
-      // Generate AI image using Pollinations.ai (FREE!)
-      const thumbnail = generateAIImageUrl(category, rewritten.title);
-      console.log(`  AI image generated`);
+      // Fetch original image from article page
+      const thumbnail = await fetchOriginalImage(item.link);
+      console.log(`  Original image: ${thumbnail ? 'found' : 'not found'}`);
 
       // Create article
       const article: ProcessedArticle = {
