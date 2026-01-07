@@ -1,0 +1,102 @@
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import { Article, Category } from '@/types';
+
+const contentDirectory = path.join(process.cwd(), 'content/posts');
+
+export function getAllArticles(): Article[] {
+  if (!fs.existsSync(contentDirectory)) {
+    return [];
+  }
+
+  const files = fs.readdirSync(contentDirectory);
+  const articles: Article[] = [];
+
+  for (const file of files) {
+    if (!file.endsWith('.md')) continue;
+
+    const filePath = path.join(contentDirectory, file);
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const { data, content } = matter(fileContent);
+
+    articles.push({
+      slug: file.replace('.md', ''),
+      title: data.title,
+      excerpt: data.excerpt,
+      content: content,
+      category: data.category as Category,
+      tags: data.tags || [],
+      publishedAt: data.publishedAt,
+      updatedAt: data.updatedAt || data.publishedAt,
+      thumbnail: data.thumbnail,
+      source: data.source,
+      sourceUrl: data.sourceUrl,
+      author: data.author || 'KPOP Daily',
+    });
+  }
+
+  // Sort by published date (newest first)
+  return articles.sort(
+    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  );
+}
+
+export function getArticleBySlug(slug: string): Article | undefined {
+  const articles = getAllArticles();
+  return articles.find((article) => article.slug === slug);
+}
+
+export function getArticlesByCategory(category: Category): Article[] {
+  const articles = getAllArticles();
+  return articles.filter((article) => article.category === category);
+}
+
+export function getRecentArticles(count: number = 10): Article[] {
+  const articles = getAllArticles();
+  return articles.slice(0, count);
+}
+
+export function getRelatedArticles(article: Article, count: number = 4): Article[] {
+  const articles = getAllArticles();
+  return articles
+    .filter(
+      (a) =>
+        a.slug !== article.slug &&
+        (a.category === article.category ||
+          a.tags.some((tag) => article.tags.includes(tag)))
+    )
+    .slice(0, count);
+}
+
+export function getAllCategories(): Category[] {
+  const articles = getAllArticles();
+  const categories = new Set<Category>();
+  articles.forEach((article) => categories.add(article.category));
+  return Array.from(categories);
+}
+
+export function getAllTags(): string[] {
+  const articles = getAllArticles();
+  const tags = new Set<string>();
+  articles.forEach((article) => article.tags.forEach((tag) => tags.add(tag)));
+  return Array.from(tags).sort();
+}
+
+export function getArticlesByTag(tag: string): Article[] {
+  const articles = getAllArticles();
+  return articles.filter((article) =>
+    article.tags.map((t) => t.toLowerCase()).includes(tag.toLowerCase())
+  );
+}
+
+export function searchArticles(query: string): Article[] {
+  const articles = getAllArticles();
+  const lowerQuery = query.toLowerCase();
+  return articles.filter(
+    (article) =>
+      article.title.toLowerCase().includes(lowerQuery) ||
+      article.excerpt.toLowerCase().includes(lowerQuery) ||
+      article.tags.some((tag) => tag.toLowerCase().includes(lowerQuery))
+  );
+}

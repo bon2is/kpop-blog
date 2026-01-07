@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kpop.andxo.com/sitemap.xml
+
+# Disallow admin and API paths
+Disallow: /api/
+Disallow: /_next/
