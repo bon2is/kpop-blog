@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import ArticleCard from '@/components/ArticleCard';
-import AdBanner from '@/components/AdBanner';
+import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
 import { getArticlesByCategory } from '@/lib/articles';
 import { categories, getCategoryBySlug } from '@/lib/config';
 import { Category } from '@/types';
@@ -63,34 +63,57 @@ export default function CategoryPage({ params }: CategoryPageProps) {
       {/* Ad Banner */}
       <AdBanner className="mb-8" />
 
-      {/* Articles Grid */}
-      {articles.length > 0 ? (
-        <>
-          {/* Featured Article */}
-          {articles[0] && (
-            <div className="mb-8">
-              <ArticleCard article={articles[0]} featured />
+      {/* Main Content with Sidebar */}
+      <div className="flex gap-8">
+        {/* Main Content */}
+        <div className="flex-1 min-w-0">
+          {/* Articles Grid */}
+          {articles.length > 0 ? (
+            <>
+              {/* Featured Article */}
+              {articles[0] && (
+                <div className="mb-8">
+                  <ArticleCard article={articles[0]} featured />
+                </div>
+              )}
+
+              {/* First batch of Articles */}
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {articles.slice(1, 5).map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+
+              {/* In-feed Ad */}
+              {articles.length > 5 && <InFeedAd className="my-8" />}
+
+              {/* Rest of Articles */}
+              {articles.length > 5 && (
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  {articles.slice(5).map((article) => (
+                    <ArticleCard key={article.slug} article={article} />
+                  ))}
+                </div>
+              )}
+            </>
+          ) : (
+            <div className="text-center py-16">
+              <p className="text-gray-500">No articles in this category yet.</p>
+              <p className="text-sm text-gray-400 mt-2">
+                Check back soon for updates!
+              </p>
             </div>
           )}
 
-          {/* Rest of Articles */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {articles.slice(1).map((article) => (
-              <ArticleCard key={article.slug} article={article} />
-            ))}
-          </div>
-        </>
-      ) : (
-        <div className="text-center py-16">
-          <p className="text-gray-500">No articles in this category yet.</p>
-          <p className="text-sm text-gray-400 mt-2">
-            Check back soon for updates!
-          </p>
+          {/* Bottom Ad */}
+          <AdBanner className="mt-12" />
         </div>
-      )}
 
-      {/* Bottom Ad */}
-      <AdBanner className="mt-12" />
+        {/* Sidebar - Desktop Only */}
+        <aside className="hidden xl:block w-80 flex-shrink-0">
+          <SidebarAd />
+        </aside>
+      </div>
     </div>
   );
 }

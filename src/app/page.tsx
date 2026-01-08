@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import ArticleCard from '@/components/ArticleCard';
-import AdBanner from '@/components/AdBanner';
+import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
+import { NewsletterBanner, NewsletterSidebar } from '@/components/Newsletter';
 import { getAllArticles } from '@/lib/articles';
 import { categories } from '@/lib/config';
 
@@ -62,58 +63,72 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Recent Articles Grid */}
-      {recentArticles.length > 2 && (
-        <section className="mb-12">
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-gray-900">Latest News</h2>
-            <Link
-              href="/category/news"
-              className="text-pink-600 hover:text-pink-700 font-medium"
-            >
-              View All →
-            </Link>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {recentArticles.slice(2).map((article) => (
-              <ArticleCard key={article.slug} article={article} />
-            ))}
-          </div>
-        </section>
-      )}
+      {/* Main Content with Sidebar */}
+      <div className="flex gap-8 mb-12">
+        {/* Main Content */}
+        <div className="flex-1 min-w-0">
+          {/* Recent Articles Grid */}
+          {recentArticles.length > 2 && (
+            <section className="mb-12">
+              <div className="flex items-center justify-between mb-6">
+                <h2 className="text-2xl font-bold text-gray-900">Latest News</h2>
+                <Link
+                  href="/category/news"
+                  className="text-pink-600 hover:text-pink-700 font-medium"
+                >
+                  View All →
+                </Link>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {recentArticles.slice(2, 4).map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+              {/* In-feed Ad */}
+              <InFeedAd className="my-6" />
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {recentArticles.slice(4).map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+            </section>
+          )}
 
-      {/* Mid-page Ad */}
-      <AdBanner className="mb-12" />
+          {/* Mid-page Ad */}
+          <AdBanner className="mb-12" />
 
-      {/* More Articles */}
-      {moreArticles.length > 0 && (
-        <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">More Stories</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {moreArticles.map((article) => (
-              <ArticleCard key={article.slug} article={article} />
-            ))}
-          </div>
-        </section>
-      )}
+          {/* More Articles */}
+          {moreArticles.length > 0 && (
+            <section className="mb-12">
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">More Stories</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {moreArticles.slice(0, 4).map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+              {moreArticles.length > 4 && (
+                <>
+                  <InFeedAd className="my-6" />
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    {moreArticles.slice(4).map((article) => (
+                      <ArticleCard key={article.slug} article={article} />
+                    ))}
+                  </div>
+                </>
+              )}
+            </section>
+          )}
+        </div>
+
+        {/* Sidebar - Desktop Only */}
+        <aside className="hidden xl:block w-80 flex-shrink-0 space-y-6">
+          <NewsletterSidebar />
+          <SidebarAd />
+        </aside>
+      </div>
 
       {/* Newsletter Signup */}
-      <section className="bg-gradient-to-r from-pink-500 to-purple-600 rounded-2xl p-8 text-center text-white">
-        <h2 className="text-2xl font-bold mb-2">Stay Updated</h2>
-        <p className="mb-6 opacity-90">
-          Get the latest K-Pop news delivered to your inbox
-        </p>
-        <div className="flex max-w-md mx-auto gap-3">
-          <input
-            type="email"
-            placeholder="Enter your email"
-            className="flex-1 px-4 py-3 rounded-lg text-gray-900 focus:outline-none focus:ring-2 focus:ring-white"
-          />
-          <button className="px-6 py-3 bg-white text-pink-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors">
-            Subscribe
-          </button>
-        </div>
-      </section>
+      <NewsletterBanner />
     </div>
   );
 }

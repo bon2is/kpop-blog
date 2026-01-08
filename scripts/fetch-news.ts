@@ -130,6 +130,16 @@ const RSS_SOURCES = [
     url: 'https://www.koreaboo.com/feed/',
     enabled: true,
   },
+  {
+    name: 'Korea Herald',
+    url: 'https://www.koreaherald.com/rss/020200000000.xml',
+    enabled: true,
+  },
+  {
+    name: 'KpopStarz',
+    url: 'https://www.kpopstarz.com/rss/category/5/kpop.xml',
+    enabled: true,
+  },
 ];
 
 const CATEGORIES = ['news', 'music', 'drama', 'celebrity', 'audition', 'fashion', 'variety'];

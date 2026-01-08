@@ -5,7 +5,8 @@ import { notFound } from 'next/navigation';
 import { getAllArticles, getArticleBySlug, getRelatedArticles } from '@/lib/articles';
 import { formatDate, estimateReadingTime } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
-import AdBanner, { InArticleAd } from '@/components/AdBanner';
+import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
+import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
 import ArticleCard from '@/components/ArticleCard';
 import { Clock, Calendar, ExternalLink, Share2 } from 'lucide-react';
 
@@ -65,9 +66,12 @@ export default function ArticlePage({ params }: ArticlePageProps) {
     .map((p) => p.trim());
 
   return (
-    <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      {/* Breadcrumb */}
-      <nav className="mb-6 text-sm">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="flex gap-8">
+        {/* Main Article Content */}
+        <article className="flex-1 min-w-0 max-w-4xl">
+          {/* Breadcrumb */}
+          <nav className="mb-6 text-sm">
         <ol className="flex items-center space-x-2 text-gray-500">
           <li>
             <Link href="/" className="hover:text-gray-700">
@@ -205,20 +209,34 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       </div>
 
-      {/* Ad after content */}
-      <AdBanner className="mb-12" />
+          {/* Ad after content */}
+          <AdBanner className="mb-12" />
+        </article>
 
-      {/* Related Articles */}
+        {/* Sidebar - Desktop Only */}
+        <aside className="hidden xl:block w-80 flex-shrink-0 space-y-6">
+          <NewsletterSidebar />
+          <SidebarAd />
+        </aside>
+      </div>
+
+      {/* Newsletter - Mobile/Tablet */}
+      <div className="xl:hidden mt-8">
+        <NewsletterInline />
+      </div>
+
+      {/* Related Articles - Full Width */}
       {relatedArticles.length > 0 && (
-        <section>
+        <section className="mt-12">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Related Articles</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {relatedArticles.map((related) => (
               <ArticleCard key={related.slug} article={related} />
             ))}
           </div>
+          <BottomBannerAd className="mt-8" />
         </section>
       )}
-    </article>
+    </div>
   );
 }
