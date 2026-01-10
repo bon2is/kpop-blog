@@ -28,31 +28,41 @@ export default function Newsletter({ variant = 'banner', className = '' }: Newsl
     setStatus('loading');
 
     try {
-      // Option 1: Use Formspree (free tier available)
-      // Replace YOUR_FORM_ID with actual Formspree form ID
-      const formspreeId = process.env.NEXT_PUBLIC_FORMSPREE_ID;
+      // Mailchimp subscription
+      const MAILCHIMP_URL = 'https://andxo.us9.list-manage.com/subscribe/post-json';
+      const MAILCHIMP_U = 'c5f997e9353e178149080ef01';
+      const MAILCHIMP_ID = 'e76494f051';
 
-      if (formspreeId) {
-        const response = await fetch(`https://formspree.io/f/${formspreeId}`, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ email, _subject: 'New KPOP Daily Newsletter Subscription' }),
-        });
+      // Use JSONP approach for Mailchimp (avoids CORS)
+      const url = `${MAILCHIMP_URL}?u=${MAILCHIMP_U}&id=${MAILCHIMP_ID}&EMAIL=${encodeURIComponent(email)}&c=callback`;
 
-        if (!response.ok) throw new Error('Subscription failed');
-      }
+      await new Promise<void>((resolve, reject) => {
+        const script = document.createElement('script');
+        const callbackName = 'mc_callback_' + Date.now();
+
+        (window as unknown as Record<string, unknown>)[callbackName] = (data: { result: string; msg: string }) => {
+          delete (window as unknown as Record<string, unknown>)[callbackName];
+          document.body.removeChild(script);
+
+          if (data.result === 'success') {
+            resolve();
+          } else if (data.msg?.includes('already subscribed')) {
+            resolve(); // Treat as success
+          } else {
+            reject(new Error(data.msg || 'Subscription failed'));
+          }
+        };
+
+        script.src = url.replace('c=callback', `c=${callbackName}`);
+        script.onerror = () => reject(new Error('Network error'));
+        document.body.appendChild(script);
+
+        // Timeout after 10 seconds
+        setTimeout(() => reject(new Error('Timeout')), 10000);
+      });
 
       // Track successful signup
       trackNewsletterSignup(email);
-
-      // Store locally as backup
-      const subscribers = JSON.parse(localStorage.getItem('newsletter_subscribers') || '[]');
-      if (!subscribers.includes(email)) {
-        subscribers.push(email);
-        localStorage.setItem('newsletter_subscribers', JSON.stringify(subscribers));
-      }
 
       setStatus('success');
       setEmail('');
