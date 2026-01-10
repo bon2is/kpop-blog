@@ -3,6 +3,10 @@ import OpenAI from 'openai';
 import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const fetch = require('node-fetch');
+
+const IMAGES_DIR = path.join(process.cwd(), 'public/images/posts');
 
 // Generate context-aware image prompt using GPT (Studio Ghibli style)
 async function generateImagePrompt(
@@ -79,12 +83,47 @@ Return ONLY the complete image prompt following the template. Make it specific a
   return fallbacks[category] || fallbacks['news'];
 }
 
+// Download and save image locally
+async function downloadAndSaveImage(
+  imageUrl: string,
+  slug: string
+): Promise<string | undefined> {
+  try {
+    // Ensure images directory exists
+    if (!fs.existsSync(IMAGES_DIR)) {
+      fs.mkdirSync(IMAGES_DIR, { recursive: true });
+    }
+
+    // Download image
+    const response = await fetch(imageUrl);
+    if (!response.ok) {
+      throw new Error(`Failed to download image: ${response.status}`);
+    }
+
+    const buffer = await response.buffer();
+
+    // Save as PNG
+    const filename = `${slug}.png`;
+    const filepath = path.join(IMAGES_DIR, filename);
+    fs.writeFileSync(filepath, buffer);
+
+    console.log(`  Image saved: ${filename}`);
+
+    // Return the public URL path
+    return `/images/posts/${filename}`;
+  } catch (error) {
+    console.error('  Error downloading/saving image:', error);
+    return undefined;
+  }
+}
+
 // Generate AI image using DALL-E with context-aware prompt
 async function generateAIImage(
   openai: OpenAI,
   category: string,
   title: string,
-  summary: string
+  summary: string,
+  slug: string
 ): Promise<string | undefined> {
   try {
     // Generate context-specific prompt using GPT
@@ -108,6 +147,15 @@ async function generateAIImage(
     const imageUrl = response.data[0]?.url;
     if (imageUrl) {
       console.log('  AI image generated successfully');
+
+      // Download and save locally
+      const localPath = await downloadAndSaveImage(imageUrl, slug);
+      if (localPath) {
+        return localPath;
+      }
+
+      // Fallback to temporary URL if download fails
+      console.log('  Warning: Using temporary URL (will expire in ~1 hour)');
       return imageUrl;
     }
 
@@ -498,9 +546,9 @@ async function main(): Promise<void> {
       const category = detectCategory(safeContent.title, safeContent.content);
       const slug = `${generateSlug(safeContent.title)}-${generateId(item.link)}`;
 
-      // Generate AI image (copyright-free, context-aware)
-      const thumbnail = await generateAIImage(openai, category, safeContent.title, safeContent.summary);
-      console.log(`  AI thumbnail: ${thumbnail ? 'generated' : 'skipped'}`);
+      // Generate AI image (copyright-free, context-aware) and save locally
+      const thumbnail = await generateAIImage(openai, category, safeContent.title, safeContent.summary, slug);
+      console.log(`  AI thumbnail: ${thumbnail ? 'saved locally' : 'skipped'}`);
 
       // Create article with new structure
       const article: ProcessedArticle = {
