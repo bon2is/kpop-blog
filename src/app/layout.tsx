@@ -60,16 +60,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Google Adsense */}
+        <GoogleAnalytics />
+      </head>
+      <body className="min-h-screen bg-gray-50 flex flex-col">
+        {/* Google Adsense - must be in body, not head */}
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7999144867236526"
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
-        <GoogleAnalytics />
-      </head>
-      <body className="min-h-screen bg-gray-50 flex flex-col">
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
