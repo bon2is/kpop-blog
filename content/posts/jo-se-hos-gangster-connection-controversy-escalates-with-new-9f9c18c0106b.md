@@ -10,7 +10,7 @@ publishedAt: "2026-01-10T09:18:20.000Z"
 updatedAt: "2026-01-10T09:31:01.585Z"
 source: "Koreaboo"
 sourceUrl: "https://www.koreaboo.com/news/jo-se-ho-gangster-connection-controversy-escalates-new-evidence/"
-thumbnail: "/images/posts/jo-se-hos-gangster-connection-controversy-escalates-with-new-9f9c18c0106b.png"
+thumbnail: "/images/posts/jo-se-hos-gangster-connection-controversy-escalates-with-new-9f9c18c0106b.webp"
 isAIGenerated: true
 author: "KPOP Daily"
 ---

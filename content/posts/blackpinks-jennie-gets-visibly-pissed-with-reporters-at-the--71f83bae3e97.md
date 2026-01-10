@@ -10,7 +10,7 @@ publishedAt: "2026-01-10T09:29:00.000Z"
 updatedAt: "2026-01-10T09:30:32.199Z"
 source: "Koreaboo"
 sourceUrl: "https://www.koreaboo.com/news/blackpinks-jennie-gets-pissed-reporters-in-airport/"
-thumbnail: "/images/posts/blackpinks-jennie-gets-visibly-pissed-with-reporters-at-the--71f83bae3e97.png"
+thumbnail: "/images/posts/blackpinks-jennie-gets-visibly-pissed-with-reporters-at-the--71f83bae3e97.webp"
 isAIGenerated: true
 author: "KPOP Daily"
 ---

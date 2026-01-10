@@ -3,6 +3,7 @@ import OpenAI from 'openai';
 import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
+import sharp from 'sharp';
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const fetch = require('node-fetch');
 
@@ -83,7 +84,7 @@ Return ONLY the complete image prompt following the template. Make it specific a
   return fallbacks[category] || fallbacks['news'];
 }
 
-// Download and save image locally
+// Download and save image locally as optimized WebP
 async function downloadAndSaveImage(
   imageUrl: string,
   slug: string
@@ -102,12 +103,19 @@ async function downloadAndSaveImage(
 
     const buffer = await response.buffer();
 
-    // Save as PNG
-    const filename = `${slug}.png`;
+    // Convert to WebP with optimization (quality 85, effort 6)
+    const filename = `${slug}.webp`;
     const filepath = path.join(IMAGES_DIR, filename);
-    fs.writeFileSync(filepath, buffer);
 
-    console.log(`  Image saved: ${filename}`);
+    await sharp(buffer)
+      .webp({ quality: 85, effort: 6 })
+      .toFile(filepath);
+
+    const originalSize = buffer.length;
+    const newSize = fs.statSync(filepath).size;
+    const savings = (((originalSize - newSize) / originalSize) * 100).toFixed(0);
+
+    console.log(`  Image saved: ${filename} (${savings}% smaller than original)`);
 
     // Return the public URL path
     return `/images/posts/${filename}`;
