@@ -34,11 +34,23 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} {siteConfig.name}. All rights reserved.</p>
-          <p className="mt-2 text-sm">
-            News aggregated and rewritten with AI. Original sources are credited.
-          </p>
+        <div className="mt-8 pt-8 border-t border-gray-800">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+            <div className="text-gray-400 text-center md:text-left">
+              <p>&copy; {new Date().getFullYear()} {siteConfig.name}. All rights reserved.</p>
+              <p className="mt-1 text-sm">
+                AI-curated summaries with original commentary. Sources credited.
+              </p>
+            </div>
+            <div className="flex gap-6 text-sm">
+              <Link href="/privacy" className="hover:text-white transition-colors">
+                Privacy Policy
+              </Link>
+              <Link href="/terms" className="hover:text-white transition-colors">
+                Terms of Service
+              </Link>
+            </div>
+          </div>
         </div>
       </div>
     </footer>
