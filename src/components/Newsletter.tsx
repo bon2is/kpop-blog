@@ -28,39 +28,40 @@ export default function Newsletter({ variant = 'banner', className = '' }: Newsl
     setStatus('loading');
 
     try {
-      // Mailchimp subscription via JSONP
+      // Mailchimp subscription via hidden iframe
       const MAILCHIMP_U = 'c5f997e9353e178149080ef01';
       const MAILCHIMP_ID = 'e76494f051';
+      const url = `https://andxo.us9.list-manage.com/subscribe/post?u=${MAILCHIMP_U}&id=${MAILCHIMP_ID}`;
 
-      // Use post-json endpoint for JSONP (avoids CORS)
-      const url = `https://andxo.us9.list-manage.com/subscribe/post-json?u=${MAILCHIMP_U}&id=${MAILCHIMP_ID}&EMAIL=${encodeURIComponent(email)}`;
+      // Create hidden iframe for form submission
+      const iframeName = 'mc_iframe_' + Date.now();
+      const iframe = document.createElement('iframe');
+      iframe.name = iframeName;
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);
 
-      await new Promise<void>((resolve, reject) => {
-        const script = document.createElement('script');
-        const callbackName = 'mc_callback_' + Date.now();
+      // Create and submit form targeting the iframe
+      const form = document.createElement('form');
+      form.action = url;
+      form.method = 'POST';
+      form.target = iframeName;
 
-        (window as unknown as Record<string, unknown>)[callbackName] = (data: { result: string; msg: string }) => {
-          delete (window as unknown as Record<string, unknown>)[callbackName];
-          document.body.removeChild(script);
+      const emailInput = document.createElement('input');
+      emailInput.type = 'hidden';
+      emailInput.name = 'EMAIL';
+      emailInput.value = email;
+      form.appendChild(emailInput);
 
-          if (data.result === 'success') {
-            resolve();
-          } else if (data.msg?.includes('already subscribed')) {
-            resolve(); // Treat as success
-          } else {
-            reject(new Error(data.msg || 'Subscription failed'));
-          }
-        };
+      document.body.appendChild(form);
+      form.submit();
 
-        script.src = `${url}&c=${callbackName}`;
-        script.onerror = () => reject(new Error('Network error'));
-        document.body.appendChild(script);
+      // Clean up after a delay
+      setTimeout(() => {
+        document.body.removeChild(form);
+        document.body.removeChild(iframe);
+      }, 5000);
 
-        // Timeout after 10 seconds
-        setTimeout(() => reject(new Error('Timeout')), 10000);
-      });
-
-      // Track successful signup
+      // Track signup (we assume success since we can't read iframe response)
       trackNewsletterSignup(email);
 
       setStatus('success');
