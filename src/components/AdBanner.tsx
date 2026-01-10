@@ -48,11 +48,11 @@ export default function AdBanner({
   }, []);
 
   return (
-    <div className={`ad-container overflow-hidden ${className}`}>
+    <div className={`ad-container overflow-hidden ${className}`} style={{ minHeight: '100px' }}>
       <ins
         ref={adRef}
         className="adsbygoogle"
-        style={{ display: 'block', ...style }}
+        style={{ display: 'block', minHeight: '100px', ...style }}
         data-ad-client={ADSENSE_CLIENT}
         data-ad-slot={slot}
         data-ad-format={format}
