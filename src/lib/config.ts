@@ -58,11 +58,6 @@ export const categories: CategoryInfo[] = [
 
 export const RSS_SOURCES = [
   {
-    name: 'AllKPop',
-    url: 'https://www.allkpop.com/rss',
-    enabled: true,
-  },
-  {
     name: 'Soompi',
     url: 'https://www.soompi.com/feed',
     enabled: true,
@@ -70,6 +65,11 @@ export const RSS_SOURCES = [
   {
     name: 'Koreaboo',
     url: 'https://www.koreaboo.com/feed/',
+    enabled: true,
+  },
+  {
+    name: 'Korea Herald',
+    url: 'https://www.koreaherald.com/rss/020200000000.xml',
     enabled: true,
   },
 ];

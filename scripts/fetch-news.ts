@@ -197,12 +197,9 @@ interface ProcessedArticle {
 }
 
 // Configuration
+// RSS Sources - Last verified: 2026-01-10
+// Disabled sources are kept for reference in case they become available again
 const RSS_SOURCES = [
-  {
-    name: 'AllKPop',
-    url: 'https://www.allkpop.com/rss',
-    enabled: true,
-  },
   {
     name: 'Soompi',
     url: 'https://www.soompi.com/feed',
@@ -218,10 +215,17 @@ const RSS_SOURCES = [
     url: 'https://www.koreaherald.com/rss/020200000000.xml',
     enabled: true,
   },
+  // Disabled: RSS feed returning 404 as of 2026-01-10
+  {
+    name: 'AllKPop',
+    url: 'https://www.allkpop.com/rss',
+    enabled: false,
+  },
+  // Disabled: RSS feed returning 404 as of 2026-01-10
   {
     name: 'KpopStarz',
     url: 'https://www.kpopstarz.com/rss/category/5/kpop.xml',
-    enabled: true,
+    enabled: false,
   },
 ];
 
