@@ -280,6 +280,99 @@ function saveProcessedUrls(urls: Set<string>): void {
   fs.writeFileSync(PROCESSED_FILE, JSON.stringify(data, null, 2));
 }
 
+// Load existing article titles for duplicate detection
+function loadExistingTitles(): string[] {
+  const titles: string[] = [];
+  try {
+    if (!fs.existsSync(CONTENT_DIR)) return titles;
+
+    const files = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md'));
+    for (const file of files) {
+      const content = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf-8');
+      // Extract title and originalTitle from frontmatter
+      const titleMatch = content.match(/^title:\s*"(.+?)"/m);
+      const originalMatch = content.match(/^originalTitle:\s*"(.+?)"/m);
+      if (titleMatch) titles.push(titleMatch[1].toLowerCase());
+      if (originalMatch) titles.push(originalMatch[1].toLowerCase());
+    }
+  } catch (error) {
+    console.error('Error loading existing titles:', error);
+  }
+  return titles;
+}
+
+// Extract key entities from title for comparison
+function extractKeyEntities(title: string): Set<string> {
+  const entities = new Set<string>();
+  const text = title.toLowerCase();
+
+  // K-Pop group names
+  const groups = [
+    'bts', 'blackpink', 'twice', 'exo', 'nct', 'red velvet', 'seventeen', 'stray kids',
+    'itzy', 'aespa', 'newjeans', 'le sserafim', 'ive', 'nmixx', 'txt', 'enhypen',
+    'got7', 'monsta x', 'ateez', 'the boyz', 'treasure', 'g i-dle', 'gi-dle', 'kep1er',
+    'mamamoo', 'bigbang', '2ne1', 'girls generation', 'snsd', 'super junior', 'shinee',
+    'riize', 'zerobaseone', 'boynextdoor', 'xikers', 'kiss of life', 'babymonster'
+  ];
+
+  // Check for group mentions
+  for (const group of groups) {
+    if (text.includes(group)) {
+      entities.add(group);
+    }
+  }
+
+  // Extract potential celebrity names (capitalized words, 2+ chars)
+  const words = title.match(/[A-Z][a-z]{2,}/g) || [];
+  words.forEach(w => entities.add(w.toLowerCase()));
+
+  // Extract key event words
+  const events = ['comeback', 'debut', 'concert', 'tour', 'album', 'dating', 'married', 'enlist', 'military', 'award', 'chart'];
+  for (const event of events) {
+    if (text.includes(event)) {
+      entities.add(event);
+    }
+  }
+
+  return entities;
+}
+
+// Check if article is duplicate content
+function isDuplicateContent(newTitle: string, existingTitles: string[]): boolean {
+  const newTitleLower = newTitle.toLowerCase();
+  const newEntities = extractKeyEntities(newTitle);
+
+  for (const existingTitle of existingTitles) {
+    // Exact or near-exact match
+    if (existingTitle === newTitleLower) {
+      return true;
+    }
+
+    // Check entity overlap (if 70%+ entities match, likely duplicate)
+    const existingEntities = extractKeyEntities(existingTitle);
+    if (newEntities.size >= 2 && existingEntities.size >= 2) {
+      const intersection = Array.from(newEntities).filter(x => existingEntities.has(x));
+      const similarity = intersection.length / Math.min(newEntities.size, existingEntities.size);
+      if (similarity >= 0.7) {
+        return true;
+      }
+    }
+
+    // Word-level similarity check
+    const newWords = new Set(newTitleLower.split(/\s+/).filter(w => w.length > 3));
+    const existingWords = new Set(existingTitle.split(/\s+/).filter(w => w.length > 3));
+    if (newWords.size >= 4 && existingWords.size >= 4) {
+      const wordIntersection = Array.from(newWords).filter(x => existingWords.has(x));
+      const wordSimilarity = wordIntersection.length / Math.min(newWords.size, existingWords.size);
+      if (wordSimilarity >= 0.6) {
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
+
 // Determine category based on content
 function detectCategory(title: string, content: string): string {
   const text = `${title} ${content}`.toLowerCase();
@@ -518,21 +611,36 @@ async function main(): Promise<void> {
   const processedUrls = loadProcessedUrls();
   console.log(`Previously processed: ${processedUrls.size} articles`);
 
+  // Load existing titles for duplicate content detection
+  const existingTitles = loadExistingTitles();
+  console.log(`Existing article titles loaded: ${existingTitles.length}`);
+
   // Fetch RSS feeds
   const items = await fetchRSSFeeds();
   console.log(`Total items fetched: ${items.length}`);
 
-  // Filter new items
+  // Filter new items (not processed before)
   const newItems = items.filter((item) => item.link && !processedUrls.has(item.link));
-  console.log(`New items to process: ${newItems.length}`);
+  console.log(`New items (by URL): ${newItems.length}`);
 
-  if (newItems.length === 0) {
-    console.log('No new articles to process.');
+  // Filter out duplicate content
+  const uniqueItems = newItems.filter((item) => {
+    if (!item.title) return false;
+    if (isDuplicateContent(item.title, existingTitles)) {
+      console.log(`  Skipping duplicate content: ${item.title.slice(0, 50)}...`);
+      return false;
+    }
+    return true;
+  });
+  console.log(`Unique items to process: ${uniqueItems.length}`);
+
+  if (uniqueItems.length === 0) {
+    console.log('No new unique articles to process.');
     return;
   }
 
-  // Process new items (limit to 10 per run to manage API costs)
-  const itemsToProcess = newItems.slice(0, 10);
+  // Process unique items (limit to 10 per run to manage API costs)
+  const itemsToProcess = uniqueItems.slice(0, 10);
   let processedCount = 0;
 
   for (const item of itemsToProcess) {
@@ -584,6 +692,9 @@ async function main(): Promise<void> {
       // Save article
       saveArticle(article);
       processedUrls.add(item.link);
+      // Add to existing titles to prevent duplicates within same batch
+      existingTitles.push(article.title.toLowerCase());
+      existingTitles.push(article.originalTitle.toLowerCase());
       processedCount++;
 
       // Rate limiting (longer for DALL-E)

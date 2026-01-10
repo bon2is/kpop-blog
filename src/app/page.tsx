@@ -118,6 +118,21 @@ export default function HomePage() {
               )}
             </section>
           )}
+
+          {/* View All Articles */}
+          {articles.length > 13 && (
+            <section className="mb-12 text-center">
+              <Link
+                href="/articles"
+                className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-pink-500 to-purple-500 text-white font-semibold rounded-full hover:from-pink-600 hover:to-purple-600 transition-all shadow-lg hover:shadow-xl"
+              >
+                View All {articles.length} Articles
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                </svg>
+              </Link>
+            </section>
+          )}
         </div>
 
         {/* Sidebar - Desktop Only */}
