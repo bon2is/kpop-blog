@@ -3,86 +3,117 @@ import OpenAI from 'openai';
 import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
-// eslint-disable-next-line @typescript-eslint/no-require-imports
-const fetch = require('node-fetch');
 
-// Category-based image prompts for AI generation
-const CATEGORY_PROMPTS: Record<string, string[]> = {
-  music: [
-    'kpop concert stage colorful lights crowd',
-    'music studio microphone neon lights aesthetic',
-    'concert venue stage spotlights purple pink',
-    'vinyl records headphones aesthetic music vibes',
-  ],
-  drama: [
-    'korean drama scene romantic aesthetic lighting',
-    'film set camera lights cinematic mood',
-    'movie theater aesthetic red velvet seats',
-    'dramatic sunset cityscape korean style',
-  ],
-  celebrity: [
-    'red carpet event glamorous lights bokeh',
-    'fashion photoshoot studio lighting elegant',
-    'celebrity interview studio professional setup',
-    'awards show stage golden lights sparkle',
-  ],
-  audition: [
-    'dance practice room mirror wooden floor',
-    'singing audition microphone spotlight stage',
-    'trainee practice room korean style',
-    'talent show stage colorful lights audience',
-  ],
-  fashion: [
-    'korean street fashion aesthetic urban style',
-    'fashion runway show colorful lights models',
-    'stylish outfit aesthetic photography',
-    'designer clothing display elegant boutique',
-  ],
-  variety: [
-    'tv show studio colorful set design',
-    'entertainment show stage fun lighting',
-    'game show set vibrant colors',
-    'talk show studio modern design aesthetic',
-  ],
-  news: [
-    'breaking news studio professional setup',
-    'press conference microphones media event',
-    'newspaper headlines coffee morning aesthetic',
-    'social media trending colorful abstract',
-  ],
-};
-
-// Fetch original image from article page
-async function fetchOriginalImage(url: string): Promise<string | undefined> {
+// Generate context-aware image prompt using GPT (Studio Ghibli style)
+async function generateImagePrompt(
+  openai: OpenAI,
+  title: string,
+  summary: string,
+  category: string
+): Promise<string> {
   try {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-      }
+    const response = await openai.chat.completions.create({
+      model: 'gpt-4o-mini',
+      messages: [
+        {
+          role: 'system',
+          content: `You are an expert at creating DALL-E image prompts for K-pop/K-drama news article thumbnails in STUDIO GHIBLI ANIME STYLE.
+
+BASE STYLE (ALWAYS include this):
+"A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting."
+
+RULES:
+1. Create a SPECIFIC, VISUAL scene that represents the article's content
+2. NEVER include real celebrity names or group names - instead describe a "stylized Korean celebrity" or "young Korean idol" with relevant visual characteristics
+3. Include: expression (happy/shy/surprised/determined), location/background, and atmosphere
+4. The overall atmosphere should be nostalgic, peaceful, and heartwarming - signature Ghibli feel
+5. Be CONCRETE about visual elements: clothing, setting details, weather, lighting
+
+TEMPLATE TO FOLLOW:
+"A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. The image is a header graphic for a Korean entertainment news article. It features [character description with expression] located in [specific location/background]. The overall atmosphere is [mood description]."
+
+GOOD EXAMPLES:
+- Drama romance: "...features a stylized young Korean actress with long flowing hair and a shy, hopeful expression, standing on a rooftop garden overlooking Seoul at sunset. Cherry blossom petals drift past as city lights begin to twinkle below. The overall atmosphere is nostalgic and romantically hopeful."
+- Concert/Comeback: "...features a stylized K-pop idol with bright eyes and an excited expression, standing backstage with stage lights glowing behind curtains. Sparkles and confetti float in the air. The overall atmosphere is magical and anticipatory."
+- Injury news: "...features a young dancer sitting by a window in a practice room, looking contemplative with a gentle, resilient expression. Soft afternoon light streams through, casting warm shadows. The overall atmosphere is bittersweet but hopeful."
+- Award/Rankings: "...features a stylized Korean celebrity holding a golden trophy with a joyful, tearful expression. They stand on a grand stage with warm spotlights and floating golden particles. The overall atmosphere is triumphant and emotional."
+
+BAD EXAMPLES:
+- "Abstract neon lights" ❌
+- No character or scene description ❌
+- Realistic photo style ❌`
+        },
+        {
+          role: 'user',
+          content: `Create a DALL-E prompt for this K-pop news article in Studio Ghibli anime style:
+Title: ${title}
+Summary: ${summary}
+Category: ${category}
+
+Return ONLY the complete image prompt following the template. Make it specific and visual with Ghibli aesthetics.`
+        }
+      ],
+      temperature: 0.8,
+      max_tokens: 300,
     });
-    const html = await response.text();
 
-    // Try og:image meta tag first (most reliable)
-    const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-    if (ogMatch?.[1]) {
-      return ogMatch[1];
+    const prompt = response.choices[0]?.message?.content?.trim();
+    if (prompt) {
+      return prompt;
     }
+  } catch (error) {
+    console.error('  Error generating image prompt:', error);
+  }
 
-    // Try twitter:image
-    const twitterMatch = html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
-    if (twitterMatch?.[1]) {
-      return twitterMatch[1];
-    }
+  // Fallback prompts by category (Ghibli style)
+  const fallbacks: Record<string, string> = {
+    music: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A stylized K-pop idol with sparkling eyes stands on a magical concert stage, surrounded by floating lightsticks glowing like fireflies. The overall atmosphere is dreamy and euphoric.',
+    drama: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. Two silhouettes share an umbrella on a rainy Seoul street at twilight, neon signs reflecting on wet pavement. The overall atmosphere is nostalgic and romantically melancholic.',
+    celebrity: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A stylized Korean celebrity in elegant attire walks a red carpet with golden light streaming down. The overall atmosphere is glamorous yet warmly inviting.',
+    audition: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A young trainee practices alone in a sunlit dance studio, determination in their eyes as dust particles float in the warm light. The overall atmosphere is hopeful and inspiring.',
+    fashion: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A stylish figure walks through a trendy Seoul neighborhood with boutiques and cafes, autumn leaves swirling around. The overall atmosphere is chic yet cozy.',
+    variety: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A colorful TV studio set with whimsical decorations and warm stage lights, empty but inviting. The overall atmosphere is fun and magical.',
+    news: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A cozy newsroom with screens showing entertainment content, warm desk lamps glowing. The overall atmosphere is professional yet warmly nostalgic.',
+  };
 
-    // Try first large image in article
-    const imgMatch = html.match(/<img[^>]+src=["']([^"']+(?:jpg|jpeg|png|webp)[^"']*)["'][^>]*>/i);
-    if (imgMatch?.[1]) {
-      return imgMatch[1];
+  return fallbacks[category] || fallbacks['news'];
+}
+
+// Generate AI image using DALL-E with context-aware prompt
+async function generateAIImage(
+  openai: OpenAI,
+  category: string,
+  title: string,
+  summary: string
+): Promise<string | undefined> {
+  try {
+    // Generate context-specific prompt using GPT
+    console.log(`  Generating context-aware image prompt...`);
+    const imagePrompt = await generateImagePrompt(openai, title, summary, category);
+
+    // Add quality and style modifiers
+    const finalPrompt = `${imagePrompt}. High quality photograph or digital art, 16:9 aspect ratio, professional lighting, suitable for news article thumbnail.`;
+
+    console.log(`  Image prompt: ${imagePrompt.slice(0, 80)}...`);
+    console.log(`  Generating DALL-E image for category: ${category}`);
+
+    const response = await openai.images.generate({
+      model: 'dall-e-3',
+      prompt: finalPrompt,
+      n: 1,
+      size: '1792x1024',
+      quality: 'standard',
+    });
+
+    const imageUrl = response.data[0]?.url;
+    if (imageUrl) {
+      console.log('  AI image generated successfully');
+      return imageUrl;
     }
 
     return undefined;
   } catch (error) {
-    console.error('  Error fetching image:', error);
+    console.error('  Error generating AI image:', error);
     return undefined;
   }
 }
@@ -105,12 +136,16 @@ interface ProcessedArticle {
   title: string;
   excerpt: string;
   content: string;
+  summary: string;           // Brief summary (2-3 sentences)
+  commentary: string;        // Our analysis/commentary
+  originalTitle: string;     // Original article title for reference
   category: string;
   tags: string[];
   publishedAt: string;
   source: string;
   sourceUrl: string;
   thumbnail?: string;
+  isAIGenerated: boolean;    // Flag for AI-generated thumbnail
 }
 
 // Configuration
@@ -240,54 +275,110 @@ function extractTags(title: string, content: string): string[] {
   return Array.from(tags).slice(0, 5);
 }
 
-// AI Rewriting function
-async function rewriteArticle(
+// Helper function to safely parse JSON with newlines in string values
+function safeJSONParse(text: string): Record<string, string> | null {
+  try {
+    // First try direct parse
+    return JSON.parse(text);
+  } catch {
+    try {
+      // Fix unescaped newlines inside JSON string values
+      // Match content between quotes and escape newlines
+      const fixed = text.replace(
+        /"([^"\\]*(?:\\.[^"\\]*)*)"/g,
+        (match) => {
+          return match
+            .replace(/\n/g, '\\n')
+            .replace(/\r/g, '\\r')
+            .replace(/\t/g, '\\t');
+        }
+      );
+      return JSON.parse(fixed);
+    } catch {
+      try {
+        // More aggressive fix: replace all newlines between { and }
+        const aggressive = text
+          .replace(/\n(?=(?:[^"]*"[^"]*")*[^"]*$)/g, ' ')  // newlines outside quotes
+          .replace(/"\s*\n\s*"/g, '" "')  // newlines between strings
+          .replace(/,\s*\n\s*/g, ', ')    // newlines after commas
+          .replace(/\n/g, '\\n');          // remaining newlines
+        return JSON.parse(aggressive);
+      } catch (e) {
+        console.error('  JSON parse failed after all attempts');
+        return null;
+      }
+    }
+  }
+}
+
+// Safe Content Generation - Summary + Commentary model (Fair Use compliant)
+async function generateSafeContent(
   title: string,
   content: string,
   source: string
-): Promise<{ title: string; excerpt: string; content: string } | null> {
+): Promise<{
+  title: string;
+  excerpt: string;
+  summary: string;
+  commentary: string;
+  content: string;
+} | null> {
   try {
-    const prompt = `You are a professional K-Pop news writer. Rewrite the following article in a fresh, engaging way while maintaining all factual information. The article should be:
-1. Written in a conversational but professional tone
-2. SEO-friendly with natural keyword placement
-3. Around 300-500 words
-4. Include relevant context about the artists/events mentioned
-5. Completely original wording (avoid plagiarism)
+    const prompt = `You are a K-Pop news analyst. Create ORIGINAL commentary about this news story.
+
+IMPORTANT: Do NOT rewrite or copy the original article. Instead:
+1. Create a brief factual summary (2-3 sentences only)
+2. Write your own ORIGINAL analysis/commentary (150-250 words) about why this news matters, its context in the K-Pop industry, or interesting perspectives
 
 Original Title: ${title}
-Original Content: ${content}
+Original Content Snippet: ${content.slice(0, 500)}
 Source: ${source}
 
-Respond in JSON format:
-{
-  "title": "New engaging title",
-  "excerpt": "A compelling 2-3 sentence summary (max 160 characters)",
-  "content": "The full rewritten article in paragraphs, separated by \\n\\n"
-}`;
+Respond in JSON format with these exact keys: title, excerpt, summary, commentary
+IMPORTANT: Keep all values on single lines without line breaks.`;
 
     const response = await openai.chat.completions.create({
       model: 'gpt-4o-mini',
       messages: [
         {
           role: 'system',
-          content: 'You are a K-Pop news writer. Always respond with valid JSON only.',
+          content: 'You are a K-Pop industry analyst providing original commentary. Never copy content - only summarize facts briefly and provide your own analysis. Respond with valid JSON only. CRITICAL: Do not use line breaks within JSON string values - keep each value as a single line of text.',
         },
         { role: 'user', content: prompt },
       ],
-      temperature: 0.7,
-      max_tokens: 1500,
+      response_format: { type: 'json_object' },
+      temperature: 0.8,
+      max_tokens: 1000,
     });
 
     const responseText = response.choices[0]?.message?.content?.trim();
     if (!responseText) return null;
 
-    // Parse JSON response
+    // Parse JSON response with fallback handling
     const jsonMatch = responseText.match(/\{[\s\S]*\}/);
     if (!jsonMatch) return null;
 
-    return JSON.parse(jsonMatch[0]);
+    const parsed = safeJSONParse(jsonMatch[0]);
+    if (!parsed) return null;
+
+    // Construct the content with clear sections
+    const structuredContent = `${parsed.summary}
+
+---
+
+## Our Take
+
+${parsed.commentary}`;
+
+    return {
+      title: parsed.title,
+      excerpt: parsed.excerpt,
+      summary: parsed.summary,
+      commentary: parsed.commentary,
+      content: structuredContent,
+    };
   } catch (error) {
-    console.error('Error rewriting article:', error);
+    console.error('Error generating safe content:', error);
     return null;
   }
 }
@@ -330,6 +421,9 @@ function saveArticle(article: ProcessedArticle): void {
   const frontmatter = `---
 title: "${article.title.replace(/"/g, '\\"')}"
 excerpt: "${article.excerpt.replace(/"/g, '\\"')}"
+summary: "${article.summary.replace(/"/g, '\\"').replace(/\n/g, ' ')}"
+commentary: "${article.commentary.replace(/"/g, '\\"').replace(/\n/g, '\\n')}"
+originalTitle: "${article.originalTitle.replace(/"/g, '\\"')}"
 category: "${article.category}"
 tags: ${JSON.stringify(article.tags)}
 publishedAt: "${article.publishedAt}"
@@ -337,6 +431,7 @@ updatedAt: "${new Date().toISOString()}"
 source: "${article.source}"
 sourceUrl: "${article.sourceUrl}"
 ${article.thumbnail ? `thumbnail: "${article.thumbnail}"` : ''}
+isAIGenerated: ${article.isAIGenerated}
 author: "KPOP Daily"
 ---
 
@@ -387,38 +482,42 @@ async function main(): Promise<void> {
     try {
       const originalContent = item.contentSnippet || item.content || item.title;
 
-      // Rewrite with AI
-      const rewritten = await rewriteArticle(
+      // Generate safe content (summary + commentary)
+      const safeContent = await generateSafeContent(
         item.title,
         originalContent,
         item.creator || 'Unknown'
       );
 
-      if (!rewritten) {
-        console.log('  Skipped: AI rewriting failed');
+      if (!safeContent) {
+        console.log('  Skipped: Content generation failed');
         continue;
       }
 
       // Detect category
-      const category = detectCategory(rewritten.title, rewritten.content);
-      const slug = `${generateSlug(rewritten.title)}-${generateId(item.link)}`;
+      const category = detectCategory(safeContent.title, safeContent.content);
+      const slug = `${generateSlug(safeContent.title)}-${generateId(item.link)}`;
 
-      // Fetch original image from article page
-      const thumbnail = await fetchOriginalImage(item.link);
-      console.log(`  Original image: ${thumbnail ? 'found' : 'not found'}`);
+      // Generate AI image (copyright-free, context-aware)
+      const thumbnail = await generateAIImage(openai, category, safeContent.title, safeContent.summary);
+      console.log(`  AI thumbnail: ${thumbnail ? 'generated' : 'skipped'}`);
 
-      // Create article
+      // Create article with new structure
       const article: ProcessedArticle = {
         slug,
-        title: rewritten.title,
-        excerpt: rewritten.excerpt,
-        content: rewritten.content,
+        title: safeContent.title,
+        excerpt: safeContent.excerpt,
+        content: safeContent.content,
+        summary: safeContent.summary,
+        commentary: safeContent.commentary,
+        originalTitle: item.title,
         category,
-        tags: extractTags(rewritten.title, rewritten.content),
+        tags: extractTags(safeContent.title, safeContent.content),
         publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
         source: item.creator || 'Unknown',
         sourceUrl: item.link,
         thumbnail,
+        isAIGenerated: true,
       };
 
       // Save article
@@ -426,8 +525,8 @@ async function main(): Promise<void> {
       processedUrls.add(item.link);
       processedCount++;
 
-      // Rate limiting
-      await new Promise((resolve) => setTimeout(resolve, 1000));
+      // Rate limiting (longer for DALL-E)
+      await new Promise((resolve) => setTimeout(resolve, 2000));
     } catch (error) {
       console.error(`  Error processing: ${error}`);
     }

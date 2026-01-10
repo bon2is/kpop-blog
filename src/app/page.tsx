@@ -32,7 +32,7 @@ export default function HomePage() {
           <div className="text-center py-20 bg-gradient-to-br from-pink-50 to-purple-50 rounded-2xl">
             <h2 className="text-3xl font-bold gradient-text mb-4">Welcome to KPOP Daily</h2>
             <p className="text-gray-600 max-w-md mx-auto">
-              Your daily source for K-Pop news, music releases, drama updates, and audition information.
+              Discover K-Pop and K-Drama news with AI-curated summaries and original commentary. We highlight the latest stories with unique insights and beautiful AI artwork—always linking to original sources for the full story.
             </p>
             <p className="text-gray-500 mt-4">
               Articles will appear here once the news fetcher runs.

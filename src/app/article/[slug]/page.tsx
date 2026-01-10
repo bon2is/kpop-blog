@@ -8,7 +8,7 @@ import { getCategoryColor } from '@/lib/config';
 import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
 import ArticleCard from '@/components/ArticleCard';
-import { Clock, Calendar, ExternalLink, Share2 } from 'lucide-react';
+import { Clock, Calendar, ExternalLink, Share2, Sparkles, ArrowRight } from 'lucide-react';
 
 interface ArticlePageProps {
   params: { slug: string };
@@ -117,7 +117,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       </header>
 
-      {/* Featured Image - AI Generated */}
+      {/* Featured Image */}
       {article.thumbnail && (
         <div className="relative aspect-video mb-8 rounded-xl overflow-hidden">
           <Image
@@ -128,16 +128,13 @@ export default function ArticlePage({ params }: ArticlePageProps) {
             unoptimized
             priority
           />
-          {/* Source badge */}
-          <a
-            href={article.sourceUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="absolute top-4 right-4 flex items-center gap-1.5 px-3 py-1.5 bg-black/50 backdrop-blur-sm rounded-full text-white text-sm hover:bg-black/70 transition-colors"
-          >
-            <ExternalLink className="w-4 h-4" />
-            Original at {article.source}
-          </a>
+          {/* AI Generated badge */}
+          {article.isAIGenerated && (
+            <div className="absolute top-4 left-4 flex items-center gap-1.5 px-3 py-1.5 bg-purple-600/80 backdrop-blur-sm rounded-full text-white text-sm">
+              <Sparkles className="w-4 h-4" />
+              AI Generated Image
+            </div>
+          )}
         </div>
       )}
 
@@ -157,23 +154,28 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         ))}
       </div>
 
-      {/* Source Attribution */}
-      <div className="mb-8 p-4 bg-gray-50 rounded-lg">
-        <p className="text-sm text-gray-600">
-          <span className="font-medium">Source: </span>
+      {/* Source Attribution - Prominent CTA */}
+      <div className="mb-8 p-6 bg-gradient-to-r from-pink-50 to-purple-50 border border-pink-200 rounded-xl">
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+          <div>
+            <p className="text-sm text-gray-600 mb-1">
+              <span className="font-medium">Original Story: </span>
+              {article.originalTitle || article.title}
+            </p>
+            <p className="text-xs text-gray-500">
+              This is our commentary on news from {article.source}. Read the full original article for complete details.
+            </p>
+          </div>
           <a
             href={article.sourceUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-pink-600 hover:text-pink-700 inline-flex items-center"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-pink-600 text-white font-medium rounded-lg hover:bg-pink-700 transition-colors whitespace-nowrap"
           >
-            {article.source}
-            <ExternalLink className="w-3 h-3 ml-1" />
+            Read Full Story
+            <ArrowRight className="w-4 h-4" />
           </a>
-        </p>
-        <p className="text-xs text-gray-500 mt-1">
-          This article has been rewritten by AI. Visit the original source for the full story.
-        </p>
+        </div>
       </div>
 
       {/* Tags */}
