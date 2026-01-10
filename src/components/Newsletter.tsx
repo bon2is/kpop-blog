@@ -28,13 +28,12 @@ export default function Newsletter({ variant = 'banner', className = '' }: Newsl
     setStatus('loading');
 
     try {
-      // Mailchimp subscription
-      const MAILCHIMP_URL = 'https://andxo.us9.list-manage.com/subscribe/post-json';
+      // Mailchimp subscription via JSONP
       const MAILCHIMP_U = 'c5f997e9353e178149080ef01';
       const MAILCHIMP_ID = 'e76494f051';
 
-      // Use JSONP approach for Mailchimp (avoids CORS)
-      const url = `${MAILCHIMP_URL}?u=${MAILCHIMP_U}&id=${MAILCHIMP_ID}&EMAIL=${encodeURIComponent(email)}&c=callback`;
+      // Use post-json endpoint for JSONP (avoids CORS)
+      const url = `https://andxo.us9.list-manage.com/subscribe/post-json?u=${MAILCHIMP_U}&id=${MAILCHIMP_ID}&EMAIL=${encodeURIComponent(email)}`;
 
       await new Promise<void>((resolve, reject) => {
         const script = document.createElement('script');
@@ -53,7 +52,7 @@ export default function Newsletter({ variant = 'banner', className = '' }: Newsl
           }
         };
 
-        script.src = url.replace('c=callback', `c=${callbackName}`);
+        script.src = `${url}&c=${callbackName}`;
         script.onerror = () => reject(new Error('Network error'));
         document.body.appendChild(script);
 
