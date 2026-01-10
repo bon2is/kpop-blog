@@ -461,7 +461,7 @@ async function fetchRSSFeeds(): Promise<RSSItem[]> {
       console.log(`Fetching from ${source.name}...`);
       const feed = await parser.parseURL(source.url);
 
-      for (const item of feed.items.slice(0, 10)) {
+      for (const item of feed.items.slice(0, 30)) {
         allItems.push({
           ...item,
           creator: source.name,
