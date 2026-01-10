@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
-import Script from 'next/script';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
+import AdSenseScript from '@/components/AdSenseScript';
 import { siteConfig } from '@/lib/config';
 import './globals.css';
 
@@ -59,17 +59,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head>
-        <GoogleAnalytics />
-      </head>
+      <head />
       <body className="min-h-screen bg-gray-50 flex flex-col">
-        {/* Google Adsense - must be in body, not head */}
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7999144867236526"
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
+        <GoogleAnalytics />
+        <AdSenseScript />
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
