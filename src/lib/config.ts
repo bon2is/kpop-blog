@@ -2,7 +2,7 @@ import { SiteConfig, CategoryInfo, Category } from '@/types';
 
 export const siteConfig: SiteConfig = {
   name: 'KPOP Daily',
-  description: 'Your daily source for K-Pop news, music releases, drama updates, and audition information. Stay updated with the latest from the Korean entertainment industry.',
+  description: 'Discover K-Pop and K-Drama news with AI-curated summaries and original commentary. We highlight the latest stories with unique insights and beautiful AI artwork—always linking to original sources for the full story.',
   url: 'https://kpop.andxo.com',
   ogImage: '/og-image.png',
   links: {

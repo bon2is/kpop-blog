@@ -3,11 +3,15 @@ export interface Article {
   title: string;
   excerpt: string;
   content: string;
+  summary?: string;           // Brief factual summary (new)
+  commentary?: string;        // Our original analysis (new)
+  originalTitle?: string;     // Original article title (new)
   category: Category;
   tags: string[];
   publishedAt: string;
   updatedAt: string;
   thumbnail?: string;
+  isAIGenerated?: boolean;    // Flag for AI-generated thumbnail (new)
   source: string;
   sourceUrl: string;
   author: string;

@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Article } from '@/types';
 import { formatRelativeDate, estimateReadingTime } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
-import { Clock, ExternalLink } from 'lucide-react';
+import { Clock, ExternalLink, Sparkles } from 'lucide-react';
 
 interface ArticleCardProps {
   article: Article;
@@ -36,8 +36,17 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             {/* Image source caption */}
             {article.thumbnail && (
               <div className="absolute top-4 right-4 flex items-center gap-1.5 px-3 py-1.5 bg-black/40 backdrop-blur-sm rounded-full text-white text-xs">
-                <ExternalLink className="w-3 h-3" />
-                Image from {article.source}
+                {article.isAIGenerated ? (
+                  <>
+                    <Sparkles className="w-3 h-3" />
+                    AI Generated Image
+                  </>
+                ) : (
+                  <>
+                    <ExternalLink className="w-3 h-3" />
+                    Image from {article.source}
+                  </>
+                )}
               </div>
             )}
           </div>
@@ -87,16 +96,23 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
         {/* Image source caption */}
         {article.thumbnail && (
           <div className="px-4 py-1.5 bg-gray-100 border-b border-gray-200">
-            <a
-              href={article.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={(e) => e.stopPropagation()}
-              className="flex items-center gap-1 text-xs text-gray-500 hover:text-gray-700 transition-colors"
-            >
-              <ExternalLink className="w-3 h-3" />
-              Image from {article.source}
-            </a>
+            {article.isAIGenerated ? (
+              <span className="flex items-center gap-1 text-xs text-gray-500">
+                <Sparkles className="w-3 h-3" />
+                AI Generated Image
+              </span>
+            ) : (
+              <a
+                href={article.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={(e) => e.stopPropagation()}
+                className="flex items-center gap-1 text-xs text-gray-500 hover:text-gray-700 transition-colors"
+              >
+                <ExternalLink className="w-3 h-3" />
+                Image from {article.source}
+              </a>
+            )}
           </div>
         )}
         <div className="p-4">
