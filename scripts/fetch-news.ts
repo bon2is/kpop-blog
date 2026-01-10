@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import Parser from 'rss-parser';
 import OpenAI from 'openai';
 import fs from 'fs';
