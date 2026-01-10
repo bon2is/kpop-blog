@@ -168,10 +168,10 @@ export default function PrivacyPolicyPage() {
             <p className="text-gray-600">
               If you have any questions about this Privacy Policy, please contact us at:{' '}
               <a
-                href="mailto:privacy@kpop.andxo.com"
+                href="mailto:admin@andxo.com"
                 className="text-pink-500 hover:text-pink-600"
               >
-                privacy@kpop.andxo.com
+                admin@andxo.com
               </a>
             </p>
           </section>

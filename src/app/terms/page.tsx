@@ -138,10 +138,10 @@ export default function TermsOfServicePage() {
             <p className="text-gray-600">
               For questions about these Terms of Service, please contact us at:{' '}
               <a
-                href="mailto:legal@kpop.andxo.com"
+                href="mailto:admin@andxo.com"
                 className="text-pink-500 hover:text-pink-600"
               >
-                legal@kpop.andxo.com
+                admin@andxo.com
               </a>
             </p>
           </section>
