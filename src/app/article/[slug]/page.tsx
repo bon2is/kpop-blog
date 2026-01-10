@@ -8,7 +8,9 @@ import { getCategoryColor } from '@/lib/config';
 import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
 import ArticleCard from '@/components/ArticleCard';
-import { Clock, Calendar, ExternalLink, Share2, Sparkles, ArrowRight } from 'lucide-react';
+import { Clock, Calendar, Sparkles, ArrowRight } from 'lucide-react';
+import ShareButtons from '@/components/ShareButtons';
+import { siteConfig } from '@/lib/config';
 
 interface ArticlePageProps {
   params: { slug: string };
@@ -197,19 +199,11 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       )}
 
       {/* Share Buttons */}
-      <div className="mb-8 flex items-center gap-4">
-        <span className="text-sm font-medium text-gray-700">Share:</span>
-        <div className="flex gap-2">
-          <a
-            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(`https://kpop.andxo.com/article/${article.slug}`)}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors"
-          >
-            <Share2 className="w-4 h-4 text-gray-600" />
-          </a>
-        </div>
-      </div>
+      <ShareButtons
+        title={article.title}
+        url={`${siteConfig.url}/article/${article.slug}`}
+        className="mb-8"
+      />
 
           {/* Ad after content */}
           <AdBanner className="mb-12" />
