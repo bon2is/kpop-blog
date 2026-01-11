@@ -30,9 +30,11 @@
 ### 주요 기능
 - RSS 피드에서 뉴스 자동 수집
 - OpenAI GPT로 기사 요약 및 코멘터리 생성
-- DALL-E 3로 아티클 썸네일 이미지 생성
+- DALL-E 3로 아티클 썸네일 이미지 생성 (1024x1024)
 - 정적 사이트 생성 (Static Export)
-- GitHub Actions로 6시간마다 자동 업데이트
+- GitHub Actions로 매일 자동 업데이트 (20:00 KST)
+- 부정적 뉴스 필터링 (긍정적 기사만 선별)
+- 우선순위 점수 기반 기사 선별 (특종/인기 기사 우선)
 - AdSense 광고 수익화
 - 뉴스레터 구독 기능
 
@@ -215,15 +217,21 @@ const RSS_SOURCES = [
 ### 6.2 AI 콘텐츠 생성 흐름
 
 ```
-RSS 피드 수집
+RSS 피드 수집 (Soompi, Koreaboo, Korea Herald)
     ↓
 URL 중복 체크 (.processed.json)
     ↓
-콘텐츠 중복 체크 (제목 유사도)
+콘텐츠 중복 체크 (제목 유사도 70%+)
+    ↓
+부정적 뉴스 필터링 (긍정적 기사만)
+    ↓
+우선순위 점수 계산 & 정렬
+    ↓
+상위 N개 기사 선택 (기본: 5개)
     ↓
 GPT-4o-mini: 요약 + 코멘터리 생성
     ↓
-DALL-E 3: 썸네일 이미지 생성
+DALL-E 3: 썸네일 이미지 생성 (1024x1024)
     ↓
 Sharp: WebP 변환 & 최적화
     ↓
@@ -249,7 +257,51 @@ function isDuplicateContent(newTitle: string, existingTitles: string[]): boolean
 }
 ```
 
-### 6.4 AI 이미지 프롬프트 예시
+### 6.4 부정적 뉴스 필터링
+
+```typescript
+// 부정적 키워드 목록 (제외됨)
+const negativeKeywords = [
+  'death', 'died', 'dies', 'dead', 'funeral', 'suicide', 'accident', 'crash',
+  'arrested', 'arrest', 'jail', 'prison', 'charged', 'lawsuit', 'sue', 'sued',
+  'scandal', 'controversy', 'accused', 'allegation', 'assault', 'abuse',
+  'divorce', 'breakup', 'split', 'cheat', 'cheating', 'affair',
+  'drunk', 'dui', 'drug', 'drugs', 'overdose',
+  'bully', 'bullying', 'harassment', 'victim',
+  'cancel', 'cancelled', 'canceled', 'boycott',
+  'fail', 'flop', 'worst', 'disaster', 'tragic', 'tragedy',
+  'hate', 'racist', 'racism', 'sexist', 'sexism',
+  'military', 'enlist', 'enlisted', 'army'  // 선택적
+];
+```
+
+### 6.5 우선순위 점수 시스템
+
+```typescript
+// 점수 기준
+const priorityKeywords = {
+  high: [  // +3점
+    'exclusive', 'breaking', 'first', 'official', 'confirms', 'announced', 'reveals',
+    'wins', 'winner', 'award', 'chart', 'billboard', 'record', 'milestone', 'historic',
+    'comeback', 'debut', 'new album', 'mv', 'music video', 'teaser', 'trailer',
+    'world tour', 'concert', 'sold out', 'million', 'billion',
+    'collaboration', 'featuring', 'collab'
+  ],
+  medium: [  // +1점
+    'interview', 'behind', 'preview', 'highlight', 'performance', 'stage',
+    'photoshoot', 'magazine', 'cover', 'brand', 'ambassador',
+    'variety', 'show', 'episode', 'drama', 'cast', 'role'
+  ]
+};
+
+// 인기 그룹 보너스 (+2점)
+const topGroups = [
+  'bts', 'blackpink', 'twice', 'newjeans', 'aespa', 'ive', 'le sserafim',
+  'stray kids', 'seventeen', 'nct', 'exo', 'red velvet', 'itzy', 'txt', 'enhypen'
+];
+```
+
+### 6.6 AI 이미지 프롬프트 예시
 
 ```typescript
 const imagePrompt = `A hand-drawn anime illustration in the distinct style of Studio Ghibli,
@@ -259,7 +311,7 @@ It features [character/scene description].
 The overall atmosphere is [mood description].`;
 ```
 
-### 6.5 마크다운 Frontmatter 구조
+### 6.7 마크다운 Frontmatter 구조
 
 ```yaml
 ---
@@ -520,7 +572,7 @@ name: Fetch News & Deploy
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 6시간마다
+    - cron: '0 11 * * *'  # 매일 20:00 KST (11:00 UTC)
   workflow_dispatch:        # 수동 실행
 
 env:
@@ -755,23 +807,39 @@ export const metadata: Metadata = {
 
 ### 운영 체크리스트
 
-- [ ] 6시간마다 자동 기사 업데이트 확인
+- [ ] 매일 20:00 KST 자동 기사 업데이트 확인
 - [ ] AdSense 수익 모니터링
 - [ ] Google Analytics 트래픽 확인
 - [ ] 뉴스레터 구독자 확인
 - [ ] 오류 발생 시 GitHub Actions 로그 확인
+- [ ] OpenAI API 크레딧 잔액 확인
 
 ---
 
 ## API 비용 참고
 
-| 서비스 | 예상 비용 (1회 실행) | 비고 |
-|--------|---------------------|------|
-| GPT-4o-mini | ~$0.01 | 기사당 ~1K tokens |
-| DALL-E 3 | ~$0.40 | 기사당 1장 (1792x1024) |
-| **총 (10개 기사)** | **~$4.10** | 하루 4회 = ~$16.40/일 |
+### 현재 설정 (비용 최적화)
 
-> 비용 절감: DALL-E 3 → DALL-E 2 전환 시 ~$0.02/장
+| 서비스 | 단가 | 비고 |
+|--------|------|------|
+| GPT-4o-mini | ~$0.002 | 기사당 ~1K tokens |
+| DALL-E 3 | **$0.040** | 기사당 1장 (1024x1024) |
+| **기사 1개 합계** | **~$0.042** | |
+
+### 일일/월간 비용 예상
+
+| 설정 | 일일 비용 | 월간 비용 |
+|------|----------|----------|
+| 5개 기사/일 | **$0.21** | **~$6.30** |
+| 10개 기사/일 | $0.42 | ~$12.60 |
+
+### 비용 절감 옵션
+
+| 옵션 | 변경 | 절감 효과 |
+|------|------|----------|
+| 이미지 해상도 축소 | 1792x1024 → 1024x1024 | **50% 절감** |
+| DALL-E 2 사용 | DALL-E 3 → DALL-E 2 | 75% 절감 (~$0.02/장) |
+| 실행 빈도 축소 | 6시간 → 1일 1회 | 75% 절감 |
 
 ---
 
@@ -815,4 +883,4 @@ Input required and not supplied: token
 ---
 
 *이 가이드는 KPOP Daily (https://kpop.andxo.com) 제작 경험을 바탕으로 작성되었습니다.*
-*마지막 업데이트: 2026-01-10*
+*마지막 업데이트: 2026-01-11*
