@@ -149,7 +149,7 @@ async function generateAIImage(
       model: 'dall-e-3',
       prompt: finalPrompt,
       n: 1,
-      size: '1792x1024',
+      size: '1024x1024',
       quality: 'standard',
     });
 
@@ -634,13 +634,42 @@ async function main(): Promise<void> {
   });
   console.log(`Unique items to process: ${uniqueItems.length}`);
 
-  if (uniqueItems.length === 0) {
-    console.log('No new unique articles to process.');
+  // Filter out negative news (only positive/neutral content)
+  const negativeKeywords = [
+    'death', 'died', 'dies', 'dead', 'funeral', 'suicide', 'accident', 'crash',
+    'arrested', 'arrest', 'jail', 'prison', 'charged', 'lawsuit', 'sue', 'sued',
+    'scandal', 'controversy', 'accused', 'allegation', 'assault', 'abuse',
+    'divorce', 'breakup', 'split', 'cheat', 'cheating', 'affair',
+    'drunk', 'dui', 'drug', 'drugs', 'overdose',
+    'bully', 'bullying', 'harassment', 'victim',
+    'cancel', 'cancelled', 'canceled', 'boycott',
+    'fail', 'flop', 'worst', 'disaster', 'tragic', 'tragedy',
+    'hate', 'racist', 'racism', 'sexist', 'sexism',
+    'military', 'enlist', 'enlisted', 'army'  // Optional: exclude military news
+  ];
+
+  const positiveItems = uniqueItems.filter((item) => {
+    const titleLower = (item.title || '').toLowerCase();
+    const contentLower = (item.contentSnippet || item.content || '').toLowerCase();
+    const text = `${titleLower} ${contentLower}`;
+
+    for (const keyword of negativeKeywords) {
+      if (text.includes(keyword)) {
+        console.log(`  Skipping negative news: ${item.title?.slice(0, 50)}... (keyword: ${keyword})`);
+        return false;
+      }
+    }
+    return true;
+  });
+  console.log(`Positive items to process: ${positiveItems.length}`);
+
+  if (positiveItems.length === 0) {
+    console.log('No new positive articles to process.');
     return;
   }
 
-  // Process unique items (limit to 10 per run to manage API costs)
-  const itemsToProcess = uniqueItems.slice(0, 10);
+  // Process positive items (limit to 10 per run to manage API costs)
+  const itemsToProcess = positiveItems.slice(0, 10);
   let processedCount = 0;
 
   for (const item of itemsToProcess) {
