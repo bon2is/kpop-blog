@@ -668,8 +668,63 @@ async function main(): Promise<void> {
     return;
   }
 
-  // Process positive items (limit to 10 per run to manage API costs)
-  const itemsToProcess = positiveItems.slice(0, 10);
+  // Priority scoring for breaking news and popular content
+  const priorityKeywords = {
+    high: [
+      'exclusive', 'breaking', 'first', 'official', 'confirms', 'announced', 'reveals',
+      'wins', 'winner', 'award', 'chart', 'billboard', 'record', 'milestone', 'historic',
+      'comeback', 'debut', 'new album', 'mv', 'music video', 'teaser', 'trailer',
+      'world tour', 'concert', 'sold out', 'million', 'billion',
+      'collaboration', 'featuring', 'collab'
+    ],
+    medium: [
+      'interview', 'behind', 'preview', 'highlight', 'performance', 'stage',
+      'photoshoot', 'magazine', 'cover', 'brand', 'ambassador',
+      'variety', 'show', 'episode', 'drama', 'cast', 'role'
+    ]
+  };
+
+  // Top K-Pop groups for priority
+  const topGroups = [
+    'bts', 'blackpink', 'twice', 'newjeans', 'aespa', 'ive', 'le sserafim',
+    'stray kids', 'seventeen', 'nct', 'exo', 'red velvet', 'itzy', 'txt', 'enhypen'
+  ];
+
+  const scoredItems = positiveItems.map((item) => {
+    const text = `${item.title || ''} ${item.contentSnippet || ''}`.toLowerCase();
+    let score = 0;
+
+    // High priority keywords (+3 points each)
+    for (const keyword of priorityKeywords.high) {
+      if (text.includes(keyword)) score += 3;
+    }
+
+    // Medium priority keywords (+1 point each)
+    for (const keyword of priorityKeywords.medium) {
+      if (text.includes(keyword)) score += 1;
+    }
+
+    // Top groups bonus (+2 points)
+    for (const group of topGroups) {
+      if (text.includes(group)) {
+        score += 2;
+        break; // Only count once
+      }
+    }
+
+    return { item, score };
+  });
+
+  // Sort by score (highest first)
+  scoredItems.sort((a, b) => b.score - a.score);
+
+  console.log('Top scored articles:');
+  scoredItems.slice(0, 10).forEach((s, i) => {
+    console.log(`  ${i + 1}. [${s.score}pts] ${s.item.title?.slice(0, 50)}...`);
+  });
+
+  // Process top 5 high-priority items
+  const itemsToProcess = scoredItems.slice(0, 5).map(s => s.item);
   let processedCount = 0;
 
   for (const item of itemsToProcess) {
