@@ -1,9 +1,9 @@
 name: Fetch News & Deploy
 
 on:
-  # Run daily at 18:00 KST (09:00 UTC)
+  # Run daily at 20:00 KST (11:00 UTC)
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 11 * * *'
   # Allow manual trigger
   workflow_dispatch:
     inputs:
