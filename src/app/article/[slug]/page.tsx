@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import ReactMarkdown from 'react-markdown';
 import { getAllArticles, getArticleBySlug, getRelatedArticles } from '@/lib/articles';
 import { formatDate, estimateReadingTime } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
@@ -61,11 +62,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   const relatedArticles = getRelatedArticles(article, 4);
   const categoryColor = getCategoryColor(article.category);
 
-  // Convert markdown-like content to HTML paragraphs
-  const contentParagraphs = article.content
-    .split('\n\n')
-    .filter((p) => p.trim())
-    .map((p) => p.trim());
+  // Content is now rendered as markdown
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -143,18 +140,24 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       {/* Ad before content */}
       <AdBanner className="mb-8" />
 
-      {/* Article Content with mid-article ad */}
-      <div className="article-content text-gray-700 mb-8">
-        {contentParagraphs.map((paragraph, index) => (
-          <div key={index}>
-            <p>{paragraph}</p>
-            {/* Insert ad after 2nd paragraph */}
-            {index === 1 && contentParagraphs.length > 3 && (
-              <InArticleAd />
-            )}
-          </div>
-        ))}
+      {/* Article Content with markdown rendering */}
+      <div className="article-content prose prose-lg max-w-none text-gray-700 mb-8
+        prose-headings:text-gray-900 prose-headings:font-bold
+        prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4
+        prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3
+        prose-p:mb-4 prose-p:leading-relaxed
+        prose-strong:text-gray-900
+        prose-ul:my-4 prose-ul:list-disc prose-ul:pl-6
+        prose-ol:my-4 prose-ol:list-decimal prose-ol:pl-6
+        prose-li:mb-2
+        prose-blockquote:border-l-4 prose-blockquote:border-pink-500 prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:bg-pink-50 prose-blockquote:py-2 prose-blockquote:my-4
+        prose-hr:my-8 prose-hr:border-gray-200
+        prose-a:text-pink-600 prose-a:underline hover:prose-a:text-pink-800">
+        <ReactMarkdown>{article.content}</ReactMarkdown>
       </div>
+
+      {/* In-article ad */}
+      <InArticleAd />
 
       {/* Source Attribution - Prominent CTA */}
       <div className="mb-8 p-6 bg-gradient-to-r from-pink-50 to-purple-50 border border-pink-200 rounded-xl">
