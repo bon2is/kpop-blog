@@ -663,8 +663,37 @@ async function main(): Promise<void> {
   });
   console.log(`Positive items to process: ${positiveItems.length}`);
 
-  if (positiveItems.length === 0) {
-    console.log('No new positive articles to process.');
+  // KPOP-only filter: Must contain K-Pop related keywords
+  const kpopKeywords = [
+    // Group names
+    'bts', 'blackpink', 'twice', 'newjeans', 'aespa', 'ive', 'le sserafim',
+    'stray kids', 'seventeen', 'nct', 'exo', 'red velvet', 'itzy', 'txt', 'enhypen',
+    'got7', 'monsta x', 'ateez', 'the boyz', 'treasure', 'g i-dle', 'gi-dle', 'gidle',
+    'mamamoo', 'bigbang', '2ne1', 'girls generation', 'snsd', 'super junior', 'shinee',
+    'riize', 'zerobaseone', 'boynextdoor', 'xikers', 'kiss of life', 'babymonster',
+    'nmixx', 'kep1er', 'fromis', 'wjsn', 'oh my girl', 'loona', 'everglow', 'dreamcatcher',
+    'billlie', 'viviz', 'weeekly', 'lightsum', 'lapillus', 'ador', 'hybe', 'jyp', 'sm', 'yg',
+    'katseye', 'illit', 'unis', 'badvillain', 'fifty fifty', 'csr', 'tripleS',
+    // K-Pop specific terms
+    'k-pop', 'kpop', 'idol', 'idols', 'comeback', 'debut', 'trainee', 'fandom',
+    'music show', 'inkigayo', 'music bank', 'music core', 'mcountdown', 'show champion',
+    'melon', 'genie', 'bugs', 'flo', 'vibe', 'hanteo', 'circle chart', 'gaon',
+    'golden disc', 'mama', 'mma', 'sma', 'tma', 'aaa', 'gda',
+    'lightstick', 'fanchant', 'fan meeting', 'fan concert'
+  ];
+
+  const kpopItems = positiveItems.filter((item) => {
+    const text = `${item.title || ''} ${item.contentSnippet || item.content || ''}`.toLowerCase();
+    const hasKpopContent = kpopKeywords.some(keyword => text.includes(keyword));
+    if (!hasKpopContent) {
+      console.log(`  Skipping non-KPOP: ${item.title?.slice(0, 50)}...`);
+    }
+    return hasKpopContent;
+  });
+  console.log(`KPOP-only items: ${kpopItems.length}`);
+
+  if (kpopItems.length === 0) {
+    console.log('No new KPOP articles to process.');
     return;
   }
 
@@ -675,22 +704,23 @@ async function main(): Promise<void> {
       'wins', 'winner', 'award', 'chart', 'billboard', 'record', 'milestone', 'historic',
       'comeback', 'debut', 'new album', 'mv', 'music video', 'teaser', 'trailer',
       'world tour', 'concert', 'sold out', 'million', 'billion',
-      'collaboration', 'featuring', 'collab'
+      'collaboration', 'featuring', 'collab', 'pre-order', 'release'
     ],
     medium: [
       'interview', 'behind', 'preview', 'highlight', 'performance', 'stage',
       'photoshoot', 'magazine', 'cover', 'brand', 'ambassador',
-      'variety', 'show', 'episode', 'drama', 'cast', 'role'
+      'variety', 'show', 'episode', 'fan meeting', 'vlive', 'weverse'
     ]
   };
 
-  // Top K-Pop groups for priority
+  // Top K-Pop groups for higher priority (viral potential)
   const topGroups = [
     'bts', 'blackpink', 'twice', 'newjeans', 'aespa', 'ive', 'le sserafim',
-    'stray kids', 'seventeen', 'nct', 'exo', 'red velvet', 'itzy', 'txt', 'enhypen'
+    'stray kids', 'seventeen', 'nct', 'exo', 'red velvet', 'itzy', 'txt', 'enhypen',
+    'riize', 'zerobaseone', 'boynextdoor', 'katseye', 'illit', 'babymonster'
   ];
 
-  const scoredItems = positiveItems.map((item) => {
+  const scoredItems = kpopItems.map((item) => {
     const text = `${item.title || ''} ${item.contentSnippet || ''}`.toLowerCase();
     let score = 0;
 
@@ -704,12 +734,20 @@ async function main(): Promise<void> {
       if (text.includes(keyword)) score += 1;
     }
 
-    // Top groups bonus (+2 points)
+    // Top groups bonus (+5 points for viral potential)
     for (const group of topGroups) {
       if (text.includes(group)) {
-        score += 2;
+        score += 5;
         break; // Only count once
       }
+    }
+
+    // Recency bonus: newer articles get slight boost
+    if (item.pubDate) {
+      const ageHours = (Date.now() - new Date(item.pubDate).getTime()) / (1000 * 60 * 60);
+      if (ageHours < 6) score += 3;  // Very recent
+      else if (ageHours < 12) score += 2;  // Recent
+      else if (ageHours < 24) score += 1;  // Today
     }
 
     return { item, score };
@@ -718,13 +756,13 @@ async function main(): Promise<void> {
   // Sort by score (highest first)
   scoredItems.sort((a, b) => b.score - a.score);
 
-  console.log('Top scored articles:');
+  console.log('Top scored KPOP articles:');
   scoredItems.slice(0, 10).forEach((s, i) => {
     console.log(`  ${i + 1}. [${s.score}pts] ${s.item.title?.slice(0, 50)}...`);
   });
 
-  // Process top 5 high-priority items
-  const itemsToProcess = scoredItems.slice(0, 5).map(s => s.item);
+  // Process top 3 high-priority KPOP items only
+  const itemsToProcess = scoredItems.slice(0, 3).map(s => s.item);
   let processedCount = 0;
 
   for (const item of itemsToProcess) {
