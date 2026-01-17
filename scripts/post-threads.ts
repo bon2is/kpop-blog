@@ -149,28 +149,43 @@ function generateHashtags(article: ArticleMetadata): string {
   return Array.from(hashtags).slice(0, 10).join(' ');
 }
 
-// Create Threads post text
+// Category-specific emojis for visual appeal
+const CATEGORY_EMOJIS: Record<string, { header: string; accent: string }> = {
+  news: { header: '📰', accent: '💫' },
+  music: { header: '🎵', accent: '💜' },
+  drama: { header: '🎬', accent: '💕' },
+  celebrity: { header: '⭐', accent: '✨' },
+  audition: { header: '🎤', accent: '🌟' },
+  fashion: { header: '👗', accent: '💖' },
+  variety: { header: '🎭', accent: '🎉' },
+};
+
+// Create Threads post text - optimized for engagement
 function createPostText(article: ArticleMetadata): string {
   const hashtags = generateHashtags(article);
   const articleUrl = `${SITE_URL}/article/${article.slug}`;
+  const emojis = CATEGORY_EMOJIS[article.category] || CATEGORY_EMOJIS['news'];
 
   // Truncate title if too long (Threads has 500 char limit)
-  const maxTitleLength = 150;
+  const maxTitleLength = 120;
   let title = article.title;
   if (title.length > maxTitleLength) {
     title = title.slice(0, maxTitleLength - 3) + '...';
   }
 
-  // Format: Title + Summary (short) + Link + Hashtags
-  const summary = article.summary.length > 150
-    ? article.summary.slice(0, 147) + '...'
-    : article.summary;
+  // Truncate summary for better readability
+  const maxSummaryLength = 130;
+  let summary = article.summary;
+  if (summary.length > maxSummaryLength) {
+    summary = summary.slice(0, maxSummaryLength - 3) + '...';
+  }
 
-  return `${title}
+  // Engaging format with emojis and clear CTA
+  return `${emojis.header} ${title} ${emojis.header}
 
-${summary}
+${emojis.accent} ${summary}
 
-Read more: ${articleUrl}
+🔗 Full story → ${articleUrl}
 
 ${hashtags}`;
 }
