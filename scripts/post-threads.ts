@@ -282,9 +282,17 @@ async function postToThreads(article: ArticleMetadata): Promise<boolean> {
     imageUrl = `${SITE_URL}${article.thumbnail}`;
   }
 
-  // Step 1: Create media container
-  const containerId = await createMediaContainer(text, imageUrl);
+  // Step 1: Try with image first
+  let containerId = await createMediaContainer(text, imageUrl);
+
+  // Fallback: If image fails, try text-only post
+  if (!containerId && imageUrl) {
+    console.log('  Image post failed, retrying with text only...');
+    containerId = await createMediaContainer(text, undefined);
+  }
+
   if (!containerId) {
+    console.error('  Failed to create post (both image and text-only attempts failed)');
     return false;
   }
 
