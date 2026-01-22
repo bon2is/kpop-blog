@@ -59,7 +59,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head />
+      <head>
+          <meta name="agd-partner-manual-verification" />
+        </head>
       <body className="min-h-screen bg-gray-50 flex flex-col">
         <GoogleAnalytics />
         <AdSenseScript />
