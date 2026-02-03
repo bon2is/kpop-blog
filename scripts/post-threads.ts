@@ -145,47 +145,112 @@ function generateHashtags(article: ArticleMetadata): string {
   // Add KPOPDaily branding
   hashtags.add('#KPOPDaily');
 
-  // Limit to 10 hashtags for readability
-  return Array.from(hashtags).slice(0, 10).join(' ');
+  // Limit to 6 hashtags for better readability
+  return Array.from(hashtags).slice(0, 6).join(' ');
 }
 
-// Category-specific emojis for visual appeal
-const CATEGORY_EMOJIS: Record<string, { header: string; accent: string }> = {
-  news: { header: '📰', accent: '💫' },
-  music: { header: '🎵', accent: '💜' },
-  drama: { header: '🎬', accent: '💕' },
-  celebrity: { header: '⭐', accent: '✨' },
-  audition: { header: '🎤', accent: '🌟' },
-  fashion: { header: '👗', accent: '💖' },
-  variety: { header: '🎭', accent: '🎉' },
+// Category-specific emojis and CTAs for engagement (English for global audience)
+const CATEGORY_CONFIG: Record<string, { emoji: string; ctas: string[] }> = {
+  news: {
+    emoji: '🔥',
+    ctas: [
+      'Thoughts? 👇',
+      'What do you think? 💬',
+      'Share if you\'re a fan! 🔄',
+      'Is this real?! 😱',
+    ],
+  },
+  music: {
+    emoji: '🎵',
+    ctas: [
+      'Are you excited? 🎧',
+      'What\'s your favorite track? 💜',
+      'How do you feel about this comeback? 🔥',
+      'Ready to stream? 📱',
+    ],
+  },
+  drama: {
+    emoji: '🎬',
+    ctas: [
+      'Are you watching this? 📺',
+      'The chemistry looks amazing! 💕',
+      'Predict the next episode! 🤔',
+      'Who\'s watching live? ✋',
+    ],
+  },
+  celebrity: {
+    emoji: '⭐',
+    ctas: [
+      'Follow for more updates! 💫',
+      'Never seen this side before 😍',
+      'Absolutely perfect, agree? 🙌',
+      'Stan material right here 💖',
+    ],
+  },
+  audition: {
+    emoji: '🎤',
+    ctas: [
+      'Future star in the making! 🌟',
+      'Drop your support below! 📝',
+      'Who are you rooting for? 👀',
+      'Next big thing? ⭐',
+    ],
+  },
+  fashion: {
+    emoji: '👗',
+    ctas: [
+      'Rate this look! 💅',
+      'Fashion score out of 10? 🔟',
+      'Would you wear this? 💖',
+      'Airport fashion goals 👑',
+    ],
+  },
+  variety: {
+    emoji: '🎭',
+    ctas: [
+      'This moment is legendary 😂',
+      'Entertainment king/queen! 🤣',
+      'Try not to laugh challenge 😆',
+      'Save this clip! 📸',
+    ],
+  },
 };
+
+// Get random CTA for category
+function getRandomCTA(category: string): string {
+  const config = CATEGORY_CONFIG[category] || CATEGORY_CONFIG['news'];
+  return config.ctas[Math.floor(Math.random() * config.ctas.length)];
+}
 
 // Create Threads post text - optimized for engagement
 function createPostText(article: ArticleMetadata): string {
   const hashtags = generateHashtags(article);
   const articleUrl = `${SITE_URL}/article/${article.slug}`;
-  const emojis = CATEGORY_EMOJIS[article.category] || CATEGORY_EMOJIS['news'];
+  const config = CATEGORY_CONFIG[article.category] || CATEGORY_CONFIG['news'];
+  const cta = getRandomCTA(article.category);
 
   // Truncate title if too long (Threads has 500 char limit)
-  const maxTitleLength = 120;
+  const maxTitleLength = 100;
   let title = article.title;
   if (title.length > maxTitleLength) {
     title = title.slice(0, maxTitleLength - 3) + '...';
   }
 
   // Truncate summary for better readability
-  const maxSummaryLength = 130;
+  const maxSummaryLength = 100;
   let summary = article.summary;
   if (summary.length > maxSummaryLength) {
     summary = summary.slice(0, maxSummaryLength - 3) + '...';
   }
 
-  // Engaging format with emojis and clear CTA
-  return `${emojis.header} ${title} ${emojis.header}
+  // New engaging format with CTA
+  return `${config.emoji} ${title}
 
-${emojis.accent} ${summary}
+${summary}
 
-🔗 Full story → ${articleUrl}
+${cta}
+
+🔗 ${articleUrl}
 
 ${hashtags}`;
 }

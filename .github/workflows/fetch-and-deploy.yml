@@ -1,9 +1,16 @@
 name: Fetch News & Deploy
 
 on:
-  # Run daily at 20:00 KST (11:00 UTC)
+  # Multiple times targeting different regions
   schedule:
+    # 10:00 KST (01:00 UTC) - US Evening (East Coast 8PM)
+    - cron: '0 1 * * *'
+    # 14:00 KST (05:00 UTC) - US Late Night / Europe Morning
+    - cron: '0 5 * * *'
+    # 20:00 KST (11:00 UTC) - SEA Evening / Europe Afternoon
     - cron: '0 11 * * *'
+    # 23:00 KST (14:00 UTC) - Europe Evening / US Morning
+    - cron: '0 14 * * *'
   # Allow manual trigger
   workflow_dispatch:
     inputs:

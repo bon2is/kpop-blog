@@ -1,0 +1,66 @@
+name: Post Backlog to Threads
+
+on:
+  # Run 4 times daily at different times for global reach
+  schedule:
+    # 07:00 KST (22:00 UTC prev day) - US Afternoon
+    - cron: '0 22 * * *'
+    # 12:00 KST (03:00 UTC) - US Night / Europe Morning
+    - cron: '0 3 * * *'
+    # 18:00 KST (09:00 UTC) - Europe Afternoon / US Early Morning
+    - cron: '0 9 * * *'
+    # 22:00 KST (13:00 UTC) - US Morning / SEA Evening
+    - cron: '0 13 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+env:
+  NODE_VERSION: '20'
+
+jobs:
+  post-backlog:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: threads-posting
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Post backlog articles to Threads
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          NEXT_PUBLIC_SITE_URL: https://kpop.andxo.com
+        run: npm run post-backlog
+
+      - name: Commit updated posted list
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/.threads-posted.json
+          git diff --cached --quiet || git commit -m "Update Threads posted list"
+          git push || true
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Threads Backlog Posting" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Backlog posting completed" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Schedule:** 4x daily (07:00, 12:00, 18:00, 22:00 KST)" >> $GITHUB_STEP_SUMMARY
+          echo "**Posts per run:** 2 articles" >> $GITHUB_STEP_SUMMARY

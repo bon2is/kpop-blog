@@ -9,6 +9,7 @@
     "lint": "next lint",
     "fetch-news": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/fetch-news.ts",
     "post-threads": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-threads.ts",
+    "post-backlog": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-backlog.ts",
     "generate": "npm run fetch-news && npm run build",
     "generate-and-post": "npm run fetch-news && npm run post-threads && npm run build"
   },
