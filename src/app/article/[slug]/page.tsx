@@ -2,13 +2,13 @@ import { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import ReactMarkdown from 'react-markdown';
 import { getAllArticles, getArticleBySlug, getRelatedArticles } from '@/lib/articles';
 import { formatDate, estimateReadingTime } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
 import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
 import ArticleCard from '@/components/ArticleCard';
+import MarkdownRenderer from '@/components/MarkdownRenderer';
 import { Clock, Calendar, Sparkles, ArrowRight } from 'lucide-react';
 import ShareButtons from '@/components/ShareButtons';
 import { siteConfig } from '@/lib/config';
@@ -140,20 +140,9 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       {/* Ad before content */}
       <AdBanner className="mb-8" />
 
-      {/* Article Content with markdown rendering */}
-      <div className="article-content prose prose-lg max-w-none text-gray-700 mb-8
-        prose-headings:text-gray-900 prose-headings:font-bold
-        prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4
-        prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3
-        prose-p:mb-4 prose-p:leading-relaxed
-        prose-strong:text-gray-900
-        prose-ul:my-4 prose-ul:list-disc prose-ul:pl-6
-        prose-ol:my-4 prose-ol:list-decimal prose-ol:pl-6
-        prose-li:mb-2
-        prose-blockquote:border-l-4 prose-blockquote:border-pink-500 prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:bg-pink-50 prose-blockquote:py-2 prose-blockquote:my-4
-        prose-hr:my-8 prose-hr:border-gray-200
-        prose-a:text-pink-600 prose-a:underline hover:prose-a:text-pink-800">
-        <ReactMarkdown>{article.content}</ReactMarkdown>
+      {/* Article Content with enhanced markdown rendering */}
+      <div className="article-content max-w-none mb-8">
+        <MarkdownRenderer content={article.content} />
       </div>
 
       {/* In-article ad */}

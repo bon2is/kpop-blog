@@ -5,8 +5,146 @@ import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
 import sharp from 'sharp';
+import * as cheerio from 'cheerio';
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const fetch = require('node-fetch');
+
+// Types for extracted media
+interface ExtractedMedia {
+  youtubeLinks: string[];
+  externalLinks: { url: string; text: string }[];
+}
+
+// Extract YouTube video ID from various URL formats
+function extractYouTubeId(url: string): string | null {
+  const patterns = [
+    /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/,
+    /youtube\.com\/shorts\/([a-zA-Z0-9_-]{11})/,
+  ];
+
+  for (const pattern of patterns) {
+    const match = url.match(pattern);
+    if (match) return match[1];
+  }
+  return null;
+}
+
+// Fetch and parse original article to extract YouTube links and external links
+async function fetchOriginalArticleMedia(articleUrl: string, sourceDomain: string): Promise<ExtractedMedia> {
+  const result: ExtractedMedia = { youtubeLinks: [], externalLinks: [] };
+
+  try {
+    console.log(`  Fetching original article for media extraction...`);
+    const response = await fetch(articleUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)',
+      },
+      timeout: 10000,
+    });
+
+    if (!response.ok) {
+      console.log(`  Could not fetch original article: ${response.status}`);
+      return result;
+    }
+
+    const html = await response.text();
+    const $ = cheerio.load(html);
+
+    // Find all links in the article content
+    // Common article content selectors
+    const contentSelectors = [
+      'article', '.article-content', '.entry-content', '.post-content',
+      '.news-content', '.story-body', 'main', '.content'
+    ];
+
+    // Find the best content container
+    let contentSelector = 'body';
+    for (const selector of contentSelectors) {
+      if ($(selector).length > 0) {
+        contentSelector = selector;
+        break;
+      }
+    }
+
+    // Extract all links
+    const seenYouTube = new Set<string>();
+    const seenExternal = new Set<string>();
+    const sourceDomainLower = sourceDomain.toLowerCase();
+
+    $(contentSelector).first().find('a[href]').each((_, el) => {
+      const href = $(el).attr('href') || '';
+      const text = $(el).text().trim();
+
+      if (!href || href.startsWith('#') || href.startsWith('javascript:')) return;
+
+      // Check for YouTube links
+      const youtubeId = extractYouTubeId(href);
+      if (youtubeId && !seenYouTube.has(youtubeId)) {
+        seenYouTube.add(youtubeId);
+        result.youtubeLinks.push(`https://www.youtube.com/watch?v=${youtubeId}`);
+        console.log(`    Found YouTube: ${youtubeId}`);
+        return;
+      }
+
+      // Check for external links (not source site, not social media share buttons)
+      try {
+        const urlObj = new URL(href, articleUrl);
+        const domain = urlObj.hostname.toLowerCase();
+
+        // Skip source site links
+        if (domain.includes(sourceDomainLower) || sourceDomainLower.includes(domain)) return;
+
+        // Skip common social/sharing links
+        const skipDomains = [
+          'facebook.com', 'twitter.com', 'x.com', 'instagram.com', 'pinterest.com',
+          'linkedin.com', 'tumblr.com', 'reddit.com', 'whatsapp.com', 'telegram.org',
+          'line.me', 'kakaotalk.com', 'share.', 'addthis.com', 'sharethis.com'
+        ];
+        if (skipDomains.some(d => domain.includes(d))) return;
+
+        // Skip internal anchors and media files
+        if (urlObj.pathname.match(/\.(jpg|jpeg|png|gif|webp|svg|pdf|mp3|mp4)$/i)) return;
+
+        // Add unique external links with meaningful text
+        const fullUrl = urlObj.href;
+        if (!seenExternal.has(fullUrl) && text.length > 2 && text.length < 200) {
+          seenExternal.add(fullUrl);
+          result.externalLinks.push({ url: fullUrl, text });
+          console.log(`    Found external link: ${text.slice(0, 30)}...`);
+        }
+      } catch {
+        // Invalid URL, skip
+      }
+    });
+
+    // Also check for embedded YouTube iframes
+    $(contentSelector).first().find('iframe[src]').each((_, el) => {
+      const src = $(el).attr('src') || '';
+      const youtubeId = extractYouTubeId(src);
+      if (youtubeId && !seenYouTube.has(youtubeId)) {
+        seenYouTube.add(youtubeId);
+        result.youtubeLinks.push(`https://www.youtube.com/watch?v=${youtubeId}`);
+        console.log(`    Found embedded YouTube: ${youtubeId}`);
+      }
+    });
+
+    console.log(`  Extracted: ${result.youtubeLinks.length} YouTube links, ${result.externalLinks.length} external links`);
+  } catch (error) {
+    console.error(`  Error fetching original article:`, error);
+  }
+
+  return result;
+}
+
+// Get source domain from URL
+function getSourceDomain(url: string): string {
+  try {
+    const urlObj = new URL(url);
+    return urlObj.hostname.replace('www.', '');
+  } catch {
+    return '';
+  }
+}
 
 const IMAGES_DIR = path.join(process.cwd(), 'public/images/posts');
 
@@ -466,10 +604,12 @@ function safeJSONParse(text: string): Record<string, string> | null {
 }
 
 // Safe Content Generation - Summary + Commentary model (Fair Use compliant)
+// Generates well-structured multi-paragraph content for readability
 async function generateSafeContent(
   title: string,
   content: string,
-  source: string
+  source: string,
+  extractedMedia?: ExtractedMedia
 ): Promise<{
   title: string;
   excerpt: string;
@@ -478,31 +618,34 @@ async function generateSafeContent(
   content: string;
 } | null> {
   try {
-    const prompt = `You are a K-Pop news analyst. Create ORIGINAL commentary about this news story.
+    const prompt = `You are a K-Pop news analyst writing for a blog. Create ORIGINAL content about this news story.
 
-IMPORTANT: Do NOT rewrite or copy the original article. Instead:
-1. Create a brief factual summary (2-3 sentences only)
-2. Write your own ORIGINAL analysis/commentary (150-250 words) about why this news matters, its context in the K-Pop industry, or interesting perspectives
+STRUCTURE YOUR RESPONSE WITH CLEAR PARAGRAPHS:
+1. summary: A factual summary of the news (2-3 sentences)
+2. commentary: Your ORIGINAL analysis split into 3-4 SHORT paragraphs (use "\\n\\n" to separate paragraphs). Each paragraph should be 2-3 sentences. Cover:
+   - Why this news matters
+   - Context in the K-Pop industry
+   - What this means for fans or the artist's career
 
 Original Title: ${title}
 Original Content Snippet: ${content.slice(0, 500)}
 Source: ${source}
 
 Respond in JSON format with these exact keys: title, excerpt, summary, commentary
-IMPORTANT: Keep all values on single lines without line breaks.`;
+CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This makes the content readable.`;
 
     const response = await openai.chat.completions.create({
       model: 'gpt-4o-mini',
       messages: [
         {
           role: 'system',
-          content: 'You are a K-Pop industry analyst providing original commentary. Never copy content - only summarize facts briefly and provide your own analysis. Respond with valid JSON only. CRITICAL: Do not use line breaks within JSON string values - keep each value as a single line of text.',
+          content: 'You are a K-Pop industry analyst. Write engaging, well-structured content with multiple short paragraphs. Use "\\n\\n" in the commentary field to separate paragraphs. Respond with valid JSON only.',
         },
         { role: 'user', content: prompt },
       ],
       response_format: { type: 'json_object' },
       temperature: 0.8,
-      max_tokens: 1000,
+      max_tokens: 1200,
     });
 
     const responseText = response.choices[0]?.message?.content?.trim();
@@ -515,20 +658,53 @@ IMPORTANT: Keep all values on single lines without line breaks.`;
     const parsed = safeJSONParse(jsonMatch[0]);
     if (!parsed) return null;
 
-    // Construct the content with clear sections
-    const structuredContent = `${parsed.summary}
+    // Process commentary to ensure proper paragraph breaks
+    let commentary = parsed.commentary || '';
+    // Convert escaped newlines to actual newlines
+    commentary = commentary.replace(/\\n\\n/g, '\n\n').replace(/\\n/g, '\n');
 
----
+    // Build content sections
+    let contentParts: string[] = [];
 
-## Our Take
+    // Add summary
+    contentParts.push(parsed.summary);
 
-${parsed.commentary}`;
+    // Add YouTube embeds if available
+    if (extractedMedia?.youtubeLinks && extractedMedia.youtubeLinks.length > 0) {
+      contentParts.push('');
+      contentParts.push('---');
+      contentParts.push('');
+      for (const ytLink of extractedMedia.youtubeLinks) {
+        contentParts.push(ytLink);
+        contentParts.push('');
+      }
+    }
+
+    contentParts.push('---');
+    contentParts.push('');
+    contentParts.push('## Our Take');
+    contentParts.push('');
+    contentParts.push(commentary);
+
+    // Add external links if available
+    if (extractedMedia?.externalLinks && extractedMedia.externalLinks.length > 0) {
+      contentParts.push('');
+      contentParts.push('---');
+      contentParts.push('');
+      contentParts.push('### Related Links');
+      contentParts.push('');
+      for (const link of extractedMedia.externalLinks.slice(0, 5)) {
+        contentParts.push(`- [${link.text}](${link.url})`);
+      }
+    }
+
+    const structuredContent = contentParts.join('\n');
 
     return {
       title: parsed.title,
       excerpt: parsed.excerpt,
       summary: parsed.summary,
-      commentary: parsed.commentary,
+      commentary: commentary,
       content: structuredContent,
     };
   } catch (error) {
@@ -772,12 +948,17 @@ async function main(): Promise<void> {
 
     try {
       const originalContent = item.contentSnippet || item.content || item.title;
+      const sourceDomain = getSourceDomain(item.link);
 
-      // Generate safe content (summary + commentary)
+      // Fetch original article to extract YouTube links and external links
+      const extractedMedia = await fetchOriginalArticleMedia(item.link, sourceDomain);
+
+      // Generate safe content (summary + commentary) with extracted media
       const safeContent = await generateSafeContent(
         item.title,
         originalContent,
-        item.creator || 'Unknown'
+        item.creator || 'Unknown',
+        extractedMedia
       );
 
       if (!safeContent) {
