@@ -376,7 +376,7 @@ const RSS_SOURCES = [
   },
 ];
 
-const CATEGORIES = ['news', 'music', 'drama', 'celebrity', 'audition', 'fashion', 'variety'];
+const CATEGORIES = ['news', 'music', 'celebrity', 'audition', 'fashion', 'variety'];
 
 const CONTENT_DIR = path.join(process.cwd(), 'content/posts');
 const PROCESSED_FILE = path.join(process.cwd(), 'content/.processed.json');
@@ -517,9 +517,6 @@ function detectCategory(title: string, content: string): string {
 
   if (text.includes('audition') || text.includes('trainee') || text.includes('debut')) {
     return 'audition';
-  }
-  if (text.includes('drama') || text.includes('kdrama') || text.includes('actor') || text.includes('actress')) {
-    return 'drama';
   }
   if (text.includes('album') || text.includes('comeback') || text.includes('music video') || text.includes('mv') || text.includes('chart')) {
     return 'music';
@@ -810,7 +807,7 @@ async function main(): Promise<void> {
   });
   console.log(`Unique items to process: ${uniqueItems.length}`);
 
-  // Filter out negative news (only positive/neutral content)
+  // Filter out negative news and excluded categories
   const negativeKeywords = [
     'death', 'died', 'dies', 'dead', 'funeral', 'suicide', 'accident', 'crash',
     'arrested', 'arrest', 'jail', 'prison', 'charged', 'lawsuit', 'sue', 'sued',
@@ -821,7 +818,10 @@ async function main(): Promise<void> {
     'cancel', 'cancelled', 'canceled', 'boycott',
     'fail', 'flop', 'worst', 'disaster', 'tragic', 'tragedy',
     'hate', 'racist', 'racism', 'sexist', 'sexism',
-    'military', 'enlist', 'enlisted', 'army'  // Optional: exclude military news
+    'military', 'enlist', 'enlisted', 'army',  // Optional: exclude military news
+    // Exclude drama-related content
+    'drama', 'kdrama', 'k-drama', 'actor', 'actress', 'acting role', 'starring in',
+    'cast in', 'new role', 'lead role', 'cameo'
   ];
 
   const positiveItems = uniqueItems.filter((item) => {
