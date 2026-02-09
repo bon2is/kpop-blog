@@ -11,6 +11,7 @@ import ArticleCard from '@/components/ArticleCard';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import { Clock, Calendar, Sparkles, ArrowRight } from 'lucide-react';
 import ShareButtons from '@/components/ShareButtons';
+import { ViewCounter, ViewRecorder, LikeDislike } from '@/components/ArticleEngagement';
 import { siteConfig } from '@/lib/config';
 
 interface ArticlePageProps {
@@ -112,8 +113,10 @@ export default function ArticlePage({ params }: ArticlePageProps) {
             <Clock className="w-4 h-4 mr-1" />
             {estimateReadingTime(article.content)} min read
           </span>
+          <ViewCounter slug={article.slug} />
           <span>By {article.author}</span>
         </div>
+        <ViewRecorder slug={article.slug} />
       </header>
 
       {/* Featured Image */}
@@ -190,12 +193,14 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       )}
 
-      {/* Share Buttons */}
-      <ShareButtons
-        title={article.title}
-        url={`${siteConfig.url}/article/${article.slug}`}
-        className="mb-8"
-      />
+      {/* Like/Dislike & Share Buttons */}
+      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8 p-4 bg-gray-50 rounded-xl">
+        <LikeDislike slug={article.slug} />
+        <ShareButtons
+          title={article.title}
+          url={`${siteConfig.url}/article/${article.slug}`}
+        />
+      </div>
 
           {/* Ad after content */}
           <AdBanner className="mb-12" />

@@ -534,34 +534,99 @@ function detectCategory(title: string, content: string): string {
   return 'news';
 }
 
-// Extract tags from content
+// Extract tags from content using word boundary matching
 function extractTags(title: string, content: string): string[] {
   const text = `${title} ${content}`;
   const tags: Set<string> = new Set();
 
-  // Common K-Pop group names (add more as needed)
-  const groups = [
-    'BTS', 'BLACKPINK', 'TWICE', 'EXO', 'NCT', 'Red Velvet', 'SEVENTEEN', 'Stray Kids',
-    'ITZY', 'aespa', 'NewJeans', 'LE SSERAFIM', 'IVE', 'NMIXX', 'TXT', 'ENHYPEN',
-    'GOT7', 'MONSTA X', 'ATEEZ', 'THE BOYZ', 'TREASURE', '(G)I-DLE', 'Kep1er',
-    'MAMAMOO', 'BIGBANG', '2NE1', 'Girls Generation', 'SNSD', 'Super Junior', 'SHINee'
+  // Common K-Pop group/artist names with word boundary regex
+  const groups: Array<{ name: string; pattern: RegExp }> = [
+    { name: 'BTS', pattern: /\bBTS\b/ },
+    { name: 'BLACKPINK', pattern: /\bBLACKPINK\b/i },
+    { name: 'TWICE', pattern: /\bTWICE\b/ },
+    { name: 'EXO', pattern: /\bEXO\b/ },
+    { name: 'NCT', pattern: /\bNCT\b/ },
+    { name: 'Red Velvet', pattern: /\bRed Velvet\b/i },
+    { name: 'SEVENTEEN', pattern: /\bSEVENTEEN\b/i },
+    { name: 'Stray Kids', pattern: /\bStray Kids\b/i },
+    { name: 'ITZY', pattern: /\bITZY\b/i },
+    { name: 'aespa', pattern: /\baespa\b/i },
+    { name: 'NewJeans', pattern: /\bNewJeans\b/i },
+    { name: 'LE SSERAFIM', pattern: /\bLE SSERAFIM\b/i },
+    { name: 'IVE', pattern: /\bIVE\b(?!\w)/ },  // strict: "IVE" not followed by word chars
+    { name: 'NMIXX', pattern: /\bNMIXX\b/i },
+    { name: 'TXT', pattern: /\bTXT\b/ },
+    { name: 'ENHYPEN', pattern: /\bENHYPEN\b/i },
+    { name: 'GOT7', pattern: /\bGOT7\b/i },
+    { name: 'MONSTA X', pattern: /\bMONSTA X\b/i },
+    { name: 'ATEEZ', pattern: /\bATEEZ\b/i },
+    { name: 'THE BOYZ', pattern: /\bTHE BOYZ\b/i },
+    { name: 'TREASURE', pattern: /\bTREASURE\b/ },
+    { name: '(G)I-DLE', pattern: /\(G\)I-DLE/i },
+    { name: 'Kep1er', pattern: /\bKep1er\b/i },
+    { name: 'MAMAMOO', pattern: /\bMAMAMOO\b/i },
+    { name: 'BIGBANG', pattern: /\bBIGBANG\b/i },
+    { name: '2NE1', pattern: /\b2NE1\b/i },
+    { name: 'Girls Generation', pattern: /\bGirls.? Generation\b/i },
+    { name: 'SNSD', pattern: /\bSNSD\b/ },
+    { name: 'Super Junior', pattern: /\bSuper Junior\b/i },
+    { name: 'SHINee', pattern: /\bSHINee\b/i },
+    { name: 'RIIZE', pattern: /\bRIIZE\b/i },
+    { name: 'BABYMONSTER', pattern: /\bBABYMONSTER\b/i },
+    { name: 'ILLIT', pattern: /\bILLIT\b/i },
+    { name: 'TWS', pattern: /\bTWS\b/ },
+    { name: 'ZEROBASEONE', pattern: /\bZEROBASEONE\b/i },
+    { name: 'BOYNEXTDOOR', pattern: /\bBOYNEXTDOOR\b/i },
+    { name: 'Taemin', pattern: /\bTaemin\b/i },
+    { name: 'IU', pattern: /\bIU\b(?!\w)/ },
+    { name: 'BIBI', pattern: /\bBIBI\b/ },
   ];
 
-  // Check for group mentions
-  groups.forEach((group) => {
-    if (text.includes(group) || text.toLowerCase().includes(group.toLowerCase())) {
-      tags.add(group);
+  // Check for group mentions using regex word boundaries
+  groups.forEach(({ name, pattern }) => {
+    if (pattern.test(text)) {
+      tags.add(name);
     }
   });
 
-  // Add category-based tags
-  if (text.toLowerCase().includes('comeback')) tags.add('Comeback');
-  if (text.toLowerCase().includes('debut')) tags.add('Debut');
-  if (text.toLowerCase().includes('concert')) tags.add('Concert');
-  if (text.toLowerCase().includes('award')) tags.add('Awards');
-  if (text.toLowerCase().includes('chart')) tags.add('Charts');
+  // Add event-based tags using word boundaries
+  if (/\bcomeback\b/i.test(text)) tags.add('Comeback');
+  if (/\bdebut\b/i.test(text)) tags.add('Debut');
+  if (/\bconcert\b/i.test(text)) tags.add('Concert');
+  if (/\bawards?\b/i.test(text)) tags.add('Awards');
+  if (/\bcharts?\b/i.test(text)) tags.add('Charts');
+  if (/\balbum\b/i.test(text)) tags.add('Album');
+  if (/\bmusic video\b|\bMV\b/i.test(text)) tags.add('MV');
+  if (/\btour\b/i.test(text)) tags.add('Tour');
+  if (/\bK-Drama\b|\bkdrama\b|\bdrama\b/i.test(text)) tags.add('K-Drama');
 
   return Array.from(tags).slice(0, 5);
+}
+
+// Merge extracted tags with AI-generated tags, deduplicated, max 5
+function mergeTags(extractedTags: string[], aiTags: string[]): string[] {
+  const seen = new Set<string>();
+  const merged: string[] = [];
+
+  // Extracted tags first (higher precision from regex matching)
+  for (const tag of extractedTags) {
+    const key = tag.toLowerCase();
+    if (!seen.has(key)) {
+      seen.add(key);
+      merged.push(tag);
+    }
+  }
+
+  // Then AI tags
+  for (const tag of aiTags) {
+    const key = tag.toLowerCase();
+    if (!seen.has(key)) {
+      seen.add(key);
+      merged.push(tag);
+    }
+  }
+
+  return merged.slice(0, 5);
 }
 
 // Helper function to safely parse JSON with newlines in string values
@@ -613,6 +678,7 @@ async function generateSafeContent(
   summary: string;
   commentary: string;
   content: string;
+  aiTags?: string[];
 } | null> {
   try {
     const prompt = `You are a K-Pop news analyst writing for a blog. Create ORIGINAL content about this news story.
@@ -623,12 +689,16 @@ STRUCTURE YOUR RESPONSE WITH CLEAR PARAGRAPHS:
    - Why this news matters
    - Context in the K-Pop industry
    - What this means for fans or the artist's career
+3. tags: An array of 3-5 relevant keyword tags for this article. Include:
+   - Artist/group names mentioned (e.g., "BTS", "BLACKPINK", "IVE")
+   - Topic keywords (e.g., "Comeback", "Concert", "Album", "Charts", "Awards", "Debut", "Tour", "K-Drama", "Fashion", "Variety")
+   - Only include tags that are genuinely relevant to the article content
 
 Original Title: ${title}
 Original Content Snippet: ${content.slice(0, 500)}
 Source: ${source}
 
-Respond in JSON format with these exact keys: title, excerpt, summary, commentary
+Respond in JSON format with these exact keys: title, excerpt, summary, commentary, tags
 CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This makes the content readable.`;
 
     const response = await openai.chat.completions.create({
@@ -697,12 +767,18 @@ CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This
 
     const structuredContent = contentParts.join('\n');
 
+    // Extract AI-generated tags
+    const aiTags: string[] = Array.isArray(parsed.tags)
+      ? parsed.tags.map((t: string) => String(t).trim()).filter(Boolean)
+      : [];
+
     return {
       title: parsed.title,
       excerpt: parsed.excerpt,
       summary: parsed.summary,
       commentary: commentary,
       content: structuredContent,
+      aiTags,
     };
   } catch (error) {
     console.error('Error generating safe content:', error);
@@ -984,7 +1060,10 @@ async function main(): Promise<void> {
         commentary: safeContent.commentary,
         originalTitle: item.title,
         category,
-        tags: extractTags(safeContent.title, safeContent.content),
+        tags: mergeTags(
+          extractTags(safeContent.title, safeContent.content),
+          safeContent.aiTags || []
+        ),
         publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
         source: item.creator || 'Unknown',
         sourceUrl: item.link,

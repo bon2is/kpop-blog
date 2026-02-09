@@ -6,6 +6,7 @@ import { Article } from '@/types';
 import { formatRelativeDate, estimateReadingTime } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
 import { Clock, ExternalLink, Sparkles } from 'lucide-react';
+import { ViewCounter } from './ArticleEngagement';
 
 interface ArticleCardProps {
   article: Article;
@@ -68,6 +69,7 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
                 <Clock className="w-4 h-4 mr-1" />
                 {estimateReadingTime(article.content)} min read
               </span>
+              <ViewCounter slug={article.slug} compact />
             </div>
           </div>
         </Link>
@@ -128,10 +130,13 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
           <p className="text-sm text-gray-600 line-clamp-2 mb-3">{article.excerpt}</p>
           <div className="flex items-center justify-between text-xs text-gray-500">
             <span>{formatRelativeDate(article.publishedAt)}</span>
-            <span className="flex items-center">
-              <Clock className="w-3 h-3 mr-1" />
-              {estimateReadingTime(article.content)} min
-            </span>
+            <div className="flex items-center gap-3">
+              <ViewCounter slug={article.slug} compact />
+              <span className="flex items-center">
+                <Clock className="w-3 h-3 mr-1" />
+                {estimateReadingTime(article.content)} min
+              </span>
+            </div>
           </div>
         </div>
       </Link>
