@@ -93,6 +93,33 @@ jobs:
         run: npm run post-threads
         continue-on-error: true
 
+      - name: Post to Twitter
+        if: steps.git-check.outputs.changes == 'true'
+        env:
+          TWITTER_APP_KEY: ${{ secrets.TWITTER_APP_KEY }}
+          TWITTER_APP_SECRET: ${{ secrets.TWITTER_APP_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          NEXT_PUBLIC_SITE_URL: https://kpop.andxo.com
+        run: npm run post-twitter
+        continue-on-error: true
+
+      - name: Post to Bluesky
+        if: steps.git-check.outputs.changes == 'true'
+        env:
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+          NEXT_PUBLIC_SITE_URL: https://kpop.andxo.com
+        run: npm run post-bluesky
+        continue-on-error: true
+
+      - name: Commit social tracking files
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git add content/.twitter-posted.json content/.bluesky-posted.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Update social media posted lists"
+          git push || true
+
       - name: Build site
         run: npm run build
 
@@ -104,14 +131,14 @@ jobs:
           echo "## Fetch News Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           if [ "$HAS_CHANGES" == "true" ]; then
-            echo "✅ New articles fetched and committed" >> $GITHUB_STEP_SUMMARY
-            echo "✅ Posted to Threads (if configured)" >> $GITHUB_STEP_SUMMARY
+            echo "New articles fetched and committed" >> $GITHUB_STEP_SUMMARY
+            echo "Posted to social media (if configured)" >> $GITHUB_STEP_SUMMARY
           else
-            echo "ℹ️ No new articles to fetch" >> $GITHUB_STEP_SUMMARY
+            echo "No new articles to fetch" >> $GITHUB_STEP_SUMMARY
           fi
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Sources:** Soompi, Koreaboo, Korea Herald" >> $GITHUB_STEP_SUMMARY
-          echo "**Social:** Threads auto-posting enabled" >> $GITHUB_STEP_SUMMARY
+          echo "**Social:** Threads, Twitter/X, Bluesky auto-posting" >> $GITHUB_STEP_SUMMARY
 
   # Deploy to GitHub Pages (optional - uncomment if using)
   # deploy:

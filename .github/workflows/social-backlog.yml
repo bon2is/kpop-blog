@@ -1,4 +1,4 @@
-name: Post Backlog to Threads
+name: Post Backlog to Social Media
 
 on:
   # Run 4 times daily at different times for global reach
@@ -21,7 +21,7 @@ jobs:
   post-backlog:
     runs-on: ubuntu-latest
     concurrency:
-      group: threads-posting
+      group: social-posting
       cancel-in-progress: false
 
     steps:
@@ -40,27 +40,34 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Post backlog articles to Threads
+      - name: Post backlog articles to all platforms
         env:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          TWITTER_APP_KEY: ${{ secrets.TWITTER_APP_KEY }}
+          TWITTER_APP_SECRET: ${{ secrets.TWITTER_APP_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
           NEXT_PUBLIC_SITE_URL: https://kpop.andxo.com
         run: npm run post-backlog
 
-      - name: Commit updated posted list
+      - name: Commit updated posted lists
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add content/.threads-posted.json
-          git diff --cached --quiet || git commit -m "Update Threads posted list"
+          git add content/.threads-posted.json content/.twitter-posted.json content/.bluesky-posted.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Update social media posted lists"
           git push || true
 
       - name: Summary
         if: always()
         run: |
-          echo "## Threads Backlog Posting" >> $GITHUB_STEP_SUMMARY
+          echo "## Social Media Backlog Posting" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "✅ Backlog posting completed" >> $GITHUB_STEP_SUMMARY
+          echo "Backlog posting completed" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Platforms:** Threads, Twitter/X, Bluesky" >> $GITHUB_STEP_SUMMARY
           echo "**Schedule:** 4x daily (07:00, 12:00, 18:00, 22:00 KST)" >> $GITHUB_STEP_SUMMARY
-          echo "**Posts per run:** 2 articles" >> $GITHUB_STEP_SUMMARY
+          echo "**Posts per run:** 2 articles per platform" >> $GITHUB_STEP_SUMMARY
