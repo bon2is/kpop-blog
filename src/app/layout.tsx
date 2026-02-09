@@ -61,6 +61,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
           <meta name="agd-partner-manual-verification" />
+          <link rel="alternate" type="application/rss+xml" title="KPOP Daily RSS" href="/feed.xml" />
         </head>
       <body className="min-h-screen bg-gray-50 flex flex-col">
         <GoogleAnalytics />

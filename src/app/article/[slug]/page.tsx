@@ -63,10 +63,58 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   const relatedArticles = getRelatedArticles(article, 4);
   const categoryColor = getCategoryColor(article.category);
 
-  // Content is now rendered as markdown
+  // JSON-LD structured data for Google rich snippets & News
+  // Safe: all values come from server-side frontmatter, not user input
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    headline: article.title,
+    description: article.excerpt,
+    image: article.thumbnail
+      ? [`${siteConfig.url}${article.thumbnail}`]
+      : [],
+    datePublished: article.publishedAt,
+    dateModified: article.updatedAt,
+    author: { '@type': 'Organization', name: article.author, url: siteConfig.url },
+    publisher: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${siteConfig.url}/article/${article.slug}`,
+    },
+    keywords: article.tags.join(', '),
+    articleSection: article.category,
+  };
+
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: article.category.charAt(0).toUpperCase() + article.category.slice(1),
+        item: `${siteConfig.url}/category/${article.category}`,
+      },
+      { '@type': 'ListItem', position: 3, name: article.title },
+    ],
+  };
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="flex gap-8">
         {/* Main Article Content */}
         <article className="flex-1 min-w-0 max-w-4xl">
@@ -231,5 +279,6 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </section>
       )}
     </div>
+    </>
   );
 }

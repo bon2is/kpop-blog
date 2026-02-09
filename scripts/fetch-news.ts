@@ -1044,7 +1044,7 @@ async function main(): Promise<void> {
 
       // Detect category
       const category = detectCategory(safeContent.title, safeContent.content);
-      const slug = `${generateSlug(safeContent.title)}-${generateId(item.link)}`;
+      const slug = generateSlug(safeContent.title);
 
       // Generate AI image (copyright-free, context-aware) and save locally
       const thumbnail = await generateAIImage(openai, category, safeContent.title, safeContent.summary, slug);

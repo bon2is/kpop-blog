@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "generate-feeds": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/generate-feeds.ts",
+    "build": "npm run generate-feeds && next build",
     "start": "next start",
     "lint": "next lint",
     "fetch-news": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/fetch-news.ts",
