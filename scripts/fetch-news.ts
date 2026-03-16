@@ -1047,7 +1047,7 @@ async function main(): Promise<void> {
   });
 
   // Process top 2 high-priority KPOP items only
-  const itemsToProcess = scoredItems.slice(0, 2).map(s => s.item);
+  const itemsToProcess = scoredItems.slice(0, 3).map(s => s.item);
   let processedCount = 0;
 
   for (const item of itemsToProcess) {
