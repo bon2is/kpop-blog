@@ -59,7 +59,9 @@ jobs:
           git config --local user.name "GitHub Action"
           git add content/.threads-posted.json content/.twitter-posted.json content/.bluesky-posted.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Update social media posted lists"
-          git push || true
+          # Pull latest before pushing to avoid non-fast-forward rejection
+          git pull --rebase origin main || true
+          git push
 
       - name: Summary
         if: always()

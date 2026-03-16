@@ -421,12 +421,13 @@ async function main() {
       const slug = file.replace('.md', '');
       console.log(`  Posting: ${data.title.slice(0, 50)}...`);
       const success = await postToThreads(data, slug);
+      // Always mark as attempted (success or failure) to avoid infinite retry
+      threadsSlugs.add(slug);
       if (success) {
-        threadsSlugs.add(slug);
         threadsPosted++;
         console.log('    \u2705 Threads');
       } else {
-        console.log('    \u274C Threads');
+        console.log('    \u274C Threads (marked as attempted to skip on next run)');
       }
       await new Promise(resolve => setTimeout(resolve, 5000));
     }
@@ -446,12 +447,13 @@ async function main() {
       const slug = file.replace('.md', '');
       console.log(`  Posting: ${data.title.slice(0, 50)}...`);
       const success = await postToTwitter(twitterClient, data, slug);
+      // Always mark as attempted to avoid infinite retry
+      twitterSlugs.add(slug);
       if (success) {
-        twitterSlugs.add(slug);
         twitterPosted++;
         console.log('    \u2705 Twitter');
       } else {
-        console.log('    \u274C Twitter');
+        console.log('    \u274C Twitter (marked as attempted to skip on next run)');
       }
       await new Promise(resolve => setTimeout(resolve, 5000));
     }
@@ -471,12 +473,13 @@ async function main() {
       const slug = file.replace('.md', '');
       console.log(`  Posting: ${data.title.slice(0, 50)}...`);
       const success = await postToBluesky(blueskyAgent, data, slug);
+      // Always mark as attempted to avoid infinite retry
+      blueskySlugs.add(slug);
       if (success) {
-        blueskySlugs.add(slug);
         blueskyPosted++;
         console.log('    \u2705 Bluesky');
       } else {
-        console.log('    \u274C Bluesky');
+        console.log('    \u274C Bluesky (marked as attempted to skip on next run)');
       }
       await new Promise(resolve => setTimeout(resolve, 3000));
     }

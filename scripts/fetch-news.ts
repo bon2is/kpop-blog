@@ -148,16 +148,15 @@ function getSourceDomain(url: string): string {
 
 const IMAGES_DIR = path.join(process.cwd(), 'public/images/posts');
 
-// Generate context-aware image prompt using GPT (Studio Ghibli style)
+// Generate context-aware image prompt using Gemini (Studio Ghibli style)
 async function generateImagePrompt(
-  openai: OpenAI,
   title: string,
   summary: string,
   category: string
 ): Promise<string> {
   try {
     const response = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'llama-3.3-70b-versatile',
       messages: [
         {
           role: 'system',
@@ -264,49 +263,71 @@ async function downloadAndSaveImage(
   }
 }
 
-// Generate AI image using DALL-E with context-aware prompt
+// Generate AI image using Cloudflare Workers AI (flux-1-schnell)
 async function generateAIImage(
-  openai: OpenAI,
   category: string,
   title: string,
   summary: string,
   slug: string
 ): Promise<string | undefined> {
+  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+  const apiToken = process.env.CLOUDFLARE_API_TOKEN;
+
+  if (!accountId || !apiToken) {
+    console.log('  Cloudflare credentials not configured, skipping image generation');
+    return undefined;
+  }
+
   try {
-    // Generate context-specific prompt using GPT
     console.log(`  Generating context-aware image prompt...`);
-    const imagePrompt = await generateImagePrompt(openai, title, summary, category);
-
-    // Add quality and style modifiers
-    const finalPrompt = `${imagePrompt}. High quality photograph or digital art, 16:9 aspect ratio, professional lighting, suitable for news article thumbnail.`;
-
+    const imagePrompt = await generateImagePrompt(title, summary, category);
     console.log(`  Image prompt: ${imagePrompt.slice(0, 80)}...`);
-    console.log(`  Generating DALL-E image for category: ${category}`);
+    console.log(`  Generating image with Cloudflare Workers AI (flux-1-schnell)...`);
 
-    const response = await openai.images.generate({
-      model: 'dall-e-3',
-      prompt: finalPrompt,
-      n: 1,
-      size: '1024x1024',
-      quality: 'standard',
-    });
-
-    const imageUrl = response.data[0]?.url;
-    if (imageUrl) {
-      console.log('  AI image generated successfully');
-
-      // Download and save locally
-      const localPath = await downloadAndSaveImage(imageUrl, slug);
-      if (localPath) {
-        return localPath;
+    const response = await fetch(
+      `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/@cf/black-forest-labs/flux-1-schnell`,
+      {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiToken}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ prompt: imagePrompt, num_steps: 4 }),
       }
+    );
 
-      // Fallback to temporary URL if download fails
-      console.log('  Warning: Using temporary URL (will expire in ~1 hour)');
-      return imageUrl;
+    if (!response.ok) {
+      console.error(`  Cloudflare AI error: ${response.status} ${response.statusText}`);
+      return undefined;
     }
 
-    return undefined;
+    const result = await response.json() as { success: boolean; result?: { image: string } };
+
+    if (!result.success || !result.result?.image) {
+      console.error('  Cloudflare AI returned no image');
+      return undefined;
+    }
+
+    // result.result.image is base64-encoded PNG
+    const imageBuffer = Buffer.from(result.result.image, 'base64');
+
+    const imagesDir = path.join(process.cwd(), 'public/images/posts');
+    if (!fs.existsSync(imagesDir)) {
+      fs.mkdirSync(imagesDir, { recursive: true });
+    }
+
+    const filename = `${slug}.webp`;
+    const outputPath = path.join(imagesDir, filename);
+
+    await sharp(imageBuffer)
+      .resize(1200, 630, { fit: 'cover', position: 'center' })
+      .webp({ quality: 85 })
+      .toFile(outputPath);
+
+    const publicPath = `/images/posts/${filename}`;
+    console.log(`  Image saved: ${publicPath}`);
+    return publicPath;
+
   } catch (error) {
     console.error('  Error generating AI image:', error);
     return undefined;
@@ -381,9 +402,10 @@ const CATEGORIES = ['news', 'music', 'celebrity', 'audition', 'fashion', 'variet
 const CONTENT_DIR = path.join(process.cwd(), 'content/posts');
 const PROCESSED_FILE = path.join(process.cwd(), 'content/.processed.json');
 
-// Initialize OpenAI
+// Initialize Groq via OpenAI-compatible endpoint
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
+  apiKey: process.env.GROQ_API_KEY || '',
+  baseURL: 'https://api.groq.com/openai/v1',
 });
 
 // Utility functions
@@ -701,19 +723,32 @@ Source: ${source}
 Respond in JSON format with these exact keys: title, excerpt, summary, commentary, tags
 CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This makes the content readable.`;
 
-    const response = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
-      messages: [
-        {
-          role: 'system',
-          content: 'You are a K-Pop industry analyst. Write engaging, well-structured content with multiple short paragraphs. Use "\\n\\n" in the commentary field to separate paragraphs. Respond with valid JSON only.',
-        },
-        { role: 'user', content: prompt },
-      ],
-      response_format: { type: 'json_object' },
-      temperature: 0.8,
-      max_tokens: 1200,
-    });
+    let response;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try {
+        response = await openai.chat.completions.create({
+          model: 'llama-3.3-70b-versatile',
+          messages: [
+            {
+              role: 'system',
+              content: 'You are a K-Pop industry analyst. Write engaging, well-structured content with multiple short paragraphs. Use "\\n\\n" in the commentary field to separate paragraphs. Respond with valid JSON only.',
+            },
+            { role: 'user', content: prompt },
+          ],
+          temperature: 0.8,
+          max_tokens: 1200,
+        });
+        break;
+      } catch (err: any) {
+        if (err?.status === 429 && attempt < 2) {
+          console.log(`  Rate limit hit, retrying in ${(attempt + 1) * 5}s...`);
+          await new Promise(r => setTimeout(r, (attempt + 1) * 5000));
+        } else {
+          throw err;
+        }
+      }
+    }
+    if (!response) return null;
 
     const responseText = response.choices[0]?.message?.content?.trim();
     if (!responseText) return null;
@@ -1013,8 +1048,8 @@ async function main(): Promise<void> {
     console.log(`  ${i + 1}. [${s.score}pts] ${s.item.title?.slice(0, 50)}...`);
   });
 
-  // Process top 3 high-priority KPOP items only
-  const itemsToProcess = scoredItems.slice(0, 3).map(s => s.item);
+  // Process top 2 high-priority KPOP items only
+  const itemsToProcess = scoredItems.slice(0, 2).map(s => s.item);
   let processedCount = 0;
 
   for (const item of itemsToProcess) {
@@ -1047,7 +1082,7 @@ async function main(): Promise<void> {
       const slug = generateSlug(safeContent.title);
 
       // Generate AI image (copyright-free, context-aware) and save locally
-      const thumbnail = await generateAIImage(openai, category, safeContent.title, safeContent.summary, slug);
+      const thumbnail = await generateAIImage(category, safeContent.title, safeContent.summary, slug);
       console.log(`  AI thumbnail: ${thumbnail ? 'saved locally' : 'skipped'}`);
 
       // Create article with new structure
