@@ -148,7 +148,7 @@ function getSourceDomain(url: string): string {
 
 const IMAGES_DIR = path.join(process.cwd(), 'public/images/posts');
 
-// Generate context-aware image prompt using Gemini (Studio Ghibli style)
+// Generate context-aware image prompt (cinematic editorial style)
 async function generateImagePrompt(
   title: string,
   summary: string,
@@ -160,44 +160,42 @@ async function generateImagePrompt(
       messages: [
         {
           role: 'system',
-          content: `You are an expert at creating DALL-E image prompts for K-pop/K-drama news article thumbnails in STUDIO GHIBLI ANIME STYLE.
+          content: `You are an expert at creating image prompts for K-Pop news article thumbnails.
+Create CINEMATIC, PHOTOREALISTIC editorial images that visually represent the article's theme.
 
-BASE STYLE (ALWAYS include this):
-"A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting."
+STYLE:
+- Cinematic editorial photography, magazine cover quality
+- Professional studio or event lighting (dramatic, vibrant, high contrast)
+- Sharp focus, rich colors, visually striking composition
+- 16:9 widescreen, suitable for news article header
 
 RULES:
-1. Create a SPECIFIC, VISUAL scene that represents the article's content
-2. NEVER include real celebrity names or group names - instead describe a "stylized Korean celebrity" or "young Korean idol" with relevant visual characteristics
-3. Include: expression (happy/shy/surprised/determined), location/background, and atmosphere
-4. The overall atmosphere should be nostalgic, peaceful, and heartwarming - signature Ghibli feel
-5. Be CONCRETE about visual elements: clothing, setting details, weather, lighting
+1. NO real people, faces, or celebrities — focus on SCENES, OBJECTS, ATMOSPHERE, and SILHOUETTES
+2. Match the article topic closely: awards → grand stage with trophies and lights; tour → packed concert arena with lightsticks; comeback → sleek recording studio with neon; fashion → high-end runway or editorial setup
+3. Use specific visual elements: lighting type, color palette, key props, environment
+4. Avoid generic/vague descriptions — be concrete and cinematic
 
-TEMPLATE TO FOLLOW:
-"A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. The image is a header graphic for a Korean entertainment news article. It features [character description with expression] located in [specific location/background]. The overall atmosphere is [mood description]."
+EXAMPLES:
+- Award ceremony: "Cinematic wide shot of a grand award ceremony stage, empty golden trophy under a single dramatic spotlight, confetti frozen mid-air, deep blue and gold color palette, professional event photography, sharp and vivid"
+- World tour: "Cinematic aerial shot of a packed stadium concert at night, thousands of glowing lightsticks in pink and white creating waves, massive LED stage in the center, smoke and laser beams, high contrast editorial photography"
+- Comeback/Album: "Sleek modern recording studio at night, neon-lit mixing console in purple and blue, vinyl records and microphone in sharp focus, moody cinematic lighting, professional product photography aesthetic"
+- Fashion/Red carpet: "Luxury fashion editorial, elegant empty red carpet flanked by press cameras and blinding flashbulbs, velvet ropes, golden lighting, high-end magazine photography style"
+- Fan meeting: "Wide shot of a bright arena filled with colorful fan banners and light sticks, empty stage with a lone microphone stand in warm spotlight, anticipatory atmosphere, vivid editorial photography"
 
-GOOD EXAMPLES:
-- Drama romance: "...features a stylized young Korean actress with long flowing hair and a shy, hopeful expression, standing on a rooftop garden overlooking Seoul at sunset. Cherry blossom petals drift past as city lights begin to twinkle below. The overall atmosphere is nostalgic and romantically hopeful."
-- Concert/Comeback: "...features a stylized K-pop idol with bright eyes and an excited expression, standing backstage with stage lights glowing behind curtains. Sparkles and confetti float in the air. The overall atmosphere is magical and anticipatory."
-- Injury news: "...features a young dancer sitting by a window in a practice room, looking contemplative with a gentle, resilient expression. Soft afternoon light streams through, casting warm shadows. The overall atmosphere is bittersweet but hopeful."
-- Award/Rankings: "...features a stylized Korean celebrity holding a golden trophy with a joyful, tearful expression. They stand on a grand stage with warm spotlights and floating golden particles. The overall atmosphere is triumphant and emotional."
-
-BAD EXAMPLES:
-- "Abstract neon lights" ❌
-- No character or scene description ❌
-- Realistic photo style ❌`
+Return ONLY the image prompt. Keep it under 120 words. Be specific and cinematic.`
         },
         {
           role: 'user',
-          content: `Create a DALL-E prompt for this K-pop news article in Studio Ghibli anime style:
+          content: `Create a cinematic editorial image prompt for this K-Pop news article:
 Title: ${title}
 Summary: ${summary}
 Category: ${category}
 
-Return ONLY the complete image prompt following the template. Make it specific and visual with Ghibli aesthetics.`
+Return ONLY the image prompt. No faces or real people. Focus on the scene and atmosphere.`
         }
       ],
-      temperature: 0.8,
-      max_tokens: 300,
+      temperature: 0.7,
+      max_tokens: 200,
     });
 
     const prompt = response.choices[0]?.message?.content?.trim();
@@ -208,15 +206,15 @@ Return ONLY the complete image prompt following the template. Make it specific a
     console.error('  Error generating image prompt:', error);
   }
 
-  // Fallback prompts by category (Ghibli style)
+  // Fallback prompts by category (cinematic editorial style)
   const fallbacks: Record<string, string> = {
-    music: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A stylized K-pop idol with sparkling eyes stands on a magical concert stage, surrounded by floating lightsticks glowing like fireflies. The overall atmosphere is dreamy and euphoric.',
-    drama: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. Two silhouettes share an umbrella on a rainy Seoul street at twilight, neon signs reflecting on wet pavement. The overall atmosphere is nostalgic and romantically melancholic.',
-    celebrity: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A stylized Korean celebrity in elegant attire walks a red carpet with golden light streaming down. The overall atmosphere is glamorous yet warmly inviting.',
-    audition: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A young trainee practices alone in a sunlit dance studio, determination in their eyes as dust particles float in the warm light. The overall atmosphere is hopeful and inspiring.',
-    fashion: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A stylish figure walks through a trendy Seoul neighborhood with boutiques and cafes, autumn leaves swirling around. The overall atmosphere is chic yet cozy.',
-    variety: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A colorful TV studio set with whimsical decorations and warm stage lights, empty but inviting. The overall atmosphere is fun and magical.',
-    news: 'A hand-drawn anime illustration in the distinct style of Studio Ghibli, rendered with warm watercolor textures and soft, natural lighting. A cozy newsroom with screens showing entertainment content, warm desk lamps glowing. The overall atmosphere is professional yet warmly nostalgic.',
+    music: 'Cinematic wide shot of a packed stadium concert at night, thousands of glowing pink and white lightsticks creating waves across the crowd, massive LED stage blazing with light, smoke and laser beams cutting through the air, high contrast editorial photography, sharp and vivid.',
+    drama: 'Cinematic shot of a sleek Seoul rooftop at golden hour, city skyline glowing with warm light, empty bench with soft bokeh background, romantic and sophisticated atmosphere, editorial photography, rich color grading.',
+    celebrity: 'Luxury red carpet editorial, elegant velvet rope barrier flanked by blinding camera flashbulbs, golden spotlights and deep shadows, high-end fashion magazine photography style, sharp focus and rich contrast.',
+    audition: 'Cinematic shot of a modern dance practice studio at night, mirrored walls reflecting dramatic overhead lighting, empty dance floor with a single spotlight, polished hardwood floor, professional editorial atmosphere.',
+    fashion: 'High-end fashion editorial, minimalist white studio with dramatic side lighting, couture clothing on a sleek display, bold color accents, sharp magazine-quality photography, sophisticated and stylish.',
+    variety: 'Cinematic shot of a vibrant Korean TV variety show stage, colorful neon set design with bold graphics, bright studio lights, playful and energetic atmosphere, professional broadcast photography.',
+    news: 'Cinematic editorial shot of Seoul cityscape at dusk, Han River reflecting city lights, modern glass skyscrapers in the background, clean and professional atmosphere, rich color grading, sharp focus.',
   };
 
   return fallbacks[category] || fallbacks['news'];
@@ -292,7 +290,7 @@ async function generateAIImage(
           'Authorization': `Bearer ${apiToken}`,
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ prompt: imagePrompt, num_steps: 4 }),
+        body: JSON.stringify({ prompt: imagePrompt, num_steps: 8 }),
       }
     );
 
