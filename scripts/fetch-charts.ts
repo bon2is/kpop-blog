@@ -6,7 +6,7 @@ import path from 'path';
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const fetch = require('node-fetch');
 
-interface ChartSong {
+export interface ChartSong {
   rank: number;
   title: string;
   artist: string;
@@ -14,29 +14,117 @@ interface ChartSong {
   youtubeUrl: string;
 }
 
-interface ChartsData {
-  updatedAt: string;
-  melon: ChartSong[];
-  genie: ChartSong[];
+export interface UnifiedSong {
+  rank: number;
+  title: string;
+  artist: string;
+  thumbnail?: string;
+  youtubeUrl: string;
+  score: number;
+  chartRanks: {
+    melon?: number;
+    genie?: number;
+    bugs?: number;
+  };
 }
 
+export interface ChartsData {
+  updatedAt: string;
+  unified: UnifiedSong[];
+  melon: ChartSong[];
+  genie: ChartSong[];
+  bugs: ChartSong[];
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+
 function ytSearchUrl(artist: string, title: string): string {
-  // Use clean ASCII-friendly search terms
-  const cleanArtist = artist.replace(/\s*\([^)]+\)/g, '').trim();  // strip "(한글명)"
-  return `https://www.youtube.com/results?search_query=${encodeURIComponent(`${cleanArtist} ${title} MV official`)}`;
+  const a = artist.replace(/\s*\([^)]+\)/g, '').trim();
+  return `https://www.youtube.com/results?search_query=${encodeURIComponent(`${a} ${title} MV official`)}`;
 }
 
 function cleanTitle(text: string): string {
-  return text
-    .replace(/재생$/g, '')       // Melon appends "재생" (play button text)
-    .replace(/\s+/g, ' ')
-    .trim();
+  return text.replace(/재생\s*$/, '').replace(/\s+/g, ' ').trim();
 }
 
 function cleanArtist(text: string): string {
-  return text
-    .replace(/\s+/g, ' ')
-    .trim();
+  return text.replace(/\s+/g, ' ').trim();
+}
+
+/** Normalize key for cross-chart matching: lowercase, strip non-alphanumeric/Korean */
+function normalizeKey(title: string, artist: string): string {
+  const normalize = (s: string) =>
+    s
+      .toLowerCase()
+      .replace(/\(feat\..*?\)/gi, '')
+      .replace(/\(prod\..*?\)/gi, '')
+      .replace(/[^a-z0-9가-힣]/g, '');
+  return `${normalize(artist)}_${normalize(title)}`;
+}
+
+// ── Chart weights (Melon = primary Korean chart, Genie = secondary, Bugs = tertiary) ──
+const WEIGHTS: Record<string, number> = {
+  melon: 1.3,
+  genie: 1.0,
+  bugs: 0.8,
+};
+
+/** Points formula: rank 1 → 50 pts, rank 50 → 1 pt */
+function rankPoints(rank: number, total: number): number {
+  return Math.max(0, total + 1 - rank);
+}
+
+// ── Build unified chart ───────────────────────────────────────────────────────
+function buildUnifiedChart(
+  melon: ChartSong[],
+  genie: ChartSong[],
+  bugs: ChartSong[]
+): UnifiedSong[] {
+  const map = new Map<
+    string,
+    {
+      title: string;
+      artist: string;
+      thumbnail?: string;
+      youtubeUrl: string;
+      score: number;
+      chartRanks: { melon?: number; genie?: number; bugs?: number };
+    }
+  >();
+
+  const addChart = (songs: ChartSong[], chartName: 'melon' | 'genie' | 'bugs') => {
+    if (songs.length === 0) return;
+    const weight = WEIGHTS[chartName];
+    songs.forEach((song) => {
+      const key = normalizeKey(song.title, song.artist);
+      const pts = rankPoints(song.rank, songs.length) * weight;
+      const existing = map.get(key);
+      if (existing) {
+        existing.score += pts;
+        existing.chartRanks[chartName] = song.rank;
+        // prefer melon thumbnail, then genie, then bugs
+        if (!existing.thumbnail && song.thumbnail) existing.thumbnail = song.thumbnail;
+      } else {
+        map.set(key, {
+          title: song.title,
+          artist: song.artist,
+          thumbnail: song.thumbnail,
+          youtubeUrl: song.youtubeUrl,
+          score: pts,
+          chartRanks: { [chartName]: song.rank },
+        });
+      }
+    });
+  };
+
+  addChart(melon, 'melon');
+  addChart(genie, 'genie');
+  addChart(bugs, 'bugs');
+
+  return Array.from(map.values())
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 50)
+    .map((song, i) => ({ rank: i + 1, ...song }));
 }
 
 // ── Melon Top 50 ─────────────────────────────────────────────────────────────
@@ -54,49 +142,31 @@ async function fetchMelonChart(): Promise<ChartSong[]> {
       timeout: 20000,
     });
 
-    if (!res.ok) {
-      console.log(`  Melon returned ${res.status}`);
-      return [];
-    }
+    if (!res.ok) { console.log(`  Melon returned ${res.status}`); return []; }
 
     const html: string = await res.text();
     const $ = cheerio.load(html);
     const songs: ChartSong[] = [];
 
     $('tr.lst50, tr.lst100').each((i, el) => {
-      // rank
       const rankText = $(el).find('.rank').first().text().trim();
       const rank = parseInt(rankText) || i + 1;
-
-      // title: try multiple selectors
-      const title =
+      const title = cleanTitle(
         $(el).find('.rank01 span a').attr('title')?.trim() ||
         $(el).find('.rank01 span a').text().trim() ||
-        $(el).find('.rank01').text().trim();
-
-      // artist
-      const artist =
+        $(el).find('.rank01').text().trim()
+      );
+      const artist = cleanArtist(
         $(el).find('.rank02 a').first().text().trim() ||
         $(el).find('.rank02 .checkEllipsis').text().trim() ||
-        $(el).find('.rank02').text().trim();
-
-      // thumbnail
+        $(el).find('.rank02').text().trim()
+      );
       const thumbnail =
         $(el).find('img.image_typeAll').attr('src') ||
-        $(el).find('img[src*="melon"]').attr('src') ||
         $(el).find('img[src*="cdnimg"]').attr('src');
 
-      const cleanT = cleanTitle(title);
-      const cleanA = cleanArtist(artist);
-      if (cleanT && cleanA && rank > 0 && songs.length < 50) {
-        songs.push({
-          rank,
-          title: cleanT,
-          artist: cleanA,
-          thumbnail: thumbnail?.replace(/\?.*$/, '') || undefined,
-          youtubeUrl: ytSearchUrl(cleanA, cleanT),
-        });
-      }
+      if (title && artist && rank > 0 && songs.length < 50)
+        songs.push({ rank, title, artist, thumbnail: thumbnail?.replace(/\?.*$/, ''), youtubeUrl: ytSearchUrl(artist, title) });
     });
 
     console.log(`  Got ${songs.length} songs from Melon`);
@@ -122,46 +192,31 @@ async function fetchGenieChart(): Promise<ChartSong[]> {
       timeout: 20000,
     });
 
-    if (!res.ok) {
-      console.log(`  Genie returned ${res.status}`);
-      return [];
-    }
+    if (!res.ok) { console.log(`  Genie returned ${res.status}`); return []; }
 
     const html: string = await res.text();
     const $ = cheerio.load(html);
     const songs: ChartSong[] = [];
 
-    // Genie chart table rows
     $('tr.list').each((i, el) => {
       const rank = i + 1;
-
       const title =
         $(el).find('.title').text().trim() ||
         $(el).find('.song-name').text().trim() ||
         $(el).find('a.title').text().trim();
-
       const artist =
         $(el).find('.artist').text().trim() ||
         $(el).find('.name').text().trim() ||
         $(el).find('a.artist').text().trim();
-
-      const thumbnail =
+      const rawThumb =
         $(el).find('img').first().attr('src') ||
         $(el).find('img[src*="genie"]').attr('src');
+      const thumbnail = rawThumb
+        ? rawThumb.startsWith('http') ? rawThumb : `https://www.genie.co.kr${rawThumb}`
+        : undefined;
 
-      if (title && artist && songs.length < 50) {
-        songs.push({
-          rank,
-          title,
-          artist,
-          thumbnail: thumbnail
-            ? thumbnail.startsWith('http')
-              ? thumbnail
-              : `https://www.genie.co.kr${thumbnail}`
-            : undefined,
-          youtubeUrl: ytSearchUrl(artist, title),
-        });
-      }
+      if (title && artist && songs.length < 50)
+        songs.push({ rank, title, artist, thumbnail, youtubeUrl: ytSearchUrl(artist, title) });
     });
 
     console.log(`  Got ${songs.length} songs from Genie`);
@@ -172,7 +227,7 @@ async function fetchGenieChart(): Promise<ChartSong[]> {
   }
 }
 
-// ── Bugs Top 50 (fallback if others empty) ───────────────────────────────────
+// ── Bugs Top 50 ──────────────────────────────────────────────────────────────
 async function fetchBugsChart(): Promise<ChartSong[]> {
   try {
     console.log('Fetching Bugs Top 50...');
@@ -186,10 +241,7 @@ async function fetchBugsChart(): Promise<ChartSong[]> {
       timeout: 20000,
     });
 
-    if (!res.ok) {
-      console.log(`  Bugs returned ${res.status}`);
-      return [];
-    }
+    if (!res.ok) { console.log(`  Bugs returned ${res.status}`); return []; }
 
     const html: string = await res.text();
     const $ = cheerio.load(html);
@@ -197,29 +249,19 @@ async function fetchBugsChart(): Promise<ChartSong[]> {
 
     $('table.list tbody tr, tr.track_row').each((i, el) => {
       const rank = i + 1;
-
       const title =
         $(el).find('.title a').text().trim() ||
         $(el).find('.song_name').text().trim() ||
         $(el).find('p.title').text().trim();
-
       const artist =
         $(el).find('.artist a').first().text().trim() ||
         $(el).find('.artist').text().trim();
-
       const thumbnail =
         $(el).find('img.thumbnail').attr('src') ||
         $(el).find('img').first().attr('src');
 
-      if (title && artist && songs.length < 50) {
-        songs.push({
-          rank,
-          title,
-          artist,
-          thumbnail: thumbnail || undefined,
-          youtubeUrl: ytSearchUrl(artist, title),
-        });
-      }
+      if (title && artist && songs.length < 50)
+        songs.push({ rank, title, artist, thumbnail: thumbnail || undefined, youtubeUrl: ytSearchUrl(artist, title) });
     });
 
     console.log(`  Got ${songs.length} songs from Bugs`);
@@ -240,10 +282,14 @@ async function main() {
     fetchBugsChart(),
   ]);
 
+  const unified = buildUnifiedChart(melon, genie, bugs);
+
   const data: ChartsData = {
     updatedAt: new Date().toISOString(),
-    melon: melon.length > 0 ? melon : bugs,   // use Bugs as Melon fallback
-    genie: genie.length > 0 ? genie : [],
+    unified,
+    melon,
+    genie,
+    bugs,
   };
 
   const outPath = path.join(process.cwd(), 'public/data/charts.json');
@@ -251,8 +297,10 @@ async function main() {
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
 
   console.log(`\nDone! Saved to public/data/charts.json`);
-  console.log(`  Melon: ${data.melon.length} songs`);
-  console.log(`  Genie: ${data.genie.length} songs`);
+  console.log(`  Melon:   ${melon.length} songs`);
+  console.log(`  Genie:   ${genie.length} songs`);
+  console.log(`  Bugs:    ${bugs.length} songs`);
+  console.log(`  Unified: ${unified.length} songs`);
   console.log(`  Updated at: ${data.updatedAt}`);
 }
 

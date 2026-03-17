@@ -54,16 +54,18 @@ jobs:
         run: npm run fetch-news
         timeout-minutes: 15
 
+      - name: Update music charts
+        run: npm run fetch-charts
+        timeout-minutes: 5
+        continue-on-error: true
+
       - name: Check for changes
         id: git-check
         run: |
-          # Check both content and images directories
-          if git diff --quiet content/ public/images/posts/ 2>/dev/null; then
+          if git diff --quiet content/ public/images/posts/ public/data/ 2>/dev/null; then
             echo "changes=false" >> $GITHUB_OUTPUT
-            echo "No new articles"
           else
             echo "changes=true" >> $GITHUB_OUTPUT
-            echo "New articles found"
           fi
 
       - name: Commit new articles and images
@@ -72,14 +74,20 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          # Add content and images
-          git add content/ public/images/posts/
+          # Add content, images, and chart data
+          git add content/ public/images/posts/ public/data/
 
           # Count new articles
           NEW_COUNT=$(git diff --cached --name-only | grep -c "content/posts/" || echo "0")
+          CHART_CHANGED=$(git diff --cached --name-only | grep -c "public/data/charts.json" || echo "0")
 
-          # Commit with article count
-          git commit -m "Auto-update: ${NEW_COUNT} new article(s) with AI thumbnails
+          if [ "$CHART_CHANGED" -gt "0" ]; then
+            CHART_MSG=" + charts updated"
+          else
+            CHART_MSG=""
+          fi
+
+          git commit -m "Auto-update: ${NEW_COUNT} new article(s) with AI thumbnails${CHART_MSG}
 
           Generated with DALL-E 3 (Studio Ghibli style)
           Images optimized to WebP format" || exit 0
