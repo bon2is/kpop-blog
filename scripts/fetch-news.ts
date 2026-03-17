@@ -503,19 +503,20 @@ async function generateAIImagePollinations(imagePrompt: string, slug: string): P
   try {
     console.log(`  Generating image with Pollinations.ai (Flux, free)...`);
 
-    // Pollinations works best with concise prompts — extract key visual sentence
+    // Pollinations: keep prompt short (URL length limit ~2000 chars) + use supported resolution
     const compactPrompt = imagePrompt
-      .replace(/^A beautiful watercolor illustration[^.]+\.\s*/i, '')  // strip style prefix (handled by model keyword)
+      .replace(/^A beautiful watercolor illustration[^.]+\.\s*/i, '')
       .replace(/No text[^.]*\.\s*$/i, '')
+      .replace(/Widescreen[^.]*\.\s*$/i, '')
       .trim()
-      .slice(0, 500);
+      .slice(0, 200);
 
     const fullPrompt = `watercolor illustration, Studio Ghibli anime style, soft pencil sketch lines, ${compactPrompt}`;
     const encoded = encodeURIComponent(fullPrompt);
     const seed = Math.floor(Math.random() * 999999);
-    const url = `https://image.pollinations.ai/prompt/${encoded}?width=1792&height=1024&model=flux&nologo=true&seed=${seed}`;
+    const url = `https://image.pollinations.ai/prompt/${encoded}?width=1280&height=720&model=flux&nologo=true&seed=${seed}`;
 
-    const response = await fetch(url, { timeout: 60000 } as RequestInit);
+    const response = await fetch(url, { timeout: 90000 } as RequestInit);
     if (!response.ok) {
       console.error(`  Pollinations error: ${response.status}`);
       return undefined;
@@ -1102,7 +1103,7 @@ function safeJSONParse(text: string): Record<string, string> | null {
           .replace(/\n/g, '\\n');          // remaining newlines
         return JSON.parse(aggressive);
       } catch (e) {
-        console.error('  JSON parse failed after all attempts');
+        console.error('  JSON parse failed after all attempts. Raw text:', text.slice(0, 300));
         return null;
       }
     }
@@ -1148,7 +1149,8 @@ CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This
     let response;
     for (let attempt = 0; attempt < 3; attempt++) {
       try {
-        response = await openai.chat.completions.create({
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        response = await (openai.chat.completions.create as any)({
           model: 'llama-3.3-70b-versatile',
           messages: [
             {
@@ -1159,6 +1161,7 @@ CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This
           ],
           temperature: 0.8,
           max_tokens: 1200,
+          response_format: { type: 'json_object' },
         });
         break;
       } catch (err: any) {
