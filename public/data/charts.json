@@ -1,0 +1,707 @@
+{
+  "updatedAt": "2026-03-17T16:32:02.577Z",
+  "melon": [
+    {
+      "rank": 1,
+      "title": "BANG BANG",
+      "artist": "IVE (아이브)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/128/45/274/12845274_20260223113048_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BANG%20BANG%20MV%20official"
+    },
+    {
+      "rank": 2,
+      "title": "404 (New Era)",
+      "artist": "KiiiKiii (키키)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/128/06/237/12806237_20260126145002_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=KiiiKiii%20404%20(New%20Era)%20MV%20official"
+    },
+    {
+      "rank": 3,
+      "title": "RUDE!",
+      "artist": "Hearts2Hearts (하츠투하츠)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/128/69/629/12869629_20260219143819_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20RUDE!%20MV%20official"
+    },
+    {
+      "rank": 4,
+      "title": "Good Goodbye",
+      "artist": "화사 (HWASA)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/121/60/000/12160000_20251014164646_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%99%94%EC%82%AC%20Good%20Goodbye%20MV%20official"
+    },
+    {
+      "rank": 5,
+      "title": "사랑하게 될 거야",
+      "artist": "한로로",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/113/12/872/11312872_20230823162414_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%95%9C%EB%A1%9C%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B2%8C%20%EB%90%A0%20%EA%B1%B0%EC%95%BC%20MV%20official"
+    },
+    {
+      "rank": 6,
+      "title": "Drowning",
+      "artist": "WOODZ",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/111/83/506/11183506_20230426141236_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official"
+    },
+    {
+      "rank": 7,
+      "title": "0+0",
+      "artist": "한로로",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/119/82/233/11982233_20250801150859_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%95%9C%EB%A1%9C%EB%A1%9C%200%2B0%20MV%20official"
+    },
+    {
+      "rank": 8,
+      "title": "그대 작은 나의 세상이 되어",
+      "artist": "카더가든",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/647/10554647_20210127173809_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0%20%EA%B7%B8%EB%8C%80%20%EC%9E%91%EC%9D%80%20%EB%82%98%EC%9D%98%20%EC%84%B8%EC%83%81%EC%9D%B4%20%EB%90%98%EC%96%B4%20MV%20official"
+    },
+    {
+      "rank": 9,
+      "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
+      "artist": "김하온 (HAON)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/129/02/300/12902300_20260305152325_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%95%98%EC%98%A8%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official"
+    },
+    {
+      "rank": 10,
+      "title": "타임캡슐",
+      "artist": "다비치",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/121/63/032/12163032_20251015164500_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8B%A4%EB%B9%84%EC%B9%98%20%ED%83%80%EC%9E%84%EC%BA%A1%EC%8A%90%20MV%20official"
+    },
+    {
+      "rank": 11,
+      "title": "BLACKHOLE",
+      "artist": "IVE (아이브)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/128/45/274/12845274_20260223113048_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BLACKHOLE%20MV%20official"
+    },
+    {
+      "rank": 12,
+      "title": "Blue Valentine",
+      "artist": "NMIXX",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/121/49/391/12149391_20251013150421_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Blue%20Valentine%20MV%20official"
+    },
+    {
+      "rank": 13,
+      "title": "Golden",
+      "artist": "HUNTR/X",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/118/59/863/11859863_20250620104512_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HUNTR%2FX%20Golden%20MV%20official"
+    },
+    {
+      "rank": 14,
+      "title": "멸종위기사랑",
+      "artist": "이찬혁",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/118/91/198/11891198_20250714145747_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B0%AC%ED%98%81%20%EB%A9%B8%EC%A2%85%EC%9C%84%EA%B8%B0%EC%82%AC%EB%9E%91%20MV%20official"
+    },
+    {
+      "rank": 15,
+      "title": "어제보다 슬픈 오늘",
+      "artist": "우디 (Woody)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/117/56/010/11756010_20250331135525_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9A%B0%EB%94%94%20%EC%96%B4%EC%A0%9C%EB%B3%B4%EB%8B%A4%20%EC%8A%AC%ED%94%88%20%EC%98%A4%EB%8A%98%20MV%20official"
+    },
+    {
+      "rank": 16,
+      "title": "뛰어(JUMP)",
+      "artist": "BLACKPINK",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/118/90/480/11890480_20250711095238_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20%EB%9B%B0%EC%96%B4(JUMP)%20MV%20official"
+    },
+    {
+      "rank": 17,
+      "title": "너의 모든 순간",
+      "artist": "성시경",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%84%B1%EC%8B%9C%EA%B2%BD%20%EB%84%88%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EA%B0%84%20MV%20official"
+    },
+    {
+      "rank": 18,
+      "title": "toxic till the end",
+      "artist": "로제 (ROSÉ)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/59/696/11659696_20241205141243_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A1%9C%EC%A0%9C%20toxic%20till%20the%20end%20MV%20official"
+    },
+    {
+      "rank": 19,
+      "title": "모르시나요(PROD.로코베리)",
+      "artist": "조째즈",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/85/729/11685729_20250106160640_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%A1%B0%EC%A7%B8%EC%A6%88%20%EB%AA%A8%EB%A5%B4%EC%8B%9C%EB%82%98%EC%9A%94(PROD.%EB%A1%9C%EC%BD%94%EB%B2%A0%EB%A6%AC)%20MV%20official"
+    },
+    {
+      "rank": 20,
+      "title": "너에게 닿기를",
+      "artist": "10CM",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/117/30/411/11730411_20250306095101_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=10CM%20%EB%84%88%EC%97%90%EA%B2%8C%20%EB%8B%BF%EA%B8%B0%EB%A5%BC%20MV%20official"
+    },
+    {
+      "rank": 21,
+      "title": "SPAGHETTI (feat. j-hope of BTS)",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/121/75/901/12175901_20251024094040_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=LE%20SSERAFIM%20SPAGHETTI%20(feat.%20j-hope%20of%20BTS)%20MV%20official"
+    },
+    {
+      "rank": 22,
+      "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+      "artist": "AKMU (악뮤)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/103/31/947/10331947_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%9D%B4%EB%B3%84%EA%B9%8C%EC%A7%80%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B2%A0%EC%96%B4%2C%20%EB%84%90%20%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94%20%EA%B1%B0%EC%A7%80%20MV%20official"
+    },
+    {
+      "rank": 23,
+      "title": "Love Love Love (Feat. Yoong Jin Of Casker)",
+      "artist": "에픽하이 (EPIK HIGH)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm/album/images/003/42/967/342967_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%97%90%ED%94%BD%ED%95%98%EC%9D%B4%20Love%20Love%20Love%20(Feat.%20Yoong%20Jin%20Of%20Casker)%20MV%20official"
+    },
+    {
+      "rank": 24,
+      "title": "내게 사랑이 뭐냐고 물어본다면",
+      "artist": "로이킴",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/16/312/11616312_20241015135802_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A1%9C%EC%9D%B4%ED%82%B4%20%EB%82%B4%EA%B2%8C%20%EC%82%AC%EB%9E%91%EC%9D%B4%20%EB%AD%90%EB%83%90%EA%B3%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B8%EB%8B%A4%EB%A9%B4%20MV%20official"
+    },
+    {
+      "rank": 25,
+      "title": "사랑은 봄비처럼...이별은 겨울비처럼...",
+      "artist": "임현정",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm/album/images/003/14/795/314795_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%ED%98%84%EC%A0%95%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EB%B4%84%EB%B9%84%EC%B2%98%EB%9F%BC...%EC%9D%B4%EB%B3%84%EC%9D%80%20%EA%B2%A8%EC%9A%B8%EB%B9%84%EC%B2%98%EB%9F%BC...%20MV%20official"
+    },
+    {
+      "rank": 26,
+      "title": "천상연",
+      "artist": "이창섭",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/114/21/941/11421941_20240220105008_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B0%BD%EC%84%AD%20%EC%B2%9C%EC%83%81%EC%97%B0%20MV%20official"
+    },
+    {
+      "rank": 27,
+      "title": "like JENNIE",
+      "artist": "제니 (JENNIE)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/117/30/946/11730946_20250307173452_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%A0%9C%EB%8B%88%20like%20JENNIE%20MV%20official"
+    },
+    {
+      "rank": 28,
+      "title": "ONE MORE TIME",
+      "artist": "ALLDAY PROJECT",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/123/92/184/12392184_20251208133705_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ALLDAY%20PROJECT%20ONE%20MORE%20TIME%20MV%20official"
+    },
+    {
+      "rank": 29,
+      "title": "달리 표현할 수 없어요",
+      "artist": "로이킴",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/121/76/812/12176812_20251024184132_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A1%9C%EC%9D%B4%ED%82%B4%20%EB%8B%AC%EB%A6%AC%20%ED%91%9C%ED%98%84%ED%95%A0%20%EC%88%98%20%EC%97%86%EC%96%B4%EC%9A%94%20MV%20official"
+    },
+    {
+      "rank": 30,
+      "title": "Whiplash",
+      "artist": "aespa",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/20/540/11620540_20241018183208_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20Whiplash%20MV%20official"
+    },
+    {
+      "rank": 31,
+      "title": "HOME SWEET HOME (feat. 태양, 대성)",
+      "artist": "G-DRAGON",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/47/670/11647670_20241121150855_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=G-DRAGON%20HOME%20SWEET%20HOME%20(feat.%20%ED%83%9C%EC%96%91%2C%20%EB%8C%80%EC%84%B1)%20MV%20official"
+    },
+    {
+      "rank": 32,
+      "title": "FOCUS",
+      "artist": "Hearts2Hearts (하츠투하츠)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/121/31/538/12131538_20251020145034_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20FOCUS%20MV%20official"
+    },
+    {
+      "rank": 33,
+      "title": "NOT CUTE ANYMORE",
+      "artist": "아일릿(ILLIT)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/124/02/595/12402595_20251121154956_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%95%84%EC%9D%BC%EB%A6%BF%20NOT%20CUTE%20ANYMORE%20MV%20official"
+    },
+    {
+      "rank": 34,
+      "title": "FAMOUS",
+      "artist": "ALLDAY PROJECT",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/118/57/160/11857160_20250623154620_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ALLDAY%20PROJECT%20FAMOUS%20MV%20official"
+    },
+    {
+      "rank": 35,
+      "title": "시작의 아이 ❍",
+      "artist": "박다혜",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/120/12/550/12012550_20250807172740_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%95%EB%8B%A4%ED%98%9C%20%EC%8B%9C%EC%9E%91%EC%9D%98%20%EC%95%84%EC%9D%B4%20%E2%9D%8D%20MV%20official"
+    },
+    {
+      "rank": 36,
+      "title": "HAPPY",
+      "artist": "DAY6 (데이식스)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/114/44/397/11444397_20240318115810_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=DAY6%20HAPPY%20MV%20official"
+    },
+    {
+      "rank": 37,
+      "title": "STYLE",
+      "artist": "Hearts2Hearts (하츠투하츠)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/118/58/555/11858555_20250618105530_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20STYLE%20MV%20official"
+    },
+    {
+      "rank": 38,
+      "title": "모든 날, 모든 순간 (Every day, Every Moment)",
+      "artist": "폴킴",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%8F%B4%ED%82%B4%20%EB%AA%A8%EB%93%A0%20%EB%82%A0%2C%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EA%B0%84%20(Every%20day%2C%20Every%20Moment)%20MV%20official"
+    },
+    {
+      "rank": 39,
+      "title": "나는 반딧불",
+      "artist": "황가람",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/20/541/11620541_20241018183253_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%99%A9%EA%B0%80%EB%9E%8C%20%EB%82%98%EB%8A%94%20%EB%B0%98%EB%94%A7%EB%B6%88%20MV%20official"
+    },
+    {
+      "rank": 40,
+      "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+      "artist": "너드커넥션 (Nerd Connection)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/113/05/759/11305759_20230814111006_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20%EA%B7%B8%EB%8C%80%EB%A7%8C%20%EC%9E%88%EB%8B%A4%EB%A9%B4%20(%EC%97%AC%EB%A6%84%EB%82%A0%20%EC%9A%B0%EB%A6%AC%20X%20%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20(Nerd%20Connection))%20MV%20official"
+    },
+    {
+      "rank": 41,
+      "title": "청춘만화",
+      "artist": "이무진",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/08/521/11608521_20241004161722_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EB%AC%B4%EC%A7%84%20%EC%B2%AD%EC%B6%98%EB%A7%8C%ED%99%94%20MV%20official"
+    },
+    {
+      "rank": 42,
+      "title": "Flower",
+      "artist": "오반(OVAN)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/117/32/247/11732247_20250313092931_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%98%A4%EB%B0%98%20Flower%20MV%20official"
+    },
+    {
+      "rank": 43,
+      "title": "GO",
+      "artist": "BLACKPINK",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/128/87/758/12887758_20260227110539_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20GO%20MV%20official"
+    },
+    {
+      "rank": 44,
+      "title": "한 페이지가 될 수 있게",
+      "artist": "DAY6 (데이식스)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm/album/images/103/07/346/10307346_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=DAY6%20%ED%95%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%EA%B0%80%20%EB%90%A0%20%EC%88%98%20%EC%9E%88%EA%B2%8C%20MV%20official"
+    },
+    {
+      "rank": 45,
+      "title": "소나기",
+      "artist": "이클립스 (ECLIPSE)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/114/59/325/11459325_20240405171054_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%20%EC%86%8C%EB%82%98%EA%B8%B0%20MV%20official"
+    },
+    {
+      "rank": 46,
+      "title": "예뻤어",
+      "artist": "DAY6 (데이식스)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm/album/images/100/36/099/10036099_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=DAY6%20%EC%98%88%EB%BB%A4%EC%96%B4%20MV%20official"
+    },
+    {
+      "rank": 47,
+      "title": "OVERDRIVE",
+      "artist": "TWS (투어스)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/121/28/505/12128505_20251013154004_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=TWS%20OVERDRIVE%20MV%20official"
+    },
+    {
+      "rank": 48,
+      "title": "REBEL HEART",
+      "artist": "IVE (아이브)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/89/783/11689783_20250203110601_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20REBEL%20HEART%20MV%20official"
+    },
+    {
+      "rank": 49,
+      "title": "사랑인가 봐",
+      "artist": "멜로망스",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/108/71/162/10871162_20220217162422_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A9%9C%EB%A1%9C%EB%A7%9D%EC%8A%A4%20%EC%82%AC%EB%9E%91%EC%9D%B8%EA%B0%80%20%EB%B4%90%20MV%20official"
+    },
+    {
+      "rank": 50,
+      "title": "눈을 감아도(2026)",
+      "artist": "순순희(지환)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/128/79/655/12879655_20260224184739_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%88%9C%EC%88%9C%ED%9D%AC%20%EB%88%88%EC%9D%84%20%EA%B0%90%EC%95%84%EB%8F%84(2026)%20MV%20official"
+    }
+  ],
+  "genie": [
+    {
+      "rank": 1,
+      "title": "사랑은 늘 도망가",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/322/594/82322594_1633671778123_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EB%8A%98%20%EB%8F%84%EB%A7%9D%EA%B0%80%20MV%20official"
+    },
+    {
+      "rank": 2,
+      "title": "순간을 영원처럼",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EC%88%9C%EA%B0%84%EC%9D%84%20%EC%98%81%EC%9B%90%EC%B2%98%EB%9F%BC%20MV%20official"
+    },
+    {
+      "rank": 3,
+      "title": "다시 만날 수 있을까",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/638/032/82638032_1651479062721_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EB%8B%A4%EC%8B%9C%20%EB%A7%8C%EB%82%A0%20%EC%88%98%20%EC%9E%88%EC%9D%84%EA%B9%8C%20MV%20official"
+    },
+    {
+      "rank": 4,
+      "title": "우리들의 블루스",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/638/032/82638032_1651479062721_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EC%9A%B0%EB%A6%AC%EB%93%A4%EC%9D%98%20%EB%B8%94%EB%A3%A8%EC%8A%A4%20MV%20official"
+    },
+    {
+      "rank": 5,
+      "title": "답장을 보낸지",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EB%8B%B5%EC%9E%A5%EC%9D%84%20%EB%B3%B4%EB%82%B8%EC%A7%80%20MV%20official"
+    },
+    {
+      "rank": 6,
+      "title": "그댈 위한 멜로디",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EA%B7%B8%EB%8C%88%20%EC%9C%84%ED%95%9C%20%EB%A9%9C%EB%A1%9C%EB%94%94%20MV%20official"
+    },
+    {
+      "rank": 7,
+      "title": "ULSSIGU",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20ULSSIGU%20MV%20official"
+    },
+    {
+      "rank": 8,
+      "title": "비가 와서",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EB%B9%84%EA%B0%80%20%EC%99%80%EC%84%9C%20MV%20official"
+    },
+    {
+      "rank": 9,
+      "title": "돌아보지 마세요",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EB%8F%8C%EC%95%84%EB%B3%B4%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94%20MV%20official"
+    },
+    {
+      "rank": 10,
+      "title": "알겠어요 미안해요",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EC%95%8C%EA%B2%A0%EC%96%B4%EC%9A%94%20%EB%AF%B8%EC%95%88%ED%95%B4%EC%9A%94%20MV%20official"
+    },
+    {
+      "rank": 11,
+      "title": "Wonderful Life",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20Wonderful%20Life%20MV%20official"
+    },
+    {
+      "rank": 12,
+      "title": "들꽃이 될게요",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EB%93%A4%EA%BD%83%EC%9D%B4%20%EB%90%A0%EA%B2%8C%EC%9A%94%20MV%20official"
+    },
+    {
+      "rank": 13,
+      "title": "우리에게 안녕",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%20%EC%95%88%EB%85%95%20MV%20official"
+    },
+    {
+      "rank": 14,
+      "title": "나는야 HERO",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EB%82%98%EB%8A%94%EC%95%BC%20HERO%20MV%20official"
+    },
+    {
+      "rank": 15,
+      "title": "천국보다 아름다운",
+      "artist": "임영웅",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/163/734/86163734_1744597894019_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%EC%98%81%EC%9B%85%20%EC%B2%9C%EA%B5%AD%EB%B3%B4%EB%8B%A4%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20MV%20official"
+    },
+    {
+      "rank": 16,
+      "title": "BANG BANG",
+      "artist": "IVE (아이브)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1771579384466_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BANG%20BANG%20MV%20official"
+    },
+    {
+      "rank": 17,
+      "title": "사랑하게 될 거야",
+      "artist": "한로로",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/186/519/84186519_1693274098567_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%95%9C%EB%A1%9C%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B2%8C%20%EB%90%A0%20%EA%B1%B0%EC%95%BC%20MV%20official"
+    },
+    {
+      "rank": 18,
+      "title": "404 (New Era)",
+      "artist": "KiiiKiii (키키)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/787/87178787_1769390200508_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=KiiiKiii%20404%20(New%20Era)%20MV%20official"
+    },
+    {
+      "rank": 19,
+      "title": "0＋0",
+      "artist": "한로로",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/567/612/86567612_1753951246778_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%95%9C%EB%A1%9C%EB%A1%9C%200%EF%BC%8B0%20MV%20official"
+    },
+    {
+      "rank": 20,
+      "title": "Drowning",
+      "artist": "WOODZ",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/083/570/761/83570761_1682496044865_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official"
+    },
+    {
+      "rank": 21,
+      "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
+      "artist": "김하온 (HAON) & Nosun & Raf Sandou & Marv & 정준혁",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/709/87341709_1772688772694_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%95%98%EC%98%A8%20%26%20Nosun%20%26%20Raf%20Sandou%20%26%20Marv%20%26%20%EC%A0%95%EC%A4%80%ED%98%81%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official"
+    },
+    {
+      "rank": 22,
+      "title": "Good Goodbye",
+      "artist": "화사 (HWASA)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/834/487/86834487_1760426821725_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%99%94%EC%82%AC%20Good%20Goodbye%20MV%20official"
+    },
+    {
+      "rank": 23,
+      "title": "RUDE!",
+      "artist": "Hearts2Hearts (하츠투하츠)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/287/901/87287901_1771485100205_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20RUDE!%20MV%20official"
+    },
+    {
+      "rank": 24,
+      "title": "그대 작은 나의 세상이 되어",
+      "artist": "카더가든",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/866/263/81866263_1611813500459_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0%20%EA%B7%B8%EB%8C%80%20%EC%9E%91%EC%9D%80%20%EB%82%98%EC%9D%98%20%EC%84%B8%EC%83%81%EC%9D%B4%20%EB%90%98%EC%96%B4%20MV%20official"
+    },
+    {
+      "rank": 25,
+      "title": "내게 사랑이 뭐냐고 물어본다면",
+      "artist": "로이킴",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/662/151/85662151_1729042126804_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A1%9C%EC%9D%B4%ED%82%B4%20%EB%82%B4%EA%B2%8C%20%EC%82%AC%EB%9E%91%EC%9D%B4%20%EB%AD%90%EB%83%90%EA%B3%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B8%EB%8B%A4%EB%A9%B4%20MV%20official"
+    },
+    {
+      "rank": 26,
+      "title": "봄 내음보다 너를",
+      "artist": "김나영",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/994/439/81994439_1618374971936_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%EB%82%98%EC%98%81%20%EB%B4%84%20%EB%82%B4%EC%9D%8C%EB%B3%B4%EB%8B%A4%20%EB%84%88%EB%A5%BC%20MV%20official"
+    },
+    {
+      "rank": 27,
+      "title": "타임캡슐",
+      "artist": "다비치",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/839/191/86839191_1760513790180_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8B%A4%EB%B9%84%EC%B9%98%20%ED%83%80%EC%9E%84%EC%BA%A1%EC%8A%90%20MV%20official"
+    },
+    {
+      "rank": 28,
+      "title": "빛이 나는 사람",
+      "artist": "김호중",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/082/763/271/82763271_1655449446910_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%98%B8%EC%A4%91%20%EB%B9%9B%EC%9D%B4%20%EB%82%98%EB%8A%94%20%EC%82%AC%EB%9E%8C%20MV%20official"
+    },
+    {
+      "rank": 29,
+      "title": "쏜살",
+      "artist": "김호중",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/958/389/84958389_1712187712338_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%98%B8%EC%A4%91%20%EC%8F%9C%EC%82%B4%20MV%20official"
+    },
+    {
+      "rank": 30,
+      "title": "함께 가 줄래",
+      "artist": "김호중",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/958/389/84958389_1712187712338_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%98%B8%EC%A4%91%20%ED%95%A8%EA%BB%98%20%EA%B0%80%20%EC%A4%84%EB%9E%98%20MV%20official"
+    },
+    {
+      "rank": 31,
+      "title": "그대... 떠나도",
+      "artist": "김호중",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/958/389/84958389_1712187712338_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%98%B8%EC%A4%91%20%EA%B7%B8%EB%8C%80...%20%EB%96%A0%EB%82%98%EB%8F%84%20MV%20official"
+    },
+    {
+      "rank": 32,
+      "title": "바람이 부는 날엔",
+      "artist": "김호중",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/958/389/84958389_1712187712338_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%98%B8%EC%A4%91%20%EB%B0%94%EB%9E%8C%EC%9D%B4%20%EB%B6%80%EB%8A%94%20%EB%82%A0%EC%97%94%20MV%20official"
+    },
+    {
+      "rank": 33,
+      "title": "봄날에",
+      "artist": "김호중",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/958/389/84958389_1712187712338_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%98%B8%EC%A4%91%20%EB%B4%84%EB%82%A0%EC%97%90%20MV%20official"
+    },
+    {
+      "rank": 34,
+      "title": "별 헤는 밤",
+      "artist": "김호중",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/084/958/389/84958389_1712187712338_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%98%B8%EC%A4%91%20%EB%B3%84%20%ED%97%A4%EB%8A%94%20%EB%B0%A4%20MV%20official"
+    },
+    {
+      "rank": 35,
+      "title": "멸종위기사랑",
+      "artist": "이찬혁",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/498/898/86498898_1752454235546_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B0%AC%ED%98%81%20%EB%A9%B8%EC%A2%85%EC%9C%84%EA%B8%B0%EC%82%AC%EB%9E%91%20MV%20official"
+    },
+    {
+      "rank": 36,
+      "title": "BLACKHOLE",
+      "artist": "IVE (아이브)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1771579384466_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BLACKHOLE%20MV%20official"
+    },
+    {
+      "rank": 37,
+      "title": "모르시나요 (Prod. by 로코베리)",
+      "artist": "조째즈",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/907/890/85907890_1736144489332_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%A1%B0%EC%A7%B8%EC%A6%88%20%EB%AA%A8%EB%A5%B4%EC%8B%9C%EB%82%98%EC%9A%94%20(Prod.%20by%20%EB%A1%9C%EC%BD%94%EB%B2%A0%EB%A6%AC)%20MV%20official"
+    },
+    {
+      "rank": 38,
+      "title": "Golden",
+      "artist": "HUNTR/X & EJAE & Audrey Nuna & REI AMI & KPop Demon Hunters Cast",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/408/704/86408704_1750233118933_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HUNTR%2FX%20%26%20EJAE%20%26%20Audrey%20Nuna%20%26%20REI%20AMI%20%26%20KPop%20Demon%20Hunters%20Cast%20Golden%20MV%20official"
+    },
+    {
+      "rank": 39,
+      "title": "어제보다 슬픈 오늘",
+      "artist": "우디 (Woody)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/123/954/86123954_1743385882413_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9A%B0%EB%94%94%20%EC%96%B4%EC%A0%9C%EB%B3%B4%EB%8B%A4%20%EC%8A%AC%ED%94%88%20%EC%98%A4%EB%8A%98%20MV%20official"
+    },
+    {
+      "rank": 40,
+      "title": "Blue Valentine",
+      "artist": "NMIXX",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/788/704/86788704_1759310866327_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Blue%20Valentine%20MV%20official"
+    },
+    {
+      "rank": 41,
+      "title": "뛰어(JUMP)",
+      "artist": "BLACKPINK",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/498/856/86498856_1752197213485_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20%EB%9B%B0%EC%96%B4(JUMP)%20MV%20official"
+    },
+    {
+      "rank": 42,
+      "title": "눈을 감아도(2026)",
+      "artist": "순순희 (지환)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/291/719/87291719_1771573597517_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%88%9C%EC%88%9C%ED%9D%AC%20%EB%88%88%EC%9D%84%20%EA%B0%90%EC%95%84%EB%8F%84(2026)%20MV%20official"
+    },
+    {
+      "rank": 43,
+      "title": "너의 모든 순간",
+      "artist": "성시경",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/401/547/80401547_1392172764399_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%84%B1%EC%8B%9C%EA%B2%BD%20%EB%84%88%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EA%B0%84%20MV%20official"
+    },
+    {
+      "rank": 44,
+      "title": "시작의 아이",
+      "artist": "마크툽 (Maktub)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/890/727/85890727_1734944366240_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A7%88%ED%81%AC%ED%88%BD%20%EC%8B%9C%EC%9E%91%EC%9D%98%20%EC%95%84%EC%9D%B4%20MV%20official"
+    },
+    {
+      "rank": 45,
+      "title": "달리 표현할 수 없어요",
+      "artist": "로이킴",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/871/414/86871414_1761275490425_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A1%9C%EC%9D%B4%ED%82%B4%20%EB%8B%AC%EB%A6%AC%20%ED%91%9C%ED%98%84%ED%95%A0%20%EC%88%98%20%EC%97%86%EC%96%B4%EC%9A%94%20MV%20official"
+    },
+    {
+      "rank": 46,
+      "title": "너에게 닿기를",
+      "artist": "10CM",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/055/703/86055703_1741157825310_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=10CM%20%EB%84%88%EC%97%90%EA%B2%8C%20%EB%8B%BF%EA%B8%B0%EB%A5%BC%20MV%20official"
+    },
+    {
+      "rank": 47,
+      "title": "toxic till the end",
+      "artist": "로제 (ROSÉ)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/838/476/85838476_1733375833981_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%A1%9C%EC%A0%9C%20toxic%20till%20the%20end%20MV%20official"
+    },
+    {
+      "rank": 48,
+      "title": "사랑은 봄비처럼 이별은 겨울비처럼",
+      "artist": "임현정",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/015/027/150/15027150_1389332892639_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9E%84%ED%98%84%EC%A0%95%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EB%B4%84%EB%B9%84%EC%B2%98%EB%9F%BC%20%EC%9D%B4%EB%B3%84%EC%9D%80%20%EA%B2%A8%EC%9A%B8%EB%B9%84%EC%B2%98%EB%9F%BC%20MV%20official"
+    },
+    {
+      "rank": 49,
+      "title": "나는 반딧불",
+      "artist": "황가람",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/085/694/890/85694890_1729238188939_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%99%A9%EA%B0%80%EB%9E%8C%20%EB%82%98%EB%8A%94%20%EB%B0%98%EB%94%A7%EB%B6%88%20MV%20official"
+    },
+    {
+      "rank": 50,
+      "title": "Love Love Love (Feat. Yoong Jin of Casker))",
+      "artist": "에픽하이 (EPIK HIGH)",
+      "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/045/790/117/45790117_1331532381512_1_140x140.JPG/dims/resize/Q_80,0",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%97%90%ED%94%BD%ED%95%98%EC%9D%B4%20Love%20Love%20Love%20(Feat.%20Yoong%20Jin%20of%20Casker))%20MV%20official"
+    }
+  ]
+}

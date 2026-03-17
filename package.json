@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "generate-feeds": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/generate-feeds.ts",
-    "build": "npm run generate-feeds && next build",
+    "fetch-charts": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/fetch-charts.ts",
+    "build": "npm run generate-feeds && npm run fetch-charts && next build",
     "start": "next start",
     "lint": "next lint",
     "fetch-news": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/fetch-news.ts",
