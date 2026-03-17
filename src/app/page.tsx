@@ -7,6 +7,7 @@ import { categories } from '@/lib/config';
 import BreakingNewsTicker from '@/components/BreakingNewsTicker';
 import TrendingSection from '@/components/TrendingSection';
 import TagCloud from '@/components/TagCloud';
+import ChartWidget from '@/components/ChartWidget';
 
 export default function HomePage() {
   const articles = getAllArticles();
@@ -43,6 +44,9 @@ export default function HomePage() {
             </div>
           </section>
         )}
+
+        {/* ── Chart Widget ─────────────────────────────────── */}
+        <ChartWidget />
 
         {/* ── Ad ──────────────────────────────────────────── */}
         <AdBanner className="mb-10" />

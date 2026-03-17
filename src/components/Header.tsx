@@ -68,10 +68,14 @@ export default function Header() {
               </Link>
               <Link
                 href="/chart"
-                className="flex items-center gap-1 text-gray-600 hover:text-gray-900 font-medium transition-colors"
+                className="flex items-center gap-1.5 text-gray-600 hover:text-gray-900 font-medium transition-colors"
               >
                 <BarChart3 className="w-4 h-4" />
                 Charts
+                <span className="flex items-center gap-0.5 text-[9px] font-bold text-white bg-red-500 px-1.5 py-0.5 rounded-full leading-none">
+                  <span className="w-1 h-1 rounded-full bg-white animate-pulse" />
+                  LIVE
+                </span>
               </Link>
               <Link
                 href="/categories"
@@ -128,6 +132,10 @@ export default function Header() {
                 >
                   <BarChart3 className="w-4 h-4" />
                   Charts
+                  <span className="flex items-center gap-0.5 text-[9px] font-bold text-white bg-red-500 px-1.5 py-0.5 rounded-full leading-none ml-1">
+                    <span className="w-1 h-1 rounded-full bg-white animate-pulse" />
+                    LIVE
+                  </span>
                 </Link>
               </nav>
             </div>
