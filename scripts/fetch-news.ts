@@ -189,92 +189,92 @@ function extractKpopGroup(text: string): string | null {
   return null;
 }
 
-// Group-specific visual palettes, aesthetics, and anime character signatures
-const GROUP_VISUALS: Record<string, { palette: string; aesthetic: string; signature: string }> = {
+// Group-specific visual descriptions for DALL-E 3 (natural language, sentence form)
+const GROUP_VISUALS: Record<string, { character: string; setting: string; palette: string }> = {
   'BTS': {
-    palette: 'electric cobalt blue, deep violet, soft lavender gradient',
-    aesthetic: 'iconic stadium K-pop, Ghibli dreamscape wonder',
-    signature: 'beautiful anime male idol with flowing dark hair, purple-tinted stage spotlight, warm expressive eyes, elegant stage outfit with silver details, sea of purple ARMY bombs glowing behind',
+    character: 'a beautiful young Korean male idol with flowing dark hair, soft expressive eyes, wearing an elegant stage outfit with silver details',
+    setting: 'standing in a dreamlike concert stadium surrounded by a sea of glowing purple lightsticks, cherry blossom petals drifting through the air',
+    palette: 'deep violet, cobalt blue, soft lavender, silver shimmer',
   },
   'BLACKPINK': {
-    palette: 'hot pink, jet black, rose gold accents',
-    aesthetic: 'luxury high-fashion anime editorial, fierce idol glamour',
-    signature: 'stunning anime female idol with sleek black hair, rose-gold accessories, confident powerful pose, pink rose petals cascading, black outfit with pink accents',
+    character: 'a stunning young Korean female idol with sleek black hair, rose-gold jewelry, wearing a chic black outfit with pink accents',
+    setting: 'surrounded by cascading pink rose petals on a luxury editorial stage, velvet drapes and golden light behind her',
+    palette: 'hot pink, jet black, rose gold, cream white',
   },
   'aespa': {
-    palette: 'holographic chrome, teal, metallic silver, neon white',
-    aesthetic: 'futuristic AI metaverse anime sci-fi aesthetic',
-    signature: 'anime idol character in chrome holographic outfit, glowing teal eyes, digital particle effects swirling, cyberpunk portal background, sleek futuristic fashion',
+    character: 'a sleek anime female idol in a chrome holographic outfit, glowing teal eyes, elegant futuristic silhouette',
+    setting: 'inside a breathtaking digital metaverse portal, swirling particle effects and neon light grids stretching into infinity',
+    palette: 'holographic silver, teal, metallic white, neon cyan',
   },
   'NewJeans': {
+    character: 'a cute young Korean female idol with soft wavy hair, bright cheerful eyes, wearing a casual Y2K pastel outfit',
+    setting: 'sitting in a cozy sunlit café surrounded by pastel daisies and retro accessories, afternoon light streaming through the window',
     palette: 'baby blue, soft pink, cream white, pastel mint',
-    aesthetic: 'Y2K retro-cute anime, 90s nostalgia',
-    signature: 'cute anime idol with soft pastel outfit, bright cheerful eyes, retro Y2K accessories, pastel daisies in background, youthful natural smile, cozy casual look',
   },
   'IVE': {
-    palette: 'royal blue, pearl white, champagne gold',
-    aesthetic: 'sophisticated luxurious anime idol',
-    signature: 'elegant anime female idol with graceful posture, pearl-white dress with gold trim, confident gaze, sophisticated aura, champagne and royal blue lighting',
+    character: 'an elegant young Korean female idol with graceful posture, wearing a pearl-white dress with champagne gold trim, confident gaze',
+    setting: 'standing on a grand stage bathed in royal blue and golden light, soft mist at her feet and a beautiful aurora sky behind her',
+    palette: 'royal blue, pearl white, champagne gold, soft cream',
   },
   'LE SSERAFIM': {
+    character: 'a fierce young Korean female idol with sharp determined eyes, athletic posture, wearing a crimson and navy performance outfit',
+    setting: 'striking a powerful pose in a dramatic arena with motion-blur energy lines, sparks flying, intense stage lighting behind her',
     palette: 'deep navy, crimson red, stark white, gold',
-    aesthetic: 'fierce empowered anime athlete',
-    signature: 'dynamic anime idol in athletic performance pose, crimson and navy outfit, fierce determined eyes, motion blur energy lines, powerful athletic stance',
   },
   'TWICE': {
-    palette: 'candy rainbow pastels, soft pink, coral orange',
-    aesthetic: 'bright cheerful cute anime idol',
-    signature: 'adorable anime idol with bright colorful outfit, cheerful rainbow bow, warm happy smile, heart-shaped confetti explosion, pastel rainbow stage background',
+    character: 'an adorable young Korean female idol with bright cheerful eyes and a warm smile, wearing a colorful pastel stage outfit',
+    setting: 'surrounded by heart-shaped confetti and rainbow bokeh lights on a vibrant stage, flowers and balloons everywhere',
+    palette: 'candy pink, coral orange, rainbow pastels, soft white',
   },
   'SEVENTEEN': {
-    palette: 'diamond blue, sky blue, silver white',
-    aesthetic: 'synchronized group performance anime scene',
-    signature: 'handsome anime male idol in crisp blue and silver uniform, synchronized ensemble choreography energy, diamond blue sparkles, precise and confident expression',
+    character: 'a handsome young Korean male idol with a precise confident expression, wearing a crisp blue and silver uniform',
+    setting: 'center stage with diamond-blue sparkles and synchronized light formations radiating behind him, grand performance energy',
+    palette: 'diamond blue, sky blue, silver white, pale gold',
   },
   'Stray Kids': {
-    palette: 'dark charcoal, neon green, blood red accents',
-    aesthetic: 'intense dark performance art anime',
-    signature: 'cool anime male idol with edgy dark outfit, sharp intense expression, neon green light accents on black, industrial stage backdrop, powerful performance energy',
+    character: 'a cool Korean male idol with sharp intense eyes, wearing an edgy dark outfit with bold graphic details',
+    setting: 'in an industrial performance space with neon green light slicing through dark fog, raw powerful atmosphere',
+    palette: 'dark charcoal, neon green, deep crimson, black',
   },
   'NCT': {
-    palette: 'neon pink, white, metallic silver, futuristic neon',
-    aesthetic: 'neo-culture futuristic anime idol',
-    signature: 'stylish anime male idol in futuristic metallic outfit, neon-lit neo-city background, sharp cool expression, geometric light patterns, modern urban stage energy',
+    character: 'a stylish young Korean male idol with a sharp cool expression, wearing a futuristic metallic outfit',
+    setting: 'in a glowing neo-city skyline at night, geometric neon light patterns reflecting on wet pavement',
+    palette: 'neon pink, metallic silver, electric white, deep blue',
   },
   'EXO': {
-    palette: 'deep black, imperial gold, celestial deep blue',
-    aesthetic: 'cosmic celestial dramatic anime',
-    signature: 'majestic anime male idol with celestial energy flowing, imperial gold trim outfit, galaxy star background, supernatural glowing aura, dramatic cosmic light beams',
+    character: 'a majestic Korean male idol with a powerful dignified presence, wearing an imperial gold-trimmed dark outfit',
+    setting: 'surrounded by celestial light beams and a galaxy of stars, a supernatural golden aura radiating from behind him',
+    palette: 'deep black, imperial gold, celestial deep blue, starlight white',
   },
   'ENHYPEN': {
-    palette: 'deep purple, blood crimson, pale moonlight silver',
-    aesthetic: 'dark gothic vampire romance anime',
-    signature: 'mysterious anime male idol with dark charismatic expression, moonlit purple and crimson outfit, silver moonbeam highlighting, gothic rose petals, elegant dark romance',
+    character: 'a mysterious young Korean male idol with dark charismatic eyes, wearing an elegant moonlit crimson and purple outfit',
+    setting: 'in a gothic garden at midnight, silver moonbeams through dark trees, dark red roses floating around him',
+    palette: 'deep purple, blood crimson, pale silver, midnight black',
   },
   'TXT': {
-    palette: 'twilight sky blue, soft orange, dreamy purple',
-    aesthetic: 'dark fairytale surreal anime dreamscape',
-    signature: 'dreamy anime male idol surrounded by floating surreal elements, twilight gradient sky, wonder-filled expressive eyes, soft dreamy outfit, magical atmosphere',
+    character: 'a dreamy young Korean male idol with wonder-filled expressive eyes, wearing soft layered outfit in twilight tones',
+    setting: 'in a surreal floating dreamscape where book pages swirl and giant moons glow, twilight sky shifting from orange to purple',
+    palette: 'twilight sky blue, soft burnt orange, dreamy purple, cream',
   },
   'ATEEZ': {
-    palette: 'deep orange, black, pirate gold, crimson',
-    aesthetic: 'theatrical pirate performance art anime',
-    signature: 'charismatic anime male idol in dramatic pirate-inspired costume, gold details, theatrical stage fog, fierce passionate eyes, grand performance energy, crimson lighting',
+    character: 'a charismatic Korean male idol with fierce passionate eyes, wearing a dramatic pirate-inspired costume with gold accents',
+    setting: 'on a theatrical stage with grand crimson lighting and swirling stage fog, dramatic performance energy radiating outward',
+    palette: 'deep orange, black, pirate gold, crimson red',
   },
   'Red Velvet': {
-    palette: 'deep crimson, velvet black, blush gold pink',
-    aesthetic: 'sophisticated dual-concept anime idol',
-    signature: 'charming anime female idol in elegant velvet red outfit, soft glowing eyes, red rose bouquet, dual personality — mature sophistication meets playful charm',
+    character: 'a charming Korean female idol with soft glowing eyes and a sophisticated smile, wearing an elegant velvet red outfit',
+    setting: 'holding a red rose bouquet in a candlelit space with velvet curtains, both playfully sweet and majestically elegant',
+    palette: 'deep crimson, velvet black, blush rose, warm gold',
   },
   'RIIZE': {
-    palette: 'warm sunset orange, fresh green, casual white',
-    aesthetic: 'youthful fresh next-gen anime idol',
-    signature: 'bright anime male idol with fresh natural look, warm sunset glow, casual yet stylish white outfit, natural cheerful expression, golden hour warmth',
+    character: 'a bright fresh-faced Korean male idol with a natural cheerful expression, wearing a casual white outfit',
+    setting: 'outdoors in golden hour light with sunflowers and warm sunset behind him, a fresh youthful energy',
+    palette: 'warm sunset orange, fresh green, white, golden yellow',
   },
   'BIGBANG': {
-    palette: 'chrome silver, electric yellow, black',
-    aesthetic: 'legendary iconic K-pop anime legend',
-    signature: 'legendary anime male idol with iconic cool presence, chrome silver details, electric yellow accent, artistic avant-garde styling, legendary stage aura',
+    character: 'a legendary Korean male idol with an iconic cool avant-garde presence, wearing a bold artistic outfit',
+    setting: 'on a legendary stage with electric yellow light beams and chrome surfaces, artistic and fearless energy',
+    palette: 'chrome silver, electric yellow, black, bold white',
   },
 };
 
@@ -296,76 +296,63 @@ function detectEventType(text: string): string {
   return 'general';
 }
 
-// Event-specific visual scene templates — anime character focused
-const EVENT_VISUALS: Record<string, { scene: string; mood: string; lighting: string }> = {
+// Event-specific visual scene templates for DALL-E 3 (natural language)
+const EVENT_VISUALS: Record<string, { scene: string; atmosphere: string }> = {
   comeback: {
-    scene: 'anime idol standing center stage in new concept outfit, holographic album art floating behind, theatrical fog swirling at feet',
-    mood: 'electric anticipation, confident debut energy, exciting transformation',
-    lighting: 'dramatic spotlight beam from above, vivid neon accent lights, theatrical smoke glow',
+    scene: 'standing center stage in a bold new concept outfit, holographic album art glowing in the air behind them, theatrical mist swirling at their feet',
+    atmosphere: 'electric anticipation, vivid neon accent lights, dramatic spotlight beam piercing through stage smoke',
   },
   concert: {
-    scene: 'anime idol performing to massive crowd, dynamic performance pose, audience lightsticks glowing in waves',
-    mood: 'euphoric crowd energy, electric connection between idol and fans',
-    lighting: 'sea of glowing lightsticks, laser grids overhead, LED stage explosion behind performer',
+    scene: 'performing to a massive euphoric crowd, striking a dynamic pose on stage, an ocean of colorful lightsticks glowing below',
+    atmosphere: 'euphoric energy and connection, laser grids overhead, LED stage explosions, the crowd is a sea of light',
   },
   award: {
-    scene: 'anime idol holding gleaming golden trophy on grand ceremony stage, emotional expression of gratitude',
-    mood: 'prestigious triumph, deeply emotional, monumental achievement',
-    lighting: 'golden confetti frozen mid-air, single warm spotlight, hall of fame glow',
+    scene: 'holding a gleaming golden trophy on a grand award ceremony stage, eyes glistening with emotion and gratitude',
+    atmosphere: 'prestigious triumph, golden confetti frozen mid-air, a single warm spotlight, an overwhelming sense of achievement',
   },
   drama: {
-    scene: 'anime character in Korean drama scene, Han River Seoul at dusk, emotional cinematic moment',
-    mood: 'romantic tension, emotional depth, heart-stirring',
-    lighting: 'golden hour warm glow, soft film grain, widescreen cinematic framing',
+    scene: 'in a cinematic Korean drama moment by the Han River at dusk, Seoul city lights reflecting on the water',
+    atmosphere: 'romantic tension and emotional depth, golden hour warm tones, soft film grain, widescreen cinematic framing',
   },
   romance: {
-    scene: 'two anime characters in romantic Seoul night setting, rooftop café, Han River below',
-    mood: 'warm, intimate, magical, breathtaking',
-    lighting: 'soft bokeh city lights, amber and pink warm glow, starlight',
+    scene: 'in a romantic rooftop setting above Seoul at night, warm café lights below and the Han River visible in the distance',
+    atmosphere: 'warm and intimate, soft bokeh city lights, amber and pink glow, stars emerging in the twilight sky',
   },
   military: {
-    scene: 'anime idol in dignified farewell scene, cherry blossoms falling, fans cheering',
-    mood: 'bittersweet, proud, honorable departure',
-    lighting: 'warm dawn golden light, soft morning mist, emotional lighting',
+    scene: 'in a dignified bittersweet farewell scene, cherry blossom petals drifting down, surrounded by supportive fans',
+    atmosphere: 'bittersweet yet proud, warm dawn golden light, soft morning mist, deeply emotional and honorable',
   },
   debut: {
-    scene: 'fresh-faced anime idol standing on brand new stage at sunrise, nervous and excited expression',
-    mood: 'fresh start, full of promise, heartwarming new beginning',
-    lighting: 'dawn light rays bursting through, vibrant sunrise gradient, hope-filled glow',
+    scene: 'standing at the edge of a brand new stage at sunrise, expression full of nervous excitement and bright hope',
+    atmosphere: 'dawn light rays bursting through, vibrant sunrise gradient, a sense of limitless possibility',
   },
   birthday: {
-    scene: 'anime idol surprised by birthday celebration, colorful confetti and balloons, joyful expression',
-    mood: 'genuinely joyful, warm, festive and sweet',
-    lighting: 'warm golden sparkle glow, colorful confetti catching light, celebration bokeh',
+    scene: 'joyfully surprised by a festive birthday celebration, colorful confetti raining down, cheerful balloons all around',
+    atmosphere: 'genuinely joyful and warm, golden sparkle glow, colorful bokeh light, sweet festive celebration energy',
   },
   fashion: {
-    scene: 'anime idol in stunning fashion ensemble on red carpet, confident glamorous pose',
-    mood: 'glamorous, sophisticated, powerfully elegant',
-    lighting: 'dramatic front spotlights, fashion photographer flashes, luxurious velvet background',
+    scene: 'posing confidently on a luxury red carpet in a stunning fashion-forward ensemble, cameras flashing',
+    atmosphere: 'glamorous and powerful, dramatic front spotlights, luxurious velvet and marble backdrop, high-fashion editorial mood',
   },
   audition: {
-    scene: 'determined anime trainee in dance practice studio, intense focus, mirror reflection',
-    mood: 'focused, determined, competitive fire in eyes',
-    lighting: 'single beam spotlight on dancer, intense concentration, mirrored wall reflections',
+    scene: 'in a dance practice studio, reflected in the wall mirror, intense focused expression, pushing through exhaustion',
+    atmosphere: 'determined and focused, a single beam spotlight, high contrast shadows, raw competitive energy',
   },
   scandal: {
-    scene: 'anime idol with contemplative expression, dramatic atmospheric setting, emotional introspection',
-    mood: 'tense, uncertain, searching for resolution',
-    lighting: 'chiaroscuro side-lighting, deep meaningful shadows, moody cool tones',
+    scene: 'alone in a quiet contemplative moment, gazing out a rain-streaked window in introspection',
+    atmosphere: 'tense and uncertain, moody chiaroscuro side lighting, deep meaningful shadows, cool blue-grey tones',
   },
   chart: {
-    scene: 'anime idol celebrating milestone achievement, neon chart numbers as backdrop, victorious expression',
-    mood: 'triumphant, celebratory, record-breaking joy',
-    lighting: 'neon celebratory streams, colorful fireworks digital art, vibrant achievement glow',
+    scene: 'celebrating a record-breaking milestone with joy, numbers and stars exploding around them in a victorious moment',
+    atmosphere: 'triumphant and celebratory, colorful digital fireworks, neon streaming lights, vibrant achievement energy',
   },
   general: {
-    scene: 'charismatic anime K-pop idol in performance on spectacular stage, dynamic pose full of energy',
-    mood: 'energetic, vibrant, captivating modern K-pop presence',
-    lighting: 'rich saturated performance lighting, high contrast spotlight, stage energy',
+    scene: 'striking a charismatic dynamic pose on a spectacular K-pop performance stage, full of magnetic energy',
+    atmosphere: 'energetic and captivating, rich saturated stage lighting, high contrast dramatic spotlight, vibrant K-pop presence',
   },
 };
 
-// Build a rich, context-aware image prompt from article data
+// Build a rich, context-aware DALL-E 3 image prompt (natural language paragraph form)
 function buildImagePrompt(title: string, summary: string, category: string): string {
   const combinedText = `${title} ${summary}`;
   const group = extractKpopGroup(combinedText);
@@ -374,34 +361,43 @@ function buildImagePrompt(title: string, summary: string, category: string): str
   const groupVis = group ? GROUP_VISUALS[group] : null;
   const eventVis = EVENT_VISUALS[eventType] || EVENT_VISUALS['general'];
 
-  // Build style prefix — Studio Ghibli / Korean anime aesthetic with idol characters
-  const stylePrefix = 'masterpiece, best quality, Studio Ghibli style, anime illustration, beautiful Korean idol character, soft cel-shading, Makoto Shinkai visual novel art, luminous warm lighting, highly detailed anime art, expressive character design';
+  // Base style — watercolor sketch anime, matching the reference image aesthetic
+  const styleDescription = 'A beautiful watercolor illustration with soft visible pencil and ink sketch lines underneath the washes, in the style of Studio Ghibli and Makoto Shinkai anime. Soft cel-shading, luminous warm lighting, delicate bokeh particles, and a dreamy ethereal atmosphere.';
 
-  // Build color palette
+  // Character description
+  const characterDesc = groupVis
+    ? `The scene features ${groupVis.character}.`
+    : (() => {
+        const catChars: Record<string, string> = {
+          music: 'The scene features a beautiful young Korean female idol with long flowing hair, soft expressive eyes, and a graceful elegant pose.',
+          drama: 'The scene features a beautiful Korean actress with expressive eyes and elegant presence, in a cinematic K-drama moment.',
+          celebrity: 'The scene features a charismatic young Korean idol with bright expressive eyes, warm smile, and stylish presence.',
+          fashion: 'The scene features a stunning young Korean female idol with perfect posture, glamorous outfit, and confident grace.',
+          variety: 'The scene features a cheerful young Korean idol with a bright infectious smile and playful energetic personality.',
+          news: 'The scene features a poised young Korean idol with calm expressive eyes and dignified presence.',
+        };
+        return catChars[category] || 'The scene features a beautiful young Korean idol with luminous expressive eyes, flowing hair catching the light, and an elegant captivating presence.';
+      })();
+
+  // Setting and context
+  const settingDesc = groupVis
+    ? `They are ${eventVis.scene}, set within ${groupVis.setting}.`
+    : `They are ${eventVis.scene}.`;
+
+  // Color and atmosphere
   const palette = groupVis ? groupVis.palette : (() => {
     const catPalettes: Record<string, string> = {
-      music: 'electric pink, deep purple, neon blue',
-      drama: 'warm golden amber, soft teal, cinematic orange',
-      celebrity: 'rose gold, champagne, luxury cream',
-      fashion: 'bold editorial contrasts, rich jewel tones',
-      variety: 'bright primary colors, playful neon rainbow',
-      news: 'bold blue, white, silver, professional',
+      music: 'electric pink, deep purple, neon blue with golden highlights',
+      drama: 'warm golden amber, soft teal, cinematic warm orange',
+      celebrity: 'rose gold, champagne, soft cream white',
+      fashion: 'rich jewel tones with bold editorial contrasts',
+      variety: 'bright rainbow pastels, warm cheerful colors',
+      news: 'warm golden tones, soft blue, elegant silver',
     };
-    return catPalettes[category] || 'vibrant K-pop colors, neon accents, rich contrast';
+    return catPalettes[category] || 'warm golden tones, soft pink and lavender, luminous whites';
   })();
 
-  // Build aesthetic descriptor
-  const aesthetic = groupVis
-    ? `${groupVis.aesthetic}, ${eventVis.mood}`
-    : eventVis.mood;
-
-  // Build signature element
-  const signature = groupVis
-    ? `${groupVis.signature}, ${eventVis.scene}`
-    : eventVis.scene;
-
-  // Final composed prompt — anime characters as focal point
-  return `${stylePrefix}, ${signature}, ${aesthetic}, color palette: ${palette}, ${eventVis.lighting}, 16:9 cinematic widescreen, idol-like anime protagonist, beautiful expressive eyes, no text, no watermark`;
+  return `${styleDescription} ${characterDesc} ${settingDesc} The atmosphere is ${eventVis.atmosphere}. Color palette: ${palette}. Natural elements like soft flower petals, glowing light particles, or gentle bokeh enhance the scene. Widescreen 16:9 cinematic composition. No text, no watermarks, no logos.`;
 }
 
 // Generate context-aware image prompt (AI-enhanced)
@@ -414,23 +410,23 @@ async function generateImagePrompt(
   const basePrompt = buildImagePrompt(title, summary, category);
 
   try {
-    // Use LLM to creatively enhance the structured prompt
+    // Use LLM to creatively enhance the structured prompt for DALL-E 3
     const response = await openai.chat.completions.create({
       model: 'llama-3.3-70b-versatile',
       messages: [
         {
           role: 'system',
-          content: `You are an expert AI image prompt engineer for K-Pop news thumbnails in Studio Ghibli / anime style using Stable Diffusion XL.
-You will receive a structured base prompt and a news article. Your job is to ENHANCE and REFINE the prompt with 2-3 specific visual details.
+          content: `You are an expert image prompt writer for DALL-E 3, specializing in K-Pop news thumbnails with a Studio Ghibli / Makoto Shinkai watercolor anime aesthetic.
+
+You will receive a base prompt and a news article. Your job is to ADD 1-2 specific visual details that make the image feel connected to this specific news story.
 
 RULES:
-- Keep the base prompt structure intact, add specific details at the end
-- FOCUS on anime-style idol characters: describe outfit color, hair style/color, pose, expression
-- Characters should look like stylized anime versions of K-pop idols — NOT real photos
-- Add K-pop visual context: stage, lightsticks, fan banners, performance energy
-- Use Ghibli/anime descriptors: "soft glowing eyes", "flowing hair catching stage light", "dynamic idol pose"
-- Keep total output under 150 words
-- Output ONLY the enhanced prompt, nothing else`
+- Write in natural English sentences (NOT comma-separated tags)
+- The style is watercolor illustration with pencil sketch lines — NOT photorealistic
+- The character should feel like a beautiful anime interpretation, NOT a real person
+- Add one specific detail about: the character's expression/emotion, a unique visual element from the story, or a mood-enhancing environmental detail
+- Keep the total output under 180 words
+- Output ONLY the complete enhanced prompt, nothing else`
         },
         {
           role: 'user',
@@ -439,11 +435,11 @@ RULES:
 Article title: ${title}
 Summary: ${summary.slice(0, 200)}
 
-Add 2-3 specific visual details from this article to the base prompt. Output the complete enhanced prompt only.`
+Add 1-2 specific visual details inspired by this article. Output the complete enhanced prompt only.`
         }
       ],
-      temperature: 0.6,
-      max_tokens: 220,
+      temperature: 0.65,
+      max_tokens: 260,
     });
 
     const enhanced = response.choices[0]?.message?.content?.trim();
@@ -502,26 +498,73 @@ async function downloadAndSaveImage(
 // Negative prompt for SDXL — anime style, NO photorealism, clearly illustrated
 const SDXL_NEGATIVE_PROMPT = '(worst quality, low quality:1.4), photorealistic, photography, real photograph, live action photo, (3D render:1.3), western cartoon, ugly, deformed, bad anatomy, extra limbs, blurry, watermark, text, logo, signature, duplicate, nsfw, explicit';
 
-// Generate AI image using Cloudflare Workers AI (SDXL Lightning)
+// Generate AI image using Pollinations.ai — completely free, no API key, Flux model
+async function generateAIImagePollinations(imagePrompt: string, slug: string): Promise<string | undefined> {
+  try {
+    console.log(`  Generating image with Pollinations.ai (Flux, free)...`);
+
+    // Pollinations works best with concise prompts — extract key visual sentence
+    const compactPrompt = imagePrompt
+      .replace(/^A beautiful watercolor illustration[^.]+\.\s*/i, '')  // strip style prefix (handled by model keyword)
+      .replace(/No text[^.]*\.\s*$/i, '')
+      .trim()
+      .slice(0, 500);
+
+    const fullPrompt = `watercolor illustration, Studio Ghibli anime style, soft pencil sketch lines, ${compactPrompt}`;
+    const encoded = encodeURIComponent(fullPrompt);
+    const seed = Math.floor(Math.random() * 999999);
+    const url = `https://image.pollinations.ai/prompt/${encoded}?width=1792&height=1024&model=flux&nologo=true&seed=${seed}`;
+
+    const response = await fetch(url, { timeout: 60000 } as RequestInit);
+    if (!response.ok) {
+      console.error(`  Pollinations error: ${response.status}`);
+      return undefined;
+    }
+
+    const contentType = response.headers.get('content-type') || '';
+    if (!contentType.startsWith('image/')) {
+      console.error(`  Pollinations returned non-image content: ${contentType}`);
+      return undefined;
+    }
+
+    const imageBuffer = await response.buffer();
+    return saveGeneratedImageBuffer(imageBuffer, slug);
+  } catch (error: unknown) {
+    const msg = error instanceof Error ? error.message : String(error);
+    console.error(`  Pollinations error: ${msg.slice(0, 120)}`);
+    return undefined;
+  }
+}
+
+// Generate AI image: Pollinations (free Flux) → Cloudflare SDXL → flux-1-schnell
 async function generateAIImage(
   category: string,
   title: string,
   summary: string,
   slug: string
 ): Promise<string | undefined> {
+  console.log(`  Building context-aware image prompt...`);
+  const imagePrompt = await generateImagePrompt(title, summary, category);
+  console.log(`  Image prompt: ${imagePrompt.slice(0, 120)}...`);
+
+  // 1st choice: Pollinations.ai — free, no API key, Flux model
+  const result = await generateAIImagePollinations(imagePrompt, slug);
+  if (result) return result;
+
+  console.log('  Pollinations failed, falling back to Cloudflare SDXL...');
+
+  // 2nd choice: Cloudflare SDXL Lightning
   const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
   const apiToken = process.env.CLOUDFLARE_API_TOKEN;
 
   if (!accountId || !apiToken) {
-    console.log('  Cloudflare credentials not configured, skipping image generation');
+    console.log('  No fallback credentials configured, skipping.');
     return undefined;
   }
 
   try {
-    console.log(`  Building context-aware image prompt...`);
-    const imagePrompt = await generateImagePrompt(title, summary, category);
-    console.log(`  Image prompt: ${imagePrompt.slice(0, 100)}...`);
     console.log(`  Generating image with Cloudflare Workers AI (SDXL Lightning)...`);
+    const sdxlPrompt = `masterpiece, best quality, Studio Ghibli anime style, watercolor illustration, ${imagePrompt.replace(/[.!?]/g, ',').slice(0, 400)}`;
 
     const response = await fetch(
       `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/@cf/bytedance/stable-diffusion-xl-lightning`,
@@ -532,7 +575,7 @@ async function generateAIImage(
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          prompt: imagePrompt,
+          prompt: sdxlPrompt,
           negative_prompt: SDXL_NEGATIVE_PROMPT,
           num_steps: 4,
           guidance: 0,
@@ -545,27 +588,21 @@ async function generateAIImage(
     if (!response.ok) {
       const errorText = await response.text();
       console.error(`  SDXL Lightning error: ${response.status} — ${errorText.slice(0, 100)}`);
-      console.log('  Falling back to flux-1-schnell...');
       return generateAIImageFallback(imagePrompt, slug);
     }
 
-    // SDXL Lightning returns raw binary image — handle both binary and JSON responses
     const contentType = response.headers.get('content-type') || '';
     if (contentType.includes('image/') || contentType.includes('application/octet-stream')) {
-      // Raw binary image response
       const imageBuffer = await response.buffer();
       return saveGeneratedImageBuffer(imageBuffer, slug);
     }
 
-    // JSON response (base64 encoded)
-    const result = await response.json() as { success: boolean; result?: { image: string } };
-
-    if (!result.success || !result.result?.image) {
-      console.error('  SDXL Lightning returned no image, falling back...');
+    const result2 = await response.json() as { success: boolean; result?: { image: string } };
+    if (!result2.success || !result2.result?.image) {
       return generateAIImageFallback(imagePrompt, slug);
     }
 
-    return saveGeneratedImage(result.result.image, slug);
+    return saveGeneratedImage(result2.result.image, slug);
 
   } catch (error) {
     console.error('  Error generating AI image:', error);
@@ -766,11 +803,12 @@ const CATEGORIES = ['news', 'music', 'celebrity', 'audition', 'fashion', 'variet
 const CONTENT_DIR = path.join(process.cwd(), 'content/posts');
 const PROCESSED_FILE = path.join(process.cwd(), 'content/.processed.json');
 
-// Initialize Groq via OpenAI-compatible endpoint
+// Initialize Groq via OpenAI-compatible endpoint (for text/LLM tasks)
 const openai = new OpenAI({
   apiKey: process.env.GROQ_API_KEY || '',
   baseURL: 'https://api.groq.com/openai/v1',
 });
+
 
 // Utility functions
 function generateSlug(title: string): string {
