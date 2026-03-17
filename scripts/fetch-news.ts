@@ -8,6 +8,8 @@ import sharp from 'sharp';
 import * as cheerio from 'cheerio';
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const fetch = require('node-fetch');
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const GIF = require('sharp-gif2');
 
 // Types for extracted media
 interface ExtractedMedia {
@@ -608,6 +610,10 @@ async function saveGeneratedImageBuffer(imageBuffer: Buffer, slug: string): Prom
 
     const publicPath = `/images/posts/${filename}`;
     console.log(`  Image saved (binary): ${publicPath}`);
+
+    // Generate animated WebP in background (non-blocking)
+    createAnimatedThumbnail(outputPath, slug).catch(() => {});
+
     return publicPath;
   } catch (error) {
     console.error('  Error saving binary image:', error);
@@ -632,9 +638,61 @@ async function saveGeneratedImage(base64Image: string, slug: string): Promise<st
 
     const publicPath = `/images/posts/${filename}`;
     console.log(`  Image saved: ${publicPath}`);
+
+    // Generate animated WebP in background (non-blocking)
+    createAnimatedThumbnail(outputPath, slug).catch(() => {});
+
     return publicPath;
   } catch (error) {
     console.error('  Error saving image:', error);
+    return undefined;
+  }
+}
+
+// Create animated WebP thumbnail using Ken Burns effect
+// Returns path to animated WebP (saves alongside static WebP)
+async function createAnimatedThumbnail(staticWebpPath: string, slug: string): Promise<string | undefined> {
+  try {
+    const OUTPUT_W = 1200;
+    const OUTPUT_H = 630;
+    const NUM_FRAMES = 16;
+    const FRAME_DELAY = 120; // ms per frame → ~2s full loop
+
+    // Load and resize base image slightly larger for Ken Burns headroom
+    const scale = 1.07;
+    const scaledW = Math.round(OUTPUT_W * scale);
+    const scaledH = Math.round(OUTPUT_H * scale);
+
+    const baseBuffer = await sharp(staticWebpPath)
+      .resize(scaledW, scaledH, { fit: 'fill', kernel: sharp.kernel.lanczos3 })
+      .toBuffer();
+
+    // Build frames: subtle pan + zoom (upper-left → lower-right)
+    const sharpFrames = Array.from({ length: NUM_FRAMES }, (_, i) => {
+      const t = i / (NUM_FRAMES - 1); // 0 → 1
+      const left = Math.round(t * (scaledW - OUTPUT_W));
+      const top  = Math.round(t * (scaledH - OUTPUT_H));
+      return sharp(baseBuffer).extract({ left, top, width: OUTPUT_W, height: OUTPUT_H });
+    });
+
+    // Combine into animated WebP via sharp-gif2
+    const animated = await GIF
+      .createGif({ delay: FRAME_DELAY, repeat: 0, width: OUTPUT_W, height: OUTPUT_H })
+      .addFrame(sharpFrames)
+      .toSharp();
+
+    const imagesDir = path.join(process.cwd(), 'public/images/posts');
+    const animFilename = `${slug}-animated.webp`;
+    const animPath = path.join(imagesDir, animFilename);
+
+    await animated.webp({ loop: 0 }).toFile(animPath);
+
+    const publicPath = `/images/posts/${animFilename}`;
+    const fileSizeKb = Math.round(fs.statSync(animPath).size / 1024);
+    console.log(`  Animated WebP saved: ${publicPath} (${fileSizeKb}KB, ${NUM_FRAMES} frames)`);
+    return publicPath;
+  } catch (error) {
+    console.error('  Error creating animated thumbnail:', error);
     return undefined;
   }
 }

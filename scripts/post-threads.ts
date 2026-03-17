@@ -341,10 +341,11 @@ async function postToThreads(article: ArticleMetadata): Promise<boolean> {
 
   const text = createPostText(article);
 
-  // Get full image URL (must be publicly accessible)
+  // Prefer animated WebP for higher engagement; fall back to static WebP
   let imageUrl: string | undefined;
   if (article.thumbnail) {
-    imageUrl = `${SITE_URL}${article.thumbnail}`;
+    const animatedPath = article.thumbnail.replace(/\.webp$/, '-animated.webp');
+    imageUrl = `${SITE_URL}${animatedPath}`;
   }
 
   // Step 1: Try with image first

@@ -180,7 +180,15 @@ ${hashtags}`;
 
 async function postToThreads(data: ArticleData, slug: string): Promise<boolean> {
   const text = createThreadsText(data, slug);
-  const imageUrl = data.thumbnail ? `${SITE_URL}${data.thumbnail}` : undefined;
+  // Prefer animated WebP for Threads — higher visual engagement
+  const animatedThumbnail = data.thumbnail
+    ? data.thumbnail.replace(/\.webp$/, '-animated.webp')
+    : undefined;
+  const imageUrl = animatedThumbnail
+    ? `${SITE_URL}${animatedThumbnail}`
+    : data.thumbnail
+      ? `${SITE_URL}${data.thumbnail}`
+      : undefined;
 
   const params: Record<string, string> = {
     media_type: imageUrl ? 'IMAGE' : 'TEXT',
