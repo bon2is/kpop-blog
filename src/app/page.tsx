@@ -29,13 +29,14 @@ export default function HomePage() {
         {/* ── Hero Section ────────────────────────────────── */}
         {featuredArticle && (
           <section className="mb-10">
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
-              {/* Featured — 2/3 width */}
-              <div className="lg:col-span-2">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 items-start">
+              {/* Left col: Featured article + Chart Widget filling the gap */}
+              <div className="lg:col-span-2 flex flex-col gap-5">
                 <ArticleCard article={featuredArticle} featured />
+                <ChartWidget />
               </div>
 
-              {/* Right stack — 3 cards fills the height */}
+              {/* Right stack */}
               <div className="flex flex-col gap-4">
                 {heroSideArticles.map((article) => (
                   <ArticleCard key={article.slug} article={article} />
@@ -44,9 +45,6 @@ export default function HomePage() {
             </div>
           </section>
         )}
-
-        {/* ── Chart Widget ─────────────────────────────────── */}
-        <ChartWidget />
 
         {/* ── Ad ──────────────────────────────────────────── */}
         <AdBanner className="mb-10" />
