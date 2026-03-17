@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T16:44:08.978Z",
+  "updatedAt": "2026-03-17T17:17:35.395Z",
   "unified": [
     {
       "rank": 1,
@@ -283,6 +283,18 @@
     },
     {
       "rank": 23,
+      "title": "like JENNIE",
+      "artist": "제니 (JENNIE)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/117/30/946/11730946_20250307173452_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%A0%9C%EB%8B%88%20like%20JENNIE%20MV%20official",
+      "score": 52.5,
+      "chartRanks": {
+        "melon": 26,
+        "bugs": 26
+      }
+    },
+    {
+      "rank": 24,
       "title": "너의 모든 순간",
       "artist": "성시경",
       "thumbnail": "https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/120/quality/80/optimize",
@@ -291,18 +303,6 @@
       "chartRanks": {
         "melon": 17,
         "genie": 43
-      }
-    },
-    {
-      "rank": 24,
-      "title": "like JENNIE",
-      "artist": "제니 (JENNIE)",
-      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/117/30/946/11730946_20250307173452_500.jpg/melon/resize/120/quality/80/optimize",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%A0%9C%EB%8B%88%20like%20JENNIE%20MV%20official",
-      "score": 51.2,
-      "chartRanks": {
-        "melon": 27,
-        "bugs": 26
       }
     },
     {
@@ -408,18 +408,6 @@
     },
     {
       "rank": 34,
-      "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
-      "artist": "너드커넥션 (Nerd Connection)",
-      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/113/05/759/11305759_20230814111006_500.jpg/melon/resize/120/quality/80/optimize",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20%EA%B7%B8%EB%8C%80%EB%A7%8C%20%EC%9E%88%EB%8B%A4%EB%A9%B4%20(%EC%97%AC%EB%A6%84%EB%82%A0%20%EC%9A%B0%EB%A6%AC%20X%20%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20(Nerd%20Connection))%20MV%20official",
-      "score": 43.1,
-      "chartRanks": {
-        "melon": 40,
-        "bugs": 15
-      }
-    },
-    {
-      "rank": 35,
       "title": "비가 와서",
       "artist": "임영웅",
       "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
@@ -430,7 +418,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "HOME SWEET HOME (feat. 태양, 대성)",
       "artist": "G-DRAGON",
       "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/47/670/11647670_20241121150855_500.jpg/melon/resize/120/quality/80/optimize",
@@ -442,7 +430,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "돌아보지 마세요",
       "artist": "임영웅",
       "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
@@ -450,6 +438,18 @@
       "score": 42,
       "chartRanks": {
         "genie": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+      "artist": "너드커넥션 (Nerd Connection)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/113/05/759/11305759_20230814111006_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20%EA%B7%B8%EB%8C%80%EB%A7%8C%20%EC%9E%88%EB%8B%A4%EB%A9%B4%20(%EC%97%AC%EB%A6%84%EB%82%A0%20%EC%9A%B0%EB%A6%AC%20X%20%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20(Nerd%20Connection))%20MV%20official",
+      "score": 41.8,
+      "chartRanks": {
+        "melon": 41,
+        "bugs": 15
       }
     },
     {
@@ -488,6 +488,18 @@
     },
     {
       "rank": 41,
+      "title": "청춘만화",
+      "artist": "이무진",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/08/521/11608521_20241004161722_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EB%AC%B4%EC%A7%84%20%EC%B2%AD%EC%B6%98%EB%A7%8C%ED%99%94%20MV%20official",
+      "score": 39.1,
+      "chartRanks": {
+        "melon": 40,
+        "bugs": 20
+      }
+    },
+    {
+      "rank": 42,
       "title": "들꽃이 될게요",
       "artist": "임영웅",
       "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
@@ -498,7 +510,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "우리에게 안녕",
       "artist": "임영웅",
       "thumbnail": "https://www.genie.co.kr//image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/661/053/86661053_1756362993946_1_140x140.JPG/dims/resize/Q_80,0",
@@ -506,18 +518,6 @@
       "score": 38,
       "chartRanks": {
         "genie": 13
-      }
-    },
-    {
-      "rank": 43,
-      "title": "청춘만화",
-      "artist": "이무진",
-      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/08/521/11608521_20241004161722_500.jpg/melon/resize/120/quality/80/optimize",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EB%AC%B4%EC%A7%84%20%EC%B2%AD%EC%B6%98%EB%A7%8C%ED%99%94%20MV%20official",
-      "score": 37.8,
-      "chartRanks": {
-        "melon": 41,
-        "bugs": 20
       }
     },
     {
@@ -592,14 +592,14 @@
     },
     {
       "rank": 50,
-      "title": "천상연",
-      "artist": "이창섭",
-      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/114/21/941/11421941_20240220105008_500.jpg/melon/resize/120/quality/80/optimize",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B0%BD%EC%84%AD%20%EC%B2%9C%EC%83%81%EC%97%B0%20MV%20official",
-      "score": 34.9,
+      "title": "Whiplash",
+      "artist": "aespa",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/20/540/11620540_20241018183208_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20Whiplash%20MV%20official",
+      "score": 34.5,
       "chartRanks": {
-        "melon": 26,
-        "bugs": 48
+        "melon": 30,
+        "bugs": 42
       }
     }
   ],
@@ -781,17 +781,17 @@
     },
     {
       "rank": 26,
-      "title": "천상연",
-      "artist": "이창섭",
-      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/114/21/941/11421941_20240220105008_500.jpg/melon/resize/120/quality/80/optimize",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B0%BD%EC%84%AD%20%EC%B2%9C%EC%83%81%EC%97%B0%20MV%20official"
-    },
-    {
-      "rank": 27,
       "title": "like JENNIE",
       "artist": "제니 (JENNIE)",
       "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/117/30/946/11730946_20250307173452_500.jpg/melon/resize/120/quality/80/optimize",
       "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%A0%9C%EB%8B%88%20like%20JENNIE%20MV%20official"
+    },
+    {
+      "rank": 27,
+      "title": "천상연",
+      "artist": "이창섭",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/114/21/941/11421941_20240220105008_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B0%BD%EC%84%AD%20%EC%B2%9C%EC%83%81%EC%97%B0%20MV%20official"
     },
     {
       "rank": 28,
@@ -879,17 +879,17 @@
     },
     {
       "rank": 40,
-      "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
-      "artist": "너드커넥션 (Nerd Connection)",
-      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/113/05/759/11305759_20230814111006_500.jpg/melon/resize/120/quality/80/optimize",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20%EA%B7%B8%EB%8C%80%EB%A7%8C%20%EC%9E%88%EB%8B%A4%EB%A9%B4%20(%EC%97%AC%EB%A6%84%EB%82%A0%20%EC%9A%B0%EB%A6%AC%20X%20%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20(Nerd%20Connection))%20MV%20official"
-    },
-    {
-      "rank": 41,
       "title": "청춘만화",
       "artist": "이무진",
       "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/116/08/521/11608521_20241004161722_500.jpg/melon/resize/120/quality/80/optimize",
       "youtubeUrl": "https://www.youtube.com/results?search_query=%EC%9D%B4%EB%AC%B4%EC%A7%84%20%EC%B2%AD%EC%B6%98%EB%A7%8C%ED%99%94%20MV%20official"
+    },
+    {
+      "rank": 41,
+      "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+      "artist": "너드커넥션 (Nerd Connection)",
+      "thumbnail": "https://cdnimg.melon.co.kr/cm2/album/images/113/05/759/11305759_20230814111006_500.jpg/melon/resize/120/quality/80/optimize",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20%EA%B7%B8%EB%8C%80%EB%A7%8C%20%EC%9E%88%EB%8B%A4%EB%A9%B4%20(%EC%97%AC%EB%A6%84%EB%82%A0%20%EC%9A%B0%EB%A6%AC%20X%20%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98%20(Nerd%20Connection))%20MV%20official"
     },
     {
       "rank": 42,

@@ -229,28 +229,4 @@
       <news:keywords>ITZY, IVE, Yena, IZ*ONE, Amazing Saturday</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-15T16:46:05.000Z</news:publication_date>
-      <news:title>BELIFT LAB Reaffirms Heeseung Is Not Returning To ENHYPEN</news:title>
-      <news:keywords>ENHYPEN, Debut, Heeseung, Solo Debut, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/belift-lab-reaffirms-heeseungs-departure-from-enhypen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-15T16:46:05.000Z</news:publication_date>
-      <news:title>BELIFT LAB Reaffirms Heeseung&apos;s Departure from ENHYPEN</news:title>
-      <news:keywords>ENHYPEN, Debut, Heeseung, Solo Debut, K-Pop</news:keywords>
-    </news:news>
-  </url>
 </urlset>
