@@ -55,20 +55,11 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             )}
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
 
-            {/* Image source caption */}
-            {article.thumbnail && (
-              <div className="absolute top-4 right-4 flex items-center gap-1.5 px-3 py-1.5 bg-black/40 backdrop-blur-sm rounded-full text-white text-xs">
-                {article.isAIGenerated ? (
-                  <>
-                    <Sparkles className="w-3 h-3" />
-                    AI Generated Image
-                  </>
-                ) : (
-                  <>
-                    <ExternalLink className="w-3 h-3" />
-                    Image from {article.source}
-                  </>
-                )}
+            {/* Image source caption — minimal */}
+            {article.thumbnail && article.isAIGenerated && (
+              <div className="absolute bottom-2 right-2 flex items-center gap-1 px-1.5 py-0.5 bg-black/30 rounded text-white/60 text-[9px]">
+                <Sparkles className="w-2 h-2" />
+                AI
               </div>
             )}
           </div>
@@ -118,11 +109,11 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
         </div>
         {/* Image source caption */}
         {article.thumbnail && (
-          <div className="px-4 py-1.5 bg-gray-100 border-b border-gray-200">
+          <div className="px-3 py-1 bg-gray-50 border-b border-gray-100">
             {article.isAIGenerated ? (
-              <span className="flex items-center gap-1 text-xs text-gray-500">
-                <Sparkles className="w-3 h-3" />
-                AI Generated Image
+              <span className="flex items-center gap-1 text-[10px] text-gray-400">
+                <Sparkles className="w-2.5 h-2.5" />
+                AI image
               </span>
             ) : (
               <a

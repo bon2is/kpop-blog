@@ -361,8 +361,8 @@ function buildImagePrompt(title: string, summary: string, category: string): str
   const groupVis = group ? GROUP_VISUALS[group] : null;
   const eventVis = EVENT_VISUALS[eventType] || EVENT_VISUALS['general'];
 
-  // Base style — watercolor sketch anime, matching the reference image aesthetic
-  const styleDescription = 'A beautiful watercolor illustration with soft visible pencil and ink sketch lines underneath the washes, in the style of Studio Ghibli and Makoto Shinkai anime. Soft cel-shading, luminous warm lighting, delicate bokeh particles, and a dreamy ethereal atmosphere.';
+  // Base style — bright, cheerful watercolor anime aesthetic
+  const styleDescription = 'A beautiful bright watercolor illustration with soft pencil sketch lines, in the style of Studio Ghibli anime. High-key warm lighting, vivid cheerful colors, soft cel-shading, glowing bokeh particles. The character has a bright warm smile and joyful, expressive eyes. Overall mood is uplifting, vibrant, and full of life.';
 
   // Character description
   const characterDesc = groupVis
@@ -397,7 +397,7 @@ function buildImagePrompt(title: string, summary: string, category: string): str
     return catPalettes[category] || 'warm golden tones, soft pink and lavender, luminous whites';
   })();
 
-  return `${styleDescription} ${characterDesc} ${settingDesc} The atmosphere is ${eventVis.atmosphere}. Color palette: ${palette}. Natural elements like soft flower petals, glowing light particles, or gentle bokeh enhance the scene. Widescreen 16:9 cinematic composition. No text, no watermarks, no logos.`;
+  return `${styleDescription} ${characterDesc} ${settingDesc} The atmosphere is ${eventVis.atmosphere}. Color palette: ${palette}. Bright sunlight or stage glow fills the scene. Natural elements like soft flower petals and warm bokeh lights add cheer. Widescreen 16:9 cinematic composition. No text, no watermarks, no logos.`;
 }
 
 // Generate context-aware image prompt (AI-enhanced)
@@ -496,7 +496,7 @@ async function downloadAndSaveImage(
 }
 
 // Negative prompt for SDXL — anime style, NO photorealism, clearly illustrated
-const SDXL_NEGATIVE_PROMPT = '(worst quality, low quality:1.4), photorealistic, photography, real photograph, live action photo, (3D render:1.3), western cartoon, ugly, deformed, bad anatomy, extra limbs, blurry, watermark, text, logo, signature, duplicate, nsfw, explicit';
+const SDXL_NEGATIVE_PROMPT = '(worst quality, low quality:1.4), photorealistic, photography, real photograph, live action photo, (3D render:1.3), western cartoon, ugly, deformed, bad anatomy, extra limbs, blurry, watermark, text, logo, signature, duplicate, nsfw, explicit, dark, gloomy, moody, sad, depressing, dark shadows, harsh lighting, scary, horror, somber, melancholy';
 
 // Generate AI image using Pollinations.ai — completely free, no API key, Flux model
 async function generateAIImagePollinations(imagePrompt: string, slug: string): Promise<string | undefined> {
