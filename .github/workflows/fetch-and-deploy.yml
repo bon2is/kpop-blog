@@ -119,7 +119,7 @@ jobs:
       - name: Commit social tracking files
         if: steps.git-check.outputs.changes == 'true'
         run: |
-          git add content/.twitter-posted.json content/.bluesky-posted.json 2>/dev/null || true
+          git add content/.threads-posted.json content/.twitter-posted.json content/.bluesky-posted.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Update social media posted lists"
           git pull --rebase origin main || true
           git push || true

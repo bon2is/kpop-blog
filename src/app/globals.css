@@ -34,6 +34,92 @@ body {
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
 }
 
+/* ── Thumbnail Animation Keyframes ──────────────────────────── */
+
+/* Shimmer light sweep — plays on hover */
+@keyframes shimmer-sweep {
+  0%   { transform: translateX(-100%) skewX(-15deg); opacity: 0; }
+  30%  { opacity: 1; }
+  100% { transform: translateX(250%) skewX(-15deg); opacity: 0; }
+}
+
+/* Ken Burns slow zoom — featured articles */
+@keyframes ken-burns {
+  0%   { transform: scale(1.0) translate(0, 0); }
+  50%  { transform: scale(1.06) translate(-1%, -1%); }
+  100% { transform: scale(1.0) translate(0, 0); }
+}
+
+/* Pulse glow — category accent border */
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 8px 0px var(--glow-color, rgba(255,107,157,0.4)); }
+  50%       { box-shadow: 0 0 20px 4px var(--glow-color, rgba(255,107,157,0.7)); }
+}
+
+/* Floating sparkles overlay */
+@keyframes sparkle-float {
+  0%   { opacity: 0; transform: translateY(0) scale(0.5); }
+  40%  { opacity: 1; transform: translateY(-12px) scale(1); }
+  100% { opacity: 0; transform: translateY(-28px) scale(0.3); }
+}
+
+/* ── Thumbnail shimmer on hover ──────────────────────────────── */
+.thumb-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.thumb-shimmer::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    transparent 40%,
+    rgba(255, 255, 255, 0.18) 50%,
+    transparent 60%
+  );
+  transform: translateX(-100%) skewX(-15deg);
+  pointer-events: none;
+  z-index: 2;
+}
+
+.thumb-shimmer:hover::after {
+  animation: shimmer-sweep 0.75s ease-out forwards;
+}
+
+/* ── Ken Burns for featured article images ───────────────────── */
+.thumb-kenburns {
+  animation: ken-burns 12s ease-in-out infinite;
+}
+
+/* ── Category glow colors ────────────────────────────────────── */
+.card-glow-music    { --glow-color: rgba(192, 132, 252, 0.5); }
+.card-glow-drama    { --glow-color: rgba(96, 165, 250, 0.5);  }
+.card-glow-celebrity{ --glow-color: rgba(251, 191, 36, 0.5);  }
+.card-glow-fashion  { --glow-color: rgba(244, 114, 182, 0.5); }
+.card-glow-music:hover,
+.card-glow-drama:hover,
+.card-glow-celebrity:hover,
+.card-glow-fashion:hover {
+  animation: glow-pulse 1.8s ease-in-out infinite;
+}
+
+/* ── Sparkle badge on featured card ─────────────────────────── */
+.sparkle-badge {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: white;
+  pointer-events: none;
+  z-index: 3;
+}
+.sparkle-badge:nth-child(1) { top: 12%; left: 8%;  animation: sparkle-float 2.4s 0.0s ease-in-out infinite; }
+.sparkle-badge:nth-child(2) { top: 20%; left: 85%; animation: sparkle-float 2.4s 0.6s ease-in-out infinite; }
+.sparkle-badge:nth-child(3) { top: 70%; left: 15%; animation: sparkle-float 2.4s 1.2s ease-in-out infinite; }
+.sparkle-badge:nth-child(4) { top: 60%; left: 78%; animation: sparkle-float 2.4s 1.8s ease-in-out infinite; }
+
 /* Smooth scrolling and prevent horizontal overflow on mobile */
 html {
   scroll-behavior: smooth;

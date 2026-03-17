@@ -13,24 +13,45 @@ interface ArticleCardProps {
   featured?: boolean;
 }
 
+// Map category to CSS glow class
+function getCategoryGlowClass(category: string): string {
+  const map: Record<string, string> = {
+    music: 'card-glow-music',
+    drama: 'card-glow-drama',
+    celebrity: 'card-glow-celebrity',
+    fashion: 'card-glow-fashion',
+  };
+  return map[category] || '';
+}
+
 export default function ArticleCard({ article, featured = false }: ArticleCardProps) {
   const categoryColor = getCategoryColor(article.category);
+  const glowClass = getCategoryGlowClass(article.category);
 
   if (featured) {
     return (
-      <article className="relative group card-hover rounded-2xl overflow-hidden bg-white shadow-lg">
+      <article className={`relative group card-hover rounded-2xl overflow-hidden bg-white shadow-lg ${glowClass}`}>
         <Link href={`/article/${article.slug}`}>
-          <div className="aspect-[16/9] relative">
+          <div className="aspect-[16/9] relative thumb-shimmer">
             {article.thumbnail ? (
               <Image
                 src={article.thumbnail}
                 alt={article.title}
                 fill
-                className="object-cover transition-transform duration-500 group-hover:scale-105"
+                className="object-cover thumb-kenburns"
                 unoptimized
               />
             ) : (
               <div className="w-full h-full bg-gradient-to-br from-pink-500 to-purple-600" />
+            )}
+            {/* Sparkle particles for featured articles */}
+            {article.thumbnail && (
+              <>
+                <span className="sparkle-badge" />
+                <span className="sparkle-badge" />
+                <span className="sparkle-badge" />
+                <span className="sparkle-badge" />
+              </>
             )}
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
 
@@ -78,15 +99,15 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
   }
 
   return (
-    <article className="group card-hover rounded-xl overflow-hidden bg-white shadow-md">
+    <article className={`group card-hover rounded-xl overflow-hidden bg-white shadow-md ${glowClass}`}>
       <Link href={`/article/${article.slug}`}>
-        <div className="aspect-[16/10] relative">
+        <div className="aspect-[16/10] relative thumb-shimmer">
           {article.thumbnail ? (
             <Image
               src={article.thumbnail}
               alt={article.title}
               fill
-              className="object-cover transition-transform duration-300 group-hover:scale-105"
+              className="object-cover transition-transform duration-500 group-hover:scale-105"
               unoptimized
             />
           ) : (
