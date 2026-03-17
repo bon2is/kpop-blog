@@ -94,6 +94,18 @@ export function getArticlesByTag(tag: string): Article[] {
   );
 }
 
+export function getAdjacentArticles(slug: string): {
+  prev: Article | null;
+  next: Article | null;
+} {
+  const articles = getAllArticles();
+  const idx = articles.findIndex((a) => a.slug === slug);
+  return {
+    prev: idx > 0 ? articles[idx - 1] : null,
+    next: idx < articles.length - 1 ? articles[idx + 1] : null,
+  };
+}
+
 export function searchArticles(query: string): Article[] {
   const articles = getAllArticles();
   const lowerQuery = query.toLowerCase();

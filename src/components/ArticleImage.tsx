@@ -20,6 +20,9 @@ const categoryGradients: Record<Category, string> = {
   audition: 'from-emerald-400 via-teal-500 to-cyan-500',
   fashion: 'from-pink-400 via-rose-500 to-red-500',
   variety: 'from-yellow-400 via-amber-500 to-orange-500',
+  award: 'from-yellow-400 via-yellow-500 to-amber-600',
+  comeback: 'from-green-400 via-emerald-500 to-teal-500',
+  tour: 'from-blue-400 via-blue-500 to-indigo-500',
 };
 
 // Category icons (emoji style)
@@ -31,6 +34,9 @@ const categoryIcons: Record<Category, string> = {
   audition: '🎤',
   fashion: '👗',
   variety: '🎭',
+  award: '🏆',
+  comeback: '🎤',
+  tour: '🎪',
 };
 
 export default function ArticleImage({

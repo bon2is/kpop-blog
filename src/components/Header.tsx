@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useState, useRef, useEffect } from 'react';
-import { Menu, X, Search } from 'lucide-react';
+import { Menu, X, Search, BarChart3, Users } from 'lucide-react';
 import { categories } from '@/lib/config';
 
 export default function Header() {
@@ -50,7 +50,7 @@ export default function Header() {
 
             {/* Desktop Navigation */}
             <nav className="hidden md:flex items-center space-x-6">
-              {categories.slice(0, 5).map((category) => (
+              {categories.slice(0, 4).map((category) => (
                 <Link
                   key={category.slug}
                   href={`/category/${category.slug}`}
@@ -59,6 +59,20 @@ export default function Header() {
                   {category.name}
                 </Link>
               ))}
+              <Link
+                href="/artists"
+                className="flex items-center gap-1 text-gray-600 hover:text-gray-900 font-medium transition-colors"
+              >
+                <Users className="w-4 h-4" />
+                Artists
+              </Link>
+              <Link
+                href="/chart"
+                className="flex items-center gap-1 text-gray-600 hover:text-gray-900 font-medium transition-colors"
+              >
+                <BarChart3 className="w-4 h-4" />
+                Charts
+              </Link>
               <Link
                 href="/categories"
                 className="text-gray-600 hover:text-gray-900 font-medium transition-colors"
@@ -99,6 +113,22 @@ export default function Header() {
                     {category.name}
                   </Link>
                 ))}
+                <Link
+                  href="/artists"
+                  className="flex items-center gap-2 text-gray-600 hover:text-gray-900 font-medium py-2 transition-colors"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <Users className="w-4 h-4" />
+                  Artists
+                </Link>
+                <Link
+                  href="/chart"
+                  className="flex items-center gap-2 text-gray-600 hover:text-gray-900 font-medium py-2 transition-colors"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <BarChart3 className="w-4 h-4" />
+                  Charts
+                </Link>
               </nav>
             </div>
           )}

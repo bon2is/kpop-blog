@@ -24,7 +24,29 @@ export type Category =
   | 'celebrity'
   | 'audition'
   | 'fashion'
-  | 'variety';
+  | 'variety'
+  | 'award'
+  | 'comeback'
+  | 'tour';
+
+export interface Artist {
+  slug: string;
+  name: string;
+  type: 'group' | 'soloist';
+  agency?: string;
+  debut?: string;
+  members?: string[];
+  description?: string;
+  tags: string[]; // tags used in articles for this artist
+  symbol?: string;       // emoji or unicode symbol representing the group
+  brandColor?: string;   // primary brand/concept color (hex)
+  logo?: string;         // path to official logo image (e.g. /images/artists/bts.svg)
+  socialLinks?: {
+    twitter?: string;
+    instagram?: string;
+    youtube?: string;
+  };
+}
 
 export interface RSSItem {
   title: string;

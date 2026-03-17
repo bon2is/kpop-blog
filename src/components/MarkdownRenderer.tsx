@@ -4,6 +4,7 @@ import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import type { Components } from 'react-markdown';
+import { slugifyHeading } from '@/lib/utils';
 
 interface MarkdownRendererProps {
   content: string;
@@ -88,18 +89,22 @@ function CustomParagraph({ children }: { children?: React.ReactNode }) {
   );
 }
 
-// Custom heading components for better visual hierarchy
+// Custom heading components for better visual hierarchy — include id for TOC anchors
 function CustomH2({ children }: { children?: React.ReactNode }) {
+  const text = React.Children.toArray(children).join('');
+  const id = slugifyHeading(text);
   return (
-    <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4 pb-2 border-b-2 border-pink-200">
+    <h2 id={id} className="text-2xl font-bold text-gray-900 mt-10 mb-4 pb-2 border-b-2 border-pink-200 scroll-mt-20">
       {children}
     </h2>
   );
 }
 
 function CustomH3({ children }: { children?: React.ReactNode }) {
+  const text = React.Children.toArray(children).join('');
+  const id = slugifyHeading(text);
   return (
-    <h3 className="text-xl font-semibold text-gray-800 mt-8 mb-3 flex items-center gap-2">
+    <h3 id={id} className="text-xl font-semibold text-gray-800 mt-8 mb-3 flex items-center gap-2 scroll-mt-20">
       <span className="w-1 h-6 bg-pink-500 rounded-full" />
       {children}
     </h3>

@@ -54,6 +54,24 @@ export const categories: CategoryInfo[] = [
     description: 'Variety shows and entertainment programs',
     color: '#A78BFA',
   },
+  {
+    name: 'Award',
+    slug: 'award',
+    description: 'Award shows, ceremonies, and nominations',
+    color: '#F59E0B',
+  },
+  {
+    name: 'Comeback',
+    slug: 'comeback',
+    description: 'New releases, comebacks, and album drops',
+    color: '#10B981',
+  },
+  {
+    name: 'Tour',
+    slug: 'tour',
+    description: 'Concert tours, fan meetings, and live events',
+    color: '#3B82F6',
+  },
 ];
 
 export const RSS_SOURCES = [

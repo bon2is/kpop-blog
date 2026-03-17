@@ -46,3 +46,41 @@ export function generateExcerpt(content: string, maxLength: number = 160): strin
 export function cn(...classes: (string | undefined | null | false)[]): string {
   return classes.filter(Boolean).join(' ');
 }
+
+export interface TocHeading {
+  level: number;
+  text: string;
+  id: string;
+}
+
+export function slugifyHeading(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+}
+
+export function extractHeadings(markdown: string): TocHeading[] {
+  const headingRegex = /^(#{2,3})\s+(.+)$/gm;
+  const headings: TocHeading[] = [];
+  let match;
+  while ((match = headingRegex.exec(markdown)) !== null) {
+    const level = match[1].length;
+    const text = match[2].trim();
+    const id = slugifyHeading(text);
+    headings.push({ level, text, id });
+  }
+  return headings;
+}
+
+export function getTagFrequency(tagsList: string[][]): Record<string, number> {
+  const freq: Record<string, number> = {};
+  for (const tags of tagsList) {
+    for (const tag of tags) {
+      freq[tag] = (freq[tag] || 0) + 1;
+    }
+  }
+  return freq;
+}

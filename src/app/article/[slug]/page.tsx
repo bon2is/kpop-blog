@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getAllArticles, getArticleBySlug, getRelatedArticles } from '@/lib/articles';
-import { formatDate, estimateReadingTime } from '@/lib/utils';
+import { getAllArticles, getArticleBySlug, getRelatedArticles, getAdjacentArticles } from '@/lib/articles';
+import { formatDate, estimateReadingTime, extractHeadings } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
 import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
@@ -13,6 +13,9 @@ import { Clock, Calendar, Sparkles, ArrowRight } from 'lucide-react';
 import ShareButtons from '@/components/ShareButtons';
 import { ViewCounter, ViewRecorder, LikeDislike } from '@/components/ArticleEngagement';
 import { siteConfig } from '@/lib/config';
+import ReadingProgressBar from '@/components/ReadingProgressBar';
+import TableOfContents from '@/components/TableOfContents';
+import ArticleNavigation from '@/components/ArticleNavigation';
 
 interface ArticlePageProps {
   params: { slug: string };
@@ -62,6 +65,8 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
   const relatedArticles = getRelatedArticles(article, 4);
   const categoryColor = getCategoryColor(article.category);
+  const headings = extractHeadings(article.content);
+  const { prev, next } = getAdjacentArticles(params.slug);
 
   // JSON-LD structured data for Google rich snippets & News
   // Safe: all values come from server-side frontmatter, not user input
@@ -114,6 +119,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
+      <ReadingProgressBar />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="flex gap-8">
         {/* Main Article Content */}
@@ -255,7 +261,8 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </article>
 
         {/* Sidebar - Desktop Only */}
-        <aside className="hidden xl:block w-80 flex-shrink-0 space-y-6">
+        <aside className="hidden xl:block w-72 flex-shrink-0 space-y-6">
+          <TableOfContents headings={headings} />
           <NewsletterSidebar />
           <SidebarAd />
         </aside>
@@ -265,6 +272,9 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       <div className="xl:hidden mt-8">
         <NewsletterInline />
       </div>
+
+      {/* Previous / Next Navigation */}
+      <ArticleNavigation prev={prev} next={next} />
 
       {/* Related Articles - Full Width */}
       {relatedArticles.length > 0 && (
