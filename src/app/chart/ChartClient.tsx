@@ -40,13 +40,13 @@ function ChartBadges({ chartRanks }: { chartRanks: UnifiedSong['chartRanks'] }) 
     { key: 'bugs',  label: 'B', color: '#FF5833' },
   ];
   return (
-    <div className="flex gap-1 flex-shrink-0">
+    <div className="flex gap-0.5 flex-shrink-0">
       {labels.map(({ key, label, color }) =>
         chartRanks[key] !== undefined ? (
           <span
             key={key}
-            className="text-[10px] font-bold px-1.5 py-0.5 rounded-full"
-            style={{ backgroundColor: `${color}18`, color, border: `1px solid ${color}40` }}
+            className="text-[8px] font-bold px-1 py-px rounded-sm leading-tight"
+            style={{ backgroundColor: `${color}15`, color }}
             title={`${key.charAt(0).toUpperCase() + key.slice(1)} #${chartRanks[key]}`}
           >
             {label}{chartRanks[key]}
