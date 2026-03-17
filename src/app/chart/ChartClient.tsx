@@ -146,7 +146,7 @@ function MusicCharts() {
   const sourceTabs: { key: MusicTab; label: string; color: string; count: number }[] = data
     ? (
         [
-          { key: 'unified' as MusicTab, label: '통합 차트', color: '#FF6B9D', count: data.unified.length },
+          { key: 'unified' as MusicTab, label: 'Unified', color: '#FF6B9D', count: data.unified.length },
           { key: 'melon'   as MusicTab, label: 'Melon',     color: '#00CD3C', count: data.melon.length },
           { key: 'genie'   as MusicTab, label: 'Genie',     color: '#0066FF', count: data.genie.length },
           { key: 'bugs'    as MusicTab, label: 'Bugs',      color: '#FF5833', count: data.bugs.length },
@@ -169,7 +169,7 @@ function MusicCharts() {
           <Music2 className="w-6 h-6 text-pink-500" />
           <h2 className="text-xl font-bold text-gray-900">Music Charts</h2>
           {tab === 'unified' && !loading && (
-            <span className="text-xs text-gray-400 font-normal">Melon × Genie × Bugs 가중 통합</span>
+            <span className="text-xs text-gray-400 font-normal">Weighted: Melon × Genie × Bugs</span>
           )}
         </div>
         {data && (
@@ -228,11 +228,11 @@ function MusicCharts() {
       )}
 
       {!loading && error && (
-        <div className="py-10 text-center text-gray-400 text-sm">차트 데이터를 불러올 수 없습니다.</div>
+        <div className="py-10 text-center text-gray-400 text-sm">Chart data unavailable. Please try again later.</div>
       )}
 
       {!loading && !error && songs.length === 0 && (
-        <div className="py-10 text-center text-gray-400 text-sm">현재 이 차트 데이터가 없습니다.</div>
+        <div className="py-10 text-center text-gray-400 text-sm">No chart data available for this source.</div>
       )}
 
       {!loading && songs.length > 0 && (
@@ -291,7 +291,7 @@ export default function ChartClient({ articles, allArticles }: ChartClientProps)
         <BarChart3 className="w-8 h-8 text-pink-500" />
         <div>
           <h1 className="text-3xl font-bold text-gray-900">K-Pop Charts</h1>
-          <p className="text-gray-500 mt-0.5">실시간 음악 차트 &amp; 인기 뉴스 랭킹</p>
+          <p className="text-gray-500 mt-0.5">Live music charts &amp; top article rankings</p>
         </div>
       </div>
 

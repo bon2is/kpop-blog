@@ -44,10 +44,10 @@ export default function ChartWidget() {
   const timeLabel = updatedAt
     ? (() => {
         const diffMin = Math.floor((Date.now() - new Date(updatedAt).getTime()) / 60000);
-        if (diffMin < 60) return `${diffMin}분 전 업데이트`;
+        if (diffMin < 60) return `Updated ${diffMin}m ago`;
         const diffH = Math.floor(diffMin / 60);
-        if (diffH < 24) return `${diffH}시간 전 업데이트`;
-        return `${Math.floor(diffH / 24)}일 전 업데이트`;
+        if (diffH < 24) return `Updated ${diffH}h ago`;
+        return `Updated ${Math.floor(diffH / 24)}d ago`;
       })()
     : '';
 
@@ -59,7 +59,7 @@ export default function ChartWidget() {
       <div className="flex items-center justify-between mb-4">
         <div className="flex items-center gap-2">
           <TrendingUp className="w-5 h-5 text-pink-500" />
-          <h2 className="text-xl font-bold text-gray-900">실시간 K-Pop 차트</h2>
+          <h2 className="text-xl font-bold text-gray-900">K-Pop Charts</h2>
           <span className="flex items-center gap-1 text-[10px] font-bold text-white bg-red-500 px-2 py-0.5 rounded-full">
             <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
             LIVE
@@ -71,7 +71,7 @@ export default function ChartWidget() {
             href="/chart"
             className="flex items-center gap-1 text-sm font-semibold text-pink-600 hover:text-pink-700 transition-colors"
           >
-            전체 보기 <ChevronRight className="w-4 h-4" />
+            Full Chart <ChevronRight className="w-4 h-4" />
           </Link>
         </div>
       </div>
@@ -138,7 +138,7 @@ export default function ChartWidget() {
                   rel="noopener noreferrer"
                   onClick={(e) => e.stopPropagation()}
                   className="flex-shrink-0 flex items-center gap-0.5 text-gray-300 hover:text-red-500 transition-colors p-1"
-                  title="YouTube에서 보기"
+                  title="Watch on YouTube"
                 >
                   <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
@@ -157,7 +157,7 @@ export default function ChartWidget() {
           style={{ background: 'linear-gradient(135deg, #FF6B9D, #C084FC)' }}
         >
           <TrendingUp className="w-4 h-4" />
-          통합 차트 전체 보기 (Top 50)
+          View Full Unified Chart (Top 50)
         </Link>
       </div>
     </section>
