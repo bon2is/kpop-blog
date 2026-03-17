@@ -48,7 +48,13 @@ function cleanTitle(text: string): string {
 }
 
 function cleanArtist(text: string): string {
-  return text.replace(/\s+/g, ' ').trim();
+  // Case 1: "Korean (English)" e.g. "화사 (HWASA)" → "HWASA"
+  const koreanWithEnglish = text.match(/^[가-힣\s]+\(([A-Za-z0-9 .'-]+)\)$/);
+  if (koreanWithEnglish) return koreanWithEnglish[1].trim();
+
+  // Case 2: "English (Korean)" e.g. "IVE (아이브)" → "IVE"
+  const englishWithKorean = text.replace(/\s*\(([^)]*[가-힣][^)]*)\)/g, '');
+  return englishWithKorean.replace(/\s+/g, ' ').trim();
 }
 
 /** Normalize key for cross-chart matching: lowercase, strip non-alphanumeric/Korean */
