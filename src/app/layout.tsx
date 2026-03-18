@@ -66,6 +66,17 @@ export const metadata: Metadata = {
   },
 };
 
+const organizationLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: siteConfig.name,
+  url: siteConfig.url,
+  logo: `${siteConfig.url}/og-image.png`,
+  sameAs: [
+    'https://twitter.com/kpopdailynews',
+  ],
+};
+
 export default function RootLayout({
   children,
 }: {
@@ -78,6 +89,12 @@ export default function RootLayout({
           <meta name="naver-site-verification" content="a156ba871d90bd061a576b944f0a37bd8eac4e17" />
           <link rel="alternate" type="application/rss+xml" title="KPOP Daily RSS" href="/feed.xml" />
           <link rel="search" type="application/opensearchdescription+xml" title="KPOP Daily Search" href="/opensearch.xml" />
+          {/* Organization structured data */}
+          <script
+            type="application/ld+json"
+            // eslint-disable-next-line react/no-danger
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationLd) }}
+          />
         </head>
       <body className="min-h-screen bg-gray-50 flex flex-col">
         <GoogleAnalytics />

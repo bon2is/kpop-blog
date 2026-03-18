@@ -37,9 +37,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   const articleUrl = `${siteConfig.url}/article/${article.slug}`;
+  // Fallback to site OG image if article has no thumbnail
   const ogImages = article.thumbnail
     ? [{ url: article.thumbnail, width: 1200, height: 630, alt: article.title }]
-    : [];
+    : [{ url: '/og-image.png', width: 1200, height: 630, alt: article.title }];
 
   return {
     title: article.title,
