@@ -57,15 +57,44 @@ function cleanArtist(text: string): string {
   return englishWithKorean.replace(/\s+/g, ' ').trim();
 }
 
+// ── Artist alias map (Korean name → canonical English, for cross-chart matching) ──
+// Global charts (Spotify/YouTube via kworb) use English romanizations while
+// Circle Chart returns Korean names for domestic indie/solo artists.
+const ARTIST_ALIASES: Record<string, string> = {
+  '한로로':  'hanroro',
+  '카더가든': 'carthegarden',
+  '이찬혁':  'leechanhyuk',
+  '다비치':  'davichi',
+  '임영웅':  'limyoungwoong',
+  '아이유':  'iu',
+  '박재범':  'jaypark',
+  '헤이즈':  'heize',
+  '적재':    'jukjae',
+  '이무진':  'leemujin',
+  '폴킴':    'paulkim',
+  '멜로망스': 'melodymance',
+  // English variant → canonical (handles spacing/punctuation differences)
+  'car the garden': 'carthegarden',
+  'lee chanhyuk':   'leechanhyuk',
+};
+
 /** Normalize key for cross-chart matching: lowercase, strip non-alphanumeric/Korean */
 function normalizeKey(title: string, artist: string): string {
-  const normalize = (s: string) =>
+  const normalizeStr = (s: string) =>
     s
+      // Strip ALL-CAPS English parentheticals BEFORE lowercasing
+      // e.g. "뛰어(JUMP)" → "뛰어", "뛰어 (JUMP VERSION)" → "뛰어"
+      // Keeps "404 (New Era)" intact (mixed case, not all-caps)
+      .replace(/\s*\([A-Z][A-Z\s]+\)/g, '')
       .toLowerCase()
       .replace(/\(feat\..*?\)/gi, '')
       .replace(/\(prod\..*?\)/gi, '')
       .replace(/[^a-z0-9가-힣]/g, '');
-  return `${normalize(artist)}_${normalize(title)}`;
+
+  const normalizedArtist = normalizeStr(artist);
+  const canonicalArtist = ARTIST_ALIASES[normalizedArtist] ?? normalizedArtist;
+
+  return `${canonicalArtist}_${normalizeStr(title)}`;
 }
 
 // ── Chart weights (YouTube & Spotify weighted higher for global fan focus) ──
