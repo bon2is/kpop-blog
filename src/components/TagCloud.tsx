@@ -1,10 +1,10 @@
 import Link from 'next/link';
 import { getTagFrequency } from '@/lib/utils';
-import { Article } from '@/types';
+import type { ArticleSummary } from '@/types';
 import { Hash } from 'lucide-react';
 
 interface TagCloudProps {
-  articles: Article[];
+  articles: ArticleSummary[];
   maxTags?: number;
 }
 

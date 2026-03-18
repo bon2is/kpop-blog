@@ -3,15 +3,15 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Article } from '@/types';
+import type { ArticleSummary } from '@/types';
 import { TrendingUp } from 'lucide-react';
 import { getCategoryColor } from '@/lib/config';
 
 interface TrendingSectionProps {
-  articles: Article[];
+  articles: ArticleSummary[];
 }
 
-interface ArticleWithViews extends Article {
+interface ArticleWithViews extends ArticleSummary {
   views: number;
 }
 

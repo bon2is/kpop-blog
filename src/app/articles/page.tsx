@@ -4,6 +4,7 @@ import AdBanner from '@/components/AdBanner';
 import ArticlesBrowser from '@/components/ArticlesBrowser';
 import { getAllArticles } from '@/lib/articles';
 import { categories, siteConfig } from '@/lib/config';
+import type { ArticleSummary } from '@/components/ArticlesBrowser';
 
 export const metadata: Metadata = {
   title: 'All K-Pop & K-Drama Articles',
@@ -19,7 +20,13 @@ export const metadata: Metadata = {
 };
 
 export default function ArticlesPage() {
-  const articles = getAllArticles();
+  const rawArticles = getAllArticles();
+  const articleCount = rawArticles.length;
+
+  // Strip heavy fields before serializing to client
+  const articles: ArticleSummary[] = rawArticles.map(
+    ({ content: _c, summary: _s, commentary: _co, ...rest }) => rest
+  );
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -40,7 +47,7 @@ export default function ArticlesPage() {
           All Articles
         </h1>
         <p className="text-gray-600">
-          {articles.length} articles • Filter by category • Sorted by newest first
+          {articleCount} articles • Filter by category • Sorted by newest first
         </p>
       </div>
 

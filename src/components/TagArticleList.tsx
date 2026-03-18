@@ -3,12 +3,12 @@
 import React, { useState } from 'react';
 import ArticleCard from '@/components/ArticleCard';
 import { InFeedAd } from '@/components/AdBanner';
-import type { Article } from '@/types';
+import type { ArticleSummary } from '@/types';
 
 const PAGE_SIZE = 18;
 
 interface Props {
-  articles: Article[];
+  articles: ArticleSummary[];
 }
 
 export function TagArticleList({ articles }: Props) {

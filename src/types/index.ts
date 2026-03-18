@@ -72,6 +72,9 @@ export interface SiteConfig {
   };
 }
 
+// Lightweight article type for client components (excludes heavy content fields)
+export type ArticleSummary = Omit<Article, 'content' | 'summary' | 'commentary'>;
+
 export interface CategoryInfo {
   name: string;
   slug: Category;

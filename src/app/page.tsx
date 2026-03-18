@@ -35,6 +35,12 @@ const websiteLd = {
   },
 };
 
+// Strip heavy fields before serializing article objects to client components
+function slim(a: ReturnType<typeof getAllArticles>[number]) {
+  const { content: _c, summary: _s, commentary: _co, ...rest } = a;
+  return rest;
+}
+
 export default function HomePage() {
   const articles = getAllArticles();
   const featuredArticle = articles[0];
@@ -51,10 +57,12 @@ export default function HomePage() {
     .sort((a, b) => b.count - a.count)
     .slice(0, 10);
   // Right column: 3 cards fills the hero height cleanly
-  const heroSideArticles = articles.slice(1, 4);
+  const heroSideArticles = articles.slice(1, 4).map(slim);
   // Main grid below hero
-  const latestArticles = articles.slice(4, 10);
-  const moreArticles = articles.slice(10, 16);
+  const latestArticles = articles.slice(4, 10).map(slim);
+  const moreArticles = articles.slice(10, 16).map(slim);
+  // Slim versions for client components that receive full array
+  const slimArticles = articles.map(slim);
 
   return (
     <div>
@@ -64,7 +72,7 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteLd) }}
       />
       {/* Breaking News Ticker */}
-      <BreakingNewsTicker articles={articles.slice(0, 8)} />
+      <BreakingNewsTicker articles={slimArticles.slice(0, 8)} />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <h1 className="sr-only">KPOP Daily - Your K-Pop News Source</h1>
@@ -75,7 +83,7 @@ export default function HomePage() {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 items-start">
               {/* Left col: Featured article + Chart Widget filling the gap */}
               <div className="lg:col-span-2 flex flex-col gap-5">
-                <ArticleCard article={featuredArticle} featured />
+                <ArticleCard article={slim(featuredArticle)} featured />
                 <ChartWidget />
               </div>
 
@@ -218,15 +226,15 @@ export default function HomePage() {
 
           {/* Sidebar */}
           <aside className="hidden xl:block w-80 flex-shrink-0 space-y-6">
-            <ReadingList allArticles={articles} />
-            <TrendingSection articles={articles} />
+            <ReadingList allArticles={slimArticles} />
+            <TrendingSection articles={slimArticles} />
             <NewsletterSidebar />
             <SidebarAd />
           </aside>
         </div>
 
         {/* ── Tag Cloud ────────────────────────────────────── */}
-        <TagCloud articles={articles} />
+        <TagCloud articles={slimArticles} />
 
         {/* ── Newsletter ───────────────────────────────────── */}
         <NewsletterBanner />
