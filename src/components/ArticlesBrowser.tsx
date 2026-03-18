@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import ArticleCard from '@/components/ArticleCard';
 import { InFeedAd } from '@/components/AdBanner';
 import type { Article } from '@/types';
@@ -86,15 +86,15 @@ export default function ArticlesBrowser({ articles, categories }: Props) {
       {/* Articles Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {visible.map((article, index) => (
-          <>
-            <ArticleCard key={article.slug} article={article} />
+          <React.Fragment key={article.slug}>
+            <ArticleCard article={article} />
             {/* Insert ad every 12 articles */}
             {(index + 1) % 12 === 0 && index < visible.length - 1 && (
-              <div key={`ad-${index}`} className="md:col-span-2 lg:col-span-3">
+              <div className="md:col-span-2 lg:col-span-3">
                 <InFeedAd />
               </div>
             )}
-          </>
+          </React.Fragment>
         ))}
       </div>
 
