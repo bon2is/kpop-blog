@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation';
 import { getArtistBySlug, getAllArtistSlugs } from '@/lib/artists';
 import { getAllArticles } from '@/lib/articles';
 import ArtistArticleList from '@/components/ArtistArticleList';
+import type { ArticleSummary } from '@/types';
 import { Calendar, Building2, Users, Newspaper } from 'lucide-react';
 
 interface ArtistPageProps {
@@ -45,11 +46,12 @@ export default function ArtistPage({ params }: ArtistPageProps) {
   if (!artist) notFound();
 
   const allArticles = getAllArticles();
-  const artistArticles = allArticles.filter((a) =>
+  const rawArtistArticles = allArticles.filter((a) =>
     artist.tags.some((tag) =>
       a.tags.some((t) => t.toLowerCase() === tag.toLowerCase())
     )
   );
+  const artistArticles: ArticleSummary[] = rawArtistArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
 
   const headerBg = artist.brandColor
     ? `linear-gradient(135deg, ${artist.brandColor}12, ${artist.brandColor}06)`

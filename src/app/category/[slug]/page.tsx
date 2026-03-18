@@ -4,6 +4,7 @@ import AdBanner, { SidebarAd } from '@/components/AdBanner';
 import CategoryArticleList from '@/components/CategoryArticleList';
 import { getArticlesByCategory } from '@/lib/articles';
 import { categories, getCategoryBySlug } from '@/lib/config';
+import type { ArticleSummary } from '@/types';
 import { Category } from '@/types';
 
 interface CategoryPageProps {
@@ -52,7 +53,8 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     notFound();
   }
 
-  const articles = getArticlesByCategory(params.slug as Category);
+  const rawArticles = getArticlesByCategory(params.slug as Category);
+  const articles: ArticleSummary[] = rawArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

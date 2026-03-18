@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation';
 import AdBanner from '@/components/AdBanner';
 import { TagArticleList } from '@/components/TagArticleList';
 import { getAllTags, getArticlesByTag } from '@/lib/articles';
+import type { ArticleSummary } from '@/types';
 import { getArtistByTag } from '@/lib/artists';
 import { Tag, Building2, Calendar, Newspaper } from 'lucide-react';
 import { siteConfig } from '@/lib/config';
@@ -52,11 +53,13 @@ export async function generateMetadata({ params }: TagPageProps): Promise<Metada
 
 export default function TagPage({ params }: TagPageProps) {
   const tag = decodeURIComponent(params.slug);
-  const articles = getArticlesByTag(tag);
+  const rawArticles = getArticlesByTag(tag);
 
-  if (articles.length === 0) {
+  if (rawArticles.length === 0) {
     notFound();
   }
+
+  const articles: ArticleSummary[] = rawArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
 
   // Check if this tag matches a known artist
   const artist = getArtistByTag(tag);
