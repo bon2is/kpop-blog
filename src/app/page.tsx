@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import ArticleCard from '@/components/ArticleCard';
 import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
 import { NewsletterBanner, NewsletterSidebar } from '@/components/Newsletter';
@@ -160,7 +161,7 @@ export default function HomePage() {
                   className="flex flex-col items-center gap-1.5 group"
                 >
                   <div
-                    className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl flex items-center justify-center text-xl shadow-sm group-hover:shadow-md group-hover:scale-110 transition-all duration-200"
+                    className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl flex items-center justify-center text-xl shadow-sm group-hover:shadow-md group-hover:scale-110 transition-all duration-200 overflow-hidden p-1.5 bg-white"
                     style={{
                       background: artist.brandColor
                         ? `linear-gradient(135deg, ${artist.brandColor}22, ${artist.brandColor}10)`
@@ -168,7 +169,11 @@ export default function HomePage() {
                       border: artist.brandColor ? `1.5px solid ${artist.brandColor}30` : '1.5px solid #E5E7EB',
                     }}
                   >
-                    {artist.symbol ?? '🎵'}
+                    {artist.logo ? (
+                      <Image src={artist.logo} alt={artist.name} width={40} height={40} className="object-contain w-full h-full" unoptimized />
+                    ) : (
+                      artist.symbol ?? '🎵'
+                    )}
                   </div>
                   <span className="text-[10px] text-gray-600 font-medium text-center leading-tight line-clamp-1 group-hover:text-pink-600 transition-colors w-full">
                     {artist.name}
