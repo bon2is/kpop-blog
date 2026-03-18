@@ -9,7 +9,13 @@ interface TagCloudProps {
 }
 
 export default function TagCloud({ articles, maxTags = 30 }: TagCloudProps) {
-  const freq = getTagFrequency(articles.map((a) => a.tags));
+  // Weight recent articles higher for "trending" feel
+  const thirtyDaysAgo = Date.now() - 30 * 24 * 60 * 60 * 1000;
+  const recentArticles = articles.filter(
+    (a) => new Date(a.publishedAt).getTime() > thirtyDaysAgo
+  );
+  const sourcesForCloud = recentArticles.length >= 20 ? recentArticles : articles.slice(0, 100);
+  const freq = getTagFrequency(sourcesForCloud.map((a) => a.tags));
 
   // Sort by frequency and take top N
   const sorted = Object.entries(freq)
@@ -38,9 +44,12 @@ export default function TagCloud({ articles, maxTags = 30 }: TagCloudProps) {
 
   return (
     <section className="mb-12">
-      <div className="flex items-center gap-2 mb-6">
-        <Hash className="w-6 h-6 text-purple-500" />
-        <h2 className="text-2xl font-bold text-gray-900">Explore Topics</h2>
+      <div className="flex items-center justify-between mb-6">
+        <div className="flex items-center gap-2">
+          <Hash className="w-6 h-6 text-purple-500" />
+          <h2 className="text-2xl font-bold text-gray-900">Trending Topics</h2>
+        </div>
+        <span className="text-xs text-gray-400 bg-gray-100 px-2 py-1 rounded-full">Last 30 days</span>
       </div>
       <div className="bg-white rounded-2xl shadow-sm p-6 flex flex-wrap gap-3">
         {sorted.map(([tag, count]) => (

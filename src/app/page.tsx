@@ -4,6 +4,7 @@ import ArticleCard from '@/components/ArticleCard';
 import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
 import { NewsletterBanner, NewsletterSidebar } from '@/components/Newsletter';
 import { getAllArticles } from '@/lib/articles';
+import { artists } from '@/lib/artists';
 import { categories, siteConfig } from '@/lib/config';
 import BreakingNewsTicker from '@/components/BreakingNewsTicker';
 import TrendingSection from '@/components/TrendingSection';
@@ -36,6 +37,18 @@ const websiteLd = {
 export default function HomePage() {
   const articles = getAllArticles();
   const featuredArticle = articles[0];
+
+  // Top artists by article count (computed at build time)
+  const topArtists = artists
+    .map((artist) => ({
+      ...artist,
+      count: articles.filter((a) =>
+        artist.tags.some((tag) => a.tags.some((t) => t.toLowerCase() === tag.toLowerCase()))
+      ).length,
+    }))
+    .filter((a) => a.count > 0)
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 10);
   // Right column: 3 cards fills the hero height cleanly
   const heroSideArticles = articles.slice(1, 4);
   // Main grid below hero
@@ -92,6 +105,42 @@ export default function HomePage() {
             ))}
           </div>
         </section>
+
+        {/* ── Hot Artists ──────────────────────────────────── */}
+        {topArtists.length > 0 && (
+          <section className="mb-10">
+            <div className="flex items-center justify-between mb-5">
+              <h2 className="text-2xl font-bold text-gray-900">Popular Artists</h2>
+              <Link href="/artists" className="text-pink-600 hover:text-pink-700 font-medium text-sm">
+                All Artists →
+              </Link>
+            </div>
+            <div className="grid grid-cols-5 sm:grid-cols-10 gap-3">
+              {topArtists.map((artist) => (
+                <Link
+                  key={artist.slug}
+                  href={`/artist/${artist.slug}`}
+                  className="flex flex-col items-center gap-1.5 group"
+                >
+                  <div
+                    className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl flex items-center justify-center text-xl shadow-sm group-hover:shadow-md group-hover:scale-110 transition-all duration-200"
+                    style={{
+                      background: artist.brandColor
+                        ? `linear-gradient(135deg, ${artist.brandColor}22, ${artist.brandColor}10)`
+                        : '#F3F4F6',
+                      border: artist.brandColor ? `1.5px solid ${artist.brandColor}30` : '1.5px solid #E5E7EB',
+                    }}
+                  >
+                    {artist.symbol ?? '🎵'}
+                  </div>
+                  <span className="text-[10px] text-gray-600 font-medium text-center leading-tight line-clamp-1 group-hover:text-pink-600 transition-colors w-full">
+                    {artist.name}
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* ── Main Content + Sidebar ───────────────────────── */}
         <div className="flex gap-8 mb-10">

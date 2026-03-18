@@ -174,8 +174,24 @@ export default function Header() {
                 </button>
               </div>
             </form>
-            <div className="px-6 py-3 bg-gray-50 text-sm text-gray-500">
-              Press <kbd className="px-2 py-0.5 bg-gray-200 rounded text-xs">Enter</kbd> to search or <kbd className="px-2 py-0.5 bg-gray-200 rounded text-xs">Esc</kbd> to close
+            {/* Popular searches */}
+            <div className="px-6 py-3 bg-gray-50 border-t border-gray-100">
+              <p className="text-xs text-gray-400 mb-2">Popular searches</p>
+              <div className="flex flex-wrap gap-2">
+                {['BTS', 'BLACKPINK', 'aespa', 'IVE', 'Stray Kids', 'TWICE', 'NewJeans', 'SEVENTEEN'].map((q) => (
+                  <button
+                    key={q}
+                    onClick={() => {
+                      router.push(`/search?q=${encodeURIComponent(q)}`);
+                      setIsSearchOpen(false);
+                      setSearchQuery('');
+                    }}
+                    className="px-3 py-1 text-xs bg-white border border-gray-200 rounded-full text-gray-600 hover:bg-pink-50 hover:border-pink-200 hover:text-pink-600 transition-colors"
+                  >
+                    {q}
+                  </button>
+                ))}
+              </div>
             </div>
           </div>
         </div>

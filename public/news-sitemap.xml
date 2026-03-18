@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-male-idols-shockingly-excessive-fan-participation-re/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T12:20:20.000Z</news:publication_date>
+      <news:title>Popular Male Idol’s Shockingly Excessive Fan Participation Requirements Sparks Major Reactions</news:title>
+      <news:keywords>K-Pop, Fan Culture, Idol Career, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/the-ultimate-duo-a-gripping-murder-mystery-unfolds/</loc>
     <news:news>
       <news:publication>
@@ -83,6 +95,18 @@
       <news:publication_date>2026-03-18T04:15:14.000Z</news:publication_date>
       <news:title>South Korean President&apos;s Statement on BTS&apos;s Gwanghwamun Performance Sparks Controversy</news:title>
       <news:keywords>BTS, K-Pop, Politics, Gwanghwamun Performance, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-set-to-captivate-audiences-in-mbcs-upcoming-drama-perfect/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T02:57:00.000Z</news:publication_date>
+      <news:title>IU Set to Captivate Audiences in MBC&apos;s Upcoming Drama &apos;Perfect Crown&apos;</news:title>
+      <news:keywords>IU, K-Drama, MBC, Perfect Crown, Comeback</news:keywords>
     </news:news>
   </url>
   <url>
