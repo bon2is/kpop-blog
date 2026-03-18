@@ -14,6 +14,7 @@ import ShareButtons from '@/components/ShareButtons';
 import { ViewCounter, ViewRecorder, LikeDislike } from '@/components/ArticleEngagement';
 import { BookmarkButton } from '@/components/Bookmark';
 import { siteConfig } from '@/lib/config';
+import type { ArticleSummary } from '@/types';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import TableOfContents from '@/components/TableOfContents';
 import ArticleNavigation from '@/components/ArticleNavigation';
@@ -74,10 +75,15 @@ export default function ArticlePage({ params }: ArticlePageProps) {
     notFound();
   }
 
-  const relatedArticles = getRelatedArticles(article, 4);
+  const rawRelated = getRelatedArticles(article, 4);
+  const relatedArticles: ArticleSummary[] = rawRelated.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
   const categoryColor = getCategoryColor(article.category);
   const headings = extractHeadings(article.content);
-  const { prev, next } = getAdjacentArticles(params.slug);
+  const rawAdjacent = getAdjacentArticles(params.slug);
+  const slimAdj = (a: ReturnType<typeof getRelatedArticles>[0] | null) =>
+    a ? (({ content: _c, summary: _s, commentary: _co, ...rest }) => rest)(a) : null;
+  const prev = slimAdj(rawAdjacent.prev);
+  const next = slimAdj(rawAdjacent.next);
 
   // JSON-LD structured data for Google rich snippets & News
   // Safe: all values come from server-side frontmatter, not user input

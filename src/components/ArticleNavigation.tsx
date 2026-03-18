@@ -1,11 +1,11 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Article } from '@/types';
+import type { ArticleSummary } from '@/types';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface ArticleNavigationProps {
-  prev: Article | null;
-  next: Article | null;
+  prev: ArticleSummary | null;
+  next: ArticleSummary | null;
 }
 
 export default function ArticleNavigation({ prev, next }: ArticleNavigationProps) {
