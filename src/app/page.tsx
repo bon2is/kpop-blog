@@ -35,6 +35,25 @@ const websiteLd = {
   },
 };
 
+const organizationLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: siteConfig.name,
+  url: siteConfig.url,
+  logo: {
+    '@type': 'ImageObject',
+    url: `${siteConfig.url}/og-image.png`,
+    width: 1200,
+    height: 630,
+  },
+  description: siteConfig.description,
+  sameAs: [
+    'https://twitter.com/kpopdaily',
+    'https://www.threads.net/@kpopdaily',
+    'https://bsky.app/profile/kpop.andxo.com',
+  ],
+};
+
 // Strip heavy fields before serializing article objects to client components
 function slim(a: ReturnType<typeof getAllArticles>[number]) {
   const { content: _c, summary: _s, commentary: _co, ...rest } = a;
@@ -64,6 +83,8 @@ export default function HomePage() {
   // Slim versions for client components that receive full array
   const slimArticles = articles.map(slim);
 
+  const orgLdJson = JSON.stringify(organizationLd);
+
   return (
     <div>
       <script
@@ -71,6 +92,8 @@ export default function HomePage() {
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteLd) }}
       />
+      {/* Organization JSON-LD: Safe — static siteConfig data only */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: orgLdJson }} />
       {/* Breaking News Ticker */}
       <BreakingNewsTicker articles={slimArticles.slice(0, 8)} />
 
