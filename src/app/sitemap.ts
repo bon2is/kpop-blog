@@ -15,6 +15,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
+      url: `${baseUrl}/articles`,
+      lastModified: new Date(),
+      changeFrequency: 'hourly',
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/artists`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/chart`,
       lastModified: new Date(),
       changeFrequency: 'daily',
@@ -42,14 +54,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
-  // Article pages
+  // Article pages — higher priority for recent articles
   const articles = getAllArticles();
-  const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
-    url: `${baseUrl}/article/${article.slug}`,
-    lastModified: new Date(article.updatedAt),
-    changeFrequency: 'weekly',
-    priority: 0.75,
-  }));
+  const now = Date.now();
+  const dayMs = 86400000;
+  const articlePages: MetadataRoute.Sitemap = articles.map((article) => {
+    const age = now - new Date(article.publishedAt).getTime();
+    const priority = age < dayMs ? 0.9 : age < 7 * dayMs ? 0.8 : age < 30 * dayMs ? 0.75 : 0.65;
+    return {
+      url: `${baseUrl}/article/${article.slug}`,
+      lastModified: new Date(article.updatedAt),
+      changeFrequency: age < 7 * dayMs ? 'daily' : 'weekly',
+      priority,
+    };
+  });
 
   // Tag pages (deduplicated across all articles)
   const allTags = new Set<string>();
