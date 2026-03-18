@@ -89,10 +89,12 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             <p className="text-gray-200 line-clamp-2 mb-3">{article.excerpt}</p>
             <div className="flex items-center text-sm text-gray-300 space-x-4">
               <span>{formatRelativeDate(article.publishedAt)}</span>
-              <span className="flex items-center">
-                <Clock className="w-4 h-4 mr-1" />
-                {article.content ? estimateReadingTime(article.content) + " min read" : ""}
-              </span>
+              {(article.readingTime ?? (article.content ? estimateReadingTime(article.content) : 0)) > 0 && (
+                <span className="flex items-center">
+                  <Clock className="w-4 h-4 mr-1" />
+                  {article.readingTime ?? estimateReadingTime(article.content!)} min read
+                </span>
+              )}
               <ViewCounter slug={article.slug} compact />
             </div>
           </div>
@@ -163,10 +165,12 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             <span>{formatRelativeDate(article.publishedAt)}</span>
             <div className="flex items-center gap-3">
               <ViewCounter slug={article.slug} compact />
-              <span className="flex items-center">
-                <Clock className="w-3 h-3 mr-1" />
-                {article.content ? estimateReadingTime(article.content) + " min" : ""}
-              </span>
+              {(article.readingTime ?? (article.content ? estimateReadingTime(article.content) : 0)) > 0 && (
+                <span className="flex items-center">
+                  <Clock className="w-3 h-3 mr-1" />
+                  {article.readingTime ?? estimateReadingTime(article.content!)} min
+                </span>
+              )}
             </div>
           </div>
         </div>

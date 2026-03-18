@@ -15,6 +15,7 @@ export interface Article {
   source: string;
   sourceUrl: string;
   author: string;
+  readingTime?: number;       // Pre-computed reading time in minutes
 }
 
 export type Category =

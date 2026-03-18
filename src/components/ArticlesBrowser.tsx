@@ -9,6 +9,8 @@ export type { ArticleSummary };
 
 const PAGE_SIZE = 24;
 
+type TimeFilter = 'all' | 'today' | 'week' | 'month';
+
 interface Category {
   slug: string;
   name: string;
@@ -20,14 +22,34 @@ interface Props {
   categories: Category[];
 }
 
+const TIME_OPTIONS: { value: TimeFilter; label: string }[] = [
+  { value: 'all', label: 'All Time' },
+  { value: 'today', label: 'Today' },
+  { value: 'week', label: 'This Week' },
+  { value: 'month', label: 'This Month' },
+];
+
+const DAY_MS = 86_400_000;
+
+function withinMs(publishedAt: string, ms: number): boolean {
+  return Date.now() - new Date(publishedAt).getTime() < ms;
+}
+
 export default function ArticlesBrowser({ articles, categories }: Props) {
   const [activeCategory, setActiveCategory] = useState<string>('all');
+  const [timeFilter, setTimeFilter] = useState<TimeFilter>('all');
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
+  const timeFiltered = useMemo(() => {
+    if (timeFilter === 'all') return articles;
+    const ms = timeFilter === 'today' ? DAY_MS : timeFilter === 'week' ? 7 * DAY_MS : 30 * DAY_MS;
+    return articles.filter((a) => withinMs(a.publishedAt, ms));
+  }, [articles, timeFilter]);
+
   const filtered = useMemo(() => {
-    if (activeCategory === 'all') return articles;
-    return articles.filter((a) => a.category === activeCategory);
-  }, [articles, activeCategory]);
+    if (activeCategory === 'all') return timeFiltered;
+    return timeFiltered.filter((a) => a.category === activeCategory);
+  }, [timeFiltered, activeCategory]);
 
   const visible = filtered.slice(0, visibleCount);
   const hasMore = visibleCount < filtered.length;
@@ -37,8 +59,31 @@ export default function ArticlesBrowser({ articles, categories }: Props) {
     setVisibleCount(PAGE_SIZE);
   }
 
+  function handleTimeChange(t: TimeFilter) {
+    setTimeFilter(t);
+    setActiveCategory('all');
+    setVisibleCount(PAGE_SIZE);
+  }
+
   return (
     <>
+      {/* Time Filter */}
+      <div className="mb-4 flex flex-wrap gap-2">
+        {TIME_OPTIONS.map((opt) => (
+          <button
+            key={opt.value}
+            onClick={() => handleTimeChange(opt.value)}
+            className={`px-4 py-1.5 rounded-full text-sm font-medium transition-all ${
+              timeFilter === opt.value
+                ? 'bg-gray-900 text-white shadow-sm'
+                : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+            }`}
+          >
+            {opt.label}
+          </button>
+        ))}
+      </div>
+
       {/* Category Filter */}
       <div className="mb-8 flex flex-wrap gap-2">
         <button
@@ -49,10 +94,10 @@ export default function ArticlesBrowser({ articles, categories }: Props) {
               : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
           }`}
         >
-          All ({articles.length})
+          All ({timeFiltered.length})
         </button>
         {categories.map((cat) => {
-          const count = articles.filter((a) => a.category === cat.slug).length;
+          const count = timeFiltered.filter((a) => a.category === cat.slug).length;
           if (count === 0) return null;
           const isActive = activeCategory === cat.slug;
           return (
@@ -75,12 +120,12 @@ export default function ArticlesBrowser({ articles, categories }: Props) {
       {/* Results count */}
       <p className="text-sm text-gray-500 mb-6">
         Showing {Math.min(visibleCount, filtered.length)} of {filtered.length} articles
-        {activeCategory !== 'all' && (
+        {(activeCategory !== 'all' || timeFilter !== 'all') && (
           <button
-            onClick={() => handleCategoryChange('all')}
+            onClick={() => { handleCategoryChange('all'); setTimeFilter('all'); }}
             className="ml-2 text-pink-600 hover:text-pink-700 underline"
           >
-            Clear filter
+            Clear filters
           </button>
         )}
       </p>

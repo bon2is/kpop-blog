@@ -20,13 +20,18 @@ export default function Header() {
     }
   }, [isSearchOpen]);
 
-  // Close search on Escape key
+  // Close search on Escape key; open on Cmd+K / Ctrl+K
   useEffect(() => {
-    const handleEscape = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') setIsSearchOpen(false);
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setIsSearchOpen(false);
+      } else if (e.key === 'k' && (e.metaKey || e.ctrlKey)) {
+        e.preventDefault();
+        setIsSearchOpen((prev) => !prev);
+      }
     };
-    document.addEventListener('keydown', handleEscape);
-    return () => document.removeEventListener('keydown', handleEscape);
+    document.addEventListener('keydown', handleKey);
+    return () => document.removeEventListener('keydown', handleKey);
   }, []);
 
   const handleSearch = (e: React.FormEvent) => {
@@ -89,7 +94,16 @@ export default function Header() {
             <div className="flex items-center space-x-4">
               <button
                 onClick={() => setIsSearchOpen(true)}
-                className="p-2 text-gray-600 hover:text-gray-900 transition-colors"
+                className="hidden md:flex items-center gap-2 px-3 py-1.5 text-sm text-gray-500 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors"
+                aria-label="Open search"
+              >
+                <Search className="w-4 h-4" />
+                <span>Search</span>
+                <kbd className="hidden lg:inline text-[10px] font-mono bg-white border border-gray-300 rounded px-1 py-0.5 text-gray-400">⌘K</kbd>
+              </button>
+              <button
+                onClick={() => setIsSearchOpen(true)}
+                className="md:hidden p-2 text-gray-600 hover:text-gray-900 transition-colors"
                 aria-label="Open search"
               >
                 <Search className="w-5 h-5" />

@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { Article, Category } from '@/types';
+import { estimateReadingTime } from '@/lib/utils';
 
 const contentDirectory = path.join(process.cwd(), 'content/posts');
 
@@ -37,6 +38,7 @@ export function getAllArticles(): Article[] {
       source: data.source,
       sourceUrl: data.sourceUrl,
       author: data.author || 'KPOP Daily',
+      readingTime: estimateReadingTime(content),
     });
   }
 
