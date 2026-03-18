@@ -1,9 +1,11 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import AdBanner, { SidebarAd } from '@/components/AdBanner';
 import CategoryArticleList from '@/components/CategoryArticleList';
 import { getArticlesByCategory } from '@/lib/articles';
 import { categories, getCategoryBySlug } from '@/lib/config';
+import { getTagFrequency } from '@/lib/utils';
 import type { ArticleSummary } from '@/types';
 import { Category } from '@/types';
 
@@ -56,6 +58,13 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const rawArticles = getArticlesByCategory(params.slug as Category);
   const articles: ArticleSummary[] = rawArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
 
+  // Top tags in this category
+  const tagFreq = getTagFrequency(rawArticles.map((a) => a.tags));
+  const topTags = Object.entries(tagFreq)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 12)
+    .map(([tag]) => tag);
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Category Header */}
@@ -89,6 +98,31 @@ export default function CategoryPage({ params }: CategoryPageProps) {
               <p className="text-sm text-gray-400 mt-2">
                 Check back soon for updates!
               </p>
+            </div>
+          )}
+
+          {/* Popular Tags in this category */}
+          {topTags.length > 0 && (
+            <div className="mt-10 pt-8 border-t border-gray-100">
+              <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-4">
+                Popular Topics in {category.name}
+              </h2>
+              <div className="flex flex-wrap gap-2">
+                {topTags.map((tag) => (
+                  <Link
+                    key={tag}
+                    href={`/tag/${tag.toLowerCase()}`}
+                    className="inline-flex items-center px-3 py-1.5 rounded-full text-sm border transition-all hover:scale-105"
+                    style={{
+                      backgroundColor: `${category.color}10`,
+                      color: category.color,
+                      borderColor: `${category.color}30`,
+                    }}
+                  >
+                    #{tag}
+                  </Link>
+                ))}
+              </div>
             </div>
           )}
 
