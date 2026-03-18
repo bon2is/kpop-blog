@@ -71,9 +71,17 @@ const organizationLd = {
   '@type': 'Organization',
   name: siteConfig.name,
   url: siteConfig.url,
-  logo: `${siteConfig.url}/og-image.png`,
+  logo: {
+    '@type': 'ImageObject',
+    url: `${siteConfig.url}/og-image.png`,
+    width: 1200,
+    height: 630,
+  },
+  description: siteConfig.description,
   sameAs: [
     'https://twitter.com/kpopdailynews',
+    'https://www.threads.net/@kpopdaily',
+    'https://bsky.app/profile/kpop.andxo.com',
   ],
 };
 
