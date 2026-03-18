@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { getArtistBySlug, getAllArtistSlugs } from '@/lib/artists';
 import { getAllArticles } from '@/lib/articles';
-import ArticleCard from '@/components/ArticleCard';
+import ArtistArticleList from '@/components/ArtistArticleList';
 import { Calendar, Building2, Users, Newspaper } from 'lucide-react';
 
 interface ArtistPageProps {
@@ -161,11 +161,7 @@ export default function ArtistPage({ params }: ArtistPageProps) {
         </h2>
 
         {artistArticles.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {artistArticles.map((article) => (
-              <ArticleCard key={article.slug} article={article} />
-            ))}
-          </div>
+          <ArtistArticleList articles={artistArticles} brandColor={artist.brandColor} />
         ) : (
           <div className="text-center py-16 bg-gray-50 rounded-2xl">
             <Newspaper className="w-12 h-12 text-gray-300 mx-auto mb-3" />
