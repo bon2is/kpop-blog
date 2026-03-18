@@ -192,87 +192,87 @@ function extractKpopGroup(text: string): string | null {
 // Group-specific visual descriptions for DALL-E 3 (natural language, sentence form)
 const GROUP_VISUALS: Record<string, { character: string; setting: string; palette: string }> = {
   'BTS': {
-    character: 'a beautiful young Korean male idol with flowing dark hair, soft expressive eyes, wearing an elegant stage outfit with silver details',
+    character: 'a breathtakingly handsome young Korean male idol with flowing dark hair, luminous warm skin, soft expressive eyes and a heartwarming gentle smile that radiates kindness, wearing an elegant stage outfit with silver details',
     setting: 'standing in a dreamlike concert stadium surrounded by a sea of glowing purple lightsticks, cherry blossom petals drifting through the air',
     palette: 'deep violet, cobalt blue, soft lavender, silver shimmer',
   },
   'BLACKPINK': {
-    character: 'a stunning young Korean female idol with sleek black hair, rose-gold jewelry, wearing a chic black outfit with pink accents',
+    character: 'a stunningly gorgeous young Korean female idol with sleek black hair, flawless luminous skin, rose-gold jewelry, wearing a chic black outfit with pink accents, flashing a confident dazzling smile that is both fierce and irresistible',
     setting: 'surrounded by cascading pink rose petals on a luxury editorial stage, velvet drapes and golden light behind her',
     palette: 'hot pink, jet black, rose gold, cream white',
   },
   'aespa': {
-    character: 'a sleek anime female idol in a chrome holographic outfit, glowing teal eyes, elegant futuristic silhouette',
+    character: 'an ethereally beautiful anime female idol in a chrome holographic outfit, captivating bright teal eyes full of wonder, soft glowing skin, a mysterious yet warmly inviting smile that draws you in',
     setting: 'inside a breathtaking digital metaverse portal, swirling particle effects and neon light grids stretching into infinity',
     palette: 'holographic silver, teal, metallic white, neon cyan',
   },
   'NewJeans': {
-    character: 'a cute young Korean female idol with soft wavy hair, bright cheerful eyes, wearing a casual Y2K pastel outfit',
+    character: 'an adorably charming young Korean female idol with soft wavy hair, bright sparkling eyes, rosy cheeks, a naturally pretty fresh face glowing with a sweet sunshine smile, wearing a casual Y2K pastel outfit',
     setting: 'sitting in a cozy sunlit café surrounded by pastel daisies and retro accessories, afternoon light streaming through the window',
     palette: 'baby blue, soft pink, cream white, pastel mint',
   },
   'IVE': {
-    character: 'an elegant young Korean female idol with graceful posture, wearing a pearl-white dress with champagne gold trim, confident gaze',
+    character: 'a radiantly beautiful young Korean female idol with graceful posture, luminous clear skin, wearing a pearl-white dress with champagne gold trim, beaming with an elegant self-assured smile and sparkling confident eyes',
     setting: 'standing on a grand stage bathed in royal blue and golden light, soft mist at her feet and a beautiful aurora sky behind her',
     palette: 'royal blue, pearl white, champagne gold, soft cream',
   },
   'LE SSERAFIM': {
-    character: 'a fierce young Korean female idol with sharp determined eyes, athletic posture, wearing a crimson and navy performance outfit',
+    character: 'a strikingly beautiful young Korean female idol with sharp athletic posture, bright fierce eyes lit with energy and passion, wearing a crimson and navy performance outfit, showing a powerful victorious smile full of confidence',
     setting: 'striking a powerful pose in a dramatic arena with motion-blur energy lines, sparks flying, intense stage lighting behind her',
     palette: 'deep navy, crimson red, stark white, gold',
   },
   'TWICE': {
-    character: 'an adorable young Korean female idol with bright cheerful eyes and a warm smile, wearing a colorful pastel stage outfit',
+    character: 'an irresistibly cute and beautiful young Korean female idol with bright sparkling eyes, rosy cheeks, and a dazzling heartfelt smile that feels like pure sunshine, wearing a colorful pastel stage outfit',
     setting: 'surrounded by heart-shaped confetti and rainbow bokeh lights on a vibrant stage, flowers and balloons everywhere',
     palette: 'candy pink, coral orange, rainbow pastels, soft white',
   },
   'SEVENTEEN': {
-    character: 'a handsome young Korean male idol with a precise confident expression, wearing a crisp blue and silver uniform',
+    character: 'a strikingly handsome young Korean male idol with a bright charismatic smile and warm expressive eyes full of energy, wearing a crisp blue and silver uniform',
     setting: 'center stage with diamond-blue sparkles and synchronized light formations radiating behind him, grand performance energy',
     palette: 'diamond blue, sky blue, silver white, pale gold',
   },
   'Stray Kids': {
-    character: 'a cool Korean male idol with sharp intense eyes, wearing an edgy dark outfit with bold graphic details',
+    character: 'a charismatically attractive Korean male idol with intense bright eyes blazing with passion, wearing an edgy dark outfit with bold graphic details, expression fierce yet electrifyingly alive',
     setting: 'in an industrial performance space with neon green light slicing through dark fog, raw powerful atmosphere',
     palette: 'dark charcoal, neon green, deep crimson, black',
   },
   'NCT': {
-    character: 'a stylish young Korean male idol with a sharp cool expression, wearing a futuristic metallic outfit',
+    character: 'a strikingly handsome young Korean male idol with magnetic bright eyes and a cool charming smile that is effortlessly attractive, wearing a futuristic metallic outfit',
     setting: 'in a glowing neo-city skyline at night, geometric neon light patterns reflecting on wet pavement',
     palette: 'neon pink, metallic silver, electric white, deep blue',
   },
   'EXO': {
-    character: 'a majestic Korean male idol with a powerful dignified presence, wearing an imperial gold-trimmed dark outfit',
+    character: 'a breathtakingly majestic Korean male idol with powerful warm eyes and a dignified radiant smile, flawless glowing skin, wearing an imperial gold-trimmed dark outfit',
     setting: 'surrounded by celestial light beams and a galaxy of stars, a supernatural golden aura radiating from behind him',
     palette: 'deep black, imperial gold, celestial deep blue, starlight white',
   },
   'ENHYPEN': {
-    character: 'a mysterious young Korean male idol with dark charismatic eyes, wearing an elegant moonlit crimson and purple outfit',
+    character: 'a hauntingly beautiful young Korean male idol with alluring bright eyes that draw you in, porcelain skin, wearing an elegant moonlit crimson and purple outfit, expression captivating and mysteriously charming',
     setting: 'in a gothic garden at midnight, silver moonbeams through dark trees, dark red roses floating around him',
     palette: 'deep purple, blood crimson, pale silver, midnight black',
   },
   'TXT': {
-    character: 'a dreamy young Korean male idol with wonder-filled expressive eyes, wearing soft layered outfit in twilight tones',
+    character: 'a dreamily handsome young Korean male idol with wonder-filled sparkling eyes and a soft warm smile full of imagination, wearing a soft layered outfit in twilight tones',
     setting: 'in a surreal floating dreamscape where book pages swirl and giant moons glow, twilight sky shifting from orange to purple',
     palette: 'twilight sky blue, soft burnt orange, dreamy purple, cream',
   },
   'ATEEZ': {
-    character: 'a charismatic Korean male idol with fierce passionate eyes, wearing a dramatic pirate-inspired costume with gold accents',
+    character: 'a charismatically gorgeous Korean male idol with fierce bright eyes blazing with passion and a bold thrilling smile, wearing a dramatic pirate-inspired costume with gold accents',
     setting: 'on a theatrical stage with grand crimson lighting and swirling stage fog, dramatic performance energy radiating outward',
     palette: 'deep orange, black, pirate gold, crimson red',
   },
   'Red Velvet': {
-    character: 'a charming Korean female idol with soft glowing eyes and a sophisticated smile, wearing an elegant velvet red outfit',
+    character: 'a beautifully charming Korean female idol with soft glowing eyes and a sophisticated radiant smile that is both playful and elegant, wearing a velvet red outfit with flawless porcelain skin',
     setting: 'holding a red rose bouquet in a candlelit space with velvet curtains, both playfully sweet and majestically elegant',
     palette: 'deep crimson, velvet black, blush rose, warm gold',
   },
   'RIIZE': {
-    character: 'a bright fresh-faced Korean male idol with a natural cheerful expression, wearing a casual white outfit',
+    character: 'a naturally handsome fresh-faced Korean male idol with a bright sunshine smile and warm sparkling eyes, glowing healthy skin, wearing a casual white outfit',
     setting: 'outdoors in golden hour light with sunflowers and warm sunset behind him, a fresh youthful energy',
     palette: 'warm sunset orange, fresh green, white, golden yellow',
   },
   'BIGBANG': {
-    character: 'a legendary Korean male idol with an iconic cool avant-garde presence, wearing a bold artistic outfit',
+    character: 'a legendarily cool Korean male idol with an iconic avant-garde presence and a charismatic magnetic smile that commands attention, wearing a bold artistic outfit',
     setting: 'on a legendary stage with electric yellow light beams and chrome surfaces, artistic and fearless energy',
     palette: 'chrome silver, electric yellow, black, bold white',
   },
@@ -362,21 +362,21 @@ function buildImagePrompt(title: string, summary: string, category: string): str
   const eventVis = EVENT_VISUALS[eventType] || EVENT_VISUALS['general'];
 
   // Base style — bright, cheerful watercolor anime aesthetic
-  const styleDescription = 'A beautiful bright watercolor illustration with soft pencil sketch lines, in the style of Studio Ghibli anime. High-key warm lighting, vivid cheerful colors, soft cel-shading, glowing bokeh particles. The character has a bright warm smile and joyful, expressive eyes. Overall mood is uplifting, vibrant, and full of life.';
+  const styleDescription = 'A breathtaking bright watercolor illustration with delicate pencil sketch lines, in the style of Studio Ghibli anime. High-key warm lighting, vivid luminous colors, soft cel-shading, sparkling bokeh particles. The character is strikingly beautiful and attractive, with a radiant beaming smile, sparkling joyful eyes, perfect skin, and an irresistibly charming presence. Overall mood is uplifting, warm, and full of life.';
 
   // Character description
   const characterDesc = groupVis
     ? `The scene features ${groupVis.character}.`
     : (() => {
         const catChars: Record<string, string> = {
-          music: 'The scene features a beautiful young Korean female idol with long flowing hair, soft expressive eyes, and a graceful elegant pose.',
-          drama: 'The scene features a beautiful Korean actress with expressive eyes and elegant presence, in a cinematic K-drama moment.',
-          celebrity: 'The scene features a charismatic young Korean idol with bright expressive eyes, warm smile, and stylish presence.',
-          fashion: 'The scene features a stunning young Korean female idol with perfect posture, glamorous outfit, and confident grace.',
-          variety: 'The scene features a cheerful young Korean idol with a bright infectious smile and playful energetic personality.',
-          news: 'The scene features a poised young Korean idol with calm expressive eyes and dignified presence.',
+          music: 'The scene features a breathtakingly beautiful young Korean female idol with long flowing silky hair, luminous clear skin, sparkling expressive eyes, and a graceful elegant pose with a warm radiant smile.',
+          drama: 'The scene features a strikingly beautiful Korean actress with deeply expressive eyes, flawless skin, and an elegant captivating presence, glowing with emotional warmth.',
+          celebrity: 'The scene features a charismatically attractive young Korean idol with bright sparkling eyes, a dazzling warm smile, and effortlessly stylish presence.',
+          fashion: 'The scene features a stunningly gorgeous young Korean female idol with perfect posture, glamorous outfit, luminous skin, and a confident elegant smile that commands attention.',
+          variety: 'The scene features an adorably charming young Korean idol with bright infectious smile, sparkling playful eyes, and an irresistibly cheerful energetic personality.',
+          news: 'The scene features a poised and beautifully elegant young Korean idol with warm luminous eyes, a gentle reassuring smile, and dignified graceful presence.',
         };
-        return catChars[category] || 'The scene features a beautiful young Korean idol with luminous expressive eyes, flowing hair catching the light, and an elegant captivating presence.';
+        return catChars[category] || 'The scene features a breathtakingly beautiful young Korean idol with luminous sparkling eyes, flowing hair catching the warm light, a radiant smile, and an irresistibly charming elegant presence.';
       })();
 
   // Setting and context
@@ -397,7 +397,7 @@ function buildImagePrompt(title: string, summary: string, category: string): str
     return catPalettes[category] || 'warm golden tones, soft pink and lavender, luminous whites';
   })();
 
-  return `${styleDescription} ${characterDesc} ${settingDesc} The atmosphere is ${eventVis.atmosphere}. Color palette: ${palette}. Bright sunlight or stage glow fills the scene. Natural elements like soft flower petals and warm bokeh lights add cheer. Widescreen 16:9 cinematic composition. No text, no watermarks, no logos.`;
+  return `${styleDescription} ${characterDesc} ${settingDesc} The atmosphere is ${eventVis.atmosphere}. Color palette: ${palette}. The character's face is the focal point — beautifully rendered with a radiant beaming smile, bright sparkling eyes full of joy and life, and glowing healthy skin. Bright warm sunlight or stage glow fills the scene. Soft flower petals and warm bokeh lights enhance the cheerful mood. Widescreen 16:9 cinematic composition. No text, no watermarks, no logos.`;
 }
 
 // Generate context-aware image prompt (AI-enhanced)
@@ -424,7 +424,8 @@ RULES:
 - Write in natural English sentences (NOT comma-separated tags)
 - The style is watercolor illustration with pencil sketch lines — NOT photorealistic
 - The character should feel like a beautiful anime interpretation, NOT a real person
-- Add one specific detail about: the character's expression/emotion, a unique visual element from the story, or a mood-enhancing environmental detail
+- The character MUST be strikingly attractive and beautiful, with a bright radiant smile and sparkling joyful eyes — never sad, tired, or neutral
+- Add one specific detail about: a unique visual element from the story, or a mood-enhancing environmental detail
 - Keep the total output under 180 words
 - Output ONLY the complete enhanced prompt, nothing else`
         },
