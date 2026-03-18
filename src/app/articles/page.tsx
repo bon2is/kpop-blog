@@ -1,9 +1,9 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import ArticleCard from '@/components/ArticleCard';
-import AdBanner, { InFeedAd } from '@/components/AdBanner';
+import AdBanner from '@/components/AdBanner';
+import ArticlesBrowser from '@/components/ArticlesBrowser';
 import { getAllArticles } from '@/lib/articles';
-import { siteConfig } from '@/lib/config';
+import { categories, siteConfig } from '@/lib/config';
 
 export const metadata: Metadata = {
   title: 'All K-Pop & K-Drama Articles',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 };
 
 export default function ArticlesPage() {
-  const articles = getAllArticles(); // Already sorted by date (newest first)
+  const articles = getAllArticles();
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -40,35 +40,15 @@ export default function ArticlesPage() {
           All Articles
         </h1>
         <p className="text-gray-600">
-          {articles.length} articles • Sorted by newest first
+          {articles.length} articles • Filter by category • Sorted by newest first
         </p>
       </div>
 
       {/* Top Ad */}
       <AdBanner className="mb-8" />
 
-      {/* Articles Grid */}
-      <div className="space-y-8">
-        {articles.map((article, index) => (
-          <div key={article.slug}>
-            <ArticleCard article={article} />
-            {/* Insert ad every 5 articles */}
-            {(index + 1) % 5 === 0 && index < articles.length - 1 && (
-              <InFeedAd className="mt-8" />
-            )}
-          </div>
-        ))}
-      </div>
-
-      {/* Empty State */}
-      {articles.length === 0 && (
-        <div className="text-center py-20 bg-gray-50 rounded-2xl">
-          <h2 className="text-2xl font-bold text-gray-900 mb-2">No Articles Yet</h2>
-          <p className="text-gray-600">
-            Check back soon for the latest K-Pop news!
-          </p>
-        </div>
-      )}
+      {/* Client-side filterable + paginated article browser */}
+      <ArticlesBrowser articles={articles} categories={categories} />
 
       {/* Bottom Ad */}
       <AdBanner className="mt-12" />

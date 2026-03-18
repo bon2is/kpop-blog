@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import ArticleCard from '@/components/ArticleCard';
-import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
+import AdBanner, { SidebarAd } from '@/components/AdBanner';
+import CategoryArticleList from '@/components/CategoryArticleList';
 import { getArticlesByCategory } from '@/lib/articles';
 import { categories, getCategoryBySlug } from '@/lib/config';
 import { Category } from '@/types';
@@ -85,33 +85,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         <div className="flex-1 min-w-0">
           {/* Articles Grid */}
           {articles.length > 0 ? (
-            <>
-              {/* Featured Article */}
-              {articles[0] && (
-                <div className="mb-8">
-                  <ArticleCard article={articles[0]} featured />
-                </div>
-              )}
-
-              {/* First batch of Articles */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                {articles.slice(1, 5).map((article) => (
-                  <ArticleCard key={article.slug} article={article} />
-                ))}
-              </div>
-
-              {/* In-feed Ad */}
-              {articles.length > 5 && <InFeedAd className="my-8" />}
-
-              {/* Rest of Articles */}
-              {articles.length > 5 && (
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                  {articles.slice(5).map((article) => (
-                    <ArticleCard key={article.slug} article={article} />
-                  ))}
-                </div>
-              )}
-            </>
+            <CategoryArticleList articles={articles} categoryColor={category.color} />
           ) : (
             <div className="text-center py-16">
               <p className="text-gray-500">No articles in this category yet.</p>
