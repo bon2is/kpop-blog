@@ -94,11 +94,24 @@ export default function ArtistPage({ params }: ArtistPageProps) {
     ].filter(Boolean),
   };
   const artistLdJson = JSON.stringify(artistLd);
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://kpop.andxo.com' },
+      { '@type': 'ListItem', position: 2, name: 'Artists', item: 'https://kpop.andxo.com/artists' },
+      { '@type': 'ListItem', position: 3, name: artist.name, item: `https://kpop.andxo.com/artist/${artist.slug}` },
+    ],
+  };
+  // __html is safe: all values from static artists.ts, not user input
+  const breadcrumbProps = { __html: JSON.stringify(breadcrumbLd) };
+  const artistLdProps = { __html: artistLdJson };
 
   return (
     <>
       {/* JSON-LD: Safe — data comes from static artists.ts, not user input */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: artistLdJson }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={artistLdProps} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={breadcrumbProps} />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Breadcrumb */}
       <nav className="mb-6 text-sm text-gray-500">

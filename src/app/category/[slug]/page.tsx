@@ -58,6 +58,18 @@ export default function CategoryPage({ params }: CategoryPageProps) {
   const rawArticles = getArticlesByCategory(params.slug as Category);
   const articles: ArticleSummary[] = rawArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
 
+  // BreadcrumbList structured data — Safe: all values from static config, not user input
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://kpop.andxo.com' },
+      { '@type': 'ListItem', position: 2, name: 'Categories', item: 'https://kpop.andxo.com/categories' },
+      { '@type': 'ListItem', position: 3, name: category.name, item: `https://kpop.andxo.com/category/${category.slug}` },
+    ],
+  };
+  const breadcrumbLdJson = JSON.stringify(breadcrumbLd);
+
   // Top tags in this category
   const tagFreq = getTagFrequency(rawArticles.map((a) => a.tags));
   const topTags = Object.entries(tagFreq)
@@ -65,8 +77,13 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     .slice(0, 12)
     .map(([tag]) => tag);
 
+  // __html is safe here: all values from static category config, not user input
+  const scriptProps = { __html: breadcrumbLdJson };
+
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={scriptProps} />
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Category Header */}
       <header className="mb-12 text-center">
         <div
@@ -136,5 +153,6 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         </aside>
       </div>
     </div>
+    </>
   );
 }

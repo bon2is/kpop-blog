@@ -70,8 +70,21 @@ export default function TagPage({ params }: TagPageProps) {
   const artist = getArtistByTag(tag);
   const relatedTags = getRelatedTags(tag, 8);
 
+  // BreadcrumbList JSON-LD: Safe — tag is a URL slug from our own static generated tags
+  const tagBreadcrumbJson = JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+      { '@type': 'ListItem', position: 2, name: `#${tag}`, item: `${siteConfig.url}/tag/${tag.toLowerCase()}` },
+    ],
+  });
+  const tagBreadcrumbProps = { __html: tagBreadcrumbJson };
+
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={tagBreadcrumbProps} />
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <header className="mb-8">
         {/* Breadcrumb */}
         <nav className="mb-4 text-sm text-gray-500">
@@ -187,5 +200,6 @@ export default function TagPage({ params }: TagPageProps) {
 
       <AdBanner className="mt-12" />
     </div>
+    </>
   );
 }
