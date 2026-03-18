@@ -73,8 +73,33 @@ export default function ArtistPage({ params }: ArtistPageProps) {
     : '#FAFAFA';
   const headerBorder = artist.brandColor ? `${artist.brandColor}25` : '#E5E7EB';
 
+  // Schema.org MusicGroup / MusicArtist structured data for Google Knowledge Panel
+  // Safe: all values sourced from server-side artists.ts data, not user input
+  const artistLd: Record<string, unknown> = {
+    '@context': 'https://schema.org',
+    '@type': artist.type === 'group' ? 'MusicGroup' : 'MusicArtist',
+    name: artist.name,
+    url: `https://kpop.andxo.com/artist/${artist.slug}`,
+    ...(artist.description ? { description: artist.description } : {}),
+    ...(artist.debut ? { foundingDate: artist.debut.slice(0, 4) } : {}),
+    ...(artist.agency ? { foundingLocation: { '@type': 'Organization', name: artist.agency } } : {}),
+    ...(artist.members && artist.members.length > 0
+      ? { member: artist.members.map((m) => ({ '@type': 'Person', name: m })) }
+      : {}),
+    ...(artist.logo ? { image: `https://kpop.andxo.com${artist.logo}` } : {}),
+    sameAs: [
+      artist.socialLinks?.twitter,
+      artist.socialLinks?.instagram,
+      artist.socialLinks?.youtube,
+    ].filter(Boolean),
+  };
+  const artistLdJson = JSON.stringify(artistLd);
+
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <>
+      {/* JSON-LD: Safe — data comes from static artists.ts, not user input */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: artistLdJson }} />
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Breadcrumb */}
       <nav className="mb-6 text-sm text-gray-500">
         <ol className="flex items-center gap-2">
@@ -224,5 +249,6 @@ export default function ArtistPage({ params }: ArtistPageProps) {
         </section>
       )}
     </div>
+    </>
   );
 }
