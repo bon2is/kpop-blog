@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import AdBanner from '@/components/AdBanner';
 import { TagArticleList } from '@/components/TagArticleList';
-import { getAllTags, getArticlesByTag } from '@/lib/articles';
+import { getAllTags, getArticlesByTag, getRelatedTags } from '@/lib/articles';
 import type { ArticleSummary } from '@/types';
 import { getArtistByTag } from '@/lib/artists';
 import { Tag, Building2, Calendar, Newspaper } from 'lucide-react';
@@ -63,6 +63,7 @@ export default function TagPage({ params }: TagPageProps) {
 
   // Check if this tag matches a known artist
   const artist = getArtistByTag(tag);
+  const relatedTags = getRelatedTags(tag, 8);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -160,6 +161,24 @@ export default function TagPage({ params }: TagPageProps) {
 
       {/* Articles with Load More */}
       <TagArticleList articles={articles} />
+
+      {/* Related Tags */}
+      {relatedTags.length > 0 && (
+        <div className="mt-12 pt-8 border-t border-gray-100">
+          <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-4">Related Topics</h2>
+          <div className="flex flex-wrap gap-2">
+            {relatedTags.map((relTag) => (
+              <Link
+                key={relTag}
+                href={`/tag/${relTag.toLowerCase()}`}
+                className="inline-flex items-center px-3 py-1.5 rounded-full text-sm bg-gray-100 text-gray-700 hover:bg-pink-50 hover:text-pink-600 border border-transparent hover:border-pink-200 transition-all"
+              >
+                #{relTag}
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
 
       <AdBanner className="mt-12" />
     </div>

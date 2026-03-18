@@ -3,20 +3,40 @@
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useState, useRef, useEffect } from 'react';
-import { Menu, X, Search, BarChart3, Users } from 'lucide-react';
+import { Menu, X, Search, BarChart3, Users, Clock } from 'lucide-react';
 import { categories } from '@/lib/config';
+
+const RECENT_SEARCHES_KEY = 'kpop_recent_searches';
+const MAX_RECENT = 5;
+
+function loadRecentSearches(): string[] {
+  try {
+    const raw = localStorage.getItem(RECENT_SEARCHES_KEY);
+    return raw ? JSON.parse(raw) : [];
+  } catch { return []; }
+}
+
+function saveRecentSearch(q: string) {
+  try {
+    const prev = loadRecentSearches();
+    const next = [q, ...prev.filter((s) => s !== q)].slice(0, MAX_RECENT);
+    localStorage.setItem(RECENT_SEARCHES_KEY, JSON.stringify(next));
+  } catch { /* ignore */ }
+}
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const [recentSearches, setRecentSearches] = useState<string[]>([]);
   const searchInputRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
 
-  // Focus search input when modal opens
+  // Focus search input and load recent searches when modal opens
   useEffect(() => {
-    if (isSearchOpen && searchInputRef.current) {
-      searchInputRef.current.focus();
+    if (isSearchOpen) {
+      searchInputRef.current?.focus();
+      setRecentSearches(loadRecentSearches());
     }
   }, [isSearchOpen]);
 
@@ -34,13 +54,18 @@ export default function Header() {
     return () => document.removeEventListener('keydown', handleKey);
   }, []);
 
+  const doSearch = (q: string) => {
+    const trimmed = q.trim();
+    if (!trimmed) return;
+    saveRecentSearch(trimmed);
+    router.push(`/search?q=${encodeURIComponent(trimmed)}`);
+    setIsSearchOpen(false);
+    setSearchQuery('');
+  };
+
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
-    if (searchQuery.trim()) {
-      router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
-      setIsSearchOpen(false);
-      setSearchQuery('');
-    }
+    doSearch(searchQuery);
   };
 
   return (
@@ -188,23 +213,50 @@ export default function Header() {
                 </button>
               </div>
             </form>
-            {/* Popular searches */}
-            <div className="px-6 py-3 bg-gray-50 border-t border-gray-100">
-              <p className="text-xs text-gray-400 mb-2">Popular searches</p>
-              <div className="flex flex-wrap gap-2">
-                {['BTS', 'BLACKPINK', 'aespa', 'IVE', 'Stray Kids', 'TWICE', 'NewJeans', 'SEVENTEEN'].map((q) => (
-                  <button
-                    key={q}
-                    onClick={() => {
-                      router.push(`/search?q=${encodeURIComponent(q)}`);
-                      setIsSearchOpen(false);
-                      setSearchQuery('');
-                    }}
-                    className="px-3 py-1 text-xs bg-white border border-gray-200 rounded-full text-gray-600 hover:bg-pink-50 hover:border-pink-200 hover:text-pink-600 transition-colors"
-                  >
-                    {q}
-                  </button>
-                ))}
+            {/* Recent + Popular searches */}
+            <div className="px-6 py-3 bg-gray-50 border-t border-gray-100 space-y-3">
+              {recentSearches.length > 0 && (
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <p className="text-xs text-gray-400 flex items-center gap-1">
+                      <Clock className="w-3 h-3" /> Recent
+                    </p>
+                    <button
+                      onClick={() => {
+                        localStorage.removeItem(RECENT_SEARCHES_KEY);
+                        setRecentSearches([]);
+                      }}
+                      className="text-xs text-gray-400 hover:text-gray-600 transition-colors"
+                    >
+                      Clear
+                    </button>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {recentSearches.map((q) => (
+                      <button
+                        key={q}
+                        onClick={() => doSearch(q)}
+                        className="px-3 py-1 text-xs bg-white border border-gray-200 rounded-full text-gray-700 hover:bg-pink-50 hover:border-pink-200 hover:text-pink-600 transition-colors"
+                      >
+                        {q}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              )}
+              <div>
+                <p className="text-xs text-gray-400 mb-2">Popular searches</p>
+                <div className="flex flex-wrap gap-2">
+                  {['BTS', 'BLACKPINK', 'aespa', 'IVE', 'Stray Kids', 'TWICE', 'NewJeans', 'SEVENTEEN'].map((q) => (
+                    <button
+                      key={q}
+                      onClick={() => doSearch(q)}
+                      className="px-3 py-1 text-xs bg-white border border-gray-200 rounded-full text-gray-600 hover:bg-pink-50 hover:border-pink-200 hover:text-pink-600 transition-colors"
+                    >
+                      {q}
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
           </div>

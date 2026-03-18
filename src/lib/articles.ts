@@ -114,6 +114,27 @@ export function getAdjacentArticles(slug: string): {
   };
 }
 
+// Returns tags that frequently co-occur with the given tag, sorted by co-occurrence count
+export function getRelatedTags(tag: string, limit = 8): string[] {
+  const articles = getAllArticles();
+  const tagLower = tag.toLowerCase();
+  const coCount: Record<string, number> = {};
+
+  for (const article of articles) {
+    const tagsLower = article.tags.map((t) => t.toLowerCase());
+    if (!tagsLower.includes(tagLower)) continue;
+    for (const t of article.tags) {
+      if (t.toLowerCase() === tagLower) continue;
+      coCount[t] = (coCount[t] ?? 0) + 1;
+    }
+  }
+
+  return Object.entries(coCount)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, limit)
+    .map(([t]) => t);
+}
+
 export function searchArticles(query: string): Article[] {
   const articles = getAllArticles();
   const lowerQuery = query.toLowerCase();
