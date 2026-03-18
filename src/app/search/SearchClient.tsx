@@ -26,16 +26,32 @@ function SearchResults({ articles }: SearchClientProps) {
   const filteredArticles = useMemo(() => {
     let results = articles;
 
-    // Text search
+    // Text search with relevance scoring
     if (query.trim()) {
       const lowerQuery = query.toLowerCase();
-      results = results.filter(
-        (a) =>
-          a.title.toLowerCase().includes(lowerQuery) ||
-          a.excerpt.toLowerCase().includes(lowerQuery) ||
-          a.tags.some((t) => t.toLowerCase().includes(lowerQuery)) ||
-          false
-      );
+      const withScore = results.map((a) => {
+        let score = 0;
+        const titleL = a.title.toLowerCase();
+        const excerptL = a.excerpt.toLowerCase();
+        // Exact title match
+        if (titleL === lowerQuery) score += 100;
+        // Title starts with query
+        else if (titleL.startsWith(lowerQuery)) score += 50;
+        // Title contains query
+        else if (titleL.includes(lowerQuery)) score += 30;
+        // Tag exact match
+        if (a.tags.some((t) => t.toLowerCase() === lowerQuery)) score += 40;
+        // Tag contains query
+        else if (a.tags.some((t) => t.toLowerCase().includes(lowerQuery))) score += 20;
+        // Excerpt contains query
+        if (excerptL.includes(lowerQuery)) score += 10;
+        return { article: a, score };
+      });
+
+      results = withScore
+        .filter(({ score }) => score > 0)
+        .sort((a, b) => b.score - a.score)
+        .map(({ article }) => article);
     }
 
     // Category filter
@@ -43,7 +59,7 @@ function SearchResults({ articles }: SearchClientProps) {
       results = results.filter((a) => a.category === selectedCategory);
     }
 
-    // Sort
+    // Sort (overrides relevance if explicitly chosen)
     if (sortBy === 'newest') {
       results = [...results].sort(
         (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()

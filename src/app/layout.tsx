@@ -87,6 +87,11 @@ export default function RootLayout({
       <head>
           <meta name="agd-partner-manual-verification" />
           <meta name="naver-site-verification" content="a156ba871d90bd061a576b944f0a37bd8eac4e17" />
+          <meta name="theme-color" content="#EC4899" />
+          <meta name="mobile-web-app-capable" content="yes" />
+          <meta name="apple-mobile-web-app-capable" content="yes" />
+          <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+          <meta name="apple-mobile-web-app-title" content="KPOP Daily" />
           <link rel="alternate" type="application/rss+xml" title="KPOP Daily RSS" href="/feed.xml" />
           <link rel="search" type="application/opensearchdescription+xml" title="KPOP Daily Search" href="/opensearch.xml" />
           {/* Organization structured data */}
