@@ -180,9 +180,15 @@ export default function ArticlePage({ params }: ArticlePageProps) {
             <Calendar className="w-4 h-4 mr-1" />
             {formatDate(article.publishedAt)}
           </span>
+          {article.updatedAt !== article.publishedAt &&
+            new Date(article.updatedAt).getTime() - new Date(article.publishedAt).getTime() > 86400000 && (
+            <span className="text-xs text-green-600 bg-green-50 px-2 py-0.5 rounded-full border border-green-100">
+              Updated {formatDate(article.updatedAt)}
+            </span>
+          )}
           <span className="flex items-center">
             <Clock className="w-4 h-4 mr-1" />
-            {estimateReadingTime(article.content)} min read
+            {article.readingTime ?? estimateReadingTime(article.content)} min read
           </span>
           <ViewCounter slug={article.slug} />
           <span>By {article.author}</span>
