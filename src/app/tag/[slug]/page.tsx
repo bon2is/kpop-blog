@@ -24,9 +24,25 @@ export async function generateMetadata({ params }: TagPageProps): Promise<Metada
     return { title: 'Tag Not Found' };
   }
 
+  const tagUrl = `https://kpop.andxo.com/tag/${tag.toLowerCase()}`;
   return {
-    title: `#${tag} Articles`,
-    description: `Browse all K-Pop and K-Drama articles tagged with #${tag}`,
+    title: `${tag} K-Pop News & Updates`,
+    description: `Latest K-Pop and K-Drama news about ${tag}. ${articles.length} articles covering comebacks, tours, and more.`,
+    keywords: [tag, `${tag} news`, `${tag} comeback`, `${tag} album`, `${tag} tour`, 'K-Pop', 'Kpop news'],
+    alternates: { canonical: tagUrl },
+    openGraph: {
+      title: `${tag} K-Pop News | KPOP Daily`,
+      description: `Latest ${tag} K-Pop news and updates. ${articles.length} articles.`,
+      type: 'website',
+      url: tagUrl,
+      images: [{ url: '/og-image.png', width: 1200, height: 630, alt: `${tag} – KPOP Daily` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${tag} K-Pop News | KPOP Daily`,
+      description: `Latest ${tag} K-Pop news, comebacks, and updates.`,
+      images: ['/og-image.png'],
+    },
   };
 }
 

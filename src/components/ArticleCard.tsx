@@ -24,9 +24,14 @@ function getCategoryGlowClass(category: string): string {
   return map[category] || '';
 }
 
+function isNew(publishedAt: string): boolean {
+  return Date.now() - new Date(publishedAt).getTime() < 24 * 60 * 60 * 1000;
+}
+
 export default function ArticleCard({ article, featured = false }: ArticleCardProps) {
   const categoryColor = getCategoryColor(article.category);
   const glowClass = getCategoryGlowClass(article.category);
+  const showNew = isNew(article.publishedAt);
 
   if (featured) {
     return (
@@ -65,12 +70,19 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
           </div>
 
           <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
-            <span
-              className="inline-block px-3 py-1 rounded-full text-xs font-semibold mb-3"
-              style={{ backgroundColor: categoryColor }}
-            >
-              {article.category.toUpperCase()}
-            </span>
+            <div className="flex items-center gap-2 mb-3">
+              <span
+                className="inline-block px-3 py-1 rounded-full text-xs font-semibold"
+                style={{ backgroundColor: categoryColor }}
+              >
+                {article.category.toUpperCase()}
+              </span>
+              {showNew && (
+                <span className="inline-flex items-center gap-1 px-2 py-1 rounded-full bg-red-500 text-white text-xs font-bold animate-pulse">
+                  NEW
+                </span>
+              )}
+            </div>
             <h2 className="text-2xl md:text-3xl font-bold mb-2 line-clamp-2">
               {article.title}
             </h2>
@@ -130,12 +142,19 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
           </div>
         )}
         <div className="p-4">
-          <span
-            className="inline-block px-2 py-0.5 rounded text-xs font-medium mb-2"
-            style={{ backgroundColor: `${categoryColor}20`, color: categoryColor }}
-          >
-            {article.category.toUpperCase()}
-          </span>
+          <div className="flex items-center gap-2 mb-2">
+            <span
+              className="inline-block px-2 py-0.5 rounded text-xs font-medium"
+              style={{ backgroundColor: `${categoryColor}20`, color: categoryColor }}
+            >
+              {article.category.toUpperCase()}
+            </span>
+            {showNew && (
+              <span className="inline-block px-1.5 py-0.5 rounded bg-red-500 text-white text-[10px] font-bold">
+                NEW
+              </span>
+            )}
+          </div>
           <h3 className="font-bold text-gray-900 mb-2 line-clamp-2 group-hover:text-pink-600 transition-colors">
             {article.title}
           </h3>

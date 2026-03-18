@@ -6,8 +6,17 @@ import { getAllArticles } from '@/lib/articles';
 import { Users } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Artists | KPOP Daily',
-  description: 'Browse K-Pop artist profiles and their latest news on KPOP Daily.',
+  title: 'K-Pop Artists – Groups & Soloists',
+  description: 'Browse K-Pop artist profiles and their latest news on KPOP Daily. Groups, soloists, and all your favorite K-Pop idols.',
+  keywords: ['K-Pop artists', 'K-Pop groups', 'K-Pop idols', 'BTS', 'BLACKPINK', 'aespa', 'IVE', 'Stray Kids', 'TWICE', 'SEVENTEEN'],
+  alternates: { canonical: 'https://kpop.andxo.com/artists' },
+  openGraph: {
+    title: 'K-Pop Artists | KPOP Daily',
+    description: 'Browse K-Pop groups, soloists and their latest coverage.',
+    type: 'website',
+    url: 'https://kpop.andxo.com/artists',
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'K-Pop Artists – KPOP Daily' }],
+  },
 };
 
 export default function ArtistsPage() {

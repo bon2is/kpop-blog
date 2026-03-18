@@ -1,13 +1,37 @@
+import { Metadata } from 'next';
 import Link from 'next/link';
 import ArticleCard from '@/components/ArticleCard';
 import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
 import { NewsletterBanner, NewsletterSidebar } from '@/components/Newsletter';
 import { getAllArticles } from '@/lib/articles';
-import { categories } from '@/lib/config';
+import { categories, siteConfig } from '@/lib/config';
 import BreakingNewsTicker from '@/components/BreakingNewsTicker';
 import TrendingSection from '@/components/TrendingSection';
 import TagCloud from '@/components/TagCloud';
 import ChartWidget from '@/components/ChartWidget';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: siteConfig.url,
+    types: { 'application/rss+xml': `${siteConfig.url}/feed.xml` },
+  },
+};
+
+const websiteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: siteConfig.name,
+  url: siteConfig.url,
+  description: siteConfig.description,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${siteConfig.url}/search?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
+};
 
 export default function HomePage() {
   const articles = getAllArticles();

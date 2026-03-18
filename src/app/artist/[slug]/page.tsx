@@ -18,9 +18,25 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: ArtistPageProps): Promise<Metadata> {
   const artist = getArtistBySlug(params.slug);
   if (!artist) return { title: 'Artist Not Found' };
+  const artistUrl = `https://kpop.andxo.com/artist/${artist.slug}`;
   return {
-    title: `${artist.name} | KPOP Daily`,
-    description: artist.description,
+    title: `${artist.name} K-Pop News, Comebacks & Updates`,
+    description: `Latest ${artist.name} news, comebacks, albums, concerts and more. Follow all ${artist.name} updates on KPOP Daily.`,
+    keywords: [artist.name, ...artist.tags, `${artist.name} news`, `${artist.name} comeback`, `${artist.name} album`, 'K-Pop'],
+    alternates: { canonical: artistUrl },
+    openGraph: {
+      title: `${artist.name} | KPOP Daily`,
+      description: artist.description,
+      type: 'website',
+      url: artistUrl,
+      images: [{ url: '/og-image.png', width: 1200, height: 630, alt: `${artist.name} – KPOP Daily` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${artist.name} News | KPOP Daily`,
+      description: `Latest ${artist.name} news, comebacks, and updates.`,
+      images: ['/og-image.png'],
+    },
   };
 }
 

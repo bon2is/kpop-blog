@@ -6,8 +6,16 @@ import { getAllArticles } from '@/lib/articles';
 import { siteConfig } from '@/lib/config';
 
 export const metadata: Metadata = {
-  title: 'All Articles',
-  description: `Browse all K-Pop and K-Drama news articles on ${siteConfig.name}. Latest updates, comebacks, and entertainment news.`,
+  title: 'All K-Pop & K-Drama Articles',
+  description: `Browse all K-Pop and K-Drama news articles on ${siteConfig.name}. Hundreds of articles covering comebacks, tours, awards, drama releases, and K-entertainment news.`,
+  alternates: { canonical: `${siteConfig.url}/articles` },
+  openGraph: {
+    title: 'All K-Pop Articles | KPOP Daily',
+    description: 'Browse hundreds of K-Pop and K-Drama news articles on KPOP Daily.',
+    type: 'website',
+    url: `${siteConfig.url}/articles`,
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'KPOP Daily Articles' }],
+  },
 };
 
 export default function ArticlesPage() {

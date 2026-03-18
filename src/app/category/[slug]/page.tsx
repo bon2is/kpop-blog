@@ -23,9 +23,25 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
     return { title: 'Category Not Found' };
   }
 
+  const catUrl = `https://kpop.andxo.com/category/${category.slug}`;
   return {
-    title: `${category.name} News`,
-    description: category.description,
+    title: `K-Pop ${category.name} News & Updates`,
+    description: `${category.description} Browse all K-Pop ${category.name.toLowerCase()} news on KPOP Daily.`,
+    keywords: [`K-Pop ${category.name}`, `Kpop ${category.name.toLowerCase()}`, 'K-Pop news', 'Kpop'],
+    alternates: { canonical: catUrl },
+    openGraph: {
+      title: `K-Pop ${category.name} News | KPOP Daily`,
+      description: category.description,
+      type: 'website',
+      url: catUrl,
+      images: [{ url: '/og-image.png', width: 1200, height: 630, alt: `${category.name} – KPOP Daily` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `K-Pop ${category.name} News | KPOP Daily`,
+      description: category.description,
+      images: ['/og-image.png'],
+    },
   };
 }
 
