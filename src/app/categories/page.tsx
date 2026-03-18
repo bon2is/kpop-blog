@@ -31,13 +31,12 @@ export default function CategoriesPage() {
               className="group block p-6 bg-white rounded-xl shadow-md hover:shadow-lg transition-all card-hover"
             >
               <div
-                className="w-14 h-14 rounded-full mb-4 flex items-center justify-center text-xl font-bold"
+                className="w-14 h-14 rounded-full mb-4 flex items-center justify-center text-2xl"
                 style={{
                   backgroundColor: `${category.color}20`,
-                  color: category.color,
                 }}
               >
-                {category.name.charAt(0)}
+                {category.symbol ?? category.name.charAt(0)}
               </div>
               <h2
                 className="text-xl font-bold mb-2 group-hover:underline"

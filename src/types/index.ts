@@ -77,4 +77,5 @@ export interface CategoryInfo {
   slug: Category;
   description: string;
   color: string;
+  symbol?: string;
 }

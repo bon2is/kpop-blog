@@ -59,15 +59,10 @@ export default function CategoryPage({ params }: CategoryPageProps) {
       {/* Category Header */}
       <header className="mb-12 text-center">
         <div
-          className="inline-block w-16 h-16 rounded-full mb-4"
+          className="inline-flex w-16 h-16 rounded-full mb-4 items-center justify-center text-3xl"
           style={{ backgroundColor: `${category.color}20` }}
         >
-          <div
-            className="w-full h-full rounded-full flex items-center justify-center text-2xl"
-            style={{ color: category.color }}
-          >
-            {category.name.charAt(0)}
-          </div>
+          {category.symbol ?? category.name.charAt(0)}
         </div>
         <h1 className="text-4xl font-bold text-gray-900 mb-3">{category.name}</h1>
         <p className="text-gray-600 max-w-2xl mx-auto">{category.description}</p>
