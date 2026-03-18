@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllArticles, getArticleBySlug, getRelatedArticles, getAdjacentArticles } from '@/lib/articles';
+import { getArtistByTag } from '@/lib/artists';
 import { formatDate, estimateReadingTime, extractHeadings } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
 import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
@@ -78,6 +79,8 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   const rawRelated = getRelatedArticles(article, 4);
   const relatedArticles: ArticleSummary[] = rawRelated.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
   const categoryColor = getCategoryColor(article.category);
+  // Look up artist from primary tag for cross-linking
+  const featuredArtist = article.tags.length > 0 ? getArtistByTag(article.tags[0]) : undefined;
   const headings = extractHeadings(article.content);
   const rawAdjacent = getAdjacentArticles(params.slug);
   const slimAdj = (a: ReturnType<typeof getRelatedArticles>[0] | null) =>
@@ -281,6 +284,41 @@ export default function ArticlePage({ params }: ArticlePageProps) {
             </div>
           )}
         </div>
+      )}
+
+      {/* Artist Spotlight */}
+      {featuredArtist && (
+        <Link
+          href={`/artist/${featuredArtist.slug}`}
+          className="block mb-8 p-4 rounded-xl border hover:shadow-md transition-all group"
+          style={{
+            background: featuredArtist.brandColor
+              ? `linear-gradient(135deg, ${featuredArtist.brandColor}10, ${featuredArtist.brandColor}06)`
+              : '#FAFAFA',
+            borderColor: featuredArtist.brandColor ? `${featuredArtist.brandColor}25` : '#E5E7EB',
+          }}
+        >
+          <div className="flex items-center gap-4">
+            {featuredArtist.logo ? (
+              <div
+                className="w-14 h-14 rounded-xl flex-shrink-0 overflow-hidden p-1.5 bg-white shadow-sm"
+                style={{ border: featuredArtist.brandColor ? `1.5px solid ${featuredArtist.brandColor}30` : '1.5px solid #E5E7EB' }}
+              >
+                <Image src={featuredArtist.logo} alt={featuredArtist.name} width={44} height={44} className="object-contain w-full h-full" unoptimized />
+              </div>
+            ) : (
+              <div className="w-14 h-14 rounded-xl flex-shrink-0 flex items-center justify-center text-3xl bg-white shadow-sm">
+                {featuredArtist.symbol ?? '🎵'}
+              </div>
+            )}
+            <div className="flex-1 min-w-0">
+              <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-0.5">Artist Profile</p>
+              <p className="font-bold text-gray-900 group-hover:text-pink-600 transition-colors">{featuredArtist.name}</p>
+              {featuredArtist.agency && <p className="text-xs text-gray-500">{featuredArtist.agency}</p>}
+            </div>
+            <ArrowRight className="w-5 h-5 text-gray-400 group-hover:text-pink-500 group-hover:translate-x-1 transition-all flex-shrink-0" />
+          </div>
+        </Link>
       )}
 
       {/* Like/Dislike, Bookmark & Share Buttons */}
