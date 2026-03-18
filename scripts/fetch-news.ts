@@ -1344,139 +1344,178 @@ async function main(): Promise<void> {
   });
   console.log(`Unique items to process: ${uniqueItems.length}`);
 
-  // Filter out negative news and excluded categories
-  const negativeKeywords = [
-    'death', 'died', 'dies', 'dead', 'funeral', 'suicide', 'accident', 'crash',
-    'arrested', 'arrest', 'jail', 'prison', 'charged', 'lawsuit', 'sue', 'sued',
-    'scandal', 'controversy', 'accused', 'allegation', 'assault', 'abuse',
-    'divorce', 'breakup', 'split', 'cheat', 'cheating', 'affair',
-    'drunk', 'dui', 'drug', 'drugs', 'overdose',
-    'bully', 'bullying', 'harassment', 'victim',
-    'cancel', 'cancelled', 'canceled', 'boycott',
-    'fail', 'flop', 'worst', 'disaster', 'tragic', 'tragedy',
-    'hate', 'racist', 'racism', 'sexist', 'sexism',
-    'military', 'enlist', 'enlisted', 'army',  // Optional: exclude military news
-    // Exclude drama-related content
-    'drama', 'kdrama', 'k-drama', 'actor', 'actress', 'acting role', 'starring in',
-    'cast in', 'new role', 'lead role', 'cameo'
+  // ── Negative filter ──────────────────────────────────────────────────────────
+  // Substring match: safe for longer/unambiguous keywords
+  const NEGATIVE_SUBSTR = [
+    'death', 'died', 'dies', 'dead', 'funeral', 'suicide', 'suicid',
+    'accident', 'crash', 'arrested', 'arrest', 'jail', 'prison', 'imprisoned',
+    'charged', 'lawsuit', 'sued', 'scandal', 'accused', 'allegation',
+    'assault', 'abuse', 'abusive', 'manipulat',
+    'divorce', 'breakup', 'cheating', 'affair',
+    'overdose', 'dui', 'drunk driving',
+    'bullying', 'harassment', 'victim',
+    'cancelled', 'canceled', 'boycott',
+    'disaster', 'tragic', 'tragedy',
+    'racism', 'racist', 'sexism', 'sexist',
+    'disbandment', 'disbanding', 'disband',
+    'controversy', 'controversi',
+    // Exclude non-music K-drama content
+    'k-drama', 'kdrama', 'acting role', 'starring in', 'cast in', 'lead role', 'lead actor', 'cameo',
+  ];
+  // Word-boundary match: short words prone to false positives
+  // e.g. 'sue' would match 'issue'; 'army' matches 'BTS ARMY' (fandom name!)
+  const NEGATIVE_WORD = [
+    /\bsue\b/i, /\bdrug\b/i, /\bdrugs\b/i, /\bfail\b/i, /\bflop\b/i,
+    /\bworst\b/i, /\bhate\b/i, /\bcheat\b/i, /\bcancel\b/i, /\bbully\b/i,
+    /\bsplit\b/i,
   ];
 
-  const positiveItems = uniqueItems.filter((item) => {
-    const titleLower = (item.title || '').toLowerCase();
-    const contentLower = (item.contentSnippet || item.content || '').toLowerCase();
-    const text = `${titleLower} ${contentLower}`;
+  function isNegativeArticle(title: string, snippet: string): string | null {
+    const text = `${title} ${snippet}`.toLowerCase();
+    for (const kw of NEGATIVE_SUBSTR) {
+      if (text.includes(kw)) return kw;
+    }
+    for (const re of NEGATIVE_WORD) {
+      if (re.test(text)) return re.source;
+    }
+    return null;
+  }
 
-    for (const keyword of negativeKeywords) {
-      if (text.includes(keyword)) {
-        console.log(`  Skipping negative news: ${item.title?.slice(0, 50)}... (keyword: ${keyword})`);
-        return false;
-      }
+  const positiveItems = uniqueItems.filter((item) => {
+    const hit = isNegativeArticle(item.title || '', item.contentSnippet || item.content || '');
+    if (hit) {
+      console.log(`  Skipping negative: "${item.title?.slice(0, 50)}" (${hit})`);
+      return false;
     }
     return true;
   });
-  console.log(`Positive items to process: ${positiveItems.length}`);
+  console.log(`After negative filter: ${positiveItems.length}`);
 
-  // KPOP-only filter: Must contain K-Pop related keywords
+  // ── K-Pop only filter ─────────────────────────────────────────────────────
   const kpopKeywords = [
-    // Group names
+    // Tier-1 global groups
     'bts', 'blackpink', 'twice', 'newjeans', 'aespa', 'ive', 'le sserafim',
     'stray kids', 'seventeen', 'nct', 'exo', 'red velvet', 'itzy', 'txt', 'enhypen',
+    // Tier-2/3 groups
     'got7', 'monsta x', 'ateez', 'the boyz', 'treasure', 'g i-dle', 'gi-dle', 'gidle',
     'mamamoo', 'bigbang', '2ne1', 'girls generation', 'snsd', 'super junior', 'shinee',
     'riize', 'zerobaseone', 'boynextdoor', 'xikers', 'kiss of life', 'babymonster',
     'nmixx', 'kep1er', 'fromis', 'wjsn', 'oh my girl', 'loona', 'everglow', 'dreamcatcher',
-    'billlie', 'viviz', 'weeekly', 'lightsum', 'lapillus', 'ador', 'hybe', 'jyp', 'sm', 'yg',
-    'katseye', 'illit', 'unis', 'badvillain', 'fifty fifty', 'csr', 'tripleS',
-    // K-Pop specific terms
-    'k-pop', 'kpop', 'idol', 'idols', 'comeback', 'debut', 'trainee', 'fandom',
-    'music show', 'inkigayo', 'music bank', 'music core', 'mcountdown', 'show champion',
-    'melon', 'genie', 'bugs', 'flo', 'vibe', 'hanteo', 'circle chart', 'gaon',
-    'golden disc', 'mama', 'mma', 'sma', 'tma', 'aaa', 'gda',
-    'lightstick', 'fanchant', 'fan meeting', 'fan concert'
+    'billlie', 'viviz', 'weeekly', 'lapillus', 'katseye', 'illit', 'unis', 'fifty fifty',
+    // Solo artists (popular for global search)
+    'jungkook', 'jimin', 'taehyung', 'suga', ' rm ', 'j-hope', 'jhope',
+    'jennie', 'lisa', 'rosé', 'jisoo', 'taeyeon', 'taemin', 'baekhyun', 'kai ',
+    'hwasa', 'solar', 'moonbyul', 'wheein', 'hyunjin', 'felix stray',
+    // Labels & platforms
+    'hybe', 'jyp', 'sm entertainment', 'yg entertainment', 'starship', 'cube',
+    // K-Pop terms
+    'k-pop', 'kpop', 'idol', 'idols', 'comeback', 'debut', 'fandom', 'lightstick',
+    'music show', 'inkigayo', 'music bank', 'mcountdown', 'show champion',
+    'hanteo', 'circle chart', 'gaon', 'golden disc', 'mama award',
+    'fan meeting', 'fan concert', 'weverse', 'vlive',
   ];
 
   const kpopItems = positiveItems.filter((item) => {
     const text = `${item.title || ''} ${item.contentSnippet || item.content || ''}`.toLowerCase();
-    const hasKpopContent = kpopKeywords.some(keyword => text.includes(keyword));
-    if (!hasKpopContent) {
-      console.log(`  Skipping non-KPOP: ${item.title?.slice(0, 50)}...`);
-    }
-    return hasKpopContent;
+    const ok = kpopKeywords.some(kw => text.includes(kw));
+    if (!ok) console.log(`  Skipping non-KPOP: ${item.title?.slice(0, 50)}...`);
+    return ok;
   });
-  console.log(`KPOP-only items: ${kpopItems.length}`);
+  console.log(`K-Pop only items: ${kpopItems.length}`);
 
   if (kpopItems.length === 0) {
-    console.log('No new KPOP articles to process.');
+    console.log('No new K-Pop articles to process.');
     return;
   }
 
-  // Priority scoring for breaking news and popular content
-  const priorityKeywords = {
-    high: [
-      'exclusive', 'breaking', 'first', 'official', 'confirms', 'announced', 'reveals',
-      'wins', 'winner', 'award', 'chart', 'billboard', 'record', 'milestone', 'historic',
-      'comeback', 'debut', 'new album', 'mv', 'music video', 'teaser', 'trailer',
-      'world tour', 'concert', 'sold out', 'million', 'billion',
-      'collaboration', 'featuring', 'collab', 'pre-order', 'release'
-    ],
-    medium: [
-      'interview', 'behind', 'preview', 'highlight', 'performance', 'stage',
-      'photoshoot', 'magazine', 'cover', 'brand', 'ambassador',
-      'variety', 'show', 'episode', 'fan meeting', 'vlive', 'weverse'
-    ]
-  };
+  // ── Priority scoring ──────────────────────────────────────────────────────
+  // Fandom size tiers (global social following + search volume)
+  const FANDOM_T1 = ['bts', 'blackpink'];                                        // +10
+  const FANDOM_T2 = ['twice', 'seventeen', 'stray kids', 'nct', 'exo',
+                     'aespa', 'ive', 'newjeans', 'le sserafim'];                 // +7
+  const FANDOM_T3 = ['red velvet', 'enhypen', 'txt', 'ateez', 'itzy', 'nmixx',
+                     'riize', 'babymonster', 'illit', 'zerobaseone', 'got7',
+                     'mamamoo', 'bigbang', 'shinee', 'super junior', 'monsta x']; // +5
+  const FANDOM_T4 = ['the boyz', 'treasure', 'g i-dle', 'kep1er', 'kiss of life',
+                     'boynextdoor', 'xikers', 'katseye', 'fifty fifty',
+                     'everglow', 'dreamcatcher', 'viviz', 'wjsn'];               // +3
 
-  // Top K-Pop groups for higher priority (viral potential)
-  const topGroups = [
-    'bts', 'blackpink', 'twice', 'newjeans', 'aespa', 'ive', 'le sserafim',
-    'stray kids', 'seventeen', 'nct', 'exo', 'red velvet', 'itzy', 'txt', 'enhypen',
-    'riize', 'zerobaseone', 'boynextdoor', 'katseye', 'illit', 'babymonster'
+  // High-search solo artists (BTS/BP members generate huge individual traffic)
+  const SOLO_HIGH = ['jungkook', 'jimin', 'taehyung', 'suga', 'j-hope', 'jhope',
+                     'jennie', 'lisa', 'rosé', 'jisoo', 'taeyeon', 'taemin',
+                     'baekhyun', 'hwasa', 'hyunjin'];                            // +6
+
+  // Urgency signals
+  const URGENCY_BREAKING = [
+    'breaking', 'just in', 'exclusive', 'official', 'confirms', 'announces', 'reveals',
+    'comeback', 'new album', 'new single', 'music video', 'mv teaser', 'mv release',
+    'world tour', 'tour dates', 'concert', 'sold out', 'debut',
+    '#1', 'number one', 'record', 'historic', 'first time ever', 'milestone',
+    'grammy', 'billboard', 'daesang', 'golden disc', 'mama award', 'award win',
+    'collaboration', 'collab', 'featuring', 'pre-order',
+  ];
+  const URGENCY_MED = [
+    'award', 'chart', 'million views', 'million streams', 'billion',
+    'performance', 'stage', 'interview', 'photoshoot', 'magazine cover',
+    'brand ambassador', 'fan meeting', 'anniversary', 'teaser',
   ];
 
   const scoredItems = kpopItems.map((item) => {
     const text = `${item.title || ''} ${item.contentSnippet || ''}`.toLowerCase();
     let score = 0;
 
-    // High priority keywords (+3 points each)
-    for (const keyword of priorityKeywords.high) {
-      if (text.includes(keyword)) score += 3;
-    }
+    // Fandom size (only highest tier counts)
+    if (FANDOM_T1.some(g => text.includes(g)))      score += 10;
+    else if (FANDOM_T2.some(g => text.includes(g))) score += 7;
+    else if (FANDOM_T3.some(g => text.includes(g))) score += 5;
+    else if (FANDOM_T4.some(g => text.includes(g))) score += 3;
 
-    // Medium priority keywords (+1 point each)
-    for (const keyword of priorityKeywords.medium) {
-      if (text.includes(keyword)) score += 1;
-    }
+    // Solo artist bonus (stackable with group tier)
+    if (SOLO_HIGH.some(a => text.includes(a))) score += 6;
 
-    // Top groups bonus (+5 points for viral potential)
-    for (const group of topGroups) {
-      if (text.includes(group)) {
-        score += 5;
-        break; // Only count once
-      }
-    }
+    // Urgency/issue signals
+    if (URGENCY_BREAKING.some(kw => text.includes(kw))) score += 5;
+    score += Math.min(URGENCY_MED.filter(kw => text.includes(kw)).length * 2, 6);
 
-    // Recency bonus: newer articles get slight boost
+    // Recency: freshness is critical for K-pop news
     if (item.pubDate) {
-      const ageHours = (Date.now() - new Date(item.pubDate).getTime()) / (1000 * 60 * 60);
-      if (ageHours < 6) score += 3;  // Very recent
-      else if (ageHours < 12) score += 2;  // Recent
-      else if (ageHours < 24) score += 1;  // Today
+      const ageHours = (Date.now() - new Date(item.pubDate).getTime()) / 3600000;
+      if (ageHours < 3)       score += 6;  // Breaking (<3h)
+      else if (ageHours < 6)  score += 5;  // Very fresh
+      else if (ageHours < 12) score += 3;  // Same morning
+      else if (ageHours < 24) score += 2;  // Today
+      else if (ageHours < 48) score += 1;  // Yesterday
+      else                    score -= 3;  // Old — deprioritize
     }
 
     return { item, score };
   });
 
-  // Sort by score (highest first)
   scoredItems.sort((a, b) => b.score - a.score);
 
-  console.log('Top scored KPOP articles:');
+  console.log('Top scored K-Pop articles:');
   scoredItems.slice(0, 10).forEach((s, i) => {
-    console.log(`  ${i + 1}. [${s.score}pts] ${s.item.title?.slice(0, 50)}...`);
+    console.log(`  ${i + 1}. [${s.score}pts] ${s.item.title?.slice(0, 60)}`);
   });
 
-  // Process top KPOP items (MAX_ARTICLES env var overrides default of 3)
+  // ── Select top N, skipping same-batch duplicates ──────────────────────────
   const maxArticles = parseInt(process.env.MAX_ARTICLES || '3', 10);
-  const itemsToProcess = scoredItems.slice(0, maxArticles).map(s => s.item);
+  const sessionTitles: string[] = [];
+  const itemsToProcess: typeof kpopItems = [];
+
+  for (const { item } of scoredItems) {
+    if (itemsToProcess.length >= maxArticles) break;
+    if (!item.title || !item.link) continue;
+    // Skip if similar to an article already selected in this run
+    if (isDuplicateContent(item.title, [...existingTitles, ...sessionTitles])) {
+      console.log(`  Skipping same-batch duplicate: ${item.title.slice(0, 50)}...`);
+      continue;
+    }
+    itemsToProcess.push(item);
+    sessionTitles.push(item.title);
+  }
+
+  console.log(`Processing ${itemsToProcess.length} articles`);
   let processedCount = 0;
 
   for (const item of itemsToProcess) {
