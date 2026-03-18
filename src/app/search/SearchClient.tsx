@@ -1,13 +1,15 @@
 'use client';
 
 import { useSearchParams } from 'next/navigation';
-import { Suspense, useState, useMemo } from 'react';
+import { Suspense, useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import ArticleCard from '@/components/ArticleCard';
 import { Search, SlidersHorizontal, X } from 'lucide-react';
 import type { ArticleSummary } from '@/types';
 import type { Category } from '@/types';
 import { categories } from '@/lib/config';
+
+const SEARCH_PAGE_SIZE = 24;
 
 interface SearchClientProps {
   articles: ArticleSummary[];
@@ -22,6 +24,10 @@ function SearchResults({ articles }: SearchClientProps) {
   const [selectedCategory, setSelectedCategory] = useState<Category | 'all'>('all');
   const [sortBy, setSortBy] = useState<SortOption>('relevance');
   const [showFilters, setShowFilters] = useState(false);
+  const [visibleCount, setVisibleCount] = useState(SEARCH_PAGE_SIZE);
+
+  // Reset visible count whenever query/filters change
+  useEffect(() => { setVisibleCount(SEARCH_PAGE_SIZE); }, [query, selectedCategory, sortBy]);
 
   const filteredArticles = useMemo(() => {
     let results = articles;
@@ -201,11 +207,29 @@ function SearchResults({ articles }: SearchClientProps) {
       )}
 
       {filteredArticles.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredArticles.map((article) => (
-            <ArticleCard key={article.slug} article={article} />
-          ))}
-        </div>
+        <>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {filteredArticles.slice(0, visibleCount).map((article) => (
+              <ArticleCard key={article.slug} article={article} />
+            ))}
+          </div>
+          {visibleCount < filteredArticles.length && (
+            <div className="mt-10 text-center">
+              <button
+                onClick={() => setVisibleCount((c) => c + SEARCH_PAGE_SIZE)}
+                className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-pink-500 to-purple-500 text-white font-semibold rounded-full hover:from-pink-600 hover:to-purple-600 transition-all shadow-lg hover:shadow-xl"
+              >
+                Show More Results
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              <p className="mt-3 text-sm text-gray-500">
+                {filteredArticles.length - visibleCount} more results
+              </p>
+            </div>
+          )}
+        </>
       ) : (
         <div className="text-center py-20 bg-gray-50 rounded-2xl">
           <Search className="w-16 h-16 text-gray-300 mx-auto mb-4" />
