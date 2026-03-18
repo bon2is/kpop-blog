@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
-import { getArtistBySlug, getAllArtistSlugs } from '@/lib/artists';
+import { getArtistBySlug, getAllArtistSlugs, artists } from '@/lib/artists';
 import { getAllArticles } from '@/lib/articles';
 import ArtistArticleList from '@/components/ArtistArticleList';
 import type { ArticleSummary } from '@/types';
@@ -52,6 +52,21 @@ export default function ArtistPage({ params }: ArtistPageProps) {
     )
   );
   const artistArticles: ArticleSummary[] = rawArtistArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
+
+  // Related artists: same agency, or share at least one article tag
+  const articleTags = new Set(rawArtistArticles.flatMap((a) => a.tags.map((t) => t.toLowerCase())));
+  const relatedArtists = artists
+    .filter((a) => a.slug !== artist.slug)
+    .map((a) => {
+      let score = 0;
+      if (a.agency && a.agency === artist.agency) score += 3;
+      if (a.tags.some((t) => articleTags.has(t.toLowerCase()))) score += 1;
+      return { artist: a, score };
+    })
+    .filter(({ score }) => score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 6)
+    .map(({ artist: a }) => a);
 
   const headerBg = artist.brandColor
     ? `linear-gradient(135deg, ${artist.brandColor}12, ${artist.brandColor}06)`
@@ -171,6 +186,43 @@ export default function ArtistPage({ params }: ArtistPageProps) {
           </div>
         )}
       </section>
+
+      {/* Related Artists */}
+      {relatedArtists.length > 0 && (
+        <section className="mt-12 pt-8 border-t border-gray-100">
+          <h2 className="text-xl font-bold text-gray-900 mb-5">
+            {artist.agency ? `More from ${artist.agency.split(' /')[0]}` : 'Related Artists'}
+          </h2>
+          <div className="grid grid-cols-3 sm:grid-cols-6 gap-4">
+            {relatedArtists.map((rel) => (
+              <Link
+                key={rel.slug}
+                href={`/artist/${rel.slug}`}
+                className="flex flex-col items-center gap-1.5 group"
+              >
+                <div
+                  className="w-14 h-14 rounded-2xl flex items-center justify-center overflow-hidden p-2 bg-white shadow-sm group-hover:shadow-md group-hover:scale-105 transition-all"
+                  style={{
+                    border: rel.brandColor ? `1.5px solid ${rel.brandColor}30` : '1.5px solid #E5E7EB',
+                    background: rel.brandColor
+                      ? `linear-gradient(135deg, ${rel.brandColor}18, ${rel.brandColor}08)`
+                      : '#F9FAFB',
+                  }}
+                >
+                  {rel.logo ? (
+                    <Image src={rel.logo} alt={rel.name} width={44} height={44} className="object-contain w-full h-full" unoptimized />
+                  ) : (
+                    <span className="text-2xl">{rel.symbol ?? '🎵'}</span>
+                  )}
+                </div>
+                <span className="text-xs text-gray-600 font-medium text-center line-clamp-1 group-hover:text-pink-600 transition-colors w-full">
+                  {rel.name}
+                </span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }
