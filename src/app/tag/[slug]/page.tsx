@@ -30,11 +30,16 @@ export async function generateMetadata({ params }: TagPageProps): Promise<Metada
   }
 
   const tagUrl = `${siteConfig.url}/tag/${tag.toLowerCase()}`;
+  // Thin content: noindex tags with fewer than 3 articles to protect crawl budget
+  const isIndexable = articles.length >= 3;
   return {
     title: `${tag} K-Pop News & Updates`,
     description: `Latest K-Pop and K-Drama news about ${tag}. ${articles.length} articles covering comebacks, tours, and more.`,
     keywords: [tag, `${tag} news`, `${tag} comeback`, `${tag} album`, `${tag} tour`, 'K-Pop', 'Kpop news'],
     alternates: { canonical: tagUrl },
+    ...(isIndexable ? {} : {
+      robots: { index: false, follow: true },
+    }),
     openGraph: {
       title: `${tag} K-Pop News | KPOP Daily`,
       description: `Latest ${tag} K-Pop news and updates. ${articles.length} articles.`,

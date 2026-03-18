@@ -75,17 +75,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  // Tag pages (deduplicated across all articles)
-  const allTags = new Set<string>();
+  // Tag pages — only include tags with 3+ articles (thin pages are noindexed)
+  const tagFreq: Record<string, number> = {};
   articles.forEach((article) => {
-    article.tags.forEach((tag) => allTags.add(tag.toLowerCase()));
+    article.tags.forEach((tag) => {
+      const t = tag.toLowerCase();
+      tagFreq[t] = (tagFreq[t] ?? 0) + 1;
+    });
   });
-  const tagPages: MetadataRoute.Sitemap = Array.from(allTags).map((tag) => ({
-    url: `${baseUrl}/tag/${tag}`,
-    lastModified: new Date(),
-    changeFrequency: 'daily',
-    priority: 0.6,
-  }));
+  const tagPages: MetadataRoute.Sitemap = Object.entries(tagFreq)
+    .filter(([, count]) => count >= 3)
+    .map(([tag]) => ({
+      url: `${baseUrl}/tag/${tag}`,
+      lastModified: new Date(),
+      changeFrequency: 'daily' as const,
+      priority: 0.6,
+    }));
 
   // Artist pages
   const artistPages: MetadataRoute.Sitemap = getAllArtistSlugs().map((slug) => ({
