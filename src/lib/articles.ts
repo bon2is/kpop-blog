@@ -63,14 +63,20 @@ export function getRecentArticles(count: number = 10): Article[] {
 
 export function getRelatedArticles(article: Article, count: number = 4): Article[] {
   const articles = getAllArticles();
+  const articleTagsLower = article.tags.map((t) => t.toLowerCase());
+
   return articles
-    .filter(
-      (a) =>
-        a.slug !== article.slug &&
-        (a.category === article.category ||
-          a.tags.some((tag) => article.tags.includes(tag)))
-    )
-    .slice(0, count);
+    .filter((a) => a.slug !== article.slug)
+    .map((a) => {
+      const aTagsLower = a.tags.map((t) => t.toLowerCase());
+      const sharedTags = aTagsLower.filter((t) => articleTagsLower.includes(t)).length;
+      const sameCategory = a.category === article.category ? 1 : 0;
+      return { article: a, score: sharedTags * 2 + sameCategory };
+    })
+    .filter(({ score }) => score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, count)
+    .map(({ article: a }) => a);
 }
 
 export function getAllCategories(): Category[] {

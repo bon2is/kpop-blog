@@ -3,6 +3,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
 import AdSenseScript from '@/components/AdSenseScript';
+import ScrollToTop from '@/components/ScrollToTop';
 import { siteConfig } from '@/lib/config';
 import './globals.css';
 
@@ -83,6 +84,7 @@ export default function RootLayout({
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
+        <ScrollToTop />
       </body>
     </html>
   );
