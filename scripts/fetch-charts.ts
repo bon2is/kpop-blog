@@ -221,8 +221,10 @@ async function fetchGenieChart(): Promise<ChartSong[]> {
         ? rawThumb.startsWith('http') ? rawThumb : `https://www.genie.co.kr${rawThumb}`
         : undefined;
 
-      if (title && artist && songs.length < 50)
-        songs.push({ rank, title, artist, thumbnail, youtubeUrl: ytSearchUrl(artist, title) });
+      const cleanedTitle = cleanTitle(title);
+      const cleanedArtist = cleanArtist(artist);
+      if (cleanedTitle && cleanedArtist && songs.length < 50)
+        songs.push({ rank, title: cleanedTitle, artist: cleanedArtist, thumbnail, youtubeUrl: ytSearchUrl(cleanedArtist, cleanedTitle) });
     });
 
     console.log(`  Got ${songs.length} songs from Genie`);
@@ -266,8 +268,10 @@ async function fetchBugsChart(): Promise<ChartSong[]> {
         $(el).find('img.thumbnail').attr('src') ||
         $(el).find('img').first().attr('src');
 
-      if (title && artist && songs.length < 50)
-        songs.push({ rank, title, artist, thumbnail: thumbnail || undefined, youtubeUrl: ytSearchUrl(artist, title) });
+      const cleanedTitle = cleanTitle(title);
+      const cleanedArtist = cleanArtist(artist);
+      if (cleanedTitle && cleanedArtist && songs.length < 50)
+        songs.push({ rank, title: cleanedTitle, artist: cleanedArtist, thumbnail: thumbnail || undefined, youtubeUrl: ytSearchUrl(cleanedArtist, cleanedTitle) });
     });
 
     console.log(`  Got ${songs.length} songs from Bugs`);
