@@ -64,25 +64,41 @@ function escapeXml(s: string): string {
 }
 
 function generateRSS(articles: ArticleMeta[]): string {
-  const items = articles.slice(0, 50).map((a) => `    <item>
+  const items = articles.slice(0, 50).map((a) => {
+    const imageUrl = a.thumbnail ? `${SITE_URL}${a.thumbnail}` : null;
+    const tagLines = a.tags.slice(0, 5).map((t) => `      <category>${escapeXml(t)}</category>`).join('\n');
+    return `    <item>
       <title>${escapeXml(a.title)}</title>
       <link>${SITE_URL}/article/${a.slug}/</link>
       <guid isPermaLink="true">${SITE_URL}/article/${a.slug}/</guid>
       <description>${escapeXml(a.excerpt)}</description>
       <pubDate>${new Date(a.publishedAt).toUTCString()}</pubDate>
-      <category>${escapeXml(a.category)}</category>${a.thumbnail ? `
-      <enclosure url="${SITE_URL}${a.thumbnail}" type="image/webp" />` : ''}
-    </item>`);
+      <category>${escapeXml(a.category)}</category>
+${tagLines}
+      <author>${escapeXml(a.author)}</author>${imageUrl ? `
+      <enclosure url="${imageUrl}" type="image/webp" length="0" />
+      <media:content url="${imageUrl}" medium="image" />
+      <media:thumbnail url="${imageUrl}" />` : ''}
+    </item>`;
+  });
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>${escapeXml(SITE_NAME)}</title>
     <link>${SITE_URL}</link>
     <description>${escapeXml(SITE_DESC)}</description>
     <language>en</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <managingEditor>hello@andxo.com (${escapeXml(SITE_NAME)})</managingEditor>
     <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>${SITE_URL}/og-image.png</url>
+      <title>${escapeXml(SITE_NAME)}</title>
+      <link>${SITE_URL}</link>
+    </image>
 ${items.join('\n')}
   </channel>
 </rss>`;
