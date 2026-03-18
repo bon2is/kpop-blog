@@ -93,7 +93,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-          <meta name="agd-partner-manual-verification" />
+          <meta name="google-adsense-account" content="ca-pub-7999144867236526" />
           <meta name="naver-site-verification" content="a156ba871d90bd061a576b944f0a37bd8eac4e17" />
           <meta name="theme-color" content="#EC4899" />
           <meta name="mobile-web-app-capable" content="yes" />

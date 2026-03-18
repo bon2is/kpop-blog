@@ -90,14 +90,15 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
   // JSON-LD structured data for Google rich snippets & News
   // Safe: all values come from server-side frontmatter, not user input
+  const articleImageUrl = article.thumbnail
+    ? `${siteConfig.url}${article.thumbnail}`
+    : `${siteConfig.url}/og-image.png`;
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
     headline: article.title,
     description: article.excerpt,
-    image: article.thumbnail
-      ? [`${siteConfig.url}${article.thumbnail}`]
-      : [],
+    image: [articleImageUrl],
     datePublished: article.publishedAt,
     dateModified: article.updatedAt,
     author: { '@type': 'Organization', name: article.author, url: siteConfig.url },
@@ -105,13 +106,23 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       '@type': 'Organization',
       name: siteConfig.name,
       url: siteConfig.url,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteConfig.url}/og-image.png`,
+        width: 1200,
+        height: 630,
+      },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `${siteConfig.url}/article/${article.slug}`,
     },
     keywords: article.tags.join(', '),
-    articleSection: article.category,
+    articleSection: article.category.charAt(0).toUpperCase() + article.category.slice(1),
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['article h1', '.article-content p:first-of-type'],
+    },
   };
 
   const breadcrumbLd = {

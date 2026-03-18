@@ -64,7 +64,7 @@ function escapeXml(s: string): string {
 }
 
 function generateRSS(articles: ArticleMeta[]): string {
-  const items = articles.slice(0, 50).map((a) => {
+  const items = articles.slice(0, 100).map((a) => {
     const imageUrl = a.thumbnail ? `${SITE_URL}${a.thumbnail}` : null;
     const tagLines = a.tags.slice(0, 5).map((t) => `      <category>${escapeXml(t)}</category>`).join('\n');
     return `    <item>
@@ -133,14 +133,34 @@ ${urls.join('\n')}
 </urlset>`;
 }
 
-function main() {
+async function pingSitemaps(): Promise<void> {
+  const sitemapUrl = encodeURIComponent(`${SITE_URL}/sitemap.xml`);
+  const newsSitemapUrl = encodeURIComponent(`${SITE_URL}/news-sitemap.xml`);
+  const pingTargets = [
+    `https://www.google.com/ping?sitemap=${sitemapUrl}`,
+    `https://www.bing.com/ping?sitemap=${sitemapUrl}`,
+    `https://www.google.com/ping?sitemap=${newsSitemapUrl}`,
+  ];
+
+  console.log('\nPinging search engines...');
+  for (const url of pingTargets) {
+    try {
+      const res = await fetch(url, { method: 'GET' });
+      console.log(`  ${res.ok ? '✓' : '✗'} ${url.split('?')[0]} (${res.status})`);
+    } catch {
+      console.log(`  ✗ Failed: ${url.split('?')[0]}`);
+    }
+  }
+}
+
+async function main() {
   const articles = loadArticles();
   console.log(`Loaded ${articles.length} articles.`);
 
   // Generate RSS feed
   const rss = generateRSS(articles);
   fs.writeFileSync(path.join(PUBLIC_DIR, 'feed.xml'), rss, 'utf-8');
-  console.log(`✓ Generated feed.xml (${articles.slice(0, 50).length} items)`);
+  console.log(`✓ Generated feed.xml (${articles.slice(0, 100).length} items)`);
 
   // Generate Google News sitemap
   const newsSitemap = generateNewsSitemap(articles);
@@ -149,6 +169,9 @@ function main() {
   twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
   const recentCount = articles.filter((a) => new Date(a.publishedAt) >= twoDaysAgo).length;
   console.log(`✓ Generated news-sitemap.xml (${recentCount} recent articles)`);
+
+  // Ping search engines
+  await pingSitemaps();
 }
 
 main();
