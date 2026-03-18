@@ -12,6 +12,7 @@ import MarkdownRenderer from '@/components/MarkdownRenderer';
 import { Clock, Calendar, Sparkles, ArrowRight } from 'lucide-react';
 import ShareButtons from '@/components/ShareButtons';
 import { ViewCounter, ViewRecorder, LikeDislike } from '@/components/ArticleEngagement';
+import { BookmarkButton } from '@/components/Bookmark';
 import { siteConfig } from '@/lib/config';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import TableOfContents from '@/components/TableOfContents';
@@ -269,9 +270,12 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       )}
 
-      {/* Like/Dislike & Share Buttons */}
+      {/* Like/Dislike, Bookmark & Share Buttons */}
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8 p-4 bg-gray-50 rounded-xl">
-        <LikeDislike slug={article.slug} />
+        <div className="flex items-center gap-3">
+          <LikeDislike slug={article.slug} />
+          <BookmarkButton slug={article.slug} title={article.title} />
+        </div>
         <ShareButtons
           title={article.title}
           url={`${siteConfig.url}/article/${article.slug}`}

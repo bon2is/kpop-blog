@@ -10,6 +10,7 @@ import BreakingNewsTicker from '@/components/BreakingNewsTicker';
 import TrendingSection from '@/components/TrendingSection';
 import TagCloud from '@/components/TagCloud';
 import ChartWidget from '@/components/ChartWidget';
+import { ReadingList } from '@/components/Bookmark';
 
 export const metadata: Metadata = {
   alternates: {
@@ -217,6 +218,7 @@ export default function HomePage() {
 
           {/* Sidebar */}
           <aside className="hidden xl:block w-80 flex-shrink-0 space-y-6">
+            <ReadingList allArticles={articles} />
             <TrendingSection articles={articles} />
             <NewsletterSidebar />
             <SidebarAd />
