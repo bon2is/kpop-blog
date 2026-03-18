@@ -798,6 +798,11 @@ const RSS_SOURCES = [
     url: 'https://www.kpopstarz.com/rss/category/5/kpop.xml',
     enabled: false,
   },
+  {
+    name: 'HelloKpop',
+    url: 'https://www.hellokpop.com/feed/',
+    enabled: true,
+  },
 ];
 
 const CATEGORIES = ['news', 'music', 'celebrity', 'audition', 'fashion', 'variety'];
@@ -1499,7 +1504,7 @@ async function main(): Promise<void> {
   });
 
   // ── Select top N, skipping same-batch duplicates ──────────────────────────
-  const maxArticles = parseInt(process.env.MAX_ARTICLES || '3', 10);
+  const maxArticles = parseInt(process.env.MAX_ARTICLES || '5', 10);
   const sessionTitles: string[] = [];
   const itemsToProcess: typeof kpopItems = [];
 
