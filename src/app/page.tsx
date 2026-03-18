@@ -57,6 +57,11 @@ export default function HomePage() {
 
   return (
     <div>
+      <script
+        type="application/ld+json"
+        // eslint-disable-next-line react/no-danger
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteLd) }}
+      />
       {/* Breaking News Ticker */}
       <BreakingNewsTicker articles={articles.slice(0, 8)} />
 

@@ -241,18 +241,31 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       {/* Tags */}
       {article.tags.length > 0 && (
         <div className="mb-8">
-          <h3 className="text-sm font-semibold text-gray-700 mb-3">Tags</h3>
+          <h3 className="text-sm font-semibold text-gray-700 mb-3">Topics</h3>
           <div className="flex flex-wrap gap-2">
             {article.tags.map((tag) => (
               <Link
                 key={tag}
                 href={`/tag/${tag.toLowerCase()}`}
-                className="px-3 py-1 bg-gray-100 text-gray-600 text-sm rounded-full hover:bg-gray-200 transition-colors"
+                className="inline-flex items-center gap-1 px-3 py-1 bg-gray-100 text-gray-600 text-sm rounded-full hover:bg-pink-50 hover:text-pink-600 hover:border-pink-200 border border-transparent transition-all"
               >
                 #{tag}
+                <ArrowRight className="w-3 h-3 opacity-0 group-hover:opacity-100" />
               </Link>
             ))}
           </div>
+          {/* Primary artist quick link */}
+          {article.tags[0] && (
+            <div className="mt-3">
+              <Link
+                href={`/tag/${article.tags[0].toLowerCase()}`}
+                className="text-sm text-pink-600 hover:text-pink-700 font-medium inline-flex items-center gap-1"
+              >
+                More {article.tags[0]} news
+                <ArrowRight className="w-3.5 h-3.5" />
+              </Link>
+            </div>
+          )}
         </div>
       )}
 
