@@ -962,23 +962,58 @@ function isDuplicateContent(newTitle: string, existingTitles: string[]): boolean
   return false;
 }
 
-// Determine category based on content
+// Determine category based on content — ordered by specificity (most specific first)
 function detectCategory(title: string, content: string): string {
   const text = `${title} ${content}`.toLowerCase();
+
+  // K-Drama is very specific
+  if (
+    text.includes('k-drama') || text.includes('kdrama') ||
+    text.includes(' drama') || text.includes('drama series') ||
+    text.includes('drama cast') || text.includes('ott') || text.includes('netflix') ||
+    text.includes('disney+') || text.includes('streaming') ||
+    text.includes('episode') || text.includes('k-movie') || text.includes('korean movie')
+  ) {
+    return 'drama';
+  }
+
+  // Award shows
+  if (
+    text.includes('award') || text.includes('daesang') || text.includes('bonsang') ||
+    text.includes('mama ') || text.includes('melon music') || text.includes('gaon') ||
+    text.includes('billboard korea') || text.includes('golden disc') || text.includes('seoul music awards')
+  ) {
+    return 'award';
+  }
+
+  // Tours & concerts
+  if (
+    text.includes('world tour') || text.includes('concert tour') ||
+    text.includes('fan meeting') || text.includes('fanmeeting') ||
+    text.includes(' tour ') || text.includes('sold out') ||
+    (text.includes('concert') && !text.includes('album') && !text.includes('comeback'))
+  ) {
+    return 'tour';
+  }
+
+  // New releases / comebacks (prioritize over general music)
+  if (text.includes('comeback') || text.includes('new release') || text.includes('dropped')) {
+    return 'comeback';
+  }
 
   if (text.includes('audition') || text.includes('trainee') || text.includes('debut')) {
     return 'audition';
   }
-  if (text.includes('album') || text.includes('comeback') || text.includes('music video') || text.includes('mv') || text.includes('chart')) {
+  if (text.includes('album') || text.includes('music video') || text.includes(' mv') || text.includes('chart') || text.includes('single')) {
     return 'music';
   }
-  if (text.includes('fashion') || text.includes('style') || text.includes('outfit') || text.includes('wear')) {
+  if (text.includes('fashion') || text.includes('style') || text.includes('outfit') || text.includes('wear') || text.includes('brand ambassador')) {
     return 'fashion';
   }
-  if (text.includes('variety') || text.includes('show') || text.includes('running man') || text.includes('knowing bros')) {
+  if (text.includes('variety') || text.includes('running man') || text.includes('knowing bros') || text.includes('game show')) {
     return 'variety';
   }
-  if (text.includes('dating') || text.includes('relationship') || text.includes('married') || text.includes('personal')) {
+  if (text.includes('dating') || text.includes('relationship') || text.includes('married') || text.includes('personal') || text.includes('enlist') || text.includes('military')) {
     return 'celebrity';
   }
 
