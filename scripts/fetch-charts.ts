@@ -22,18 +22,18 @@ export interface UnifiedSong {
   youtubeUrl: string;
   score: number;
   chartRanks: {
-    melon?: number;
-    genie?: number;
-    bugs?: number;
+    circle?: number;
+    spotify?: number;
+    youtube?: number;
   };
 }
 
 export interface ChartsData {
   updatedAt: string;
   unified: UnifiedSong[];
-  melon: ChartSong[];
-  genie: ChartSong[];
-  bugs: ChartSong[];
+  circle: ChartSong[];
+  spotify: ChartSong[];
+  youtube: ChartSong[];
 }
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
@@ -68,11 +68,11 @@ function normalizeKey(title: string, artist: string): string {
   return `${normalize(artist)}_${normalize(title)}`;
 }
 
-// ── Chart weights (Melon = primary Korean chart, Genie = secondary, Bugs = tertiary) ──
+// ── Chart weights (YouTube & Spotify weighted higher for global fan focus) ──
 const WEIGHTS: Record<string, number> = {
-  melon: 1.3,
-  genie: 1.0,
-  bugs: 0.8,
+  youtube: 1.2,
+  spotify: 1.1,
+  circle:  1.0,
 };
 
 /** Points formula: rank 1 → 50 pts, rank 50 → 1 pt */
@@ -82,9 +82,9 @@ function rankPoints(rank: number, total: number): number {
 
 // ── Build unified chart ───────────────────────────────────────────────────────
 function buildUnifiedChart(
-  melon: ChartSong[],
-  genie: ChartSong[],
-  bugs: ChartSong[]
+  circle: ChartSong[],
+  spotify: ChartSong[],
+  youtube: ChartSong[]
 ): UnifiedSong[] {
   const map = new Map<
     string,
@@ -94,11 +94,11 @@ function buildUnifiedChart(
       thumbnail?: string;
       youtubeUrl: string;
       score: number;
-      chartRanks: { melon?: number; genie?: number; bugs?: number };
+      chartRanks: { circle?: number; spotify?: number; youtube?: number };
     }
   >();
 
-  const addChart = (songs: ChartSong[], chartName: 'melon' | 'genie' | 'bugs') => {
+  const addChart = (songs: ChartSong[], chartName: 'circle' | 'spotify' | 'youtube') => {
     if (songs.length === 0) return;
     const weight = WEIGHTS[chartName];
     songs.forEach((song) => {
@@ -108,7 +108,7 @@ function buildUnifiedChart(
       if (existing) {
         existing.score += pts;
         existing.chartRanks[chartName] = song.rank;
-        // prefer melon thumbnail, then genie, then bugs
+        // prefer circle thumbnail (has album art), then others
         if (!existing.thumbnail && song.thumbnail) existing.thumbnail = song.thumbnail;
       } else {
         map.set(key, {
@@ -123,9 +123,9 @@ function buildUnifiedChart(
     });
   };
 
-  addChart(melon, 'melon');
-  addChart(genie, 'genie');
-  addChart(bugs, 'bugs');
+  addChart(circle, 'circle');
+  addChart(spotify, 'spotify');
+  addChart(youtube, 'youtube');
 
   return Array.from(map.values())
     .sort((a, b) => b.score - a.score)
@@ -133,173 +133,194 @@ function buildUnifiedChart(
     .map((song, i) => ({ rank: i + 1, ...song }));
 }
 
-// ── Melon Top 50 ─────────────────────────────────────────────────────────────
-async function fetchMelonChart(): Promise<ChartSong[]> {
+// ── Circle Chart (circlechart.kr) ─────────────────────────────────────────────
+async function fetchCircleChart(): Promise<ChartSong[]> {
   try {
-    console.log('Fetching Melon Top 50...');
-    const res = await fetch('https://www.melon.com/chart/index.htm', {
-      headers: {
-        'User-Agent':
-          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8',
-        Referer: 'https://www.melon.com/',
-      },
-      timeout: 20000,
-    });
+    console.log('Fetching Circle Chart...');
 
-    if (!res.ok) { console.log(`  Melon returned ${res.status}`); return []; }
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = now.getMonth() + 1;
+    // targetTime = week of year (1-based)
+    const startOfYear = new Date(year, 0, 1);
+    const dayOfYear = Math.floor((now.getTime() - startOfYear.getTime()) / 86400000) + 1;
+    const weekOfYear = Math.ceil(dayOfYear / 7);
 
-    const html: string = await res.text();
-    const $ = cheerio.load(html);
+    // Circle Chart publishes weekly data with a 1-week delay.
+    // Try current week first, fall back up to 2 weeks if not yet published.
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    let json: any = null;
+    for (let offset = 0; offset <= 2; offset++) {
+      const targetTime = weekOfYear - offset;
+      if (targetTime < 1) break;
+      const params = new URLSearchParams({
+        nationGbn: 'T',
+        serviceGbn: 'ALL',
+        termGbn: 'week',
+        hitYear: String(year),
+        targetTime: String(targetTime),
+        yearTime: String(month),
+        PageSize: '50',
+        curUrl: 'circlechart.kr',
+      });
+      const res = await fetch('https://circlechart.kr/data/api/chart/onoff', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'User-Agent':
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+          Referer: 'https://circlechart.kr/',
+          Origin: 'https://circlechart.kr',
+        },
+        body: params.toString(),
+        timeout: 20000,
+      });
+      if (!res.ok) { console.log(`  Circle Chart returned ${res.status}`); continue; }
+      const candidate = await res.json() as { ResultStatus: string; List?: Record<string, unknown> };
+      if (candidate.ResultStatus === 'OK' && candidate.List && Object.keys(candidate.List).length > 0) {
+        json = candidate;
+        console.log(`  Circle Chart: using week ${targetTime}`);
+        break;
+      }
+    }
+
+    if (!json) {
+      console.log('  Circle Chart: no data found for recent weeks');
+      return [];
+    }
+
     const songs: ChartSong[] = [];
-
-    $('tr.lst50, tr.lst100').each((i, el) => {
-      const rankText = $(el).find('.rank').first().text().trim();
-      const rank = parseInt(rankText) || i + 1;
-      const title = cleanTitle(
-        $(el).find('.rank01 span a').attr('title')?.trim() ||
-        $(el).find('.rank01 span a').text().trim() ||
-        $(el).find('.rank01').text().trim()
-      );
-      const artist = cleanArtist(
-        $(el).find('.rank02 a').first().text().trim() ||
-        $(el).find('.rank02 .checkEllipsis').text().trim() ||
-        $(el).find('.rank02').text().trim()
-      );
-      const thumbnail =
-        $(el).find('img.image_typeAll').attr('src') ||
-        $(el).find('img[src*="cdnimg"]').attr('src');
-
-      if (title && artist && rank > 0 && songs.length < 50)
-        songs.push({ rank, title, artist, thumbnail: thumbnail?.replace(/\?.*$/, ''), youtubeUrl: ytSearchUrl(artist, title) });
-    });
-
-    console.log(`  Got ${songs.length} songs from Melon`);
-    return songs;
-  } catch (err: unknown) {
-    console.error('  Melon fetch failed:', err instanceof Error ? err.message : err);
-    return [];
-  }
-}
-
-// ── Genie Top 50 ─────────────────────────────────────────────────────────────
-async function fetchGenieChart(): Promise<ChartSong[]> {
-  try {
-    console.log('Fetching Genie Top 50...');
-    const res = await fetch('https://www.genie.co.kr/chart/top200', {
-      headers: {
-        'User-Agent':
-          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8',
-        Referer: 'https://www.genie.co.kr/',
-      },
-      timeout: 20000,
-    });
-
-    if (!res.ok) { console.log(`  Genie returned ${res.status}`); return []; }
-
-    const html: string = await res.text();
-    const $ = cheerio.load(html);
-    const songs: ChartSong[] = [];
-
-    $('tr.list').each((i, el) => {
-      const rank = i + 1;
-      const title =
-        $(el).find('.title').text().trim() ||
-        $(el).find('.song-name').text().trim() ||
-        $(el).find('a.title').text().trim();
-      const artist =
-        $(el).find('.artist').text().trim() ||
-        $(el).find('.name').text().trim() ||
-        $(el).find('a.artist').text().trim();
-      const rawThumb =
-        $(el).find('img').first().attr('src') ||
-        $(el).find('img[src*="genie"]').attr('src');
-      const thumbnail = rawThumb
-        ? rawThumb.startsWith('http') ? rawThumb : `https://www.genie.co.kr${rawThumb}`
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    Object.values(json.List as Record<string, any>).forEach((item: any) => {
+      const rank = parseInt(item.SERVICE_RANKING);
+      if (!rank || rank > 50) return;
+      const title = cleanTitle(String(item.SONG_NAME || ''));
+      const artist = cleanArtist(String(item.ARTIST_NAME || ''));
+      const rawImg = String(item.ALBUMIMG || '');
+      const thumbnail = rawImg
+        ? (rawImg.startsWith('http') ? rawImg : `https://circlechart.kr${rawImg}`)
         : undefined;
 
-      const cleanedTitle = cleanTitle(title);
-      const cleanedArtist = cleanArtist(artist);
-      if (cleanedTitle && cleanedArtist && songs.length < 50)
-        songs.push({ rank, title: cleanedTitle, artist: cleanedArtist, thumbnail, youtubeUrl: ytSearchUrl(cleanedArtist, cleanedTitle) });
+      if (title && artist)
+        songs.push({ rank, title, artist, thumbnail, youtubeUrl: ytSearchUrl(artist, title) });
     });
 
-    console.log(`  Got ${songs.length} songs from Genie`);
+    songs.sort((a, b) => a.rank - b.rank);
+    console.log(`  Got ${songs.length} songs from Circle Chart`);
     return songs;
   } catch (err: unknown) {
-    console.error('  Genie fetch failed:', err instanceof Error ? err.message : err);
+    console.error('  Circle Chart fetch failed:', err instanceof Error ? err.message : err);
     return [];
   }
 }
 
-// ── Bugs Top 50 ──────────────────────────────────────────────────────────────
-async function fetchBugsChart(): Promise<ChartSong[]> {
+// ── Spotify Korea Weekly (via kworb.net) ──────────────────────────────────────
+async function fetchSpotifyChart(): Promise<ChartSong[]> {
   try {
-    console.log('Fetching Bugs Top 50...');
-    const res = await fetch('https://music.bugs.co.kr/chart', {
+    console.log('Fetching Spotify Korea Weekly (kworb.net)...');
+    const res = await fetch('https://kworb.net/spotify/country/kr_weekly.html', {
       headers: {
         'User-Agent':
           'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
       },
       timeout: 20000,
     });
 
-    if (!res.ok) { console.log(`  Bugs returned ${res.status}`); return []; }
+    if (!res.ok) { console.log(`  Spotify (kworb) returned ${res.status}`); return []; }
 
     const html: string = await res.text();
     const $ = cheerio.load(html);
     const songs: ChartSong[] = [];
 
-    $('table.list tbody tr, tr.track_row').each((i, el) => {
-      const rank = i + 1;
-      const title =
-        $(el).find('.title a').text().trim() ||
-        $(el).find('.song_name').text().trim() ||
-        $(el).find('p.title').text().trim();
-      const artist =
-        $(el).find('.artist a').first().text().trim() ||
-        $(el).find('.artist').text().trim();
-      const thumbnail =
-        $(el).find('img.thumbnail').attr('src') ||
-        $(el).find('img').first().attr('src');
+    $('table tbody tr').each((i, el) => {
+      if (songs.length >= 50) return;
+      const tds = $(el).find('td');
+      if (tds.length < 3) return;
 
-      const cleanedTitle = cleanTitle(title);
-      const cleanedArtist = cleanArtist(artist);
-      if (cleanedTitle && cleanedArtist && songs.length < 50)
-        songs.push({ rank, title: cleanedTitle, artist: cleanedArtist, thumbnail: thumbnail || undefined, youtubeUrl: ytSearchUrl(cleanedArtist, cleanedTitle) });
+      const rank = parseInt(tds.eq(0).text().trim()) || (i + 1);
+      // td[2] = <a>Artist</a> - <a>Title</a>
+      const anchors = tds.eq(2).find('a');
+      const artist = cleanArtist(anchors.eq(0).text().trim());
+      const title = cleanTitle(anchors.eq(1).text().trim());
+
+      if (artist && title)
+        songs.push({ rank, title, artist, youtubeUrl: ytSearchUrl(artist, title) });
     });
 
-    console.log(`  Got ${songs.length} songs from Bugs`);
+    console.log(`  Got ${songs.length} songs from Spotify (kworb)`);
     return songs;
   } catch (err: unknown) {
-    console.error('  Bugs fetch failed:', err instanceof Error ? err.message : err);
+    console.error('  Spotify fetch failed:', err instanceof Error ? err.message : err);
+    return [];
+  }
+}
+
+// ── YouTube Korea (via kworb.net insights) ────────────────────────────────────
+async function fetchYoutubeChart(): Promise<ChartSong[]> {
+  try {
+    console.log('Fetching YouTube Korea (kworb.net insights)...');
+    const res = await fetch('https://kworb.net/youtube/insights/kr.html', {
+      headers: {
+        'User-Agent':
+          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+      timeout: 20000,
+    });
+
+    if (!res.ok) { console.log(`  YouTube (kworb) returned ${res.status}`); return []; }
+
+    const html: string = await res.text();
+    const $ = cheerio.load(html);
+    const songs: ChartSong[] = [];
+
+    $('table tbody tr').each((i, el) => {
+      if (songs.length >= 50) return;
+      const tds = $(el).find('td');
+      if (tds.length < 3) return;
+
+      const rank = parseInt(tds.eq(0).text().trim()) || (i + 1);
+      // td[2] = plain text "Artist - Title"
+      const artistTitle = tds.eq(2).text().trim();
+      const dashIdx = artistTitle.indexOf(' - ');
+      if (dashIdx === -1) return;
+
+      const artist = cleanArtist(artistTitle.substring(0, dashIdx).trim());
+      const title = cleanTitle(artistTitle.substring(dashIdx + 3).trim());
+
+      if (artist && title)
+        songs.push({ rank, title, artist, youtubeUrl: ytSearchUrl(artist, title) });
+    });
+
+    console.log(`  Got ${songs.length} songs from YouTube (kworb)`);
+    return songs;
+  } catch (err: unknown) {
+    console.error('  YouTube fetch failed:', err instanceof Error ? err.message : err);
     return [];
   }
 }
 
 // ── Main ─────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log('\nFetching K-Pop charts...');
+  console.log('\nFetching K-Pop charts (Circle · Spotify · YouTube)...');
 
-  const [melon, genie, bugs] = await Promise.all([
-    fetchMelonChart(),
-    fetchGenieChart(),
-    fetchBugsChart(),
+  const [circle, spotify, youtube] = await Promise.all([
+    fetchCircleChart(),
+    fetchSpotifyChart(),
+    fetchYoutubeChart(),
   ]);
 
-  const unified = buildUnifiedChart(melon, genie, bugs);
+  const unified = buildUnifiedChart(circle, spotify, youtube);
 
   const data: ChartsData = {
     updatedAt: new Date().toISOString(),
     unified,
-    melon,
-    genie,
-    bugs,
+    circle,
+    spotify,
+    youtube,
   };
 
   const outPath = path.join(process.cwd(), 'public/data/charts.json');
@@ -307,10 +328,10 @@ async function main() {
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
 
   console.log(`\nDone! Saved to public/data/charts.json`);
-  console.log(`  Melon:   ${melon.length} songs`);
-  console.log(`  Genie:   ${genie.length} songs`);
-  console.log(`  Bugs:    ${bugs.length} songs`);
-  console.log(`  Unified: ${unified.length} songs`);
+  console.log(`  Circle:   ${circle.length} songs`);
+  console.log(`  Spotify:  ${spotify.length} songs`);
+  console.log(`  YouTube:  ${youtube.length} songs`);
+  console.log(`  Unified:  ${unified.length} songs`);
   console.log(`  Updated at: ${data.updatedAt}`);
 }
 

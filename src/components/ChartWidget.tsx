@@ -12,7 +12,7 @@ interface UnifiedSong {
   thumbnail?: string;
   youtubeUrl: string;
   score: number;
-  chartRanks: { melon?: number; genie?: number; bugs?: number };
+  chartRanks: { circle?: number; spotify?: number; youtube?: number };
 }
 
 interface ChartsData {

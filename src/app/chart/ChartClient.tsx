@@ -15,7 +15,7 @@ interface ChartClientProps {
 }
 
 type ArticleTab = 'views' | 'likes' | 'recent';
-type MusicTab = 'unified' | 'melon' | 'genie' | 'bugs';
+type MusicTab = 'unified' | 'circle' | 'spotify' | 'youtube';
 
 interface ScoredArticle extends Article {
   views: number;
@@ -35,9 +35,9 @@ function RankBadge({ rank, size = 'md' }: { rank: number; size?: 'sm' | 'md' }) 
 // ── Chart rank badges shown on unified view ───────────────────────────────────
 function ChartBadges({ chartRanks }: { chartRanks: UnifiedSong['chartRanks'] }) {
   const labels: { key: keyof typeof chartRanks; label: string; color: string }[] = [
-    { key: 'melon', label: 'M', color: '#00CD3C' },
-    { key: 'genie', label: 'G', color: '#0066FF' },
-    { key: 'bugs',  label: 'B', color: '#FF5833' },
+    { key: 'circle',  label: 'C', color: '#FF6B9D' },
+    { key: 'spotify', label: 'S', color: '#1DB954' },
+    { key: 'youtube', label: 'Y', color: '#FF0000' },
   ];
   return (
     <div className="flex gap-0.5 flex-shrink-0">
@@ -146,10 +146,10 @@ function MusicCharts() {
   const sourceTabs: { key: MusicTab; label: string; color: string; count: number }[] = data
     ? (
         [
-          { key: 'unified' as MusicTab, label: 'Unified', color: '#FF6B9D', count: data.unified.length },
-          { key: 'melon'   as MusicTab, label: 'Melon',     color: '#00CD3C', count: data.melon.length },
-          { key: 'genie'   as MusicTab, label: 'Genie',     color: '#0066FF', count: data.genie.length },
-          { key: 'bugs'    as MusicTab, label: 'Bugs',      color: '#FF5833', count: data.bugs.length },
+          { key: 'unified' as MusicTab, label: 'Unified',      color: '#FF6B9D', count: data.unified.length },
+          { key: 'circle'  as MusicTab, label: 'Circle Chart', color: '#FF6B9D', count: data.circle.length },
+          { key: 'spotify' as MusicTab, label: 'Spotify',      color: '#1DB954', count: data.spotify.length },
+          { key: 'youtube' as MusicTab, label: 'YouTube',      color: '#FF0000', count: data.youtube.length },
         ] as { key: MusicTab; label: string; color: string; count: number }[]
       ).filter((t) => t.count > 0)
     : [];
@@ -157,9 +157,9 @@ function MusicCharts() {
   const songs =
     !data ? [] :
     tab === 'unified' ? data.unified :
-    tab === 'melon'   ? data.melon   :
-    tab === 'genie'   ? data.genie   :
-    data.bugs;
+    tab === 'circle'  ? data.circle  :
+    tab === 'spotify' ? data.spotify :
+    data.youtube;
 
   return (
     <section className="mb-10">
@@ -169,7 +169,7 @@ function MusicCharts() {
           <Music2 className="w-6 h-6 text-pink-500" />
           <h2 className="text-xl font-bold text-gray-900">Music Charts</h2>
           {tab === 'unified' && !loading && (
-            <span className="text-xs text-gray-400 font-normal">Weighted: Melon × Genie × Bugs</span>
+            <span className="text-xs text-gray-400 font-normal">Weighted: Circle · Spotify · YouTube</span>
           )}
         </div>
         {data && (
@@ -206,9 +206,9 @@ function MusicCharts() {
       {tab === 'unified' && !loading && !error && data && (
         <div className="flex gap-3 mb-4 text-xs text-gray-500 flex-wrap">
           {[
-            { label: 'M = Melon', color: '#00CD3C' },
-            { label: 'G = Genie', color: '#0066FF' },
-            { label: 'B = Bugs',  color: '#FF5833' },
+            { label: 'C = Circle', color: '#FF6B9D' },
+            { label: 'S = Spotify', color: '#1DB954' },
+            { label: 'Y = YouTube', color: '#FF0000' },
           ].map(({ label, color }) => (
             <span key={label} className="flex items-center gap-1">
               <span className="w-2 h-2 rounded-full inline-block" style={{ background: color }} />
