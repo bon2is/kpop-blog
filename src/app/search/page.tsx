@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import { getAllArticles } from '@/lib/articles';
+import type { ArticleSummary } from '@/types';
 import SearchClient from './SearchClient';
 
 export const metadata: Metadata = {
@@ -10,8 +11,8 @@ export const metadata: Metadata = {
 };
 
 export default function SearchPage() {
-  // Load all articles at build time
   const allArticles = getAllArticles();
+  const articles: ArticleSummary[] = allArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
 
-  return <SearchClient articles={allArticles} />;
+  return <SearchClient articles={articles} />;
 }

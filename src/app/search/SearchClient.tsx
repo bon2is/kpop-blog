@@ -5,11 +5,12 @@ import { Suspense, useState, useMemo } from 'react';
 import Link from 'next/link';
 import ArticleCard from '@/components/ArticleCard';
 import { Search, SlidersHorizontal, X } from 'lucide-react';
-import { Article, Category } from '@/types';
+import type { ArticleSummary } from '@/types';
+import type { Category } from '@/types';
 import { categories } from '@/lib/config';
 
 interface SearchClientProps {
-  articles: Article[];
+  articles: ArticleSummary[];
 }
 
 type SortOption = 'relevance' | 'newest' | 'oldest';
@@ -33,7 +34,7 @@ function SearchResults({ articles }: SearchClientProps) {
           a.title.toLowerCase().includes(lowerQuery) ||
           a.excerpt.toLowerCase().includes(lowerQuery) ||
           a.tags.some((t) => t.toLowerCase().includes(lowerQuery)) ||
-          (a.summary && a.summary.toLowerCase().includes(lowerQuery))
+          false
       );
     }
 
