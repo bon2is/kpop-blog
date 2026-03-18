@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-to-return-to-the-tonight-show-for-2-separate-episodes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T14:40:25.000Z</news:publication_date>
+      <news:title>BTS To Return To “The Tonight Show” For 2 Separate Episodes</news:title>
+      <news:keywords>BTS, The Tonight Show, Comeback, K-Pop, US Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/illit-mokas-chilling-photo-detail-sparks-concern-among-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T13:47:35.000Z</news:publication_date>
+      <news:title>ILLIT Moka&apos;s Chilling Photo Detail Sparks Concern Among Fans</news:title>
+      <news:keywords>ILLIT, ILLIT Moka, K-Pop, Safety, Security</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-male-idols-shockingly-excessive-fan-participation-re/</loc>
     <news:news>
       <news:publication>
