@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-songwriter-alleges-mistreatment-sparking-hybe-cont/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T10:40:18.000Z</news:publication_date>
+      <news:title>BLACKPINK Songwriter Alleges Mistreatment, Sparking HYBE Controversy</news:title>
+      <news:keywords>BLACKPINK, HYBE, Mistreatment, K-Pop Industry, Artist Welfare</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-new-teaser-for-swim-hit-with-backlash/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T09:45:24.000Z</news:publication_date>
+      <news:title>BTS’s New Teaser For “SWIM” Hit With Backlash</news:title>
+      <news:keywords>BTS, Comeback, Backlash, K-Pop, Teaser</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/new-recruit-4-unveils-first-look-at-returning-squad-and-new-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T07:48:00.000Z</news:publication_date>
+      <news:title>“New Recruit 4” Unveils First Look At Returning Squad And New Recruits</news:title>
+      <news:keywords>K-Drama, New Recruit 4, Comeback, Soompi</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/viviz-lee-mujin-and-beo-contract-termination-understanding-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T06:50:44.000Z</news:publication_date>
+      <news:title>VIVIZ, Lee Mujin, And BE&apos;O Contract Termination: Understanding the Impact</news:title>
+      <news:keywords>VIVIZ, Lee Mujin, BE&apos;O, Contract Termination, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jisoo-and-seo-in-guk-open-up-about-each-other/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T06:38:51.000Z</news:publication_date>
+      <news:title>BLACKPINK&apos;s Jisoo And Seo In Guk Open Up About Each Other</news:title>
+      <news:keywords>BLACKPINK, K-Drama, Jisoo, Seo In Guk, Boyfriend On Demand</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-jungkooks-recent-encounter-with-top-singer-sparks-massiv/</loc>
     <news:news>
       <news:publication>
@@ -347,42 +407,6 @@
       <news:publication_date>2026-03-17T11:35:12.000Z</news:publication_date>
       <news:title>The Double Life of K-Pop Idols: Unmasking the Truth Behind the Facade</news:title>
       <news:keywords>K-Pop, Idol Culture, Mental Health, Authenticity, Personality</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ju-ji-hoon-and-ha-ji-wons-relationship-begins-to-fracture-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T07:46:27.000Z</news:publication_date>
-      <news:title>Ju Ji Hoon And Ha Ji Won’s Relationship Begins To Fracture In &quot;Climax&quot;</news:title>
-      <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Climax, Suspense</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-takes-indonesia-by-storm-2026-concert-and-fan-meeting-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T07:01:54.000Z</news:publication_date>
-      <news:title>K-Pop Takes Indonesia by Storm: 2026 Concert and Fan Meeting Lineup</news:title>
-      <news:keywords>EXO, NCT, TREASURE, Concert, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-takes-over-thailand-the-ultimate-2026-tour-guide/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T06:43:43.000Z</news:publication_date>
-      <news:title>K-Pop Takes Over Thailand: The Ultimate 2026 Tour Guide</news:title>
-      <news:keywords>EXO, SEVENTEEN, ATEEZ, Tour, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
