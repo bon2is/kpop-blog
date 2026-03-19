@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ha-jung-woo-and-krystal-look-on-at-unconscious-kim-jun-han-w/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T02:55:23.000Z</news:publication_date>
+      <news:title>Ha Jung Woo And Krystal Look On At Unconscious Kim Jun Han With Mixed Feelings In “Mad Concrete Dreams”</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Krystal, Mad Concrete Dreams, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exo-member-exposed-for-unpaid-balance-for-solo-music-video-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T02:12:32.000Z</news:publication_date>
+      <news:title>EXO Member Exposed For Unpaid Balance For Solo Music Video Production</news:title>
+      <news:keywords>EXO, MV, Unpaid Balance, Solo Music Video Production, K-Pop Finance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-takes-center-stage-in-perfect-crown-with-a-daring-marriag/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T01:58:30.000Z</news:publication_date>
+      <news:title>IU Takes Center Stage in &quot;Perfect Crown&quot; with a Daring Marriage Proposal</news:title>
+      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance, MBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/itzys-lia-expands-her-online-presence-with-a-personal-youtub/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T17:21:07.000Z</news:publication_date>
+      <news:title>ITZY&apos;s Lia Expands Her Online Presence with a Personal YouTube Channel</news:title>
+      <news:keywords>ITZY, Tour, Lia, YouTube, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-to-return-to-the-tonight-show-for-2-separate-episodes/</loc>
     <news:news>
       <news:publication>
@@ -275,42 +323,6 @@
       <news:publication_date>2026-03-17T06:43:43.000Z</news:publication_date>
       <news:title>K-Pop Takes Over Thailand: The Ultimate 2026 Tour Guide</news:title>
       <news:keywords>EXO, SEVENTEEN, ATEEZ, Tour, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/monsta-xs-hyungwon-and-ives-rei-to-host-asia-star-entertaine/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T01:31:21.000Z</news:publication_date>
-      <news:title>MONSTA X&apos;s Hyungwon And IVE&apos;s Rei To Host Asia Star Entertainer Awards 2026</news:title>
-      <news:keywords>IVE, MONSTA X, Awards, Asia Star Entertainer Awards, Host</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/monsta-xs-hyungwon-and-ives-rei-to-host-day-1-of-asia-star-e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T01:31:21.000Z</news:publication_date>
-      <news:title>MONSTA X’s Hyungwon And IVE’s Rei To Host Day 1 Of Asia Star Entertainer Awards 2026</news:title>
-      <news:keywords>IVE, MONSTA X, Awards, Asia Star Entertainer Awards, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/finale-review-our-universe-ends-on-a-bittersweet-note/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T01:20:37.000Z</news:publication_date>
-      <news:title>Finale Review: “Our Universe” Ends on a Bittersweet Note</news:title>
-      <news:keywords>K-Drama, Our Universe, Bae In Hyuk, Roh Jeong Eui, Finale</news:keywords>
     </news:news>
   </url>
 </urlset>
