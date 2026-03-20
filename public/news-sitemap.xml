@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainment-idols-shocking-confession-a-glimpse-into-tr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T05:04:42.000Z</news:publication_date>
+      <news:title>SM Entertainment Idol&apos;s Shocking Confession: A Glimpse into Trainee Life</news:title>
+      <news:keywords>SM Entertainment, K-Pop Trainee, Idol Confession</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/unexpected-name-appears-in-btss-new-track-aliens/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T05:02:54.000Z</news:publication_date>
+      <news:title>Unexpected Name Appears In BTS’s New Track “Aliens”</news:title>
+      <news:keywords>BTS, Charts, Collaboration, K-Pop, New Music</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/15-bts-lyrics-that-prove-their-songs-are-pure-poetry/</loc>
     <news:news>
       <news:publication>
@@ -395,18 +419,6 @@
       <news:publication_date>2026-03-18T07:36:56.000Z</news:publication_date>
       <news:title>Park Hae Soo And Lee Hee Joon Unite In Upcoming Drama &apos;The Scarecrow&apos;</news:title>
       <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, ENA</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/south-korean-presidents-statement-on-btss-gwanghwamun-perfor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T04:15:14.000Z</news:publication_date>
-      <news:title>South Korean President&apos;s Statement on BTS&apos;s Gwanghwamun Performance Sparks Controversy</news:title>
-      <news:keywords>BTS, K-Pop, Politics, Gwanghwamun Performance, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
