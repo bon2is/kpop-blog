@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespas-karina-sparks-concern-with-mysterious-eye-patch-updat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T12:53:45.000Z</news:publication_date>
+      <news:title>aespa’s Karina Sparks Concern With Mysterious Eye Patch Update</news:title>
+      <news:keywords>aespa, Karina, K-Pop, Health, Update</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/yoo-yeon-seok-dances-to-ives-love-dive-as-possessed-ghosts-m/</loc>
     <news:news>
       <news:publication>
@@ -119,6 +131,18 @@
       <news:publication_date>2026-03-19T19:57:12.000Z</news:publication_date>
       <news:title>Jungkook&apos;s Visible Plastic Surgery Scars Spark Heated Debate Among Fans and Critics</news:title>
       <news:keywords>BTS, Jungkook, Plastic Surgery, K-Pop Beauty Standards, ARMY</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/tv5-viu-launch-new-korean-filipino-culinary-series-bringing-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T15:42:01.000Z</news:publication_date>
+      <news:title>TV5, Viu Launch New Korean-Filipino Culinary Series Bringing Filipino Flavors to Seoul</news:title>
+      <news:keywords>Ji Chang Wook, Kumusta, Culinary Series, Korean-Filipino Culture, Food and Travel</news:keywords>
     </news:news>
   </url>
   <url>
@@ -359,42 +383,6 @@
       <news:publication_date>2026-03-18T17:21:07.000Z</news:publication_date>
       <news:title>ITZY&apos;s Lia Expands Her Online Presence with a Personal YouTube Channel</news:title>
       <news:keywords>ITZY, Tour, Lia, YouTube, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-to-return-to-the-tonight-show-for-2-separate-episodes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T14:40:25.000Z</news:publication_date>
-      <news:title>BTS To Return To “The Tonight Show” For 2 Separate Episodes</news:title>
-      <news:keywords>BTS, The Tonight Show, Comeback, K-Pop, US Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/illit-mokas-chilling-photo-detail-sparks-concern-among-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T13:47:35.000Z</news:publication_date>
-      <news:title>ILLIT Moka&apos;s Chilling Photo Detail Sparks Concern Among Fans</news:title>
-      <news:keywords>ILLIT, ILLIT Moka, K-Pop, Safety, Security</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-male-idols-shockingly-excessive-fan-participation-re/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T12:20:20.000Z</news:publication_date>
-      <news:title>Popular Male Idol’s Shockingly Excessive Fan Participation Requirements Sparks Major Reactions</news:title>
-      <news:keywords>K-Pop, Fan Culture, Idol Career, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
