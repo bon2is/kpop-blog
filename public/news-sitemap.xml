@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-rm-sparks-controversy-with-shocking-lyrics/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T10:14:10.000Z</news:publication_date>
+      <news:title>BTS&apos;s RM Sparks Controversy with Shocking Lyrics</news:title>
+      <news:keywords>BTS, RM, Lyrics, Controversy, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/han-ji-min-and-lee-ki-taek-redo-their-first-date-in-the-prac/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T08:21:17.000Z</news:publication_date>
+      <news:title>Han Ji Min And Lee Ki Taek Redo Their First Date In “The Practical Guide To Love”</news:title>
+      <news:keywords>K-Drama, Han Ji Min, Lee Ki Taek, The Practical Guide To Love, Rom-Com</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twices-mina-gets-criticized-for-use-of-mask-during-tour/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T08:16:04.000Z</news:publication_date>
+      <news:title>TWICE’s Mina Gets Criticized For Use Of Mask During Tour</news:title>
+      <news:keywords>TWICE, Tour, Mina, K-Pop Idols, Performance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seoul-citizens-subjected-to-body-searches-due-to-bts-severe-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T08:01:54.000Z</news:publication_date>
+      <news:title>Seoul Citizens Subjected To Body Searches Due To BTS, Severe Backlash Follows</news:title>
+      <news:keywords>BTS, Concert, Security Measures, K-Pop, Privacy Rights</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/koreans-irritated-by-excessive-bts-emergency-alerts/</loc>
     <news:news>
       <news:publication>
@@ -215,114 +263,6 @@
       <news:publication_date>2026-03-19T11:40:12.000Z</news:publication_date>
       <news:title>K-Pop Fans Express Outrage Over Competing Schedules for ENHYPEN and Heeseung</news:title>
       <news:keywords>ENHYPEN, Heeseung, Scheduling Conflict, K-Pop Management, Fan Loyalty</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jung-ga-ram-takes-on-unconventional-role-in-new-film-the-ult/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T11:15:18.000Z</news:publication_date>
-      <news:title>Jung Ga Ram Takes on Unconventional Role in New Film &quot;The Ultimate Duo&quot;</news:title>
-      <news:keywords>Jung Ga Ram, The Ultimate Duo, K-Drama, Film, Chaebol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-songwriter-alleges-mistreatment-sparking-hybe-cont/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T10:40:18.000Z</news:publication_date>
-      <news:title>BLACKPINK Songwriter Alleges Mistreatment, Sparking HYBE Controversy</news:title>
-      <news:keywords>BLACKPINK, HYBE, Mistreatment, K-Pop Industry, Artist Welfare</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/south-koreas-fashion-mavens-go-head-to-head-in-style-wars/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T09:56:08.000Z</news:publication_date>
-      <news:title>South Korea’s Fashion Mavens Go Head-to-Head in Style Wars</news:title>
-      <news:keywords>BTS, BLACKPINK, K-Fashion, Style Wars, Disney+</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-new-teaser-for-swim-hit-with-backlash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T09:45:24.000Z</news:publication_date>
-      <news:title>BTS’s New Teaser For “SWIM” Hit With Backlash</news:title>
-      <news:keywords>BTS, Comeback, Backlash, K-Pop, Teaser</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-mi-sook-disappears-while-on-a-trip-with-kang-suk-woo-in-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T08:28:20.000Z</news:publication_date>
-      <news:title>Lee Mi Sook Disappears While On A Trip With Kang Suk Woo In “In Your Radiant Season”</news:title>
-      <news:keywords>K-Drama, Lee Mi Sook, In Your Radiant Season, MBC, Kang Suk Woo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/new-recruit-4-unveils-first-look-at-returning-squad-and-new-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T07:48:00.000Z</news:publication_date>
-      <news:title>“New Recruit 4” Unveils First Look At Returning Squad And New Recruits</news:title>
-      <news:keywords>K-Drama, New Recruit 4, Comeback, Soompi</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/viviz-lee-mujin-and-beo-contract-termination-understanding-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T06:50:44.000Z</news:publication_date>
-      <news:title>VIVIZ, Lee Mujin, And BE&apos;O Contract Termination: Understanding the Impact</news:title>
-      <news:keywords>VIVIZ, Lee Mujin, BE&apos;O, Contract Termination, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyzs-contract-termination-reports-a-turning-point-for-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T06:40:42.000Z</news:publication_date>
-      <news:title>THE BOYZ&apos;s Contract Termination Reports: A Turning Point for the Group</news:title>
-      <news:keywords>THE BOYZ, Contract Termination, K-Pop Industry, ONE HUNDRED, Idol Contracts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jisoo-and-seo-in-guk-open-up-about-each-other/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T06:38:51.000Z</news:publication_date>
-      <news:title>BLACKPINK&apos;s Jisoo And Seo In Guk Open Up About Each Other</news:title>
-      <news:keywords>BLACKPINK, K-Drama, Jisoo, Seo In Guk, Boyfriend On Demand</news:keywords>
     </news:news>
   </url>
 </urlset>
