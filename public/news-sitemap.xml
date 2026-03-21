@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/heeseungs-potential-return-to-enhypen-sparks-intense-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T13:52:59.000Z</news:publication_date>
+      <news:title>Heeseung&apos;s Potential Return to ENHYPEN Sparks Intense Debate</news:title>
+      <news:keywords>ENHYPEN, Heeseung, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-rm-sparks-controversy-with-shocking-lyrics/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-03-21T10:14:10.000Z</news:publication_date>
       <news:title>BTS&apos;s RM Sparks Controversy with Shocking Lyrics</news:title>
       <news:keywords>BTS, RM, Lyrics, Controversy, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heeseungs-exit-from-enhypen-assessing-belift-labs-handling/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T09:03:20.000Z</news:publication_date>
+      <news:title>Heeseung&apos;s Exit from ENHYPEN: Assessing BELIFT LAB&apos;s Handling</news:title>
+      <news:keywords>ENHYPEN, Heeseung, BELIFT LAB, K-Pop Departures, Group Dynamics</news:keywords>
     </news:news>
   </url>
   <url>
@@ -47,6 +71,30 @@
       <news:publication_date>2026-03-21T08:01:54.000Z</news:publication_date>
       <news:title>Seoul Citizens Subjected To Body Searches Due To BTS, Severe Backlash Follows</news:title>
       <news:keywords>BTS, Concert, Security Measures, K-Pop, Privacy Rights</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/im-soo-jung-takes-a-risk-for-ha-jung-woo-in-mad-concrete-dre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T07:09:21.000Z</news:publication_date>
+      <news:title>Im Soo Jung Takes A Risk For Ha Jung Woo In &apos;Mad Concrete Dreams&apos;</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Thriller, Mad Concrete Dreams</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/han-ji-mins-awkward-encounter-in-the-practical-guide-to-love/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T05:50:16.000Z</news:publication_date>
+      <news:title>Han Ji Min&apos;s Awkward Encounter in &quot;The Practical Guide To Love&quot;</news:title>
+      <news:keywords>K-Drama, Han Ji Min, Park Sung Hoon, The Practical Guide To Love, Rom-Com</news:keywords>
     </news:news>
   </url>
   <url>
@@ -239,30 +287,6 @@
       <news:publication_date>2026-03-19T15:42:01.000Z</news:publication_date>
       <news:title>TV5, Viu Launch New Korean-Filipino Culinary Series Bringing Filipino Flavors to Seoul</news:title>
       <news:keywords>Ji Chang Wook, Kumusta, Culinary Series, Korean-Filipino Culture, Food and Travel</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hearts2hearts-achieves-third-win-with-rude-on-m-countdown/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T12:20:34.000Z</news:publication_date>
-      <news:title>Hearts2Hearts Achieves Third Win with &apos;RUDE!&apos; on M Countdown</news:title>
-      <news:keywords>BLACKPINK, ITZY, Awards, Hearts2Hearts, M Countdown</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-fans-express-outrage-over-competing-schedules-for-enhy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T11:40:12.000Z</news:publication_date>
-      <news:title>K-Pop Fans Express Outrage Over Competing Schedules for ENHYPEN and Heeseung</news:title>
-      <news:keywords>ENHYPEN, Heeseung, Scheduling Conflict, K-Pop Management, Fan Loyalty</news:keywords>
     </news:news>
   </url>
 </urlset>
