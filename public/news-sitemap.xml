@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/koreans-irritated-by-excessive-bts-emergency-alerts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T03:59:41.000Z</news:publication_date>
+      <news:title>Koreans Irritated by Excessive BTS Emergency Alerts</news:title>
+      <news:keywords>BTS, Emergency Alert, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-breaks-records-with-new-album-arirang/</loc>
     <news:news>
       <news:publication>
@@ -311,42 +323,6 @@
       <news:publication_date>2026-03-19T06:38:51.000Z</news:publication_date>
       <news:title>BLACKPINK&apos;s Jisoo And Seo In Guk Open Up About Each Other</news:title>
       <news:keywords>BLACKPINK, K-Drama, Jisoo, Seo In Guk, Boyfriend On Demand</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkooks-recent-encounter-with-top-singer-sparks-massiv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T05:29:08.000Z</news:publication_date>
-      <news:title>BTS Jungkook&apos;s Recent Encounter With Top Singer Sparks Massive Reactions</news:title>
-      <news:keywords>BTS, Jungkook, Collaboration, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/one-hundred-refuses-to-accept-the-boyzs-demand-for-contract-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T04:42:54.000Z</news:publication_date>
-      <news:title>ONE HUNDRED Refuses To Accept THE BOYZ’s Demand For Contract Termination</news:title>
-      <news:keywords>THE BOYZ, Contract Termination, K-Pop Industry, Legal Action, Artist Rights</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/9-the-boyz-members-reportedly-notify-one-hundred-of-contract/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T03:39:24.000Z</news:publication_date>
-      <news:title>9 THE BOYZ Members Reportedly Notify ONE HUNDRED Of Contract Termination</news:title>
-      <news:keywords>BTS, BLACKPINK, THE BOYZ, Contract Termination, K-Pop Group</news:keywords>
     </news:news>
   </url>
 </urlset>

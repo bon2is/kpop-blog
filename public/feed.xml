@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 05:36:16 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,21 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Koreans Irritated by Excessive BTS Emergency Alerts</title>
+      <link>https://kpop.andxo.com/article/koreans-irritated-by-excessive-bts-emergency-alerts/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/koreans-irritated-by-excessive-bts-emergency-alerts/</guid>
+      <description>Koreans express frustration over repeated emergency alert texts about BTS, sparking a national conversation.</description>
+      <pubDate>Sat, 21 Mar 2026 03:59:41 GMT</pubDate>
+      <category>news</category>
+      <category>BTS</category>
+      <category>Emergency Alert</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/koreans-irritated-by-excessive-bts-emergency-alerts.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/koreans-irritated-by-excessive-bts-emergency-alerts.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/koreans-irritated-by-excessive-bts-emergency-alerts.webp" />
+    </item>
     <item>
       <title>BTS Breaks Records with New Album &apos;ARIRANG&apos;</title>
       <link>https://kpop.andxo.com/article/bts-breaks-records-with-new-album-arirang/</link>
@@ -1689,23 +1704,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/alarming-cctv-footage-of-newjeans-leaks-hybe-receives-major-.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/alarming-cctv-footage-of-newjeans-leaks-hybe-receives-major-.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/alarming-cctv-footage-of-newjeans-leaks-hybe-receives-major-.webp" />
-    </item>
-    <item>
-      <title>BLACKPINK’s Rosé Makes History at BRIT Awards</title>
-      <link>https://kpop.andxo.com/article/blackpinks-ros-makes-history-at-brit-awards/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpinks-ros-makes-history-at-brit-awards/</guid>
-      <description>BLACKPINK’s Rosé has made history by becoming the first K-Pop artist to win a BRIT Award, marking a significant milestone for her career and the genre.</description>
-      <pubDate>Sun, 01 Mar 2026 01:31:45 GMT</pubDate>
-      <category>variety</category>
-      <category>BLACKPINK</category>
-      <category>Awards</category>
-      <category>Rosé</category>
-      <category>BRIT Awards</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/blackpinks-ros-makes-history-at-brit-awards.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/blackpinks-ros-makes-history-at-brit-awards.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/blackpinks-ros-makes-history-at-brit-awards.webp" />
     </item>
   </channel>
 </rss>
