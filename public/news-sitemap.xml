@@ -265,28 +265,4 @@
       <news:keywords>IU, K-Drama, Byeon Woo Seok, Salon Drip, K-Pop</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sm-entertainment-idols-shocking-confession-a-glimpse-into-tr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-20T05:04:42.000Z</news:publication_date>
-      <news:title>SM Entertainment Idol&apos;s Shocking Confession: A Glimpse into Trainee Life</news:title>
-      <news:keywords>SM Entertainment, K-Pop Trainee, Idol Confession</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/unexpected-name-appears-in-btss-new-track-aliens/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-20T05:02:54.000Z</news:publication_date>
-      <news:title>Unexpected Name Appears In BTS’s New Track “Aliens”</news:title>
-      <news:keywords>BTS, Charts, Collaboration, K-Pop, New Music</news:keywords>
-    </news:news>
-  </url>
 </urlset>
