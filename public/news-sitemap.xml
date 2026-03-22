@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hyomin-turns-heads-with-daring-airport-style/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T12:47:08.000Z</news:publication_date>
+      <news:title>Hyomin Turns Heads With Daring Airport Style</news:title>
+      <news:keywords>T-ARA, Hyomin, Airport Fashion, K-Pop Style, Idol Fashion</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-and-lee-hee-joon-team-up-in-chilling-thriller-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T11:54:25.000Z</news:publication_date>
+      <news:title>Park Hae Soo And Lee Hee Joon Team Up In Chilling Thriller &apos;The Scarecrow&apos;</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, Thriller, The Scarecrow</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-treatment-of-jin-under-scrutiny/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-03-22T10:27:57.000Z</news:publication_date>
       <news:title>Tensions Rise in &apos;Mad Concrete Dreams&apos; as Im Soo Jung Hides Secret Intentions</news:title>
       <news:keywords>K-Drama, Mad Concrete Dreams, Im Soo Jung, Ha Jung Woo, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heeseungs-emotional-return-a-new-chapter-after-enhypen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T10:25:08.000Z</news:publication_date>
+      <news:title>Heeseung&apos;s Emotional Return: A New Chapter After ENHYPEN</news:title>
+      <news:keywords>ENHYPEN, Heeseung, Comeback, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -251,18 +287,6 @@
       <news:publication_date>2026-03-20T19:39:23.000Z</news:publication_date>
       <news:title>IVE&apos;s Rei Faces Backlash: Understanding the Impact on Her Career</news:title>
       <news:keywords>IVE, Rei, Backlash, K-Pop Fandom, Cover Song</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-karina-sparks-concern-with-mysterious-eye-patch-updat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-20T12:53:45.000Z</news:publication_date>
-      <news:title>aespa’s Karina Sparks Concern With Mysterious Eye Patch Update</news:title>
-      <news:keywords>aespa, Karina, K-Pop, Health, Update</news:keywords>
     </news:news>
   </url>
 </urlset>
