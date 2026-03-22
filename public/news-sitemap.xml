@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-breaks-records-for-highest-1st-day-streams-of-any-pop-gr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T01:46:23.000Z</news:publication_date>
+      <news:title>BTS Breaks Records For Highest 1st-Day Streams Of Any Pop Group Or K-Pop Artist In Apple Music History</news:title>
+      <news:keywords>BTS, Album, Comeback, Apple Music, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/legendary-idols-went-to-extreme-lengths-to-beg-fans-to-atten/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T18:48:55.000Z</news:publication_date>
+      <news:title>Legendary Idols Went To Extreme Lengths To Beg Fans To Attend Their Concert</news:title>
+      <news:keywords>Concert, K-Pop, Fan Engagement, Legendary Idols, Attendance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-best-3rd-gen-male-k-pop-dancers-ranked/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T17:46:17.000Z</news:publication_date>
+      <news:title>The Best 3rd Gen Male K-Pop Dancers, Ranked</news:title>
+      <news:keywords>K-Pop, 3rd Generation, Dance, Ranking, Koreaboo</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-elusive-heart-of-k-pop-uncovering-the-mysterious-solo-li/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-21T17:30:40.000Z</news:publication_date>
+      <news:title>The Elusive Heart of K-Pop: Uncovering the Mysterious Solo Life of a Beloved SM Entertainment Star</news:title>
+      <news:keywords>SM Entertainment, K-Pop Idols, Solo Life, Privacy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/heeseungs-potential-return-to-enhypen-sparks-intense-debate/</loc>
     <news:news>
       <news:publication>
@@ -239,54 +287,6 @@
       <news:publication_date>2026-03-20T05:02:54.000Z</news:publication_date>
       <news:title>Unexpected Name Appears In BTS’s New Track “Aliens”</news:title>
       <news:keywords>BTS, Charts, Collaboration, K-Pop, New Music</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/15-bts-lyrics-that-prove-their-songs-are-pure-poetry/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-20T02:00:04.000Z</news:publication_date>
-      <news:title>15 BTS Lyrics That Prove Their Songs Are Pure Poetry</news:title>
-      <news:keywords>BTS, Album, Poetry, Lyrics, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4th-gen-idols-bold-fashion-choice-sparks-interest/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T21:35:54.000Z</news:publication_date>
-      <news:title>4th Gen Idol&apos;s Bold Fashion Choice Sparks Interest</news:title>
-      <news:keywords>4th Gen Idol, K-Pop Fashion, BDSM, Korean Pop Culture, Idol Fashion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jungkooks-visible-plastic-surgery-scars-spark-heated-debate-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T19:57:12.000Z</news:publication_date>
-      <news:title>Jungkook&apos;s Visible Plastic Surgery Scars Spark Heated Debate Among Fans and Critics</news:title>
-      <news:keywords>BTS, Jungkook, Plastic Surgery, K-Pop Beauty Standards, ARMY</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/tv5-viu-launch-new-korean-filipino-culinary-series-bringing-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-19T15:42:01.000Z</news:publication_date>
-      <news:title>TV5, Viu Launch New Korean-Filipino Culinary Series Bringing Filipino Flavors to Seoul</news:title>
-      <news:keywords>Ji Chang Wook, Kumusta, Culinary Series, Korean-Filipino Culture, Food and Travel</news:keywords>
     </news:news>
   </url>
 </urlset>
