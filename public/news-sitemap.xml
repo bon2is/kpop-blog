@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/paparazzis-reaction-to-jungkook-compared-to-other-bts-member/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T10:45:25.000Z</news:publication_date>
+      <news:title>Paparazzi&apos;s Reaction To Jungkook Compared To Other BTS Members Sparks Major Reactions</news:title>
+      <news:keywords>BTS, Jungkook, Paparazzi, K-Pop, Celebrity Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/public-outrage-over-tax-spending-on-bts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T10:01:08.000Z</news:publication_date>
+      <news:title>Public Outrage Over Tax Spending on BTS</news:title>
+      <news:keywords>BTS, K-Pop, Tax Spending, Government Funding, Korean Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennie-faces-backlash-over-recent-performance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T09:40:07.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie Faces Backlash Over Recent Performance</news:title>
+      <news:keywords>BLACKPINK, Jennie, Performance, Criticism, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/unveiling-the-dark-side-of-ambition-mad-concrete-dreams-post/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T09:13:39.000Z</news:publication_date>
+      <news:title>Unveiling the Dark Side of Ambition: &apos;Mad Concrete Dreams&apos; Poster Released</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Thriller, Mad Concrete Dreams</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jung-woos-new-film-teaser-reveals-a-story-of-perseverance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T08:02:44.000Z</news:publication_date>
+      <news:title>Jung Woo&apos;s New Film Teaser Reveals a Story of Perseverance</news:title>
+      <news:keywords>Jung Woo, Jjanggu, K-Movie, Acting, Perseverance</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kim-se-jeong-embarks-on-a-new-chapter-departure-from-jellyfi/</loc>
     <news:news>
       <news:publication>
@@ -275,78 +335,6 @@
       <news:publication_date>2026-03-21T13:52:59.000Z</news:publication_date>
       <news:title>Heeseung&apos;s Potential Return to ENHYPEN Sparks Intense Debate</news:title>
       <news:keywords>ENHYPEN, Heeseung, Comeback, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-rm-sparks-controversy-with-shocking-lyrics/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T10:14:10.000Z</news:publication_date>
-      <news:title>BTS&apos;s RM Sparks Controversy with Shocking Lyrics</news:title>
-      <news:keywords>BTS, RM, Lyrics, Controversy, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heeseungs-exit-from-enhypen-assessing-belift-labs-handling/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T09:03:20.000Z</news:publication_date>
-      <news:title>Heeseung&apos;s Exit from ENHYPEN: Assessing BELIFT LAB&apos;s Handling</news:title>
-      <news:keywords>ENHYPEN, Heeseung, BELIFT LAB, K-Pop Departures, Group Dynamics</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/han-ji-min-and-lee-ki-taek-redo-their-first-date-in-the-prac/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T08:21:17.000Z</news:publication_date>
-      <news:title>Han Ji Min And Lee Ki Taek Redo Their First Date In “The Practical Guide To Love”</news:title>
-      <news:keywords>K-Drama, Han Ji Min, Lee Ki Taek, The Practical Guide To Love, Rom-Com</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twices-mina-gets-criticized-for-use-of-mask-during-tour/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T08:16:04.000Z</news:publication_date>
-      <news:title>TWICE’s Mina Gets Criticized For Use Of Mask During Tour</news:title>
-      <news:keywords>TWICE, Tour, Mina, K-Pop Idols, Performance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seoul-citizens-subjected-to-body-searches-due-to-bts-severe-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T08:01:54.000Z</news:publication_date>
-      <news:title>Seoul Citizens Subjected To Body Searches Due To BTS, Severe Backlash Follows</news:title>
-      <news:keywords>BTS, Concert, Security Measures, K-Pop, Privacy Rights</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/im-soo-jung-takes-a-risk-for-ha-jung-woo-in-mad-concrete-dre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T07:09:21.000Z</news:publication_date>
-      <news:title>Im Soo Jung Takes A Risk For Ha Jung Woo In &apos;Mad Concrete Dreams&apos;</news:title>
-      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Thriller, Mad Concrete Dreams</news:keywords>
     </news:news>
   </url>
 </urlset>
