@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-faces-backlash-over-netflix-footage/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T14:32:38.000Z</news:publication_date>
+      <news:title>BTS Faces Backlash Over Netflix Footage</news:title>
+      <news:keywords>BTS, Netflix, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-live-vocals-under-scrutiny/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T13:00:43.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie&apos;s Live Vocals Under Scrutiny</news:title>
+      <news:keywords>BLACKPINK, Jennie, Live Vocals, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-stands-firm-on-korean-lyrics-in-arirang-reports-dispatch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T12:52:03.000Z</news:publication_date>
+      <news:title>BTS Stands Firm on Korean Lyrics in &apos;Arirang&apos;, Reports Dispatch</news:title>
+      <news:keywords>BTS, Korean Lyrics, Cultural Heritage, K-Pop, HYBE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-honest-reaction-to-swim-exposed-in-new-documentary/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T12:14:54.000Z</news:publication_date>
+      <news:title>BTS&apos;s Honest Reaction to &apos;SWIM&apos; Exposed in New Documentary</news:title>
+      <news:keywords>BTS, Documentary, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/esom-shines-as-a-determined-prosecutor-in-new-film-the-ultim/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T11:08:59.000Z</news:publication_date>
+      <news:title>Esom Shines as a Determined Prosecutor in New Film &apos;The Ultimate Duo&apos;</news:title>
+      <news:keywords>Esom, The Ultimate Duo, K-Drama, Film, Bae Sung Woo</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/paparazzis-reaction-to-jungkook-compared-to-other-bts-member/</loc>
     <news:news>
       <news:publication>
@@ -323,18 +383,6 @@
       <news:publication_date>2026-03-21T17:30:40.000Z</news:publication_date>
       <news:title>The Elusive Heart of K-Pop: Uncovering the Mysterious Solo Life of a Beloved SM Entertainment Star</news:title>
       <news:keywords>SM Entertainment, K-Pop Idols, Solo Life, Privacy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heeseungs-potential-return-to-enhypen-sparks-intense-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T13:52:59.000Z</news:publication_date>
-      <news:title>Heeseung&apos;s Potential Return to ENHYPEN Sparks Intense Debate</news:title>
-      <news:keywords>ENHYPEN, Heeseung, Comeback, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
