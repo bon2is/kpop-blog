@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/kim-se-jeong-embarks-on-a-new-chapter-departure-from-jellyfi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T05:40:03.000Z</news:publication_date>
+      <news:title>Kim Se Jeong Embarks on a New Chapter: Departure from Jellyfish Entertainment and Reported Signing with BH Entertainment</news:title>
+      <news:keywords>Kim Se Jeong, Jellyfish Entertainment, BH Entertainment, K-Pop, Career Change</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-shatters-records-with-arirang-sales/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T05:38:11.000Z</news:publication_date>
+      <news:title>BTS Shatters Records with &quot;ARIRANG&quot; Sales</news:title>
+      <news:keywords>BTS, Charts, ARIRANG, K-Pop Records, Hanteo Chart</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/unpacking-the-gripping-saga-of-climax/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T04:17:19.000Z</news:publication_date>
+      <news:title>Unpacking the Gripping Saga of &apos;Climax&apos;</news:title>
+      <news:keywords>K-Drama, Ju Ji Hoon, Han Ji Won, Melodrama, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lee-junho-joins-ju-ji-hoon-in-talks-for-new-drama/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T03:39:17.000Z</news:publication_date>
+      <news:title>Lee Junho Joins Ju Ji Hoon In Talks For New Drama</news:title>
+      <news:keywords>K-Drama, Lee Junho, 2PM, Ju Ji Hoon, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/iu-and-byeon-woo-seok-star-in-alternate-universe-romance-dra/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-03-22T15:16:17.000Z</news:publication_date>
       <news:title>NCT WISH Unveils Teaser for Debut Full-Length Album &apos;Ode to Love&apos;</news:title>
       <news:keywords>NCT, Comeback, Debut, Awards, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hearts2hearts-achieves-milestone-with-first-inkigayo-win/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T14:55:29.000Z</news:publication_date>
+      <news:title>Hearts2Hearts Achieves Milestone with First &apos;Inkigayo&apos; Win</news:title>
+      <news:keywords>BLACKPINK, IVE, Concert, Hearts2Hearts, Inkigayo</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,30 +347,6 @@
       <news:publication_date>2026-03-21T07:09:21.000Z</news:publication_date>
       <news:title>Im Soo Jung Takes A Risk For Ha Jung Woo In &apos;Mad Concrete Dreams&apos;</news:title>
       <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Thriller, Mad Concrete Dreams</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/han-ji-mins-awkward-encounter-in-the-practical-guide-to-love/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T05:50:16.000Z</news:publication_date>
-      <news:title>Han Ji Min&apos;s Awkward Encounter in &quot;The Practical Guide To Love&quot;</news:title>
-      <news:keywords>K-Drama, Han Ji Min, Park Sung Hoon, The Practical Guide To Love, Rom-Com</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/koreans-irritated-by-excessive-bts-emergency-alerts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T03:59:41.000Z</news:publication_date>
-      <news:title>Koreans Irritated by Excessive BTS Emergency Alerts</news:title>
-      <news:keywords>BTS, Emergency Alert, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
