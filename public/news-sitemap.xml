@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-artists-take-center-stage-at-head-in-the-clouds-la-fes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T02:08:11.000Z</news:publication_date>
+      <news:title>K-Pop Artists Take Center Stage At Head In The Clouds LA Festival</news:title>
+      <news:keywords>KATSEYE, XG, Head In The Clouds LA, K-Pop, Festival</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/dreamcatchers-gahyun-embarks-on-new-journey-as-lee-seo-yul/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T01:33:14.000Z</news:publication_date>
+      <news:title>Dreamcatcher’s Gahyun Embarks on New Journey as Lee Seo Yul</news:title>
+      <news:keywords>Dreamcatcher, Gahyun, Lee Seo Yul, Acting Debut, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-giant-to-return-to-korea-following-non-compete-expirat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T00:10:20.000Z</news:publication_date>
+      <news:title>K-Pop Giant To Return To Korea Following Non-Compete Expiration: His First Official Schedule</news:title>
+      <news:keywords>Comeback, Tour, K-Pop, Non-Compete Expiration, Korean Music Scene</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-faces-backlash-over-netflix-footage/</loc>
     <news:news>
       <news:publication>
@@ -119,6 +155,30 @@
       <news:publication_date>2026-03-23T08:02:44.000Z</news:publication_date>
       <news:title>Jung Woo&apos;s New Film Teaser Reveals a Story of Perseverance</news:title>
       <news:keywords>Jung Woo, Jjanggu, K-Movie, Acting, Perseverance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/uhm-hyun-kyungs-new-drama-our-happy-days-unveils-teaser/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T07:50:23.000Z</news:publication_date>
+      <news:title>Uhm Hyun Kyung&apos;s New Drama &apos;Our Happy Days&apos; Unveils Teaser</news:title>
+      <news:keywords>K-Drama, Uhm Hyun Kyung, Our Happy Days, Daily Drama, Yoon Jong Hun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/rising-tensions-in-climax-a-high-stakes-showdown-unfolds/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T07:26:05.000Z</news:publication_date>
+      <news:title>Rising Tensions in &quot;Climax&quot;: A High-Stakes Showdown Unfolds</news:title>
+      <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Nana, Climax</news:keywords>
     </news:news>
   </url>
   <url>
@@ -335,54 +395,6 @@
       <news:publication_date>2026-03-22T06:20:24.000Z</news:publication_date>
       <news:title>IVE’s “HEYA” MV Surpasses 100 Million Views</news:title>
       <news:keywords>IVE, MV, K-Pop, Music Video, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-breaks-records-for-highest-1st-day-streams-of-any-pop-gr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T01:46:23.000Z</news:publication_date>
-      <news:title>BTS Breaks Records For Highest 1st-Day Streams Of Any Pop Group Or K-Pop Artist In Apple Music History</news:title>
-      <news:keywords>BTS, Album, Comeback, Apple Music, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/legendary-idols-went-to-extreme-lengths-to-beg-fans-to-atten/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T18:48:55.000Z</news:publication_date>
-      <news:title>Legendary Idols Went To Extreme Lengths To Beg Fans To Attend Their Concert</news:title>
-      <news:keywords>Concert, K-Pop, Fan Engagement, Legendary Idols, Attendance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-best-3rd-gen-male-k-pop-dancers-ranked/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T17:46:17.000Z</news:publication_date>
-      <news:title>The Best 3rd Gen Male K-Pop Dancers, Ranked</news:title>
-      <news:keywords>K-Pop, 3rd Generation, Dance, Ranking, Koreaboo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-elusive-heart-of-k-pop-uncovering-the-mysterious-solo-li/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T17:30:40.000Z</news:publication_date>
-      <news:title>The Elusive Heart of K-Pop: Uncovering the Mysterious Solo Life of a Beloved SM Entertainment Star</news:title>
-      <news:keywords>SM Entertainment, K-Pop Idols, Solo Life, Privacy</news:keywords>
     </news:news>
   </url>
 </urlset>
