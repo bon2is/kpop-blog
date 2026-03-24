@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817295wpp/ncts-jisung-donates-to-meaningful-cause-for-his-birthday
 thumbnail: /images/posts/ncts-jisung-donates-to-meaningful-cause-for-his-birthday.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

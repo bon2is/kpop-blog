@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816956wpp/watch-bae-in-hyuks-baby-nephew-turns-his-life-upside-down-in-our-universe-preview
 thumbnail: >-
   /images/posts/bae-in-hyuks-baby-nephew-turns-his-life-upside-down-in-our-u.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811233wpp/from-seo-hyun-jin-to-lee-si-woo-3-romance-points-to-watch-in-love-me
 thumbnail: /images/posts/romance-dynamics-in-love-me-a-closer-look.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812598wpp/ist-entertainment-to-debut-new-boy-group-tunexx-with-boys-ii-planet-contestants
 thumbnail: >-
   /images/posts/ist-entertainment-to-debut-new-boy-group-tunexx-with-boys-ii.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

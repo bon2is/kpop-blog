@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816248wpp/stray-kids-ceremony-mv-with-faker-soars-past-100-million-views
 thumbnail: >-
   /images/posts/stray-kids-ceremony-mv-with-faker-soars-past-100-million-vie.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

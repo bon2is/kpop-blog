@@ -47,7 +47,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818645wpp/nmixx-to-become-1st-k-pop-artist-to-perform-at-brazils-carnival
 thumbnail: >-
   /images/posts/nmixx-to-become-1st-k-pop-artist-to-perform-at-brazils-carni.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

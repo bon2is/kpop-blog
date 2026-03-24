@@ -55,7 +55,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/alleged-insider-claims-blackpink-jennie-jealous-newjeans-minji/
 thumbnail: >-
   /images/posts/alleged-insider-claims-of-blackpinks-jennie-being-jealous-of.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

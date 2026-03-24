@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/north-korea-executes-kids-bts-squid-game-sky-news-claims-explode-online/
 thumbnail: >-
   /images/posts/north-korea-executes-kids-over-bts-and-squid-game-sky-news-c.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

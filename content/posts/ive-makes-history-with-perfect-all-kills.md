@@ -53,7 +53,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821225wpp/ive-becomes-1st-girl-group-to-score-perfect-all-kills-with-6-different-songs
 thumbnail: /images/posts/ive-makes-history-with-perfect-all-kills.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

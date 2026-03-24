@@ -34,7 +34,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825304wpp/ju-ji-hoon-ha-ji-won-nana-and-more-move-with-different-goals-in-climax
 thumbnail: >-
   /images/posts/ju-ji-hoon-ha-ji-won-nana-and-more-move-with-different-goals.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

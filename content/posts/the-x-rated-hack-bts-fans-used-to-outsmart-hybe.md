@@ -31,7 +31,7 @@ updatedAt: '2026-02-08T06:01:12.863Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/stories/bts-bon-voyage-upload-episodes-free/'
 thumbnail: /images/posts/the-x-rated-hack-bts-fans-used-to-outsmart-hybe.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

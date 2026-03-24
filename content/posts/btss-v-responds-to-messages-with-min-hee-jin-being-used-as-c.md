@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820355wpp/btss-v-responds-to-messages-with-min-hee-jin-being-used-as-court-evidence
 thumbnail: >-
   /images/posts/btss-v-responds-to-messages-with-min-hee-jin-being-used-as-c.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -50,7 +50,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821303wpp/twices-mina-to-sit-out-philadelphia-concert-due-to-health
 thumbnail: /images/posts/twices-mina-to-sit-out-philadelphia-concert-due-to-health.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

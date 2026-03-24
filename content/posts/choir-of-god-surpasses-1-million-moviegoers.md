@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817311wpp/choir-of-god-surpasses-1-million-moviegoers
 thumbnail: /images/posts/choir-of-god-surpasses-1-million-moviegoers.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -51,7 +51,7 @@ updatedAt: '2026-02-27T03:25:19.194Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/red-velvet-irene-first-full-album-late-march/'
 thumbnail: /images/posts/red-velvets-irene-to-release-first-full-album-in-late-march.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

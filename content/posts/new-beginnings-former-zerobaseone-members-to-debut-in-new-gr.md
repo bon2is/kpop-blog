@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825838wpp/zhang-hao-ricky-kim-gyu-vin-and-han-yu-jin-reported-to-make-may-debut-in-new-group-agency-comments
 thumbnail: >-
   /images/posts/new-beginnings-former-zerobaseone-members-to-debut-in-new-gr.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -45,7 +45,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/newjeans-alarming-cctv-footage-leaker-exposed/'
 thumbnail: >-
   /images/posts/newjeans-alarming-cctv-footage-leaker-exposed-sparking-huge-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1824903wpp/2-rough-moments-and-2-that-softened-the-blow-in-the-finale-of-our-universe
 thumbnail: /images/posts/finale-review-our-universe-ends-on-a-bittersweet-note.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

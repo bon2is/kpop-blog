@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825059wpp/illit-announces-april-comeback-date-for-its-me
 thumbnail: /images/posts/illit-announces-april-comeback-date-for-its-me.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

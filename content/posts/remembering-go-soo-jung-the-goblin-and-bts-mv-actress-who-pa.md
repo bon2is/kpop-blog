@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/remembering-go-soo-jung-goblin-bts-mv-actress-passed-away-age-24/
 thumbnail: >-
   /images/posts/remembering-go-soo-jung-the-goblin-and-bts-mv-actress-who-pa.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

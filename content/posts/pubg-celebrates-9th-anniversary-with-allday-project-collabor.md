@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822236wpp/watch-pubg-announces-collab-with-allday-project-for-9th-anniversary
 thumbnail: >-
   /images/posts/pubg-celebrates-9th-anniversary-with-allday-project-collabor.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

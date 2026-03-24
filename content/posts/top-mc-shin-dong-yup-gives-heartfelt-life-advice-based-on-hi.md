@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/shin-dong-yup-gives-heartfelt-life-advice-past-experience/
 thumbnail: >-
   /images/posts/top-mc-shin-dong-yup-gives-heartfelt-life-advice-based-on-hi.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

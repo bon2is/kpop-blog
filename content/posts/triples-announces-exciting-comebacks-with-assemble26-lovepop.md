@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1814735wpp/watch-triples-announces-2-full-group-comebacks-with-assemble26-lovepop-teaser
 thumbnail: >-
   /images/posts/triples-announces-exciting-comebacks-with-assemble26-lovepop.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

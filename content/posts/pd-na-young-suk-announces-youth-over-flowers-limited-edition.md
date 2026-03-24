@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1821207wpp/pd-na-young-suk-announces-youth-over-flowers-limited-edition-with-park-seo-joon-jung-yu-mi-and-choi-woo-shik
 thumbnail: >-
   /images/posts/pd-na-young-suk-announces-youth-over-flowers-limited-edition.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

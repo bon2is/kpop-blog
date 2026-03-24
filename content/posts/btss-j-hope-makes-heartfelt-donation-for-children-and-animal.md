@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820047wpp/btss-j-hope-makes-heartfelt-donation-for-children-and-animals-on-his-birthday
 thumbnail: >-
   /images/posts/btss-j-hope-makes-heartfelt-donation-for-children-and-animal.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

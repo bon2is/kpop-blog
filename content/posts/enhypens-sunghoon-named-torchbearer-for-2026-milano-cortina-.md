@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1814455wpp/enhypens-sunghoon-named-torchbearer-for-2026-milano-cortina-winter-olympics
 thumbnail: >-
   /images/posts/enhypens-sunghoon-named-torchbearer-for-2026-milano-cortina-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

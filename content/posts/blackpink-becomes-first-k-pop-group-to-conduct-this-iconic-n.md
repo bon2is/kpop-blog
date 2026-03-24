@@ -54,7 +54,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/blackpink-iconic-collab-national-museum/'
 thumbnail: >-
   /images/posts/blackpink-becomes-first-k-pop-group-to-conduct-this-iconic-n.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

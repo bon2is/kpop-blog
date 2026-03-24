@@ -44,7 +44,7 @@ updatedAt: '2026-02-14T11:12:57.634Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/disband-billboard-article-bts-sparks-fury/'
 thumbnail: /images/posts/disbanding-billboards-new-article-about-bts-sparks-fury.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

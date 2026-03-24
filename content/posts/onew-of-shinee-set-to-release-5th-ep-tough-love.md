@@ -36,7 +36,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1816652wpp/watch-shinees-onew-announces-comeback-date-for-5th-ep-tough-love
 thumbnail: /images/posts/onew-of-shinee-set-to-release-5th-ep-tough-love.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

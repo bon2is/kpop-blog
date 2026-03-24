@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819871wpp/shin-hae-sun-lee-jun-hyuk-and-cast-highlight-meticulous-character-work-on-set-of-the-art-of-sarah
 thumbnail: >-
   /images/posts/shin-hae-sun-lee-jun-hyuk-and-cast-highlight-meticulous-char.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816425wpp/seventeens-dont-wanna-cry-becomes-their-1st-mv-to-hit-300-million-views
 thumbnail: >-
   /images/posts/seventeens-dont-wanna-cry-becomes-their-1st-mv-to-hit-300-mi.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

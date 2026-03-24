@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bts-slammed-unrecognisable-in-first-group-selfie-in-months/
 thumbnail: >-
   /images/posts/bts-slammed-as-unrecognisable-in-first-group-selfie-in-month.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

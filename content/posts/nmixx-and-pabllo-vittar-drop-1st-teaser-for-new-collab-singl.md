@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819753wpp/nmixx-and-pabllo-vittar-drop-1st-teaser-for-new-collab-tic-tic
 thumbnail: >-
   /images/posts/nmixx-and-pabllo-vittar-drop-1st-teaser-for-new-collab-singl.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

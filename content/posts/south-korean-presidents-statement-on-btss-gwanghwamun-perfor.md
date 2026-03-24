@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/lee-jae-myung-personally-speaks-bts-performance-triggers-backlash/
 thumbnail: >-
   /images/posts/south-korean-presidents-statement-on-btss-gwanghwamun-perfor.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

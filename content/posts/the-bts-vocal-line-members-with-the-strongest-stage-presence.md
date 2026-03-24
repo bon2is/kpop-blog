@@ -29,7 +29,7 @@ updatedAt: '2026-01-10T18:33:49.269Z'
 source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/lists/bts-member-strongest-stage-presence-vocal-line-jimin-v-jungkook-jin-poll/
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 thumbnail: >-
   /images/posts/the-bts-vocal-line-members-with-the-strongest-stage-presence.webp

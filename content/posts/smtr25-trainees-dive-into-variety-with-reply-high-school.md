@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1814960wpp/watch-smtr25-trainees-get-their-first-taste-of-variety-with-help-from-super-junior-and-tvxqs-changmin-in-reply-high-school
 thumbnail: /images/posts/smtr25-trainees-dive-into-variety-with-reply-high-school.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

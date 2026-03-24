@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1826026wpp/bae-sung-woo-jung-ga-ram-esom-and-more-get-entangled-in-two-suspect-murder-case-in-new-film-the-ultimate-duo
 thumbnail: /images/posts/the-ultimate-duo-a-gripping-murder-mystery-unfolds.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

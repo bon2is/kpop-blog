@@ -49,7 +49,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821864wpp/red-velvets-irene-to-make-1st-ever-solo-comeback-in-march
 thumbnail: /images/posts/red-velvets-irene-to-make-1st-ever-solo-comeback-in-march.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

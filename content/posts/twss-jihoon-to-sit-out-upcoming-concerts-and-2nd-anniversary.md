@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813837wpp/twss-jihoon-to-sit-out-upcoming-concerts-and-2nd-anniversary-live
 thumbnail: >-
   /images/posts/twss-jihoon-to-sit-out-upcoming-concerts-and-2nd-anniversary.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

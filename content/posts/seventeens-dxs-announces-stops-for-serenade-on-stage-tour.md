@@ -50,7 +50,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1820825wpp/seventeens-dxs-announces-stops-for-serenade-on-stage-tour
 thumbnail: /images/posts/seventeens-dxs-announces-stops-for-serenade-on-stage-tour.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

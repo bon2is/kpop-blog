@@ -37,7 +37,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/winner-kang-seungyoon-reallyreally-hit-song-copyright-royalty-income/
 thumbnail: /images/posts/k-pop-idol-reveals-earnings-from-hit-songs.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -55,7 +55,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820260wpp/blackpinks-rose-and-huntr-x-take-no-1-and-no-2-on-ifpis-global-single-chart-for-2025
 thumbnail: >-
   /images/posts/blackpinks-ros-and-huntrx-take-no-1-and-no-2-on-ifpis-global.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

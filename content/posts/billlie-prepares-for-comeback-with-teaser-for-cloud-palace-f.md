@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813052wpp/listen-billlie-drops-teaser-for-pre-release-single-cloud-palace-false-awakening
 thumbnail: >-
   /images/posts/billlie-prepares-for-comeback-with-teaser-for-cloud-palace-f.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

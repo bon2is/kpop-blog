@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825114wpp/watch-yena-itzys-chaeryeong-and-lee-chae-yeon-dance-to-ive-and-izone-in-amazing-saturday-preview
 thumbnail: >-
   /images/posts/yena-itzys-chaeryeong-and-lee-chae-yeon-bring-fun-and-energy.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

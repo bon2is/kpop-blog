@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817721wpp/ji-sung-holds-a-crucial-strategy-meeting-with-allies-as-his-mission-faces-exposure-in-the-judge-returns
 thumbnail: >-
   /images/posts/ji-sung-holds-a-crucial-strategy-meeting-with-allies-as-his-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822364wpp/boa-establishes-her-own-agency-shares-stunning-new-profile-photos
 thumbnail: >-
   /images/posts/boa-establishes-her-own-agency-shares-stunning-new-profile-p.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

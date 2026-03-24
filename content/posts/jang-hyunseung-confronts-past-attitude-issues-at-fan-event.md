@@ -45,7 +45,7 @@ updatedAt: '2026-02-17T11:32:07.355Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/kpop-idol-gets-confronted-poor-attitude/'
 thumbnail: /images/posts/jang-hyunseung-confronts-past-attitude-issues-at-fan-event.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

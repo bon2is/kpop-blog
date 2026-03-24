@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1821238wpp/watch-hearts2hearts-isnt-afraid-to-get-rude-in-flawless-new-dance-practice-video
 thumbnail: >-
   /images/posts/hearts2hearts-isnt-afraid-to-get-rude-in-flawless-new-dance-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

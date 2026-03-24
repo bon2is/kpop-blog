@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825121wpp/stray-kids-txt-seventeen-jennie-huntr-x-tws-illit-and-more-win-at-2026-japan-gold-disc-awards
 thumbnail: /images/posts/k-pop-groups-shine-at-2026-japan-gold-disc-awards.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

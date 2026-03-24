@@ -55,7 +55,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/aqcuaintance-restaurant-owner-jungkook-controversial-live-broadcast/
 thumbnail: >-
   /images/posts/restaurant-owners-acquaintance-exposes-bts-jungkooks-convers.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

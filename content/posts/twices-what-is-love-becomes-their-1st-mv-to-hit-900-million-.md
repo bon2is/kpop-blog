@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818587wpp/twices-what-is-love-becomes-their-1st-mv-to-hit-900-million-views
 thumbnail: >-
   /images/posts/twices-what-is-love-becomes-their-1st-mv-to-hit-900-million-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

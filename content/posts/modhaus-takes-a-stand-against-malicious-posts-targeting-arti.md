@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811198wpp/artms-triples-and-idntts-agency-warns-strong-legal-action-against-malicious-posts
 thumbnail: >-
   /images/posts/modhaus-takes-a-stand-against-malicious-posts-targeting-arti.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

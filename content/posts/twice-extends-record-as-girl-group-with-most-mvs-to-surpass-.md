@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819239wpp/twice-extends-record-as-girl-group-with-most-mvs-to-surpass-100-million-views-with-this-is-for
 thumbnail: >-
   /images/posts/twice-extends-record-as-girl-group-with-most-mvs-to-surpass-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

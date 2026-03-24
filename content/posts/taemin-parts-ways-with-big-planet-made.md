@@ -54,7 +54,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821203wpp/taemin-parts-ways-with-big-planet-made
 thumbnail: /images/posts/taemin-parts-ways-with-big-planet-made.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

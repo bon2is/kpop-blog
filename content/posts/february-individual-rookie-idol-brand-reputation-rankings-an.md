@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818621wpp/february-individual-rookie-idol-brand-reputation-rankings-announced
 thumbnail: >-
   /images/posts/february-individual-rookie-idol-brand-reputation-rankings-an.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

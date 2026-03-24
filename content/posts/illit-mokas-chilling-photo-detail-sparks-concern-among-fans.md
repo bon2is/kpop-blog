@@ -31,7 +31,7 @@ updatedAt: '2026-03-18T15:04:22.033Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/illit-moka-creepy-eyes-background-selfie/'
 thumbnail: /images/posts/illit-mokas-chilling-photo-detail-sparks-concern-among-fans.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

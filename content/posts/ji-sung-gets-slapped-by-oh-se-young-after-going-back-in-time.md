@@ -37,7 +37,7 @@ updatedAt: '2026-01-10T13:53:17.898Z'
 source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811109wpp/ji-sung-gets-slapped-by-oh-se-young-after-going-back-in-time-to-2025-on-the-judge-returns
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 thumbnail: >-
   /images/posts/ji-sung-gets-slapped-by-oh-se-young-after-going-back-in-time.webp

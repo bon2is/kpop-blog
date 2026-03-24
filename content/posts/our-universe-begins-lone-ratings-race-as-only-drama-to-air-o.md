@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817340wpp/our-universe-begins-lone-ratings-race-as-only-drama-to-air-on-wednesday-thursday
 thumbnail: >-
   /images/posts/our-universe-begins-lone-ratings-race-as-only-drama-to-air-o.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

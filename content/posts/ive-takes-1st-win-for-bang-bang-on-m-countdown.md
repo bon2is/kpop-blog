@@ -52,7 +52,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821785wpp/watch-ive-takes-1st-win-for-bang-bang-on-m-countdown-performances-by-nct-jnjm-hearts2hearts-and-more
 thumbnail: /images/posts/ive-takes-1st-win-for-bang-bang-on-m-countdown.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

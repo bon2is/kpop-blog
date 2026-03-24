@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822039wpp/btss-agency-clarifies-rumors-about-upcoming-gwanghwamun-comeback-performance
 thumbnail: >-
   /images/posts/btss-agency-clarifies-rumors-about-upcoming-gwanghwamun-come.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

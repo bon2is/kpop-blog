@@ -57,7 +57,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/itzy-yeji-begs-fans-believe-isnt-eating-much-triggers-massive-reactions/
 thumbnail: >-
   /images/posts/popular-female-idol-gets-called-out-for-eating-too-much-trig.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

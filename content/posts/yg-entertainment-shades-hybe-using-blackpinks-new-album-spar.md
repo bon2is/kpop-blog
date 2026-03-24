@@ -57,7 +57,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/yg-entertainment-shades-hybe-using-blackpinks-new-album-sparking-hot-reactions/
 thumbnail: >-
   /images/posts/yg-entertainment-shades-hybe-using-blackpinks-new-album-spar.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

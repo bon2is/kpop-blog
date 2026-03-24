@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811091wpp/cho-han-gyul-dishes-on-his-character-in-upcoming-drama-undercover-miss-hong
 thumbnail: >-
   /images/posts/cho-han-gyul-dishes-on-his-character-in-upcoming-drama-under.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -52,7 +52,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1822866wpp/watch-ive-takes-1st-win-for-blackhole-on-show-champion-performances-by-one-pact-madein-and-more
 thumbnail: /images/posts/ive-takes-1st-win-for-blackhole-on-show-champion.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

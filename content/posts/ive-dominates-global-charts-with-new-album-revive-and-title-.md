@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1821264wpp/ive-tops-youtube-and-itunes-charts-worldwide-with-blackhole-and-revive
 thumbnail: >-
   /images/posts/ive-dominates-global-charts-with-new-album-revive-and-title-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

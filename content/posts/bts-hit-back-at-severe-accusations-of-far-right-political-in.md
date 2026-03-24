@@ -33,7 +33,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bts-hit-back-severe-accusations-far-right-political-involvement/
 thumbnail: >-
   /images/posts/bts-hit-back-at-severe-accusations-of-far-right-political-in.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -60,7 +60,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bts-album-arirang-criticism-diplo-comments-controversial/
 thumbnail: >-
   /images/posts/bts-and-their-upcoming-arirang-album-hit-with-criticism-foll.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

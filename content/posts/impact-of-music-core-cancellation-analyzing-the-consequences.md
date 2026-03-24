@@ -52,7 +52,7 @@ source: Soompi
 sourceUrl: 'https://www.soompi.com/article/1819079wpp/music-core-to-not-air-next-week'
 thumbnail: >-
   /images/posts/impact-of-music-core-cancellation-analyzing-the-consequences.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

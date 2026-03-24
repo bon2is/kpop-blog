@@ -47,7 +47,7 @@ updatedAt: '2026-02-22T03:31:50.828Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/som-hyein-came-bisexual-gets-married-actor/'
 thumbnail: /images/posts/female-idol-who-came-out-as-bisexual-makes-shocking-update.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

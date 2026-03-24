@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820468wpp/blackpink-becomes-1st-artist-in-youtube-history-to-surpass-100-million-subscribers
 thumbnail: >-
   /images/posts/blackpink-becomes-1st-artist-in-youtube-history-to-surpass-1.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

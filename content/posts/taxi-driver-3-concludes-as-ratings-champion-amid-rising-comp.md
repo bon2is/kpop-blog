@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811450wpp/taxi-driver-3-ends-on-no-1-ratings-as-to-my-beloved-thief-soars-to-new-high
 thumbnail: >-
   /images/posts/taxi-driver-3-concludes-as-ratings-champion-amid-rising-comp.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

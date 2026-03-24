@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bae173-hangyul-leaves-third-debut-group-pocketdol-studio/
 thumbnail: >-
   /images/posts/k-pop-idol-from-4-survival-shows-and-4-debut-groups-pens-emo.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

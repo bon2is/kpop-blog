@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/blackpink-new-official-group-photos-stir-major-negativity/
 thumbnail: >-
   /images/posts/blackpinks-new-official-group-photos-stir-up-major-negativit.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

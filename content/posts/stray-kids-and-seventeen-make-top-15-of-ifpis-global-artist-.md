@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820005wpp/stray-kids-and-seventeen-make-top-20-of-ifpis-global-artist-chart-for-2025
 thumbnail: >-
   /images/posts/stray-kids-and-seventeen-make-top-15-of-ifpis-global-artist-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -34,7 +34,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825538wpp/ju-ji-hoon-and-ha-ji-wons-relationship-begins-to-fracture-in-climax
 thumbnail: >-
   /images/posts/ju-ji-hoon-and-ha-ji-wons-relationship-begins-to-fracture-in.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

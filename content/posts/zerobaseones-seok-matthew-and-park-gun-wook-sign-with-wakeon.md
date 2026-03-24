@@ -43,7 +43,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818076wpp/zerobaseones-seok-matthew-and-park-gun-wook-sign-with-wakeone
 thumbnail: >-
   /images/posts/zerobaseones-seok-matthew-and-park-gun-wook-sign-with-wakeon.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

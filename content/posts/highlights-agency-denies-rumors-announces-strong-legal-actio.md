@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820720wpp/highlights-agency-denies-rumors-announces-strong-legal-action
 thumbnail: >-
   /images/posts/highlights-agency-denies-rumors-announces-strong-legal-actio.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

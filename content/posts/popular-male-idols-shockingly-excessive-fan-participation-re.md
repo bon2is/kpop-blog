@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/popular-male-idol-kim-gyuvin-participation-requirements-shocking/
 thumbnail: >-
   /images/posts/popular-male-idols-shockingly-excessive-fan-participation-re.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

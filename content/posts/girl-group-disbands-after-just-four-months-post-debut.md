@@ -32,7 +32,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/asia/dorothydrop-disbandment-girl-group-disbanding-2026/
 thumbnail: /images/posts/girl-group-disbands-after-just-four-months-post-debut.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

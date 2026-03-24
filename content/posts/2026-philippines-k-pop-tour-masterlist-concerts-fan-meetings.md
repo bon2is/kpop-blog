@@ -48,7 +48,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818491wpp/2026-philippines-k-pop-tour-masterlist-concerts-fan-meetings-and-more
 thumbnail: >-
   /images/posts/2026-philippines-k-pop-tour-masterlist-concerts-fan-meetings.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

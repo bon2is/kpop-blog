@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822210wpp/kickflips-amaru-to-sit-out-upcoming-album-promotions-due-to-health
 thumbnail: >-
   /images/posts/kickflips-amaru-to-sit-out-upcoming-album-promotions-due-to-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

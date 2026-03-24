@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/katseye-manon-hiatus-statement-contradicting-label/
 thumbnail: >-
   /images/posts/katseyes-manon-goes-on-hiatus-puts-out-statement-contradicti.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

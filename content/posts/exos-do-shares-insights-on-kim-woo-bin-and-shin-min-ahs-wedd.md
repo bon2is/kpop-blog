@@ -37,7 +37,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/exo-do-doh-kyungsoo-reveals-behind-scenes-stories-kim-woo-bin-shin-min-ah-wedding/
 thumbnail: >-
   /images/posts/exos-do-shares-insights-on-kim-woo-bin-and-shin-min-ahs-wedd.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

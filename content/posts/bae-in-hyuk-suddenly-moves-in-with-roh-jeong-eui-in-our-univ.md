@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816815wpp/bae-in-hyuk-suddenly-moves-in-with-roh-jeong-eui-in-our-universe
 thumbnail: >-
   /images/posts/bae-in-hyuk-suddenly-moves-in-with-roh-jeong-eui-in-our-univ.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

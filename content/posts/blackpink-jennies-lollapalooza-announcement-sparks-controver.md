@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/blackpink-jennie-lollapalooza-announcement-negative-reactions/
 thumbnail: >-
   /images/posts/blackpink-jennies-lollapalooza-announcement-sparks-controver.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

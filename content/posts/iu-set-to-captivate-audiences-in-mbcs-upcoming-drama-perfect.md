@@ -33,7 +33,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825839wpp/iu-talks-about-why-she-chose-to-star-in-perfect-crown-her-unique-character-and-reasons-to-anticipate-the-drama
 thumbnail: >-
   /images/posts/iu-set-to-captivate-audiences-in-mbcs-upcoming-drama-perfect.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

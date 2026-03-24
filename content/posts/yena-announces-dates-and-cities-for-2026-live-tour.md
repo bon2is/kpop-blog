@@ -47,7 +47,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1822600wpp/yena-announces-dates-and-cities-for-2026-live-tour
 thumbnail: /images/posts/yena-announces-dates-and-cities-for-2026-live-tour.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -31,7 +31,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825298wpp/park-ji-hoon-announces-2026-fan-meeting-in-seoul
 thumbnail: /images/posts/park-ji-hoon-announces-2026-fan-meeting-in-seoul.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

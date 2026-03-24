@@ -46,7 +46,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1822093wpp/watch-blackpinks-rose-becomes-1st-k-pop-artist-ever-to-win-a-brit-award
 thumbnail: /images/posts/blackpinks-ros-makes-history-at-brit-awards.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

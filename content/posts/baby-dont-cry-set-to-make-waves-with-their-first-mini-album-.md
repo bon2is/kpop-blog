@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822512wpp/watch-baby-dont-cry-announces-comeback-with-trailer-for-1st-mini-album-after-cry
 thumbnail: >-
   /images/posts/baby-dont-cry-set-to-make-waves-with-their-first-mini-album-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

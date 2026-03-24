@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820955wpp/the-kings-warden-surpasses-6-million-moviegoers-in-just-20-days
 thumbnail: >-
   /images/posts/the-kings-warden-surpasses-6-million-moviegoers-in-just-20-d.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

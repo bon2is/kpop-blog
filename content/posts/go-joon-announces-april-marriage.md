@@ -29,7 +29,7 @@ updatedAt: '2026-03-18T12:13:11.278Z'
 source: Soompi
 sourceUrl: 'https://www.soompi.com/article/1825961wpp/go-joon-announces-april-marriage'
 thumbnail: /images/posts/go-joon-announces-april-marriage.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

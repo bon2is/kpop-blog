@@ -49,7 +49,7 @@ updatedAt: '2026-02-22T11:12:35.462Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/nct-haechan-spills-secrets-perfect-skin/'
 thumbnail: /images/posts/nct-member-spills-all-the-beauty-secrets-for-flawless-skin.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

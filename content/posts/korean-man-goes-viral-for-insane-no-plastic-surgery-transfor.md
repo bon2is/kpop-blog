@@ -32,7 +32,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/korean-man-goes-viral-insane-no-plastic-surgery-transformation/
 thumbnail: >-
   /images/posts/korean-man-goes-viral-for-insane-no-plastic-surgery-transfor.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

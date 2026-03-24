@@ -33,7 +33,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817213wpp/katseye-hits-no-1-on-uks-official-charts-for-1st-time-with-gabriela
 thumbnail: >-
   /images/posts/katseye-hits-no-1-on-uks-official-charts-for-1st-time-with-g.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

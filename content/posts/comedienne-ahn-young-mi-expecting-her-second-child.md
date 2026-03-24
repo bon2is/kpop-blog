@@ -31,7 +31,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1816633wpp/comedienne-ahn-young-mi-expecting-her-second-child
 thumbnail: /images/posts/comedienne-ahn-young-mi-expecting-her-second-child.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

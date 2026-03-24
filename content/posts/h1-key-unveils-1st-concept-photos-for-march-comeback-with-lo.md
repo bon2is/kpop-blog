@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819559wpp/h1-key-unveils-1st-concept-photos-for-march-comeback-with-lovechapter
 thumbnail: >-
   /images/posts/h1-key-unveils-1st-concept-photos-for-march-comeback-with-lo.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

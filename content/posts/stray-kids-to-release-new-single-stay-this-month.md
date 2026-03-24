@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825667wpp/stray-kids-to-release-new-single-stay-this-month
 thumbnail: /images/posts/stray-kids-to-release-new-single-stay-this-month.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

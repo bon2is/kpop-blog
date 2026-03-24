@@ -54,7 +54,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/hybe-group-unreleased-cortis-song-criticism/'
 thumbnail: >-
   /images/posts/hybe-groups-unreleased-song-performance-at-global-event-hit-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

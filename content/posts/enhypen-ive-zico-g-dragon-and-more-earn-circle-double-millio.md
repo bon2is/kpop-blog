@@ -57,7 +57,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819815wpp/enhypen-ive-zico-g-dragon-and-more-earn-circle-double-million-and-platinum-certifications
 thumbnail: >-
   /images/posts/enhypen-ive-zico-g-dragon-and-more-earn-circle-double-millio.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

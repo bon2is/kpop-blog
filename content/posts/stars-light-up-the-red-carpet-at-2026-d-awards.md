@@ -46,7 +46,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818852wpp/stars-light-up-the-red-carpet-at-2026-d-awards
 thumbnail: /images/posts/stars-light-up-the-red-carpet-at-2026-d-awards.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -37,7 +37,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816455wpp/blackpinks-as-if-its-your-last-becomes-their-5th-official-video-to-surpass-1-5-billion-views
 thumbnail: >-
   /images/posts/blackpink-achieves-another-milestone-with-as-if-its-your-las.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817675wpp/5-turns-of-events-in-the-premiere-of-our-universe-that-change-everything
 thumbnail: >-
   /images/posts/5-turns-of-events-in-the-premiere-of-our-universe-that-chang.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

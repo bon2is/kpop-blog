@@ -1,18 +1,42 @@
 ---
-title: "Hearts2Hearts Achieves Third Win with 'RUDE!' on M Countdown"
-excerpt: "Hearts2Hearts takes home their third music show trophy for 'RUDE!' on M Countdown, beating out BLACKPINK's 'GO'"
-summary: "Hearts2Hearts won their third music show trophy for 'RUDE!' on the March 19 episode of M Countdown with a total of 8,136 points, surpassing BLACKPINK's 'GO'. This win marks a significant milestone in their career, showcasing their growing popularity. The episode also featured performances by ITZY, AB6IX, and more."
-commentary: "The win of Hearts2Hearts with 'RUDE!' on M Countdown is significant because it highlights the group's ability to compete with more established acts like BLACKPINK. \n\n This achievement is a testament to the changing landscape of the K-Pop industry, where newer groups are gaining traction and challenging the status quo. \n\n For fans of Hearts2Hearts, this win is a thrilling moment that validates their support and enthusiasm for the group. \n\n The victory also sets the stage for Hearts2Hearts' future endeavors, potentially paving the way for more awards and recognition in the industry."
-originalTitle: "Watch: Hearts2Hearts Takes 3rd Win For “RUDE!” On “M Countdown”; Performances By ITZY, AB6IX, And More"
-category: "drama"
-tags: ["BLACKPINK","ITZY","Awards","Hearts2Hearts","M Countdown"]
-publishedAt: "2026-03-19T12:20:34.000Z"
-updatedAt: "2026-03-19T14:47:07.744Z"
-source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1826437wpp/watch-hearts2hearts-takes-3rd-win-for-rude-on-m-countdown-performances-by-itzy-ab6ix-and-more"
-thumbnail: "/images/posts/hearts2hearts-achieves-third-win-with-rude-on-m-countdown.webp"
+title: Hearts2Hearts Achieves Third Win with 'RUDE!' on M Countdown
+excerpt: >-
+  Hearts2Hearts takes home their third music show trophy for 'RUDE!' on M
+  Countdown, beating out BLACKPINK's 'GO'
+summary: >-
+  Hearts2Hearts won their third music show trophy for 'RUDE!' on the March 19
+  episode of M Countdown with a total of 8,136 points, surpassing BLACKPINK's
+  'GO'. This win marks a significant milestone in their career, showcasing their
+  growing popularity. The episode also featured performances by ITZY, AB6IX, and
+  more.
+commentary: >-
+  The win of Hearts2Hearts with 'RUDE!' on M Countdown is significant because it
+  highlights the group's ability to compete with more established acts like
+  BLACKPINK. 
+
+   This achievement is a testament to the changing landscape of the K-Pop industry, where newer groups are gaining traction and challenging the status quo. 
+
+   For fans of Hearts2Hearts, this win is a thrilling moment that validates their support and enthusiasm for the group. 
+
+   The victory also sets the stage for Hearts2Hearts' future endeavors, potentially paving the way for more awards and recognition in the industry.
+originalTitle: >-
+  Watch: Hearts2Hearts Takes 3rd Win For “RUDE!” On “M Countdown”; Performances
+  By ITZY, AB6IX, And More
+category: drama
+tags:
+  - BLACKPINK
+  - ITZY
+  - Awards
+  - Hearts2Hearts
+  - M Countdown
+publishedAt: '2026-03-19T12:20:34.000Z'
+updatedAt: '2026-03-19T14:47:07.744Z'
+source: Soompi
+sourceUrl: >-
+  https://www.soompi.com/article/1826437wpp/watch-hearts2hearts-takes-3rd-win-for-rude-on-m-countdown-performances-by-itzy-ab6ix-and-more
+thumbnail: /images/posts/hearts2hearts-achieves-third-win-with-rude-on-m-countdown.webp
 isAIGenerated: true
-author: "KPOP Daily"
+author: KPOP Daily
 ---
 
 Hearts2Hearts won their third music show trophy for 'RUDE!' on the March 19 episode of M Countdown with a total of 8,136 points, surpassing BLACKPINK's 'GO'. This win marks a significant milestone in their career, showcasing their growing popularity. The episode also featured performances by ITZY, AB6IX, and more.

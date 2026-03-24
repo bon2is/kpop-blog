@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825661wpp/jennie-aespa-i-dle-and-cortis-to-perform-at-lollapalooza-2026
 thumbnail: >-
   /images/posts/k-pop-takes-center-stage-jennie-aespa-i-dle-and-cortis-to-pe.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

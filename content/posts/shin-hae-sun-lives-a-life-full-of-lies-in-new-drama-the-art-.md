@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811940wpp/watch-shin-hae-sun-lives-a-life-full-of-lies-as-lee-jun-hyuk-chases-her-down-in-new-drama-the-art-of-sarah-teaser
 thumbnail: >-
   /images/posts/shin-hae-sun-lives-a-life-full-of-lies-in-new-drama-the-art-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

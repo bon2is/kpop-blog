@@ -49,7 +49,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818582wpp/ive-reveals-comeback-schedule-for-new-album-revive-and-title-track-blackhole
 thumbnail: /images/posts/ive-unveils-track-list-for-anticipated-album-revive.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -42,7 +42,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/bts-blackpink-comeback-plans-major-accusation/'
 thumbnail: >-
   /images/posts/blackpinks-comeback-plans-spark-major-accusations-involving-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816916wpp/huntr-xs-singing-voices-to-perform-golden-at-2026-bafta-film-awards
 thumbnail: >-
   /images/posts/huntrxs-singing-voices-to-perform-golden-at-2026-bafta-film-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

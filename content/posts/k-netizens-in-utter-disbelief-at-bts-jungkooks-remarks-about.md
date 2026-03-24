@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bts-jungkook-huge-backlash-k-netizens-talking-smoking/
 thumbnail: >-
   /images/posts/k-netizens-in-utter-disbelief-at-bts-jungkooks-remarks-about.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

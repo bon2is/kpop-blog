@@ -55,7 +55,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819823wpp/ateez-enhypen-hwasa-car-the-garden-and-illit-earn-double-crowns-on-circle-monthly-and-weekly-charts
 thumbnail: >-
   /images/posts/ateez-enhypen-hwasa-and-car-the-garden-achieve-double-crowns.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

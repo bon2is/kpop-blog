@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/another-lie-exposed-blackpink-jennie-chanel-ambassadorship-faces-questions/
 thumbnail: >-
   /images/posts/another-lie-exposed-blackpink-jennies-chanel-ambassadorship-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

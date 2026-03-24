@@ -34,7 +34,7 @@ updatedAt: '2026-02-03T11:26:09.179Z'
 source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/bts-suga-allegedly-solo-music-video-filming-divided-reaction/
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 thumbnail: >-
   /images/posts/btss-suga-allegedly-filming-solo-music-video-triggers-divide.webp

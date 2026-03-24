@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1814557wpp/choi-jin-hyuk-sacrifices-sleep-to-take-care-of-oh-yeon-seo-in-positively-yours
 thumbnail: >-
   /images/posts/choi-jin-hyuk-sacrifices-sleep-to-take-care-of-oh-yeon-seo-i.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

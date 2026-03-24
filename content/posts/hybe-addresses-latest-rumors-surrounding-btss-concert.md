@@ -47,7 +47,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/hybe-addresses-latest-rumors-surrounding-bts-concert/
 thumbnail: /images/posts/hybe-addresses-latest-rumors-surrounding-btss-concert.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

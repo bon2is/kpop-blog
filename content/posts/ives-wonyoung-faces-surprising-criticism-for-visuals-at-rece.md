@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/ive-wonyoung-press-con-showcase-revive-netizen-reaction/
 thumbnail: >-
   /images/posts/ives-wonyoung-faces-surprising-criticism-for-visuals-at-rece.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

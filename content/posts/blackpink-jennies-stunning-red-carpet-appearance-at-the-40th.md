@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/blackpink-jennie-red-carpet-look-golden-disc-awards/
 thumbnail: >-
   /images/posts/blackpink-jennies-stunning-red-carpet-appearance-at-the-40th.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

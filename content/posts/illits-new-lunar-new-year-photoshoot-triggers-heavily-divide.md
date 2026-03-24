@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/illits-new-lunar-new-year-photoshoot-triggers-heavily-divided-reactions/
 thumbnail: >-
   /images/posts/illits-new-lunar-new-year-photoshoot-triggers-heavily-divide.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

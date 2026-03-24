@@ -55,7 +55,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819590wpp/ateez-achieves-their-biggest-u-s-week-yet-as-golden-hour-part-4-debuts-on-billboard-200
 thumbnail: >-
   /images/posts/ateez-achieves-their-biggest-us-week-yet-as-golden-hour-part.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

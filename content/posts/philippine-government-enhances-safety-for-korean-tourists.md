@@ -53,7 +53,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/philippine-government-takes-action-strengthen-safety-korean-tourists/
 thumbnail: /images/posts/philippine-government-enhances-safety-for-korean-tourists.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

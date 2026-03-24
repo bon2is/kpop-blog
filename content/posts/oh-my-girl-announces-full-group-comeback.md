@@ -51,7 +51,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1819341wpp/oh-my-girl-announces-full-group-comeback
 thumbnail: /images/posts/oh-my-girl-announces-full-group-comeback.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

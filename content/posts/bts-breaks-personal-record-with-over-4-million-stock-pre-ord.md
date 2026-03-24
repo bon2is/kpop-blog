@@ -42,7 +42,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1814387wpp/bts-breaks-personal-record-with-over-4-million-stock-pre-orders-for-upcoming-album-arirang
 thumbnail: >-
   /images/posts/bts-breaks-personal-record-with-over-4-million-stock-pre-ord.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

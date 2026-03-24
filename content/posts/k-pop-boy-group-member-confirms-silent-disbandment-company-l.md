@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/kpop-boy-group-member-confirms-silent-disbandment-company-left-zero-artists-xonik-xeed/
 thumbnail: >-
   /images/posts/k-pop-boy-group-member-confirms-silent-disbandment-company-l.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

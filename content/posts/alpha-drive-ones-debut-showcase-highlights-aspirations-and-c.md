@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811739wpp/exclusive-alpha-drive-one-talks-survival-show-debut-hopes-for-the-future-and-more-at-euphoria-debut-showcase
 thumbnail: >-
   /images/posts/alpha-drive-ones-debut-showcase-highlights-aspirations-and-c.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

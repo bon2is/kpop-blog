@@ -56,7 +56,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818616wpp/ateezs-golden-hour-part-4-becomes-their-5th-album-to-sell-1-million-copies-in-1st-week
 thumbnail: >-
   /images/posts/ateezs-golden-hour-part4-becomes-their-5th-album-to-sell-1-m.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

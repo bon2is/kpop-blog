@@ -37,7 +37,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816906wpp/choi-sung-eun-is-a-passionate-yet-error-prone-newbie-who-finds-growth-through-boss-yeom-hye-ran-in-new-film
 thumbnail: >-
   /images/posts/choi-sung-eun-is-a-passionate-yet-error-prone-newbie-who-fin.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

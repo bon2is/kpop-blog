@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811243wpp/watch-say-my-name-takes-1st-ever-win-on-music-bank-with-ufo-attenton-performances-by-chuu-apink-and-more
 thumbnail: /images/posts/say-my-name-celebrates-first-win-on-music-bank.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

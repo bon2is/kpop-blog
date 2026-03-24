@@ -37,7 +37,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/bts-jungkook-aespa-winter-favorite-date-spot-exposed-proof-sparks-heated-debate/
 thumbnail: /images/posts/bts-jungkook-and-aespa-winters-secret-date-spot-revealed.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

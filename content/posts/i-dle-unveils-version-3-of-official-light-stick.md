@@ -48,7 +48,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818447wpp/i-dle-reveals-version-3-of-official-light-stick
 thumbnail: /images/posts/i-dle-unveils-version-3-of-official-light-stick.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

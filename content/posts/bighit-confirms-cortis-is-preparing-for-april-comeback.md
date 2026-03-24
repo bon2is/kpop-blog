@@ -49,7 +49,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818625wpp/bighit-confirms-cortis-is-preparing-for-april-comeback
 thumbnail: /images/posts/bighit-confirms-cortis-is-preparing-for-april-comeback.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1815285wpp/seventeens-dxs-dk-x-seungkwan-debuts-on-billboard-200
 thumbnail: /images/posts/seventeens-dxs-dk-x-seungkwan-debuts-on-billboard-200.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

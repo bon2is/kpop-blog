@@ -50,7 +50,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1820515wpp/wjsn-to-return-with-10th-anniversary-single-bloom-hour
 thumbnail: /images/posts/wjsn-to-return-with-10th-anniversary-single-bloom-hour.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

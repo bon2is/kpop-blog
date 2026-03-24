@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822685wpp/jun-so-min-and-kim-doyeon-are-all-smiles-in-first-poster-for-new-film-18-youth
 thumbnail: >-
   /images/posts/jun-so-min-and-kim-doyeon-are-all-smiles-in-first-poster-for.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

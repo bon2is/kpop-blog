@@ -37,7 +37,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817884wpp/watch-ateez-delivers-an-adrenaline-rush-in-intense-dance-practice-video
 thumbnail: >-
   /images/posts/ateez-delivers-an-adrenaline-rush-in-intense-dance-practice-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

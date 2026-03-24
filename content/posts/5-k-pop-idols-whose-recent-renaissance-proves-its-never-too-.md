@@ -58,7 +58,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819053wpp/5-k-pop-idols-whose-recent-renaissance-proves-its-never-too-late-to-find-your-it-girl-era
 thumbnail: >-
   /images/posts/5-k-pop-idols-whose-recent-renaissance-proves-its-never-too-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

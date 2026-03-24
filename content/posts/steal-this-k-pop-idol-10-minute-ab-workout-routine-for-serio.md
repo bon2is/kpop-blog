@@ -51,7 +51,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/le-sserafim-kazuha-kpop-idol-ab-workout-routine/'
 thumbnail: >-
   /images/posts/steal-this-k-pop-idol-10-minute-ab-workout-routine-for-serio.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

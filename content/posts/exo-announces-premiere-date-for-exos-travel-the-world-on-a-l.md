@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816490wpp/exo-announces-premiere-date-for-exos-travel-the-world-on-a-ladder-season-5-with-new-poster
 thumbnail: >-
   /images/posts/exo-announces-premiere-date-for-exos-travel-the-world-on-a-l.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

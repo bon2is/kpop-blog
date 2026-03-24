@@ -33,7 +33,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/alpha-drive-ones-first-public-fansign-ends-in-utter-chaos-wreckage/
 thumbnail: >-
   /images/posts/alpha-drive-ones-first-public-fansign-ends-in-utter-chaos-an.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

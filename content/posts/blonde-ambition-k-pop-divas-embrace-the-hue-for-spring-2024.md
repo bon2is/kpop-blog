@@ -53,7 +53,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818370wpp/from-balayage-to-barbie-here-are-6-k-pop-divas-that-are-rocking-blonde-this-season
 thumbnail: /images/posts/blonde-ambition-k-pop-divas-embrace-the-hue-for-spring-2024.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819459wpp/oh-yeon-seo-faces-the-decision-of-a-lifetime-in-positively-yours
 thumbnail: >-
   /images/posts/oh-yeon-seo-faces-the-decision-of-a-lifetime-in-positively-y.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812246wpp/stray-kids-cortis-nct-dream-plave-close-your-eyes-itzy-riize-illit-and-more-earn-circle-certifications
 thumbnail: >-
   /images/posts/recent-circle-chart-certifications-highlight-k-pops-continue.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

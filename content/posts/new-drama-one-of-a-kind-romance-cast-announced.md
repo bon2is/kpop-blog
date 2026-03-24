@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817036wpp/kim-hyun-jin-shin-hyun-soo-and-kang-na-eon-confirmed-alongside-red-velvets-joy-for-new-drama
 thumbnail: /images/posts/new-drama-one-of-a-kind-romance-cast-announced.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

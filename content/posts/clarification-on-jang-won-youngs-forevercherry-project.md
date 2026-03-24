@@ -38,7 +38,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1815447wpp/jang-won-youngs-agency-clarifies-rumors-about-her-personal-project-forevercherry
 thumbnail: /images/posts/clarification-on-jang-won-youngs-forevercherry-project.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

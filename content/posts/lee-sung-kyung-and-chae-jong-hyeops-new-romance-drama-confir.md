@@ -42,7 +42,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811930wpp/lee-sung-kyung-and-chae-jong-hyeops-new-romance-drama-confirms-premiere-date-with-glimpse-of-first-script-reading
 thumbnail: >-
   /images/posts/lee-sung-kyung-and-chae-jong-hyeops-new-romance-drama-confir.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

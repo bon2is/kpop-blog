@@ -48,7 +48,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821412wpp/2pms-taecyeons-agency-responds-to-reports-of-april-wedding
 thumbnail: /images/posts/2pms-taecyeons-agency-responds-to-reports-of-april-wedding.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

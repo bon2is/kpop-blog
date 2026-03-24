@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817836wpp/choi-jin-hyuk-nervously-awaits-oh-yeon-seos-response-to-his-confession-in-positively-yours
 thumbnail: >-
   /images/posts/choi-jin-hyuk-nervously-awaits-oh-yeon-seos-response-to-his-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

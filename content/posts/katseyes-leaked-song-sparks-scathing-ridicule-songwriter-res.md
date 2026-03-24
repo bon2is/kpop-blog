@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/katseye-leaked-song-sparks-scathing-ridicule-songwriter-responds/
 thumbnail: >-
   /images/posts/katseyes-leaked-song-sparks-scathing-ridicule-songwriter-res.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819187wpp/4-times-choi-jin-hyuk-and-oh-yeon-seo-got-closer-in-episodes-7-8-of-positively-yours
 thumbnail: >-
   /images/posts/choi-jin-hyuk-and-oh-yeon-seos-growing-romance-in-positively.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

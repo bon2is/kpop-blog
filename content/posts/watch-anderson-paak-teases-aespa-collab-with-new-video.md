@@ -46,7 +46,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1820737wpp/watch-anderson-paak-teases-aespa-collab
 thumbnail: /images/posts/watch-anderson-paak-teases-aespa-collab-with-new-video.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

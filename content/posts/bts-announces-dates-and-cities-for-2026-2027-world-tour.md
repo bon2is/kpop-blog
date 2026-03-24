@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812175wpp/bts-announces-dates-and-cities-for-2026-2027-world-tour
 thumbnail: /images/posts/bts-announces-dates-and-cities-for-2026-2027-world-tour.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

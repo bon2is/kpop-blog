@@ -37,7 +37,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811522wpp/watch-park-shin-hye-runs-into-cho-han-gyul-after-her-youthful-transformation-in-undercover-miss-hong-preview
 thumbnail: >-
   /images/posts/park-shin-hyes-youthful-transformation-in-undercover-miss-ho.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

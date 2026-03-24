@@ -43,7 +43,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/disbandment-update-newjeans-social-media-sparks-speculations/
 thumbnail: >-
   /images/posts/new-social-media-update-regarding-newjeans-stirs-up-speculat.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

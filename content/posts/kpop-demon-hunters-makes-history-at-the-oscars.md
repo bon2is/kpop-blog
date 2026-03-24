@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825139wpp/kpop-demon-hunters-wins-oscar-for-best-animated-feature-film-at-2026-academy-awards
 thumbnail: /images/posts/kpop-demon-hunters-makes-history-at-the-oscars.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

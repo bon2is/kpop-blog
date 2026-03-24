@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818040wpp/i-dle-cortis-car-the-garden-illit-and-huntr-x-top-circle-weekly-charts
 thumbnail: >-
   /images/posts/i-dle-cortis-car-the-garden-illit-and-huntrx-top-circle-week.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

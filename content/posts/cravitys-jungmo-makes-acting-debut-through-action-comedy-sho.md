@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813467wpp/cravitys-jungmo-makes-acting-debut-through-action-comedy-short-form-drama
 thumbnail: >-
   /images/posts/cravitys-jungmo-makes-acting-debut-through-action-comedy-sho.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

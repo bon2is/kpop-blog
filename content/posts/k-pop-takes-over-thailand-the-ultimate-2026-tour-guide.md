@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825520wpp/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a5%e0%b8%b4%e0%b8%aa%e0%b8%95%e0%b9%8c%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b8%a7%e0%b8%a3%e0%b9%8c-k-pop-%e0%b9%83%e0%b8%99%e0%b9%84%e0%b8%97
 thumbnail: /images/posts/k-pop-takes-over-thailand-the-ultimate-2026-tour-guide.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

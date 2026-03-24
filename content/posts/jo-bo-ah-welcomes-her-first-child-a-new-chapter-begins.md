@@ -48,7 +48,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1820414wpp/jo-bo-ah-gives-birth-to-her-first-child
 thumbnail: /images/posts/jo-bo-ah-welcomes-her-first-child-a-new-chapter-begins.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

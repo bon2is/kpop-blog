@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817887wpp/choi-jin-hyuk-and-oh-yeon-seo-begin-a-secret-office-romance-in-positively-yours
 thumbnail: >-
   /images/posts/choi-jin-hyuk-and-oh-yeon-seo-begin-a-secret-office-romance-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

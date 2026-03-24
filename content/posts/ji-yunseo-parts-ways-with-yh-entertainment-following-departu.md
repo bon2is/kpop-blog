@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819359wpp/ji-yunseo-parts-ways-with-yh-entertainment-following-departure-from-evnne
 thumbnail: >-
   /images/posts/ji-yunseo-parts-ways-with-yh-entertainment-following-departu.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

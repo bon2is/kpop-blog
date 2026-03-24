@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811454wpp/watch-alpha-drive-one-faces-off-against-amazing-saturday-cast-in-new-preview
 thumbnail: /images/posts/alpha-drive-one-takes-on-amazing-saturday.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

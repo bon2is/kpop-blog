@@ -48,7 +48,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/bts-gq-interview-sounding-like-ao3-wattpad-fanfiction/
 thumbnail: /images/posts/btss-new-gq-magazine-interview-gets-compared-to-fanfiction.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

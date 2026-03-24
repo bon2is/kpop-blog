@@ -43,7 +43,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821758wpp/golden-childs-joochan-parts-ways-with-woollim-entertainment
 thumbnail: /images/posts/golden-childs-joochan-parts-ways-with-woollim-entertainment.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

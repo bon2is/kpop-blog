@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bts-suga-reaction-korean-media-airport-reactions/
 thumbnail: >-
   /images/posts/bts-sugas-reaction-to-korean-media-at-airport-sparks-major-r.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

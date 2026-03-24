@@ -56,7 +56,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820592wpp/k-pop-artists-sweep-7-of-top-10-spots-on-ifpis-global-album-sales-chart-for-2025
 thumbnail: >-
   /images/posts/k-pop-artists-sweep-7-of-top-10-spots-on-ifpis-global-album-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

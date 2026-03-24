@@ -45,7 +45,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/katseye-daniela-slammed-evidence-allowed-dad-attack-manon/
 thumbnail: >-
   /images/posts/katseyes-daniela-slammed-over-evidence-she-allowed-dad-to-at.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

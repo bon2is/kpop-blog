@@ -36,7 +36,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817204wpp/treasure-earns-new-riaj-platinum-certification-in-japan
 thumbnail: /images/posts/treasure-earns-new-riaj-platinum-certification-in-japan.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

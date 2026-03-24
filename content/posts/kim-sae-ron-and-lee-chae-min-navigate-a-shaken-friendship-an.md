@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811217wpp/kim-sae-ron-and-lee-chae-min-navigate-a-shaken-friendship-and-growing-feelings-in-new-film
 thumbnail: >-
   /images/posts/kim-sae-ron-and-lee-chae-min-navigate-a-shaken-friendship-an.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

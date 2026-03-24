@@ -60,7 +60,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820275wpp/zerobaseone-and-alpha-drive-ones-agency-to-take-strong-legal-action-against-malicious-posts
 thumbnail: >-
   /images/posts/zerobaseone-and-alpha-drive-ones-agency-to-take-strong-legal.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

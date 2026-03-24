@@ -49,7 +49,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821527wpp/5-reasons-why-the-positively-yours-finale-was-perfect
 thumbnail: /images/posts/5-reasons-why-the-positively-yours-finale-was-perfect.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

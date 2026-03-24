@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1813545wpp/exo-tops-itunes-charts-all-over-the-world-with-reverxe
 thumbnail: /images/posts/exo-tops-itunes-charts-all-over-the-world-with-reverxe.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

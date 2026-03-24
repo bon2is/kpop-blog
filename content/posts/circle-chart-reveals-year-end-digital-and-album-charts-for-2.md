@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812104wpp/circle-chart-reveals-year-end-digital-and-album-charts-for-2025
 thumbnail: >-
   /images/posts/circle-chart-reveals-year-end-digital-and-album-charts-for-2.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -52,7 +52,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1820264wpp/our-universe-heads-into-2nd-half-on-ratings-rise
 thumbnail: /images/posts/our-universe-enjoys-ratings-boost-ahead-of-second-half.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

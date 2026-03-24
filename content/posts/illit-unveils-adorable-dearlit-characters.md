@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825655wpp/watch-illit-introduces-official-dearlit-characters
 thumbnail: /images/posts/illit-unveils-adorable-dearlit-characters.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

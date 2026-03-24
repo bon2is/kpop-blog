@@ -51,7 +51,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1819390wpp/watch-ateez-takes-2nd-win-for-adrenaline-on-music-bank-performances-by-ive-tws-and-more
 thumbnail: /images/posts/ateez-celebrates-2nd-win-for-adrenaline-on-music-bank.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

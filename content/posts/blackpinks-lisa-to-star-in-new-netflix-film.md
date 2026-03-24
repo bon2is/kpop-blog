@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817554wpp/blackpinks-lisa-to-star-in-new-netflix-film
 thumbnail: /images/posts/blackpinks-lisa-to-star-in-new-netflix-film.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

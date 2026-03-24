@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825908wpp/park-hae-soo-and-lee-hee-joon-reluctantly-team-up-despite-their-ill-fated-relationship-in-new-drama-the-scarecrow-posters
 thumbnail: >-
   /images/posts/park-hae-soo-and-lee-hee-joon-unite-in-upcoming-drama-the-sc.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

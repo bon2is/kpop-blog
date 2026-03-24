@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1813410wpp/bae-in-hyuk-is-new-to-the-parenting-world-in-new-drama-our-universe
 thumbnail: /images/posts/bae-in-hyuk-takes-on-parenthood-in-new-drama-our-universe.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

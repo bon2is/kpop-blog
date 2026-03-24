@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817023wpp/bae-in-hyuk-and-roh-jeong-eui-share-tense-first-meeting-as-buyer-and-seller-in-our-universe
 thumbnail: >-
   /images/posts/bae-in-hyuk-and-roh-jeong-eui-share-tense-first-meeting-as-b.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

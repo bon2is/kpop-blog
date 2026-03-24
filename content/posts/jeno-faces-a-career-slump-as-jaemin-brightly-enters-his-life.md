@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811145wpp/jeno-faces-a-career-slump-as-jaemin-brightly-enters-his-life-as-a-transfer-student-in-wind-up
 thumbnail: >-
   /images/posts/jeno-faces-a-career-slump-as-jaemin-brightly-enters-his-life.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

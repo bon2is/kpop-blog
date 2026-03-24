@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1813338wpp/shin-hae-sun-is-a-mysterious-woman-of-many-faces-in-the-art-of-sarah
 thumbnail: /images/posts/shin-hae-suns-multifaceted-role-in-the-art-of-sarah.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

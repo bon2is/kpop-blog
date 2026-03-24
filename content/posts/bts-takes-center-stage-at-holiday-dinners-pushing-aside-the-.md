@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bts-takes-center-stage-holiday-dinners-pushing-aside-olympics-politics/
 thumbnail: >-
   /images/posts/bts-takes-center-stage-at-holiday-dinners-pushing-aside-the-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

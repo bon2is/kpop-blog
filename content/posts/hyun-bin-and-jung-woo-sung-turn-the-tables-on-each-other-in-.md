@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812426wpp/hyun-bin-and-jung-woo-sung-turn-the-tables-on-each-other-in-final-showdown-in-made-in-korea
 thumbnail: >-
   /images/posts/hyun-bin-and-jung-woo-sung-turn-the-tables-on-each-other-in-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

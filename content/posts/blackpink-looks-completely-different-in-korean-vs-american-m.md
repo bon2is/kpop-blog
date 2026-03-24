@@ -49,7 +49,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/lists/blackpink-korean-american-style-makeup/'
 thumbnail: >-
   /images/posts/blackpink-looks-completely-different-in-korean-vs-american-m.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

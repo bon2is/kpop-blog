@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825391wpp/monsta-xs-hyungwon-and-ives-rei-to-host-day-1-of-asia-star-entertainer-awards-2026
 thumbnail: >-
   /images/posts/monsta-xs-hyungwon-and-ives-rei-to-host-day-1-of-asia-star-e.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825533wpp/daftar-master-tur-k-pop-di-indonesia-tahun-2026-konser-fan-meetings-dan-lainnya
 thumbnail: >-
   /images/posts/k-pop-takes-indonesia-by-storm-2026-concert-and-fan-meeting-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

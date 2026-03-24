@@ -52,7 +52,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/blackpink-jennie-brutal-ridicule-faking-achievements-ruby-ifpi/
 thumbnail: >-
   /images/posts/blackpinks-jennie-faces-brutal-ridicule-over-supposedly-faki.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822192wpp/watch-billlies-tsuki-reveals-her-home-and-cooking-skills-in-home-alone-preview
 thumbnail: >-
   /images/posts/billlies-tsuki-takes-fans-inside-her-home-in-upcoming-home-a.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817527wpp/watch-i-dle-takes-1st-win-for-mono-on-m-countdown-performances-by-babymonster-cortis-and-more
 thumbnail: /images/posts/i-dle-takes-1st-win-for-mono-on-m-countdown.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

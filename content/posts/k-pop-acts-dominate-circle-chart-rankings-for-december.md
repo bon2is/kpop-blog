@@ -38,7 +38,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812217wpp/hwasa-cortis-doyoung-say-my-name-fromis_9-twice-illit-and-more-top-circle-monthly-and-weekly-charts
 thumbnail: /images/posts/k-pop-acts-dominate-circle-chart-rankings-for-december.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

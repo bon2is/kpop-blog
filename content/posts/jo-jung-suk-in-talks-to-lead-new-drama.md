@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817513wpp/jo-jung-suk-in-talks-to-lead-new-drama
 thumbnail: /images/posts/jo-jung-suk-in-talks-to-lead-new-drama.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

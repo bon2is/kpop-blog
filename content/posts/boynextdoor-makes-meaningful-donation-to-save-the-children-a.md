@@ -50,7 +50,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818577wpp/boynextdoor-makes-meaningful-donation-to-save-the-children-as-part-of-new-campaign
 thumbnail: >-
   /images/posts/boynextdoor-makes-meaningful-donation-to-save-the-children-a.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

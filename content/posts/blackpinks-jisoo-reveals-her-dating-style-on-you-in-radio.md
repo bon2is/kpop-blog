@@ -51,7 +51,7 @@ updatedAt: '2026-02-28T03:06:32.313Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/blackpink-jisoo-dating-style/'
 thumbnail: /images/posts/blackpinks-jisoo-reveals-her-dating-style-on-you-in-radio.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

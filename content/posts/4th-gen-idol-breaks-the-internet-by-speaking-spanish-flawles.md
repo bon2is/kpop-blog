@@ -51,7 +51,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/nmixx-haewon-goes-viral-spanish/'
 thumbnail: >-
   /images/posts/4th-gen-idol-breaks-the-internet-by-speaking-spanish-flawles.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

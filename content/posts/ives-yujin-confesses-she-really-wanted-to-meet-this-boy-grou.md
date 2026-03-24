@@ -44,7 +44,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/reason-ives-yujin-desperately-wanted-meet-boy-group-member/
 thumbnail: >-
   /images/posts/ives-yujin-confesses-she-really-wanted-to-meet-this-boy-grou.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.hellokpop.com/kpop/p1harmony-unique-music-video-preview-and-album-sampler/
 thumbnail: >-
   /images/posts/p1harmony-teases-bold-new-era-with-unique-music-video-previe.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

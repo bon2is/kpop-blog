@@ -49,7 +49,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1821778wpp/the-great-escape-the-story-confirmed-to-return-with-season-2
 thumbnail: /images/posts/the-great-escape-the-story-confirms-season-2-production.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

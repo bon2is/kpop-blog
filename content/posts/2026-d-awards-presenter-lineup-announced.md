@@ -38,7 +38,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1815079wpp/2026-d-awards-announces-presenter-lineup
 thumbnail: /images/posts/2026-d-awards-presenter-lineup-announced.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

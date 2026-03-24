@@ -58,7 +58,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818633wpp/bts-izone-twices-misamo-and-aespas-karina-earn-riaj-platinum-and-gold-certifications-for-streaming-in-japan
 thumbnail: >-
   /images/posts/bts-izone-twices-misamo-and-aespas-karina-earn-riaj-platinum.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

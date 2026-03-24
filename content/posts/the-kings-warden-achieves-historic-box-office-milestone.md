@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825130wpp/the-kings-warden-becomes-koreas-5th-biggest-box-office-hit-of-all-time
 thumbnail: /images/posts/the-kings-warden-achieves-historic-box-office-milestone.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

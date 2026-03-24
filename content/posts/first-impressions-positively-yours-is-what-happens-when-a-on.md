@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1814189wpp/first-impressions-positively-yours-is-what-happens-when-a-one-night-stand-turns-into-love
 thumbnail: >-
   /images/posts/first-impressions-positively-yours-is-what-happens-when-a-on.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

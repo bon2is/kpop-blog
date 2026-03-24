@@ -39,7 +39,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1814768wpp/watch-boynextdoor-announces-release-date-with-teaser-for-live-album-knock-on-vol-1-final-live
 thumbnail: /images/posts/boynextdoor-announces-live-album-release.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

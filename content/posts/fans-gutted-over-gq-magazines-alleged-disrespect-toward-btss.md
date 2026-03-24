@@ -48,7 +48,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/gq-magazine-alleged-disrespect-bts-jimin-jin/'
 thumbnail: >-
   /images/posts/fans-gutted-over-gq-magazines-alleged-disrespect-toward-btss.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

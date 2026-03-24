@@ -37,7 +37,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/min-hee-jin-ooak-boy-group-member-newjeans/'
 thumbnail: >-
   /images/posts/min-hee-jins-new-ooak-boy-group-debut-trailer-seemingly-reve.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -49,7 +49,7 @@ updatedAt: '2026-03-04T11:21:29.153Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/apple-music-description-newjeans-edited/'
 thumbnail: /images/posts/netizens-discover-more-of-hybes-attempts-to-erase-newjeans.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

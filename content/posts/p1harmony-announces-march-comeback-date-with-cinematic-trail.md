@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1821221wpp/watch-p1harmony-announces-march-comeback-date-with-cinematic-trailer-the-hero-is-missing
 thumbnail: >-
   /images/posts/p1harmony-announces-march-comeback-date-with-cinematic-trail.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

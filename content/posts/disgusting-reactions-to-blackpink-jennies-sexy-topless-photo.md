@@ -52,7 +52,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/disgusting-reactions-blackpink-jennies-sexy-topless-photos-triggers-heated-debate/
 thumbnail: >-
   /images/posts/disgusting-reactions-to-blackpink-jennies-sexy-topless-photo.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

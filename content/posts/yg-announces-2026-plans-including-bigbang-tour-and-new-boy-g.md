@@ -45,7 +45,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822560wpp/watch-yg-announces-2026-plans-including-bigbang-tour-and-new-boy-group-debut
 thumbnail: >-
   /images/posts/yg-announces-2026-plans-including-bigbang-tour-and-new-boy-g.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

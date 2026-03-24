@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811128wpp/illits-agency-warns-strong-legal-action-against-invasion-of-privacy
 thumbnail: >-
   /images/posts/illits-agency-warns-strong-legal-action-against-invasion-of-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

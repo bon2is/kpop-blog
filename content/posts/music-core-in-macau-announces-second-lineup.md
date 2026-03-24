@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811781wpp/music-core-in-macau-announces-second-lineup
 thumbnail: /images/posts/music-core-in-macau-announces-second-lineup.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -47,7 +47,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1822953wpp/tws-confirmed-to-make-spring-comeback
 thumbnail: /images/posts/tws-confirmed-to-make-spring-comeback.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

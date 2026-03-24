@@ -30,7 +30,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen
 thumbnail: /images/posts/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

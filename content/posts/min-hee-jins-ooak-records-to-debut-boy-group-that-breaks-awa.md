@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/min-hee-jin-ooak-records-debut-boy-group-breaks-away-conventional-frameworks/
 thumbnail: >-
   /images/posts/min-hee-jins-ooak-records-to-debut-boy-group-that-breaks-awa.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

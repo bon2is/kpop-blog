@@ -43,7 +43,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1819508wpp/watch-performances-from-2026-d-awards
 thumbnail: /images/posts/watch-performances-from-2026-d-awards.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

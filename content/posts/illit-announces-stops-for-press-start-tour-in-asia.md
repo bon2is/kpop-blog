@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1814078wpp/illit-announces-stops-for-press-start%e2%99%a5%ef%b8%8e-tour-in-asia
 thumbnail: /images/posts/illit-announces-stops-for-press-start-tour-in-asia.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

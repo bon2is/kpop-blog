@@ -42,7 +42,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812543wpp/lee-jong-won-shin-ye-eun-and-boynextdoors-jaehyun-confirmed-as-mcs-for-2026-d-awards
 thumbnail: >-
   /images/posts/lee-jong-won-shin-ye-eun-and-boynextdoors-jaehyun-confirmed-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

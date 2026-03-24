@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825066wpp/babymonster-announces-2026-2027-world-tour
 thumbnail: /images/posts/babymonster-announces-2026-2027-world-tour.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

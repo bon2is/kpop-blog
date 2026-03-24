@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/alarming-cctv-footage-newjeans-leaks-hybe-receives-major-flak/
 thumbnail: >-
   /images/posts/alarming-cctv-footage-of-newjeans-leaks-hybe-receives-major-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820465wpp/katseyes-manon-to-take-temporary-hiatus-from-group-activities
 thumbnail: >-
   /images/posts/katseyes-manon-to-take-temporary-hiatus-from-group-activitie.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

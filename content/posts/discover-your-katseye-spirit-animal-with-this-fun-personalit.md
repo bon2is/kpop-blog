@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817878wpp/quiz-take-this-personality-quiz-and-well-tell-you-which-katseye-member-youre-most-like
 thumbnail: >-
   /images/posts/discover-your-katseye-spirit-animal-with-this-fun-personalit.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

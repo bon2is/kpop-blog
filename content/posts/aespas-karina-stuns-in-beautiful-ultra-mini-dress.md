@@ -49,7 +49,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/aespa-karina-stuns-in-beautiful-ultra-mini-dress/
 thumbnail: /images/posts/aespas-karina-stuns-in-beautiful-ultra-mini-dress.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

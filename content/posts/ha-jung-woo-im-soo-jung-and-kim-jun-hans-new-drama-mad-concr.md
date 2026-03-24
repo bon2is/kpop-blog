@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817050wpp/ha-jung-woo-im-soo-jung-kim-jun-han-and-more-impress-at-script-reading-for-new-drama-mad-concrete-dreams
 thumbnail: >-
   /images/posts/ha-jung-woo-im-soo-jung-and-kim-jun-hans-new-drama-mad-concr.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

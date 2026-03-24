@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817191wpp/watch-kiiikiii-takes-1st-win-for-404-new-era-on-show-champion-performances-by-whib-pow-and-more
 thumbnail: /images/posts/kiiikiii-takes-1st-win-for-404-new-era-on-show-champion.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

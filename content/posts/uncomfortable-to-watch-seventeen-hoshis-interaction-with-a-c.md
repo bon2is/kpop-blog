@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/clip-seventeen-hoshi-interaction-child-sparks-fierce-reactions/
 thumbnail: >-
   /images/posts/uncomfortable-to-watch-seventeen-hoshis-interaction-with-a-c.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

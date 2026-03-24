@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822160wpp/watch-itzys-yuna-announces-solo-debut-date-with-trailer-and-schedule-for-ice-cream
 thumbnail: >-
   /images/posts/itzys-yuna-announces-solo-debut-date-with-trailer-and-schedu.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811475wpp/once-we-were-us-becomes-1st-film-of-2026-to-surpass-1-million-moviegoers
 thumbnail: /images/posts/once-we-were-us-breaks-records-at-the-box-office.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

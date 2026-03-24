@@ -46,7 +46,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/female-idol-cosmetic-procedure-ends-in-terrifying-burn-marks-excruciating-pain/
 thumbnail: >-
   /images/posts/female-idols-cosmetic-procedure-ends-in-terrifying-burn-mark.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

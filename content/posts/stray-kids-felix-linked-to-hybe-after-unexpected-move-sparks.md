@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/stray-kids-felix-linked-hybe-after-unexpected-move-sparks-massive-fears/
 thumbnail: >-
   /images/posts/stray-kids-felix-linked-to-hybe-after-unexpected-move-sparks.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1816566wpp/golden-from-kpop-demon-hunters-makes-historic-1st-k-pop-win-at-2026-grammys
 thumbnail: /images/posts/historic-k-pop-grammy-win.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

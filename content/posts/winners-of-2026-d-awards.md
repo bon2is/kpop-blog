@@ -45,7 +45,7 @@ updatedAt: '2026-02-12T03:37:58.258Z'
 source: Soompi
 sourceUrl: 'https://www.soompi.com/article/1818907wpp/winners-of-2026-d-awards'
 thumbnail: /images/posts/winners-of-2026-d-awards.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

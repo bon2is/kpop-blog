@@ -51,7 +51,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1819231wpp/our-universe-earns-its-highest-thursday-ratings-yet
 thumbnail: /images/posts/our-universe-scores-big-with-highest-thursday-ratings.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

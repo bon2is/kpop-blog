@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817167wpp/aespas-karina-hyeri-and-more-tease-stronger-teamwork-and-bigger-missions-in-agents-of-mystery-2
 thumbnail: >-
   /images/posts/aespas-karina-hyeri-and-more-tease-stronger-teamwork-and-big.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

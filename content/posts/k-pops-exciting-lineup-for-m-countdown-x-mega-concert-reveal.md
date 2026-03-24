@@ -52,7 +52,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822594wpp/m-countdown-x-mega-concert-announces-1st-lineup
 thumbnail: >-
   /images/posts/k-pops-exciting-lineup-for-m-countdown-x-mega-concert-reveal.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

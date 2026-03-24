@@ -52,7 +52,7 @@ sourceUrl: >-
   https://www.koreaboo.com/lists/bts-responds-inappropriate-behavior-rude-comments/
 thumbnail: >-
   /images/posts/btss-best-clapbacks-to-insanely-inappropriate-behavior-and-r.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

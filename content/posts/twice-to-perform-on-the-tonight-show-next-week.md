@@ -46,7 +46,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1819812wpp/twice-to-perform-on-the-tonight-show-next-week
 thumbnail: /images/posts/twice-to-perform-on-the-tonight-show-next-week.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

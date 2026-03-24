@@ -56,7 +56,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820019wpp/enhypen-aespa-illit-and-seventeens-dxs-earn-platinum-and-gold-certifications-in-japan
 thumbnail: >-
   /images/posts/enhypen-aespa-illit-and-seventeens-dxs-earn-platinum-and-gol.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

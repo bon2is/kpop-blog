@@ -48,7 +48,7 @@ updatedAt: '2026-02-21T03:15:34.308Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/gdragon-faces-massive-backlash-one-word/'
 thumbnail: /images/posts/g-dragon-faces-massive-backlash-over-one-word.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

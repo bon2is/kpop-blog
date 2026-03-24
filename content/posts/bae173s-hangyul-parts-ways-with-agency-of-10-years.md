@@ -51,7 +51,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818662wpp/bae173s-hangyul-parts-ways-with-agency-of-10-years
 thumbnail: /images/posts/bae173s-hangyul-parts-ways-with-agency-of-10-years.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

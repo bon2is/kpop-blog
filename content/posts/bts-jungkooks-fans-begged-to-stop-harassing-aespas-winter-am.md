@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/bts-jungkooks-fans-begged-stop-harassing-aespas-winter-amid-dating-rumors/
 thumbnail: >-
   /images/posts/bts-jungkooks-fans-begged-to-stop-harassing-aespas-winter-am.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

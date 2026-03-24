@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1816998wpp/3-reasons-to-get-excited-for-tonights-premiere-of-our-universe
 thumbnail: /images/posts/excitement-builds-for-the-premiere-of-our-universe.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

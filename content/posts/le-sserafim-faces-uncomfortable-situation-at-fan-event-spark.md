@@ -36,7 +36,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/le-sserafim-looking-uncomfortable-fan-event/'
 thumbnail: >-
   /images/posts/le-sserafim-faces-uncomfortable-situation-at-fan-event-spark.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820009wpp/stray-kids-s-class-becomes-their-6th-mv-to-hit-300-million-views
 thumbnail: >-
   /images/posts/stray-kids-s-class-becomes-their-6th-mv-to-hit-300-million-v.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

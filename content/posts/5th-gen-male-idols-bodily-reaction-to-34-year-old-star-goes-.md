@@ -48,7 +48,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/5th-gen-male-idol-bodily-reaction-34-year-old-star-going-viral/
 thumbnail: >-
   /images/posts/5th-gen-male-idols-bodily-reaction-to-34-year-old-star-goes-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

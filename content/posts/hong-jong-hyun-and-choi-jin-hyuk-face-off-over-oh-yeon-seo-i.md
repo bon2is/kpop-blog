@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816146wpp/hong-jong-hyun-and-choi-jin-hyuk-face-off-over-oh-yeon-seo-in-positively-yours
 thumbnail: >-
   /images/posts/hong-jong-hyun-and-choi-jin-hyuk-face-off-over-oh-yeon-seo-i.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -54,7 +54,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/seventeen-mingyu-response-groped-concert-sparks-heated-reactions/
 thumbnail: >-
   /images/posts/seventeen-mingyus-response-to-being-groped-during-concert-sp.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

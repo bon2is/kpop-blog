@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813746wpp/ha-young-wakes-up-with-no-memories-and-jung-hae-in-claiming-to-be-her-boyfriend-in-our-sticky-love
 thumbnail: >-
   /images/posts/ha-young-wakes-up-with-no-memories-and-jung-hae-in-claiming-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

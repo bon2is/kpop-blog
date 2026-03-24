@@ -49,7 +49,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1819600wpp/veriverys-kangmin-confirmed-to-make-solo-debut
 thumbnail: /images/posts/veriverys-kangmin-confirmed-to-make-solo-debut.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

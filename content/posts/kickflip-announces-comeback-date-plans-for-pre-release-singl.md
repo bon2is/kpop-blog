@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1822065wpp/kickflip-announces-comeback-date-plans-for-pre-release-single
 thumbnail: >-
   /images/posts/kickflip-announces-comeback-date-plans-for-pre-release-singl.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

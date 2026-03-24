@@ -34,7 +34,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/stray-kids-changbin-cash-payment-house-millions/'
 thumbnail: >-
   /images/posts/stray-kids-changbin-invests-in-luxury-with-cash-payment-for-.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

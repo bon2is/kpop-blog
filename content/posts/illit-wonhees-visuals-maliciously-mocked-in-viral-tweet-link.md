@@ -33,7 +33,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/viral-maliciously-mocked-illit-wonhee-visuals-newjeans/
 thumbnail: >-
   /images/posts/illit-wonhees-visuals-maliciously-mocked-in-viral-tweet-link.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

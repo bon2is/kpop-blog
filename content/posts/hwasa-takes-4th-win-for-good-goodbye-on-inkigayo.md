@@ -38,7 +38,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811550wpp/watch-hwasa-takes-4th-win-for-good-goodbye-on-inkigayo-performances-by-illit-apink-new-mc-yihyun-and-more
 thumbnail: /images/posts/hwasa-takes-4th-win-for-good-goodbye-on-inkigayo.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

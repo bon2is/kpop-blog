@@ -48,7 +48,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820015wpp/ateez-tops-5-billboard-charts-with-adrenaline-and-golden-hour-part-4
 thumbnail: >-
   /images/posts/ateez-tops-5-billboard-charts-with-adrenaline-and-golden-hou.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

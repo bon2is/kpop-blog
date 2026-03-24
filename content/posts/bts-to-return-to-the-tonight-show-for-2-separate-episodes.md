@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1826065wpp/watch-bts-to-return-to-the-tonight-show-for-2-separate-episodes
 thumbnail: /images/posts/bts-to-return-to-the-tonight-show-for-2-separate-episodes.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

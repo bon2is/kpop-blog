@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1820527wpp/park-shin-hye-cho-han-gyul-and-jang-do-ha-reunite-in-undercover-miss-hong
 thumbnail: >-
   /images/posts/park-shin-hye-cho-han-gyul-and-jang-do-ha-reunite-in-underco.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

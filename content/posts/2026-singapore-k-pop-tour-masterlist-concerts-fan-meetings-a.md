@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818452wpp/2026-singapore-k-pop-tour-masterlist-concerts-fan-meetings-and-more
 thumbnail: >-
   /images/posts/2026-singapore-k-pop-tour-masterlist-concerts-fan-meetings-a.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

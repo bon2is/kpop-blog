@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/active-kpop-star-brutally-honest-idols-fake-personality/
 thumbnail: >-
   /images/posts/the-double-life-of-k-pop-idols-unmasking-the-truth-behind-th.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

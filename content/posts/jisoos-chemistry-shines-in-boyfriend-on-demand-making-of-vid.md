@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1825180wpp/watch-jisoo-showcases-perfect-chemistry-with-co-stars-seo-in-guk-kim-sung-cheol-seo-kang-jun-and-more-on-set-of-boyfriend-on-demand
 thumbnail: >-
   /images/posts/jisoos-chemistry-shines-in-boyfriend-on-demand-making-of-vid.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

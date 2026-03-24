@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818684wpp/ives-jang-won-young-makes-generous-donation-to-help-pediatric-and-adolescent-patients
 thumbnail: >-
   /images/posts/ives-jang-won-young-makes-generous-donation-to-help-pediatri.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

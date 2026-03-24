@@ -46,7 +46,7 @@ updatedAt: '2026-02-08T11:13:21.544Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/ive-coming-back-bang-bang-look-forward/'
 thumbnail: /images/posts/ive-is-coming-back-with-bang-bang-what-to-look-forward-to.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

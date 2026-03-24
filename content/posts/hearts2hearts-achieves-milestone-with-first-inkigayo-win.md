@@ -1,18 +1,42 @@
 ---
-title: "Hearts2Hearts Achieves Milestone with First 'Inkigayo' Win"
-excerpt: "Hearts2Hearts has secured their first-ever win on 'Inkigayo' with their song 'RUDE!', marking a significant milestone in their career."
-summary: "Hearts2Hearts has won their first 'Inkigayo' trophy with 'RUDE!', beating out strong competitors like BLACKPINK and IVE. This achievement marks a pivotal moment in their career, showcasing their growing popularity and talent. The win was announced on the March 22 episode of SBS's 'Inkigayo' with a total of 5,769 points."
-commentary: "The news of Hearts2Hearts' first 'Inkigayo' win is significant because it highlights the group's rising star power and their ability to compete against well-established acts. \n\n This win comes at a time when the K-Pop industry is more competitive than ever, with numerous talented groups vying for attention. Hearts2Hearts' success with 'RUDE!' demonstrates their unique sound and appeal, which has resonated with fans and critics alike. \n\n For fans of Hearts2Hearts, this win is a testament to the group's hard work and dedication, and it likely signals an exciting future for the group. It may also lead to increased opportunities, such as more prominent concert appearances and collaborations, further cementing their place in the K-Pop scene. \n\n The victory also underscores the importance of music shows like 'Inkigayo' in launching and sustaining K-Pop careers, providing a platform for artists to showcase their talents and compete with their peers."
-originalTitle: "Watch: Hearts2Hearts Takes 1st-Ever “Inkigayo” Win With “RUDE!”; Performances By Yena, P1Harmony, And More"
-category: "drama"
-tags: ["BLACKPINK","IVE","Concert","Hearts2Hearts","Inkigayo"]
-publishedAt: "2026-03-22T14:55:29.000Z"
-updatedAt: "2026-03-23T06:08:52.737Z"
-source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1826879wpp/watch-hearts2hearts-takes-1st-ever-inkigayo-win-with-rude-performances-by-yena-p1harmony-and-more"
-thumbnail: "/images/posts/hearts2hearts-achieves-milestone-with-first-inkigayo-win.webp"
+title: Hearts2Hearts Achieves Milestone with First 'Inkigayo' Win
+excerpt: >-
+  Hearts2Hearts has secured their first-ever win on 'Inkigayo' with their song
+  'RUDE!', marking a significant milestone in their career.
+summary: >-
+  Hearts2Hearts has won their first 'Inkigayo' trophy with 'RUDE!', beating out
+  strong competitors like BLACKPINK and IVE. This achievement marks a pivotal
+  moment in their career, showcasing their growing popularity and talent. The
+  win was announced on the March 22 episode of SBS's 'Inkigayo' with a total of
+  5,769 points.
+commentary: >-
+  The news of Hearts2Hearts' first 'Inkigayo' win is significant because it
+  highlights the group's rising star power and their ability to compete against
+  well-established acts. 
+
+   This win comes at a time when the K-Pop industry is more competitive than ever, with numerous talented groups vying for attention. Hearts2Hearts' success with 'RUDE!' demonstrates their unique sound and appeal, which has resonated with fans and critics alike. 
+
+   For fans of Hearts2Hearts, this win is a testament to the group's hard work and dedication, and it likely signals an exciting future for the group. It may also lead to increased opportunities, such as more prominent concert appearances and collaborations, further cementing their place in the K-Pop scene. 
+
+   The victory also underscores the importance of music shows like 'Inkigayo' in launching and sustaining K-Pop careers, providing a platform for artists to showcase their talents and compete with their peers.
+originalTitle: >-
+  Watch: Hearts2Hearts Takes 1st-Ever “Inkigayo” Win With “RUDE!”; Performances
+  By Yena, P1Harmony, And More
+category: drama
+tags:
+  - BLACKPINK
+  - IVE
+  - Concert
+  - Hearts2Hearts
+  - Inkigayo
+publishedAt: '2026-03-22T14:55:29.000Z'
+updatedAt: '2026-03-23T06:08:52.737Z'
+source: Soompi
+sourceUrl: >-
+  https://www.soompi.com/article/1826879wpp/watch-hearts2hearts-takes-1st-ever-inkigayo-win-with-rude-performances-by-yena-p1harmony-and-more
+thumbnail: /images/posts/hearts2hearts-achieves-milestone-with-first-inkigayo-win.webp
 isAIGenerated: true
-author: "KPOP Daily"
+author: KPOP Daily
 ---
 
 Hearts2Hearts has won their first 'Inkigayo' trophy with 'RUDE!', beating out strong competitors like BLACKPINK and IVE. This achievement marks a pivotal moment in their career, showcasing their growing popularity and talent. The win was announced on the March 22 episode of SBS's 'Inkigayo' with a total of 5,769 points.

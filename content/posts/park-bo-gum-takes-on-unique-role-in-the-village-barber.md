@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812659wpp/watch-park-bo-gum-cuts-hair-lee-sang-yi-lends-a-hand-and-kwak-dong-yeon-cooks-up-comfort-in-the-village-barber
 thumbnail: /images/posts/park-bo-gum-takes-on-unique-role-in-the-village-barber.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -51,7 +51,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/female-idol-shocking-stage-appearance-sparks-massive-fears/
 thumbnail: >-
   /images/posts/popular-idols-shocking-on-stage-appearance-sparks-massive-fe.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811760wpp/kpop-demon-hunters-wins-2-awards-at-golden-globe-awards
 thumbnail: /images/posts/k-pop-demon-hunters-secures-victory-at-golden-globes.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

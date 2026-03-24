@@ -33,7 +33,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/allday-project-tarzzan-shocking-new-hairstyle-triggers-drastic-reactions/
 thumbnail: >-
   /images/posts/allday-project-tarzzans-shocking-new-hairstyle-triggers-dras.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

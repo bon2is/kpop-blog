@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1825660wpp/le-sserafims-agency-to-restrict-weverse-dms-for-malicious-users
 thumbnail: /images/posts/le-sserafims-agency-takes-action-against-harassment.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

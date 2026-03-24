@@ -50,7 +50,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/twice-jeongyeon-overcoming-side-effects-steroids/
 thumbnail: /images/posts/is-twices-jeongyeon-overcoming-the-side-effects-of-steroids.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

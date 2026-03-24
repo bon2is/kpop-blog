@@ -52,7 +52,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1819631wpp/lee-sung-kyung-chae-jong-hyeop-and-more-bring-warmth-and-bright-energy-to-the-set-of-in-your-radiant-season
 thumbnail: >-
   /images/posts/lee-sung-kyung-chae-jong-hyeop-and-more-bring-warmth-and-bri.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

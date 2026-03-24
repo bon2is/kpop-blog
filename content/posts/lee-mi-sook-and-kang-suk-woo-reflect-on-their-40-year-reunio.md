@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817757wpp/lee-mi-sook-and-kang-suk-woo-reflect-on-their-40-year-reunion-and-mature-romance-in-in-your-radiant-season
 thumbnail: >-
   /images/posts/lee-mi-sook-and-kang-suk-woo-reflect-on-their-40-year-reunio.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

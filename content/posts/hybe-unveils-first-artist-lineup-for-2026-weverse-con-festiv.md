@@ -32,7 +32,7 @@ sourceUrl: >-
   https://www.hellokpop.com/event/hybe-unveils-first-artist-lineup-for-2026-weverse-con-festival/
 thumbnail: >-
   /images/posts/hybe-unveils-first-artist-lineup-for-2026-weverse-con-festiv.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

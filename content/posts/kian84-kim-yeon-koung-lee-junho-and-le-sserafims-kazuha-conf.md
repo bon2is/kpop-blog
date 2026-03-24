@@ -59,7 +59,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1821746wpp/kian84-kim-yeon-koung-lee-junho-and-le-sserafims-kazuha-confirmed-for-kians-bizarre-bb-season-2
 thumbnail: >-
   /images/posts/kian84-kim-yeon-koung-lee-junho-and-le-sserafims-kazuha-conf.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

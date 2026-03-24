@@ -53,7 +53,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/5th-gen-idol-publicly-humiliated-fans-shout-leave-group-face/
 thumbnail: >-
   /images/posts/5th-gen-idol-publicly-humiliated-as-fans-shout-leave-the-gro.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

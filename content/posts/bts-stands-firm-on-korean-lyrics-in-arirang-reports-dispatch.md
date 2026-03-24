@@ -1,18 +1,40 @@
 ---
-title: "BTS Stands Firm on Korean Lyrics in 'Arirang', Reports Dispatch"
-excerpt: "BTS reportedly fought HYBE over including more Korean lyrics in their song 'Arirang', emphasizing the importance of cultural heritage in their music."
-summary: "According to Dispatch, BTS insisted on incorporating more Korean lyrics into their song 'Arirang', despite initial concerns from HYBE. This move highlights the group's commitment to preserving Korean culture through their music. The decision reflects BTS's artistic vision and dedication to their cultural roots."
-commentary: "The insistence by BTS on including more Korean lyrics in 'Arirang' underscores the significance of cultural identity in K-Pop. \n\n This stance by BTS is particularly noteworthy within the context of the K-Pop industry, where the global appeal often leads to a preference for English lyrics. BTS's commitment to Korean lyrics, however, showcases their effort to balance global reach with cultural integrity. \n\n For fans, this move signifies BTS's genuine interest in staying connected to their Korean heritage, potentially influencing a new wave of K-Pop artists to follow suit. \n\n The impact of this decision on BTS's career could be profound, solidifying their position as ambassadors of Korean culture and possibly attracting a broader audience interested in cultural diversity."
-originalTitle: "Dispatch Reports BTS Fought HYBE Over Korean Lyrics In “Arirang”"
-category: "news"
-tags: ["BTS","Korean Lyrics","Cultural Heritage","K-Pop","HYBE"]
-publishedAt: "2026-03-23T12:52:03.000Z"
-updatedAt: "2026-03-23T14:57:53.705Z"
-source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/dispatch-reports-bts-fought-hybe-korean-lyrics-in-arirang/"
-thumbnail: "/images/posts/bts-stands-firm-on-korean-lyrics-in-arirang-reports-dispatch.webp"
+title: 'BTS Stands Firm on Korean Lyrics in ''Arirang'', Reports Dispatch'
+excerpt: >-
+  BTS reportedly fought HYBE over including more Korean lyrics in their song
+  'Arirang', emphasizing the importance of cultural heritage in their music.
+summary: >-
+  According to Dispatch, BTS insisted on incorporating more Korean lyrics into
+  their song 'Arirang', despite initial concerns from HYBE. This move highlights
+  the group's commitment to preserving Korean culture through their music. The
+  decision reflects BTS's artistic vision and dedication to their cultural
+  roots.
+commentary: >-
+  The insistence by BTS on including more Korean lyrics in 'Arirang' underscores
+  the significance of cultural identity in K-Pop. 
+
+   This stance by BTS is particularly noteworthy within the context of the K-Pop industry, where the global appeal often leads to a preference for English lyrics. BTS's commitment to Korean lyrics, however, showcases their effort to balance global reach with cultural integrity. 
+
+   For fans, this move signifies BTS's genuine interest in staying connected to their Korean heritage, potentially influencing a new wave of K-Pop artists to follow suit. 
+
+   The impact of this decision on BTS's career could be profound, solidifying their position as ambassadors of Korean culture and possibly attracting a broader audience interested in cultural diversity.
+originalTitle: Dispatch Reports BTS Fought HYBE Over Korean Lyrics In “Arirang”
+category: news
+tags:
+  - BTS
+  - Korean Lyrics
+  - Cultural Heritage
+  - K-Pop
+  - HYBE
+publishedAt: '2026-03-23T12:52:03.000Z'
+updatedAt: '2026-03-23T14:57:53.705Z'
+source: Koreaboo
+sourceUrl: >-
+  https://www.koreaboo.com/news/dispatch-reports-bts-fought-hybe-korean-lyrics-in-arirang/
+thumbnail: >-
+  /images/posts/bts-stands-firm-on-korean-lyrics-in-arirang-reports-dispatch.webp
 isAIGenerated: true
-author: "KPOP Daily"
+author: KPOP Daily
 ---
 
 According to Dispatch, BTS insisted on incorporating more Korean lyrics into their song 'Arirang', despite initial concerns from HYBE. This move highlights the group's commitment to preserving Korean culture through their music. The decision reflects BTS's artistic vision and dedication to their cultural roots.

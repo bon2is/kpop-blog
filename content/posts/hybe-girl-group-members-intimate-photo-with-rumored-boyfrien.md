@@ -47,7 +47,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/hybe-member-intimate-photo-rumored-boyfriend-posted-removed-manon-david-katseye/
 thumbnail: >-
   /images/posts/hybe-girl-group-members-intimate-photo-with-rumored-boyfrien.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

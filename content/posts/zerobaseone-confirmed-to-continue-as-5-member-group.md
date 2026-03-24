@@ -46,7 +46,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818949wpp/zerobaseone-confirmed-to-continue-as-5-member-group
 thumbnail: /images/posts/zerobaseone-confirmed-to-continue-as-5-member-group.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

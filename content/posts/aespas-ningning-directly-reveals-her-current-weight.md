@@ -45,7 +45,7 @@ updatedAt: '2026-02-28T11:03:03.383Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/aespas-ningning-directly-reveals-current-weight/'
 thumbnail: /images/posts/aespas-ningning-directly-reveals-her-current-weight.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

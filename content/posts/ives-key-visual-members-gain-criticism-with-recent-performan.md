@@ -49,7 +49,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/ive-blackhole-outfits-criticism/'
 thumbnail: >-
   /images/posts/ives-key-visual-members-gain-criticism-with-recent-performan.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

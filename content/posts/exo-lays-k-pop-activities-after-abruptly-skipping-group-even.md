@@ -47,7 +47,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/exo-lay-kpop-activities-after-abruptly-skipping-group-event-spark-shock/
 thumbnail: >-
   /images/posts/exo-lays-k-pop-activities-after-abruptly-skipping-group-even.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

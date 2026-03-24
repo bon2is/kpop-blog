@@ -50,7 +50,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/bts-jungkook-strict-standards-netizens-debate/'
 thumbnail: >-
   /images/posts/netizens-spark-debate-whether-strict-standards-only-apply-to.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

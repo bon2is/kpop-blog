@@ -31,7 +31,7 @@ sourceUrl: >-
   https://www.hellokpop.com/kdrama/kim-go-eun-smiles-brightly-in-first-teaser-for-yumis-cells-season-3/
 thumbnail: >-
   /images/posts/kim-go-eun-smiles-brightly-in-first-teaser-for-yumis-cells-s.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

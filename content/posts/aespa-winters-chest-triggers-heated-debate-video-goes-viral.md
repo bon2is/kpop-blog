@@ -48,7 +48,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/aespa-winter-chest-triggers-heated-debate-video-goes-viral/
 thumbnail: /images/posts/aespa-winters-chest-triggers-heated-debate-video-goes-viral.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 

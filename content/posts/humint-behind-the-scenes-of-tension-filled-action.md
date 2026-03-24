@@ -45,7 +45,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1819022wpp/humint-stars-capture-the-vivid-on-set-energy-behind-tension-filled-action
 thumbnail: /images/posts/humint-behind-the-scenes-of-tension-filled-action.webp
-isAIGenerated: false
+isAIGenerated: true
 author: KPOP Daily
 ---
 
