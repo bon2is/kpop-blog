@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1815326wpp/fncs-rookie-band-axmxp-breaks-1st-week-sales-record-with-1st-comeback
 thumbnail: >-
   /images/posts/fncs-rookie-band-axmxp-breaks-1st-week-sales-record-with-1st.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

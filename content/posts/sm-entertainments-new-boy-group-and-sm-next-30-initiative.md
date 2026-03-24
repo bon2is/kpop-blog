@@ -35,7 +35,7 @@ updatedAt: '2026-01-20T11:15:22.347Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/sm-entertainment-addresses-debut-new-boy-group/'
 thumbnail: /images/posts/sm-entertainments-new-boy-group-and-sm-next-30-initiative.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

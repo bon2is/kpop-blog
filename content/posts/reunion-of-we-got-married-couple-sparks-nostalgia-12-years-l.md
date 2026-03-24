@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.koreaboo.com/stories/got-married-reunion-girls-day-yura-hong-jong-hyun-first-impressions-jjongah/
 thumbnail: >-
   /images/posts/reunion-of-we-got-married-couple-sparks-nostalgia-12-years-l.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

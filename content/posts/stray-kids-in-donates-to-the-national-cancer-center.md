@@ -45,7 +45,7 @@ updatedAt: '2026-02-09T06:09:47.659Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/stray-kids-in-donates-national-cancer-center/'
 thumbnail: /images/posts/stray-kids-in-donates-to-the-national-cancer-center.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

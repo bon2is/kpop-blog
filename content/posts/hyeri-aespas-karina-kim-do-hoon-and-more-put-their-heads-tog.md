@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813730wpp/hyeri-aespas-karina-kim-do-hoon-and-more-put-their-heads-together-to-solve-mysteries-in-agents-of-mystery-2
 thumbnail: >-
   /images/posts/hyeri-aespas-karina-kim-do-hoon-and-more-put-their-heads-tog.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

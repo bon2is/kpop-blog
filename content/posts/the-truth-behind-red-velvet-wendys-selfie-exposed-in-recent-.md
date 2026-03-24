@@ -31,7 +31,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/behind-scenes-red-velvet-wendy-photo-band-members/
 thumbnail: >-
   /images/posts/the-truth-behind-red-velvet-wendys-selfie-exposed-in-recent-.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

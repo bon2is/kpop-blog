@@ -34,7 +34,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/jo-se-ho-gangster-connection-controversy-escalates-new-evidence/
 thumbnail: >-
   /images/posts/jo-se-hos-gangster-connection-controversy-escalates-with-new.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

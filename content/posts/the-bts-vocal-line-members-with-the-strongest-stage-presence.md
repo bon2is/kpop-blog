@@ -29,8 +29,10 @@ updatedAt: '2026-01-10T18:33:49.269Z'
 source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/lists/bts-member-strongest-stage-presence-vocal-line-jimin-v-jungkook-jin-poll/
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
+thumbnail: >-
+  /images/posts/the-bts-vocal-line-members-with-the-strongest-stage-presence.webp
 ---
 
 A recent poll conducted among fans highlighted the BTS vocal line members, ranking them based on their stage presence. The results showcase the particular strengths and charisma of each member during live performances.

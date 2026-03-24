@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817234wpp/watch-jisoo-gets-a-subscription-for-virtual-boyfriend-on-demand-in-teaser-for-her-new-drama-with-seo-in-guk
 thumbnail: /images/posts/jisoo-and-seo-in-guk-star-in-new-drama-boyfriend-on-demand.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

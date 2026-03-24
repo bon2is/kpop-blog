@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/gdragon-embarrassing-hybe-girl-group-cover-heavily-criticized/
 thumbnail: >-
   /images/posts/g-dragons-embarrassing-hybe-girl-group-cover-heavily-critici.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

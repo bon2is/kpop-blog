@@ -37,7 +37,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816960wpp/watch-blackpinks-jennie-and-tame-impala-announce-new-collab-remix-of-dracula
 thumbnail: >-
   /images/posts/blackpinks-jennie-and-tame-impala-collaborate-on-dracula-rem.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -36,7 +36,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1814187wpp/watch-enhypen-takes-1st-win-for-knife-on-m-countdown-performances-by-exo-oneus-and-more
 thumbnail: /images/posts/enhypen-secures-first-win-for-knife-on-m-countdown.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

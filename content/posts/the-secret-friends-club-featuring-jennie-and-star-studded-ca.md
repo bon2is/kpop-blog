@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812026wpp/the-secret-friends-club-starring-jennie-dex-choo-sung-hoon-and-more-confirms-premiere-date-with-poster
 thumbnail: >-
   /images/posts/the-secret-friends-club-featuring-jennie-and-star-studded-ca.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

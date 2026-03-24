@@ -30,7 +30,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/nct-wish-member-reacts-receiving-middle-finger-fan/
 thumbnail: /images/posts/nct-wish-member-reacts-to-receiving-middle-finger-from-fan.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

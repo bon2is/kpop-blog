@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817860wpp/nct-wish-is-1st-k-pop-boy-group-in-youtube-history-to-hit-100-million-views-with-a-short
 thumbnail: /images/posts/nct-wish-makes-youtube-history-with-milestone-achievement.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

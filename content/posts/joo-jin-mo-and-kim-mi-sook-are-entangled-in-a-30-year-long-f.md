@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811186wpp/joo-jin-mo-and-kim-mi-sook-are-entangled-in-a-30-year-long-family-feud-in-new-drama-recipe-for-love
 thumbnail: >-
   /images/posts/joo-jin-mo-and-kim-mi-sook-are-entangled-in-a-30-year-long-f.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

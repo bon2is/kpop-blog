@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813088wpp/blackpinks-jump-becomes-their-3rd-song-to-earn-u-s-gold-certification-from-riaa
 thumbnail: >-
   /images/posts/blackpinks-jump-becomes-their-3rd-song-to-earn-us-gold-certi.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

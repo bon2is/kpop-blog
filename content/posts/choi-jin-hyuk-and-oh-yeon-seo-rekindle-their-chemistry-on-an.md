@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817750wpp/choi-jin-hyuk-and-oh-yeon-seo-rekindle-their-chemistry-on-an-arcade-date-in-positively-yours
 thumbnail: >-
   /images/posts/choi-jin-hyuk-and-oh-yeon-seo-rekindle-their-chemistry-on-an.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

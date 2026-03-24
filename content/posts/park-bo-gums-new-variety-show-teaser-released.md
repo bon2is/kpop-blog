@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811174wpp/watch-park-bo-gum-lee-sang-yi-and-kwak-dong-yeon-nervously-watch-the-door-for-customers-in-new-variety-show
 thumbnail: /images/posts/park-bo-gums-new-variety-show-teaser-released.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

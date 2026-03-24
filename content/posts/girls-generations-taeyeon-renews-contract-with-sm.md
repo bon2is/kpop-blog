@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811076wpp/girls-generations-taeyeon-renews-contract-with-sm
 thumbnail: /images/posts/girls-generations-taeyeon-renews-contract-with-sm.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

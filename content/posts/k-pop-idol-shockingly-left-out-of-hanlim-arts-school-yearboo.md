@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/kpop-idol-shockingly-left-hanlim-arts-school-yearbook-sparking-outrage/
 thumbnail: >-
   /images/posts/k-pop-idol-shockingly-left-out-of-hanlim-arts-school-yearboo.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -32,7 +32,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/former-idol-trainee-singles-inferno-star-admits-taking-wegovy/
 thumbnail: >-
   /images/posts/former-idol-trainee-and-singles-inferno-star-admits-to-takin.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

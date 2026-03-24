@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/blackpinks-jennie-faces-heavy-criticism-vocals-in-controversial-collab-male-artist/
 thumbnail: >-
   /images/posts/blackpinks-jennie-faces-heavy-criticism-for-her-vocals-in-co.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

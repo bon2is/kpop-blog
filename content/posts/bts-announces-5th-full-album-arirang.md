@@ -38,7 +38,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812697wpp/bts-announces-5th-full-album-arirang-reveals-physical-album-details
 thumbnail: /images/posts/bts-announces-5th-full-album-arirang.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

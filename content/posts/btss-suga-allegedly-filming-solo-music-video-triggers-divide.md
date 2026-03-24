@@ -34,8 +34,10 @@ updatedAt: '2026-02-03T11:26:09.179Z'
 source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/bts-suga-allegedly-solo-music-video-filming-divided-reaction/
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
+thumbnail: >-
+  /images/posts/btss-suga-allegedly-filming-solo-music-video-triggers-divide.webp
 ---
 
 BTS member Suga is reportedly filming a solo music video, which has led to a range of reactions from fans, highlighting the ongoing conversation around individual projects versus group activities within the K-Pop scene. This is particularly significant given BTS’s recent focus on solo endeavors as members explore personal artistic expressions.

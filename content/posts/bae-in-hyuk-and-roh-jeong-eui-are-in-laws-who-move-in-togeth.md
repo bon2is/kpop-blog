@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811084wpp/bae-in-hyuk-and-roh-jeong-eui-are-in-laws-who-move-in-together-to-raise-their-nephew-in-our-universe
 thumbnail: >-
   /images/posts/bae-in-hyuk-and-roh-jeong-eui-are-in-laws-who-move-in-togeth.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

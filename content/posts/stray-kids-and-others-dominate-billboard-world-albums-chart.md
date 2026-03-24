@@ -40,7 +40,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811556wpp/stray-kids-enhypen-illit-boynextdoor-cortis-bts-txt-zerobaseone-and-more-sweep-top-spots-on-billboard-world-albums-chart
 thumbnail: /images/posts/stray-kids-and-others-dominate-billboard-world-albums-chart.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1815672wpp/ives-liz-and-rei-officially-named-brand-ambassadors-for-valentino
 thumbnail: >-
   /images/posts/ives-liz-and-rei-officially-named-brand-ambassadors-for-vale.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

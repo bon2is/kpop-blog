@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1815887wpp/girls-generations-tiffany-young-and-lee-chan-won-announced-as-hosts-of-hanteo-music-awards-2025
 thumbnail: >-
   /images/posts/tiffany-young-and-lee-chan-won-to-host-hanteo-music-awards-2.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

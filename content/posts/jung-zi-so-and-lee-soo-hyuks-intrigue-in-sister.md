@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811133wpp/jung-zi-so-and-lee-soo-hyuks-plot-to-kidnap-her-sister-cha-joo-young-goes-awry-in-thriller-film-sister
 thumbnail: /images/posts/jung-zi-so-and-lee-soo-hyuks-intrigue-in-sister.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

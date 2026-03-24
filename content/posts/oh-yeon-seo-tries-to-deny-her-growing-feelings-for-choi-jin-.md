@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816164wpp/oh-yeon-seo-tries-to-deny-her-growing-feelings-for-choi-jin-hyuk-in-positively-yours
 thumbnail: >-
   /images/posts/oh-yeon-seo-tries-to-deny-her-growing-feelings-for-choi-jin-.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

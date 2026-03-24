@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/blackpink-jennie-target-criticism-tame-impala-announcement/
 thumbnail: >-
   /images/posts/blackpinks-jennie-target-of-criticism-for-recent-announcemen.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

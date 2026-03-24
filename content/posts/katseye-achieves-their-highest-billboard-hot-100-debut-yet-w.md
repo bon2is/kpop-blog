@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812172wpp/katseye-achieves-their-highest-billboard-hot-100-debut-yet-with-internet-girl
 thumbnail: >-
   /images/posts/katseye-achieves-their-highest-billboard-hot-100-debut-yet-w.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

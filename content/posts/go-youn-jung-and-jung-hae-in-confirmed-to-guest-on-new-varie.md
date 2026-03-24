@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1814145wpp/go-youn-jung-and-jung-hae-in-confirmed-to-guest-on-new-variety-show-the-secret-friends-club
 thumbnail: >-
   /images/posts/go-youn-jung-and-jung-hae-in-confirmed-to-guest-on-new-varie.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811439wpp/january-girl-group-brand-reputation-rankings-announced-8
 thumbnail: /images/posts/january-girl-group-brand-reputation-rankings-announced.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

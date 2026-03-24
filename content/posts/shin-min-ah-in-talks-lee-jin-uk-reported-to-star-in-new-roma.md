@@ -34,7 +34,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811074wpp/shin-min-ah-in-talks-lee-jin-uk-reported-to-star-in-new-romance-drama
 thumbnail: >-
   /images/posts/shin-min-ah-in-talks-lee-jin-uk-reported-to-star-in-new-roma.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812624wpp/watch-lomon-pays-a-heavy-price-for-a-wish-granted-by-kim-hye-yoon-in-no-tail-to-tell-highlight-teaser
 thumbnail: >-
   /images/posts/watch-lomon-pays-a-heavy-price-for-a-wish-granted-by-kim-hye.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

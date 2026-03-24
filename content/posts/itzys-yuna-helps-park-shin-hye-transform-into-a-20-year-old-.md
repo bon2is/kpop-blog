@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812891wpp/itzys-yuna-helps-park-shin-hye-transform-into-a-20-year-old-in-undercover-miss-hong
 thumbnail: >-
   /images/posts/itzys-yuna-helps-park-shin-hye-transform-into-a-20-year-old-.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

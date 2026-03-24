@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811181wpp/production-company-of-lee-jae-wook-and-shin-ye-euns-new-drama-apologizes-for-allegations-regarding-working-hours
 thumbnail: >-
   /images/posts/production-company-of-lee-jae-wook-and-shin-ye-euns-new-dram.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

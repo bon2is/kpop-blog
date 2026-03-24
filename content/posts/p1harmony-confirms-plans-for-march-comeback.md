@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1813493wpp/p1harmony-confirms-plans-for-march-comeback
 thumbnail: /images/posts/p1harmony-confirms-plans-for-march-comeback.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

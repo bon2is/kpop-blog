@@ -15,6 +15,7 @@ const GIF = require('sharp-gif2');
 interface ExtractedMedia {
   youtubeLinks: string[];
   externalLinks: { url: string; text: string }[];
+  ogImage?: string;   // og:image from original article (press/promotional photo)
 }
 
 // Extract YouTube video ID from various URL formats
@@ -129,6 +130,16 @@ async function fetchOriginalArticleMedia(articleUrl: string, sourceDomain: strin
         console.log(`    Found embedded YouTube: ${youtubeId}`);
       }
     });
+
+    // Extract og:image (official press/promotional photo)
+    const ogImage =
+      $('meta[property="og:image"]').attr('content') ||
+      $('meta[name="twitter:image"]').attr('content') ||
+      $('meta[name="twitter:image:src"]').attr('content');
+    if (ogImage && ogImage.startsWith('http')) {
+      result.ogImage = ogImage;
+      console.log(`  Found og:image: ${ogImage.slice(0, 80)}...`);
+    }
 
     console.log(`  Extracted: ${result.youtubeLinks.length} YouTube links, ${result.externalLinks.length} external links`);
   } catch (error) {
@@ -630,6 +641,94 @@ async function generateAIImageFallback(imagePrompt: string, slug: string): Promi
     if (!result.success || !result.result?.image) return undefined;
     return saveGeneratedImage(result.result.image, slug);
   } catch {
+    return undefined;
+  }
+}
+
+// Download image from URL and save as optimized WebP
+async function downloadImageFromUrl(imageUrl: string, slug: string): Promise<string | undefined> {
+  try {
+    const response = await fetch(imageUrl, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)' },
+      timeout: 15000,
+    });
+    if (!response.ok) return undefined;
+
+    const contentType = response.headers.get('content-type') || '';
+    if (!contentType.startsWith('image/')) return undefined;
+
+    const imageBuffer = await response.buffer();
+    if (imageBuffer.length < 5000) return undefined; // Skip tiny/broken images
+
+    return saveGeneratedImageBuffer(imageBuffer, slug);
+  } catch (error) {
+    console.error('  Error downloading image:', error);
+    return undefined;
+  }
+}
+
+// Search Wikipedia for K-Drama poster image (free, no API key, CC/fair-use licensed)
+async function fetchWikipediaImage(title: string, slug: string): Promise<string | undefined> {
+  try {
+    // Strip episode/season/subtitle info to get clean drama title
+    const searchTitle = title
+      .replace(/\b(episode|ep\.?|season|s\d+|e\d+)\s*\d+.*$/i, '')
+      .replace(/[-–|:].{0,40}$/, '')
+      .trim()
+      .slice(0, 60);
+
+    const wikiHeaders = {
+      'User-Agent': 'KpopDailyBot/1.0 (https://kpop.andxo.com; contact via site)',
+      'Accept': 'application/json',
+    };
+
+    // Step 1: Try direct page summary (works if title matches Wikipedia page exactly)
+    const directUrl = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(searchTitle)}`;
+    console.log(`  Searching Wikipedia for drama: "${searchTitle}"`);
+
+    let imageUrl: string | undefined;
+
+    const directRes = await fetch(directUrl, { headers: wikiHeaders, timeout: 10000 });
+    if (directRes.ok) {
+      const data = await directRes.json() as {
+        originalimage?: { source?: string };
+        thumbnail?: { source?: string };
+        title?: string;
+      };
+      imageUrl = data.originalimage?.source || data.thumbnail?.source;
+      if (imageUrl) console.log(`  Wikipedia direct match: "${data.title}"`);
+    }
+
+    // Step 2: If no direct match, use MediaWiki search API
+    if (!imageUrl) {
+      const searchUrl = `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(searchTitle + ' TV series drama')}&srlimit=3&format=json&origin=*`;
+      const searchRes = await fetch(searchUrl, { headers: wikiHeaders, timeout: 10000 });
+      if (!searchRes.ok) return undefined;
+
+      const searchData = await searchRes.json() as { query?: { search?: Array<{ title: string }> } };
+      const firstResult = searchData.query?.search?.[0];
+      if (!firstResult) {
+        console.log(`  Wikipedia: no results for "${searchTitle}"`);
+        return undefined;
+      }
+
+      const summaryUrl = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(firstResult.title)}`;
+      const summaryRes = await fetch(summaryUrl, { headers: wikiHeaders, timeout: 10000 });
+      if (!summaryRes.ok) return undefined;
+
+      const summaryData = await summaryRes.json() as {
+        originalimage?: { source?: string };
+        thumbnail?: { source?: string };
+        title?: string;
+      };
+      imageUrl = summaryData.originalimage?.source || summaryData.thumbnail?.source;
+      if (imageUrl) console.log(`  Wikipedia search match: "${summaryData.title}"`);
+    }
+
+    if (!imageUrl) return undefined;
+    return downloadImageFromUrl(imageUrl, slug);
+  } catch (error) {
+    console.error('  Wikipedia search error:', error);
     return undefined;
   }
 }
@@ -1587,9 +1686,29 @@ async function main(): Promise<void> {
       const category = detectCategory(safeContent.title, safeContent.content);
       const slug = generateSlug(safeContent.title);
 
-      // Generate AI image (copyright-free, context-aware) and save locally
-      const thumbnail = await generateAIImage(category, safeContent.title, safeContent.summary, slug);
-      console.log(`  AI thumbnail: ${thumbnail ? 'saved locally' : 'skipped'}`);
+      // --- Image strategy: real photo first, AI fallback ---
+      let thumbnail: string | undefined;
+      let isAIGenerated = false;
+
+      // 1) Drama: search Wikipedia for official drama poster image
+      if (category === 'drama') {
+        thumbnail = await fetchWikipediaImage(safeContent.title, slug);
+        if (thumbnail) console.log(`  Thumbnail: Wikipedia drama poster`);
+      }
+
+      // 2) Any category: use og:image from original article (official press photo)
+      if (!thumbnail && extractedMedia.ogImage) {
+        console.log(`  Trying og:image from original article...`);
+        thumbnail = await downloadImageFromUrl(extractedMedia.ogImage, slug);
+        if (thumbnail) console.log(`  Thumbnail: article og:image (press photo)`);
+      }
+
+      // 3) Fallback: AI-generated image (Pollinations → Cloudflare SDXL)
+      if (!thumbnail) {
+        thumbnail = await generateAIImage(category, safeContent.title, safeContent.summary, slug);
+        if (thumbnail) isAIGenerated = true;
+        console.log(`  Thumbnail: ${thumbnail ? 'AI-generated' : 'skipped'}`);
+      }
 
       // Create article with new structure
       const article: ProcessedArticle = {
@@ -1609,7 +1728,7 @@ async function main(): Promise<void> {
         source: item.creator || 'Unknown',
         sourceUrl: item.link,
         thumbnail,
-        isAIGenerated: true,
+        isAIGenerated,
       };
 
       // Save article

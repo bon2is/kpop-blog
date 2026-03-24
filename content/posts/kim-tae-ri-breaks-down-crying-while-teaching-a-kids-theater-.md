@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817221wpp/watch-kim-tae-ri-breaks-down-crying-while-teaching-a-kids-theater-class-in-new-variety-show-teaser
 thumbnail: >-
   /images/posts/kim-tae-ri-breaks-down-crying-while-teaching-a-kids-theater-.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

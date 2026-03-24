@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813130wpp/watch-bae-in-hyuk-and-roh-jeong-eui-start-off-on-the-wrong-foot-in-our-universe-teaser
 thumbnail: >-
   /images/posts/watch-bae-in-hyuk-and-roh-jeong-eui-start-off-on-the-wrong-f.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

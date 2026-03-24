@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811314wpp/4-moments-that-brought-sooyoung-and-kim-jae-yeong-closer-in-episodes-5-6-of-idol-i
 thumbnail: >-
   /images/posts/4-moments-that-brought-sooyoung-and-kim-jae-yeong-closer-in-.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

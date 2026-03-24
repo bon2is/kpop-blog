@@ -49,7 +49,7 @@ updatedAt: '2026-02-09T06:09:22.702Z'
 source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/live-alone-thrive-without-park-na-rae/'
 thumbnail: /images/posts/i-live-alone-continues-to-thrive-even-without-park-na-rae.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

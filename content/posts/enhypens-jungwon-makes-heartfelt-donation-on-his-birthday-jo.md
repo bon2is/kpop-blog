@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818225wpp/enhypens-jungwon-makes-heartfelt-donation-on-his-birthday-joins-community-chest-of-koreas-honor-society
 thumbnail: >-
   /images/posts/enhypens-jungwon-makes-heartfelt-donation-on-his-birthday-jo.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

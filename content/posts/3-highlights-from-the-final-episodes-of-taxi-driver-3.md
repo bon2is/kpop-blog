@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812383wpp/3-highlights-from-the-final-episodes-of-taxi-driver-3
 thumbnail: /images/posts/3-highlights-from-the-final-episodes-of-taxi-driver-3.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

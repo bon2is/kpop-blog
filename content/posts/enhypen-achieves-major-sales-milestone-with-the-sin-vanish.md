@@ -36,7 +36,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1814250wpp/enhypens-the-sin-vanish-becomes-their-3rd-album-to-sell-2-million-copies-in-1st-week
 thumbnail: /images/posts/enhypen-achieves-major-sales-milestone-with-the-sin-vanish.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

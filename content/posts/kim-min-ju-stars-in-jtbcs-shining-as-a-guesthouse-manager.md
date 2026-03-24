@@ -36,7 +36,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817521wpp/kim-min-ju-is-a-warm-guesthouse-manager-who-reunites-with-first-love-park-jinyoung-in-her-30s-in-shining
 thumbnail: /images/posts/kim-min-ju-stars-in-jtbcs-shining-as-a-guesthouse-manager.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

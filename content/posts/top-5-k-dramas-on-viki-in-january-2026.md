@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1814316wpp/top-5-k-dramas-on-viki-in-january-2026
 thumbnail: /images/posts/top-5-k-dramas-on-viki-in-january-2026.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

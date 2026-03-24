@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812734wpp/stray-kids-and-kpop-demon-hunters-soundtrack-make-u-s-list-of-top-10-best-selling-albums-of-2025
 thumbnail: >-
   /images/posts/stray-kids-and-kpop-demon-hunters-soundtrack-make-us-list-of.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

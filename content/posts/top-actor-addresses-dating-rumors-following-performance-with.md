@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/top-actor-speaks-after-romantic-performance-female-idol-sparks-explosive-dating-rumors/
 thumbnail: >-
   /images/posts/top-actor-addresses-dating-rumors-following-performance-with.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -33,7 +33,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/apink-bomi-producer-rado-wedding-date-may-2026/'
 thumbnail: >-
   /images/posts/beloved-idol-confirms-wedding-date-set-to-become-first-marri.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812749wpp/culinary-class-wars-to-return-with-season-3-restaurants-to-compete-instead-of-individual-chefs
 thumbnail: /images/posts/culinary-class-wars-season-3-announcement.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1811455wpp/katseye-enters-top-25-of-uks-official-singles-chart-for-1st-time-as-internet-girl-debuts
 thumbnail: >-
   /images/posts/katseye-enters-top-25-of-uks-official-singles-chart-for-1st-.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

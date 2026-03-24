@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812878wpp/ive-confirmed-to-make-february-comeback
 thumbnail: /images/posts/ive-confirmed-to-make-february-comeback.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

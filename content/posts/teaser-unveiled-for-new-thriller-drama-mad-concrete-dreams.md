@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817608wpp/watch-ha-jung-woo-im-soo-jung-kim-jun-han-krystal-and-shim-eun-kyung-all-have-mad-concrete-dreams-in-new-drama-teaser
 thumbnail: /images/posts/teaser-unveiled-for-new-thriller-drama-mad-concrete-dreams.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

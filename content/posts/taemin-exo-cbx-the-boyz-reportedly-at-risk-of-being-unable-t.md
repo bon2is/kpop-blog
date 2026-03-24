@@ -33,7 +33,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/taemin-exo-cbx-boyz-reportedly-risk-unable-promote/
 thumbnail: >-
   /images/posts/taemin-exo-cbx-the-boyz-reportedly-at-risk-of-being-unable-t.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

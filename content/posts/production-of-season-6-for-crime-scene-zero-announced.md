@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812032wpp/crime-scene-zero-confirms-production-of-season-6
 thumbnail: /images/posts/production-of-season-6-for-crime-scene-zero-announced.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812369wpp/hearts2hearts-confirmed-to-be-gearing-up-for-february-comeback
 thumbnail: >-
   /images/posts/hearts2hearts-confirmed-to-be-gearing-up-for-february-comeba.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

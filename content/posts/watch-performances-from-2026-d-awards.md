@@ -1,18 +1,50 @@
 ---
-title: "Watch: Performances From 2026 D Awards"
-excerpt: "Catch all the exciting performances and winners from the 2026 D Awards, now available for online viewing!"
-summary: "The performances from the 2026 D Awards, hosted by Lee Jong Won, Shin Ye Eun, and BOYNEXTDOOR’s Jaehyun, are now accessible online. Held at Korea University’s Hwajeong Gymnasium in Seoul on February 11, the event showcased a plethora of K-Pop talent and celebrated the year’s top artists."
-commentary: "The release of the 2026 D Awards performances is significant as it highlights the culmination of a year filled with remarkable talent in the K-Pop industry. Events like these are crucial in recognizing the hard work and dedication of artists, while also allowing fans to engage with their favorite stars through digital platforms.\n\nIn the context of the K-Pop industry, the D Awards have established themselves as a key event. They not only celebrate musical achievements but also serve as a barometer for current trends and fan engagement within the genre. The diversity of performances presented reflects the evolving landscape of K-Pop, where different sounds and styles continue to emerge.\n\nFor fans, the availability of these performances online is a gift that enables them to relive unforgettable moments from the event. This accessibility also reinforces the bond between artists and fans, as viewers can witness their favorite idols shine on stage. For the artists involved, this visibility can be pivotal for their careers, potentially leading to greater recognition and opportunities in both domestic and international markets."
-originalTitle: "Watch: Performances From 2026 D Awards"
-category: "fashion"
-tags: ["NCT","ENHYPEN","BOYNEXTDOOR","Awards","D Awards"]
-publishedAt: "2026-02-15T05:27:36.000Z"
-updatedAt: "2026-02-15T11:13:12.693Z"
-source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1819508wpp/watch-performances-from-2026-d-awards"
-thumbnail: "/images/posts/watch-performances-from-2026-d-awards.webp"
-isAIGenerated: true
-author: "KPOP Daily"
+title: 'Watch: Performances From 2026 D Awards'
+excerpt: >-
+  Catch all the exciting performances and winners from the 2026 D Awards, now
+  available for online viewing!
+summary: >-
+  The performances from the 2026 D Awards, hosted by Lee Jong Won, Shin Ye Eun,
+  and BOYNEXTDOOR’s Jaehyun, are now accessible online. Held at Korea
+  University’s Hwajeong Gymnasium in Seoul on February 11, the event showcased a
+  plethora of K-Pop talent and celebrated the year’s top artists.
+commentary: >-
+  The release of the 2026 D Awards performances is significant as it highlights
+  the culmination of a year filled with remarkable talent in the K-Pop industry.
+  Events like these are crucial in recognizing the hard work and dedication of
+  artists, while also allowing fans to engage with their favorite stars through
+  digital platforms.
+
+
+  In the context of the K-Pop industry, the D Awards have established themselves
+  as a key event. They not only celebrate musical achievements but also serve as
+  a barometer for current trends and fan engagement within the genre. The
+  diversity of performances presented reflects the evolving landscape of K-Pop,
+  where different sounds and styles continue to emerge.
+
+
+  For fans, the availability of these performances online is a gift that enables
+  them to relive unforgettable moments from the event. This accessibility also
+  reinforces the bond between artists and fans, as viewers can witness their
+  favorite idols shine on stage. For the artists involved, this visibility can
+  be pivotal for their careers, potentially leading to greater recognition and
+  opportunities in both domestic and international markets.
+originalTitle: 'Watch: Performances From 2026 D Awards'
+category: fashion
+tags:
+  - NCT
+  - ENHYPEN
+  - BOYNEXTDOOR
+  - Awards
+  - D Awards
+publishedAt: '2026-02-15T05:27:36.000Z'
+updatedAt: '2026-02-15T11:13:12.693Z'
+source: Soompi
+sourceUrl: >-
+  https://www.soompi.com/article/1819508wpp/watch-performances-from-2026-d-awards
+thumbnail: /images/posts/watch-performances-from-2026-d-awards.webp
+isAIGenerated: false
+author: KPOP Daily
 ---
 
 The performances from the 2026 D Awards, hosted by Lee Jong Won, Shin Ye Eun, and BOYNEXTDOOR’s Jaehyun, are now accessible online. Held at Korea University’s Hwajeong Gymnasium in Seoul on February 11, the event showcased a plethora of K-Pop talent and celebrated the year’s top artists.

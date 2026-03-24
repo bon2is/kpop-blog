@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817562wpp/watch-nmixxs-sullyoon-and-parc-jae-jung-share-sneak-peek-of-upcoming-duet-single-always
 thumbnail: >-
   /images/posts/nmixxs-sullyoon-and-parc-jae-jung-collaborate-on-duet-single.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

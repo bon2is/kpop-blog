@@ -37,8 +37,10 @@ updatedAt: '2026-01-10T13:53:17.898Z'
 source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811109wpp/ji-sung-gets-slapped-by-oh-se-young-after-going-back-in-time-to-2025-on-the-judge-returns
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
+thumbnail: >-
+  /images/posts/ji-sung-gets-slapped-by-oh-se-young-after-going-back-in-time.webp
 ---
 
 MBC's upcoming drama “The Judge Returns” features Ji Sung as a corrupt judge who travels back in time to 2025, where he meets Oh Se Young's character. A sneak peek reveals a dramatic first encounter marked by a slap, highlighting the tension between the characters.

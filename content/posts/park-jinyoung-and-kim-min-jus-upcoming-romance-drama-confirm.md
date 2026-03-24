@@ -41,7 +41,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1815211wpp/park-jinyoung-and-kim-min-jus-upcoming-romance-drama-confirms-premiere-date-with-beautiful-new-poster
 thumbnail: >-
   /images/posts/park-jinyoung-and-kim-min-jus-upcoming-romance-drama-confirm.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816066wpp/ji-sung-and-park-hee-soon-each-make-calculated-moves-behind-closed-doors-in-the-judge-returns
 thumbnail: >-
   /images/posts/ji-sung-and-park-hee-soon-make-calculated-moves-in-the-judge.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

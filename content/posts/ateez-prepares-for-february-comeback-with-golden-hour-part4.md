@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811557wpp/watch-ateez-announces-february-comeback-date-with-teaser-for-golden-hour-part-4
 thumbnail: /images/posts/ateez-prepares-for-february-comeback-with-golden-hour-part4.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

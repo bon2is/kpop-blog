@@ -31,7 +31,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812979wpp/k-pop-takes-up-over-half-of-u-s-list-of-top-10-best-selling-cds-of-2025
 thumbnail: /images/posts/k-pop-dominates-us-cd-sales-in-2025.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

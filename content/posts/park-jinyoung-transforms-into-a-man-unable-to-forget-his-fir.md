@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816848wpp/park-jinyoung-transforms-into-a-man-unable-to-forget-his-first-love-in-new-drama-shining
 thumbnail: >-
   /images/posts/park-jinyoung-transforms-into-a-man-unable-to-forget-his-fir.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

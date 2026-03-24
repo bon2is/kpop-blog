@@ -34,7 +34,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/seeya-nam-gyuri-idol-turned-actress-real-reason-debut-story/
 thumbnail: >-
   /images/posts/idol-turned-actress-reveals-the-real-reason-she-debuted-in-a.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

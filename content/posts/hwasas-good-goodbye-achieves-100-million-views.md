@@ -38,7 +38,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1815951wpp/hwasas-good-goodbye-becomes-her-3rd-and-fastest-solo-mv-to-reach-100-million-views
 thumbnail: /images/posts/hwasas-good-goodbye-achieves-100-million-views.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

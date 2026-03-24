@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817570wpp/hearts2hearts-announces-comeback-date-and-details-for-return-with-rude
 thumbnail: >-
   /images/posts/hearts2hearts-announces-comeback-date-and-details-for-return.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

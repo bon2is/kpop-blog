@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812892wpp/enhypen-surpasses-1-6-million-1st-day-sales-tops-itunes-charts-worldwide-with-the-sin-vanish
 thumbnail: /images/posts/enhypen-sets-new-record-with-the-sin-vanish.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

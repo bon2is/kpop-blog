@@ -36,7 +36,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817281wpp/watch-bts-drops-teaser-for-version-4-of-official-light-stick
 thumbnail: /images/posts/bts-unveils-teaser-for-new-light-stick-version-4.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

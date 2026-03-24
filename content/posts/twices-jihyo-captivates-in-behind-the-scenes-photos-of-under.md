@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/twice-jihyo-captivates-behind-scenes-photos-underwear-shoot/
 thumbnail: >-
   /images/posts/twices-jihyo-captivates-in-behind-the-scenes-photos-of-under.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

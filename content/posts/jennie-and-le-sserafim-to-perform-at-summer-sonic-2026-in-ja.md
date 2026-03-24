@@ -36,7 +36,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1816578wpp/jennie-and-le-sserafim-to-perform-at-summer-sonic-2026-in-japan
 thumbnail: >-
   /images/posts/jennie-and-le-sserafim-to-perform-at-summer-sonic-2026-in-ja.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

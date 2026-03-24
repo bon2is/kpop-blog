@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1814401wpp/watch-chae-jong-hyeop-reunites-with-lee-sung-kyung-who-doesnt-remember-him-in-in-your-radiant-season-teaser
 thumbnail: >-
   /images/posts/chae-jong-hyeop-and-lee-sung-kyung-star-in-in-your-radiant-s.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

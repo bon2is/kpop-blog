@@ -33,7 +33,7 @@ updatedAt: '2026-01-16T16:19:20.233Z'
 source: Soompi
 sourceUrl: 'https://www.soompi.com/article/1812738wpp/fnc-to-end-variety-management'
 thumbnail: /images/posts/fncs-strategic-shift-ending-variety-management.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

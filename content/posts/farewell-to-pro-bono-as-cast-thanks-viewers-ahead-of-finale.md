@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811500wpp/pro-bono-stars-say-goodbye-thank-viewers-ahead-of-tonights-finale
 thumbnail: /images/posts/farewell-to-pro-bono-as-cast-thanks-viewers-ahead-of-finale.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

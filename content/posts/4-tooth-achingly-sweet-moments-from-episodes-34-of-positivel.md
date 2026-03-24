@@ -34,7 +34,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1815667wpp/4-tooth-achingly-sweet-moments-from-episodes-3-4-of-positively-yours
 thumbnail: >-
   /images/posts/4-tooth-achingly-sweet-moments-from-episodes-34-of-positivel.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

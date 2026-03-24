@@ -32,7 +32,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/seventeen-seungkwan-txt-soobin-fiercely-debate-kara-song/
 thumbnail: /images/posts/fierce-debate-among-male-idols-sparks-massive-reactions.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

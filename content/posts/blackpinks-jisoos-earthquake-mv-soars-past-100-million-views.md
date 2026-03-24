@@ -47,7 +47,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1818056wpp/blackpinks-jisoos-earthquake-mv-soars-past-100-million-views
 thumbnail: >-
   /images/posts/blackpinks-jisoos-earthquake-mv-soars-past-100-million-views.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

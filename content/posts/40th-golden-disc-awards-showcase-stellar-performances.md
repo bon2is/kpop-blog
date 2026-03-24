@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811398wpp/watch-performances-from-40th-golden-disc-awards
 thumbnail: /images/posts/40th-golden-disc-awards-showcase-stellar-performances.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

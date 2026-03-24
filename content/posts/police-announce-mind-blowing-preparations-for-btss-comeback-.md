@@ -49,7 +49,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/police-mind-blowing-preparations-bts-comeback-performance/
 thumbnail: >-
   /images/posts/police-announce-mind-blowing-preparations-for-btss-comeback-.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

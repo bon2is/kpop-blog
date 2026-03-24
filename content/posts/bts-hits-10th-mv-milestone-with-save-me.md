@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1816184wpp/btss-save-me-becomes-their-10th-mv-to-hit-800-million-views
 thumbnail: /images/posts/bts-hits-10th-mv-milestone-with-save-me.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

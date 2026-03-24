@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1812986wpp/25-action-dramas-of-2025-k-drama-masterlist
 thumbnail: /images/posts/25-action-dramas-of-2025-k-drama-masterlist.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -39,7 +39,7 @@ sourceUrl: >-
   https://www.koreaboo.com/news/hybe-boy-group-mentions-newjeans-live-broadcast-sparking-punishment-speculations/
 thumbnail: >-
   /images/posts/hybe-boy-group-mentions-newjeans-during-live-broadcast-spark.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

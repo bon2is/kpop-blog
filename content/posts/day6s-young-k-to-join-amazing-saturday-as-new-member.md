@@ -32,7 +32,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817620wpp/day6s-young-k-to-join-amazing-saturday-as-new-member
 thumbnail: /images/posts/day6s-young-k-to-join-amazing-saturday-as-new-member.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

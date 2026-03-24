@@ -42,7 +42,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817383wpp/lee-sung-kyung-han-ji-hyeon-and-oh-ye-ju-dish-on-playing-sisters-in-new-drama-in-your-radiant-season
 thumbnail: >-
   /images/posts/lee-sung-kyung-han-ji-hyeon-and-oh-ye-ju-dish-on-playing-sis.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

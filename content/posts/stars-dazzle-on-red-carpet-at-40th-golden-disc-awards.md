@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811397wpp/stars-dazzle-on-red-carpet-at-40th-golden-disc-awards
 thumbnail: /images/posts/stars-dazzle-on-red-carpet-at-40th-golden-disc-awards.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

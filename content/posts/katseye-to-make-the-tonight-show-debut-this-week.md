@@ -33,7 +33,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1816201wpp/katseye-to-make-the-tonight-show-debut-this-week
 thumbnail: /images/posts/katseye-to-make-the-tonight-show-debut-this-week.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

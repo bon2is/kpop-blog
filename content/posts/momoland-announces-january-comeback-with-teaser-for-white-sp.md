@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1812950wpp/momoland-announces-january-comeback-with-teaser-for-white-spring
 thumbnail: >-
   /images/posts/momoland-announces-january-comeback-with-teaser-for-white-sp.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

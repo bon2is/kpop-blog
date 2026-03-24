@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1815766wpp/watch-park-jinyoung-and-kim-min-jus-long-awaited-reunion-brings-back-their-teenage-memories-in-new-drama-teaser
 thumbnail: >-
   /images/posts/reunion-of-park-jinyoung-and-kim-min-ju-in-upcoming-drama-sh.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

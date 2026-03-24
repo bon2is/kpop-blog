@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1815624wpp/5-bls-with-romance-novel-energy-that-will-sweep-you-off-your-feet
 thumbnail: >-
   /images/posts/5-bls-with-romance-novel-energy-that-will-sweep-you-off-your.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

@@ -35,7 +35,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817677wpp/kim-jae-won-and-iznas-bang-jeemin-confirmed-as-new-music-bank-mcs
 thumbnail: >-
   /images/posts/kim-jae-won-and-iznas-bang-jeemin-confirmed-as-new-music-ban.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

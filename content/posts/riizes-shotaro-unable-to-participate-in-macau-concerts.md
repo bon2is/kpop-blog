@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1817728wpp/riizes-shotaro-unable-to-participate-in-macau-concerts
 thumbnail: /images/posts/riizes-shotaro-unable-to-participate-in-macau-concerts.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

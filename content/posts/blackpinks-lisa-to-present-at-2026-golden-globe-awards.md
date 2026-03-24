@@ -35,7 +35,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811120wpp/blackpinks-lisa-to-present-at-2026-golden-globe-awards
 thumbnail: /images/posts/blackpinks-lisa-to-present-at-2026-golden-globe-awards.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

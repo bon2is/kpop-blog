@@ -31,7 +31,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/stories/kiss-scenes-arent-supposed-hurt-unless-youre-exo-do/
 thumbnail: /images/posts/kiss-scenes-arent-supposed-to-hurt-unless-youre-exos-do.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

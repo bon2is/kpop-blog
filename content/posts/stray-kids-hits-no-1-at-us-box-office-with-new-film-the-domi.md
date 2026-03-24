@@ -40,7 +40,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1817850wpp/stray-kids-hits-no-1-at-u-s-box-office-with-new-film-the-dominate-experience
 thumbnail: >-
   /images/posts/stray-kids-hits-no-1-at-us-box-office-with-new-film-the-domi.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

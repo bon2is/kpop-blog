@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1814784wpp/ncts-jeno-and-jaemin-announce-unit-debut-as-nct-jnjm
 thumbnail: /images/posts/ncts-jeno-and-jaemin-announce-unit-debut-as-nct-jnjm.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

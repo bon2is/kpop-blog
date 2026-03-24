@@ -46,7 +46,7 @@ source: Koreaboo
 sourceUrl: >-
   https://www.koreaboo.com/news/popular-idol-fancam-abruptly-deleted-due-sweat-stains/
 thumbnail: /images/posts/popular-idols-fancam-abruptly-deleted-due-to-sweat-stains.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

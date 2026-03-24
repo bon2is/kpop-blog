@@ -38,7 +38,7 @@ sourceUrl: >-
   https://www.soompi.com/article/1813339wpp/boys-ii-planet-contestant-taichi-confirmed-to-join-queer-dating-reality-show-his-man-4
 thumbnail: >-
   /images/posts/boys-ii-planet-contestant-taichi-confirmed-to-join-queer-dat.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

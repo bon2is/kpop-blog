@@ -37,7 +37,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1811187wpp/seo-hyun-jin-confronts-chang-ryuls-past-as-his-ex-and-childs-mother-reappears-in-love-me
 thumbnail: /images/posts/seo-hyun-jin-confronts-chang-ryuls-past-in-love-me.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

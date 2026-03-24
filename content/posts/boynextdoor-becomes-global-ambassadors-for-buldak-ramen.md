@@ -45,7 +45,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1818062wpp/watch-boynextdoor-named-global-ambassadors-for-buldak-ramen
 thumbnail: /images/posts/boynextdoor-becomes-global-ambassadors-for-buldak-ramen.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

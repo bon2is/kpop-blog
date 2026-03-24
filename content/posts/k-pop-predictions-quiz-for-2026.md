@@ -34,7 +34,7 @@ source: Soompi
 sourceUrl: >-
   https://www.soompi.com/article/1810169wpp/quiz-can-you-predict-the-future-take-this-k-pop-quiz-and-come-back-at-the-end-of-2026-to-find-out
 thumbnail: /images/posts/k-pop-predictions-quiz-for-2026.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 

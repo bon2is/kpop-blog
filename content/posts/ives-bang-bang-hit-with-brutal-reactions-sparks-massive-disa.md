@@ -48,7 +48,7 @@ source: Koreaboo
 sourceUrl: 'https://www.koreaboo.com/news/ive-bang-bang-new-release-hit-brutal-reactions/'
 thumbnail: >-
   /images/posts/ives-bang-bang-hit-with-brutal-reactions-sparks-massive-disa.webp
-isAIGenerated: true
+isAIGenerated: false
 author: KPOP Daily
 ---
 
