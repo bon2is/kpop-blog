@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainments-upcoming-boy-group-faces-sasaeng-incidents/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T11:46:30.000Z</news:publication_date>
+      <news:title>SM Entertainment&apos;s Upcoming Boy Group Faces Sasaeng Incidents Before Debut</news:title>
+      <news:keywords>Debut, SM Entertainment, Sasaeng, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/newjeans-update-sparks-outrage-and-concern-over-minjis-futur/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +59,18 @@
       <news:publication_date>2026-03-25T07:05:50.000Z</news:publication_date>
       <news:title>Unpacking the Timeless Theme of Love in C-Dramas</news:title>
       <news:keywords>K-Drama, C-Drama, Romance, Love, Relationships</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-takes-center-stage-inkigayo-on-the-go-unveils-its-firs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T06:33:33.000Z</news:publication_date>
+      <news:title>K-Pop Takes Center Stage: &apos;Inkigayo ON THE GO&apos; Unveils Its First Lineup</news:title>
+      <news:keywords>NCT, TXT, Concert, Inkigayo ON THE GO, K-Pop Concert</news:keywords>
     </news:news>
   </url>
   <url>
@@ -131,6 +155,18 @@
       <news:publication_date>2026-03-24T21:46:16.000Z</news:publication_date>
       <news:title>Rosé’s Historic Achievement: &apos;APT.&apos; Goes Triple Platinum In The UK</news:title>
       <news:keywords>BLACKPINK, Rosé, K-Pop, Triple Platinum, UK Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/mcdonalds-teams-up-with-netflix-for-kpop-demon-hunters-colla/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T21:03:39.000Z</news:publication_date>
+      <news:title>McDonald&apos;s Teams Up With Netflix For &apos;KPop Demon Hunters&apos; Collaboration</news:title>
+      <news:keywords>HUNTR/X, Saja Boys, McDonald&apos;s, Netflix, KPop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -230,6 +266,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/chu-so-jung-exy-explores-complex-character-in-new-film-18-yo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T09:35:35.000Z</news:publication_date>
+      <news:title>Chu So Jung (Exy) Explores Complex Character in New Film &apos;18 Youth&apos;</news:title>
+      <news:keywords>WJSN, Exy, K-Drama, Film, 18 Youth</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jung-woo-krystal-shin-seung-ho-and-more-navigate-lifes-strug/</loc>
     <news:news>
       <news:publication>
@@ -251,6 +299,18 @@
       <news:publication_date>2026-03-24T07:54:16.000Z</news:publication_date>
       <news:title>SHINee Taemin’s “Botched” Visuals Trigger Massive Reactions</news:title>
       <news:keywords>SHINee, Taemin, MV, K-Pop, Visuals</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/wjsns-dayoung-teases-april-solo-comeback-following-the-succe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T07:18:41.000Z</news:publication_date>
+      <news:title>WJSN’s Dayoung Teases April Solo Comeback, Following the Success of “Body”</news:title>
+      <news:keywords>Comeback, WJSN, Dayoung, Solo Comeback, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -323,54 +383,6 @@
       <news:publication_date>2026-03-24T00:10:20.000Z</news:publication_date>
       <news:title>K-Pop Giant To Return To Korea Following Non-Compete Expiration: His First Official Schedule</news:title>
       <news:keywords>Comeback, Tour, K-Pop, Non-Compete Expiration, Korean Music Scene</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-faces-backlash-over-netflix-footage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T14:32:38.000Z</news:publication_date>
-      <news:title>BTS Faces Backlash Over Netflix Footage</news:title>
-      <news:keywords>BTS, Netflix, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-live-vocals-under-scrutiny/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T13:00:43.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie&apos;s Live Vocals Under Scrutiny</news:title>
-      <news:keywords>BLACKPINK, Jennie, Live Vocals, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-stands-firm-on-korean-lyrics-in-arirang-reports-dispatch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T12:52:03.000Z</news:publication_date>
-      <news:title>BTS Stands Firm on Korean Lyrics in &apos;Arirang&apos;, Reports Dispatch</news:title>
-      <news:keywords>BTS, Korean Lyrics, Cultural Heritage, K-Pop, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-honest-reaction-to-swim-exposed-in-new-documentary/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T12:14:54.000Z</news:publication_date>
-      <news:title>BTS&apos;s Honest Reaction to &apos;SWIM&apos; Exposed in New Documentary</news:title>
-      <news:keywords>BTS, Documentary, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
