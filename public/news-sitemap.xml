@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/newjeans-update-sparks-outrage-and-concern-over-minjis-futur/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T10:57:39.000Z</news:publication_date>
+      <news:title>NewJeans Update Sparks Outrage and Concern Over Minji&apos;s Future</news:title>
+      <news:keywords>NewJeans, Debut, Minji, K-Pop Group Dynamics, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-under-fire-the-bts-lyrics-controversy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T10:32:07.000Z</news:publication_date>
+      <news:title>HYBE Under Fire: The BTS Lyrics Controversy</news:title>
+      <news:keywords>BTS, HYBE, Comeback, Charts, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-solo-sales-spark-debate-on-member-popularity/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T10:20:11.000Z</news:publication_date>
+      <news:title>BTS Solo Sales Spark Debate on Member Popularity</news:title>
+      <news:keywords>BTS, Solo Debut, K-Pop Charts, Album Sales, Fandom</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/unpacking-the-timeless-theme-of-love-in-c-dramas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T07:05:50.000Z</news:publication_date>
+      <news:title>Unpacking the Timeless Theme of Love in C-Dramas</news:title>
+      <news:keywords>K-Drama, C-Drama, Romance, Love, Relationships</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/byeon-woo-seoks-regal-transformation-in-perfect-crown-what-i/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T05:50:43.000Z</news:publication_date>
+      <news:title>Byeon Woo Seok&apos;s Regal Transformation in &quot;Perfect Crown&quot;: What It Means for His Career</news:title>
+      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance, MBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-jin-left-out-of-arirang-credits-sparks-controversy/</loc>
     <news:news>
       <news:publication>
@@ -311,102 +371,6 @@
       <news:publication_date>2026-03-23T12:14:54.000Z</news:publication_date>
       <news:title>BTS&apos;s Honest Reaction to &apos;SWIM&apos; Exposed in New Documentary</news:title>
       <news:keywords>BTS, Documentary, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/esom-shines-as-a-determined-prosecutor-in-new-film-the-ultim/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T11:08:59.000Z</news:publication_date>
-      <news:title>Esom Shines as a Determined Prosecutor in New Film &apos;The Ultimate Duo&apos;</news:title>
-      <news:keywords>Esom, The Ultimate Duo, K-Drama, Film, Bae Sung Woo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/paparazzis-reaction-to-jungkook-compared-to-other-bts-member/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T10:45:25.000Z</news:publication_date>
-      <news:title>Paparazzi&apos;s Reaction To Jungkook Compared To Other BTS Members Sparks Major Reactions</news:title>
-      <news:keywords>BTS, Jungkook, Paparazzi, K-Pop, Celebrity Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/public-outrage-over-tax-spending-on-bts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T10:01:08.000Z</news:publication_date>
-      <news:title>Public Outrage Over Tax Spending on BTS</news:title>
-      <news:keywords>BTS, K-Pop, Tax Spending, Government Funding, Korean Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennie-faces-backlash-over-recent-performance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T09:40:07.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie Faces Backlash Over Recent Performance</news:title>
-      <news:keywords>BLACKPINK, Jennie, Performance, Criticism, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/unveiling-the-dark-side-of-ambition-mad-concrete-dreams-post/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T09:13:39.000Z</news:publication_date>
-      <news:title>Unveiling the Dark Side of Ambition: &apos;Mad Concrete Dreams&apos; Poster Released</news:title>
-      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Thriller, Mad Concrete Dreams</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jung-woos-new-film-teaser-reveals-a-story-of-perseverance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T08:02:44.000Z</news:publication_date>
-      <news:title>Jung Woo&apos;s New Film Teaser Reveals a Story of Perseverance</news:title>
-      <news:keywords>Jung Woo, Jjanggu, K-Movie, Acting, Perseverance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/uhm-hyun-kyungs-new-drama-our-happy-days-unveils-teaser/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T07:50:23.000Z</news:publication_date>
-      <news:title>Uhm Hyun Kyung&apos;s New Drama &apos;Our Happy Days&apos; Unveils Teaser</news:title>
-      <news:keywords>K-Drama, Uhm Hyun Kyung, Our Happy Days, Daily Drama, Yoon Jong Hun</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/rising-tensions-in-climax-a-high-stakes-showdown-unfolds/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T07:26:05.000Z</news:publication_date>
-      <news:title>Rising Tensions in &quot;Climax&quot;: A High-Stakes Showdown Unfolds</news:title>
-      <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Nana, Climax</news:keywords>
     </news:news>
   </url>
 </urlset>
