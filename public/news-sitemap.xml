@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-jin-left-out-of-arirang-credits-sparks-controversy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T05:10:20.000Z</news:publication_date>
+      <news:title>BTS’s Jin Left Out Of “Arirang” Credits Sparks Controversy</news:title>
+      <news:keywords>BTS, Jin, Credits, K-Pop, Fairness</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/actors-shocking-music-debut-exploring-the-unexpected-turn/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T04:06:59.000Z</news:publication_date>
+      <news:title>Actor&apos;s Shocking Music Debut: Exploring the Unexpected Turn</news:title>
+      <news:keywords>Debut, ActorDebut, KPopCrossover, MusicDebut, KoreanEntertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-behavior-at-airport-security-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T03:36:54.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie’s Behavior At Airport Security Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Jennie, Airport Security, Celebrity News, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kim-young-dae-announces-spring-military-enlistment/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +47,18 @@
       <news:publication_date>2026-03-25T03:15:02.000Z</news:publication_date>
       <news:title>Kim Young Dae Announces Spring Military Enlistment</news:title>
       <news:keywords>K-Drama, Kim Young Dae, Military Enlistment, OUTERUNIVERSE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/4th-gen-idol-welcomes-new-addition-to-family/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T22:45:53.000Z</news:publication_date>
+      <news:title>4th Gen Idol Welcomes New Addition to Family</news:title>
+      <news:keywords>K-Pop, 4th Gen Idol, Influencer, New Mother, Entertainment News</news:keywords>
     </news:news>
   </url>
   <url>
@@ -359,54 +407,6 @@
       <news:publication_date>2026-03-23T07:26:05.000Z</news:publication_date>
       <news:title>Rising Tensions in &quot;Climax&quot;: A High-Stakes Showdown Unfolds</news:title>
       <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Nana, Climax</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-se-jeong-embarks-on-a-new-chapter-departure-from-jellyfi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T05:40:03.000Z</news:publication_date>
-      <news:title>Kim Se Jeong Embarks on a New Chapter: Departure from Jellyfish Entertainment and Reported Signing with BH Entertainment</news:title>
-      <news:keywords>Kim Se Jeong, Jellyfish Entertainment, BH Entertainment, K-Pop, Career Change</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-shatters-records-with-arirang-sales/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T05:38:11.000Z</news:publication_date>
-      <news:title>BTS Shatters Records with &quot;ARIRANG&quot; Sales</news:title>
-      <news:keywords>BTS, Charts, ARIRANG, K-Pop Records, Hanteo Chart</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/unpacking-the-gripping-saga-of-climax/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T04:17:19.000Z</news:publication_date>
-      <news:title>Unpacking the Gripping Saga of &apos;Climax&apos;</news:title>
-      <news:keywords>K-Drama, Ju Ji Hoon, Han Ji Won, Melodrama, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-junho-joins-ju-ji-hoon-in-talks-for-new-drama/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T03:39:17.000Z</news:publication_date>
-      <news:title>Lee Junho Joins Ju Ji Hoon In Talks For New Drama</news:title>
-      <news:keywords>K-Drama, Lee Junho, 2PM, Ju Ji Hoon, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
