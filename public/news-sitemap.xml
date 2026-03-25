@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/kim-young-dae-announces-spring-military-enlistment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T03:15:02.000Z</news:publication_date>
+      <news:title>Kim Young Dae Announces Spring Military Enlistment</news:title>
+      <news:keywords>K-Drama, Kim Young Dae, Military Enlistment, OUTERUNIVERSE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ross-historic-achievement-apt-goes-triple-platinum-in-the-uk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T21:46:16.000Z</news:publication_date>
+      <news:title>Rosé’s Historic Achievement: &apos;APT.&apos; Goes Triple Platinum In The UK</news:title>
+      <news:keywords>BLACKPINK, Rosé, K-Pop, Triple Platinum, UK Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-achieves-platinum-status-in-the-us-with-li/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T19:14:40.000Z</news:publication_date>
+      <news:title>BLACKPINK&apos;s Jennie Achieves Platinum Status in the U.S. with &apos;like JENNIE&apos;</news:title>
+      <news:keywords>BLACKPINK, Jennie, Platinum Certification, K-Pop, Solo Artist</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-unveils-captivating-performance-video-for-swim/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T15:33:17.000Z</news:publication_date>
+      <news:title>BTS Unveils Captivating Performance Video for &quot;SWIM&quot;</news:title>
+      <news:keywords>BTS, Album, SWIM, ARIRANG, Performance Video</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-rm-blasted-with-accusations-of-trying-to-embarrass-jung/</loc>
     <news:news>
       <news:publication>
@@ -359,78 +407,6 @@
       <news:publication_date>2026-03-23T03:39:17.000Z</news:publication_date>
       <news:title>Lee Junho Joins Ju Ji Hoon In Talks For New Drama</news:title>
       <news:keywords>K-Drama, Lee Junho, 2PM, Ju Ji Hoon, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-and-byeon-woo-seok-star-in-alternate-universe-romance-dra/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T03:21:45.000Z</news:publication_date>
-      <news:title>IU and Byeon Woo Seok Star in Alternate Universe Romance Drama &apos;Perfect Crown&apos;</news:title>
-      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance, MBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-member-reveals-career-crossroads-what-made-him-stay/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T03:09:26.000Z</news:publication_date>
-      <news:title>BTS Member Reveals Career Crossroads: What Made Him Stay?</news:title>
-      <news:keywords>BTS, K-Pop, Career, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-actresss-mother-in-law-sparks-controversy-with-bts-comme/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T02:25:37.000Z</news:publication_date>
-      <news:title>Top Actress’s Mother-In-Law Sparks Controversy with BTS Comment</news:title>
-      <news:keywords>BTS, RM, K-Pop, Controversy, Backlash</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/close-your-eyes-announces-april-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T23:37:24.000Z</news:publication_date>
-      <news:title>CLOSE YOUR EYES Announces April Comeback</news:title>
-      <news:keywords>Comeback, Awards, Album, CLOSE YOUR EYES, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-bang-bang-maintains-top-spot-on-soompis-k-pop-music-cha/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T18:18:05.000Z</news:publication_date>
-      <news:title>IVE&apos;s &apos;BANG BANG&apos; Maintains Top Spot on Soompi&apos;s K-Pop Music Chart</news:title>
-      <news:keywords>BLACKPINK, IVE, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-wish-unveils-teaser-for-debut-full-length-album-ode-to-l/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T15:16:17.000Z</news:publication_date>
-      <news:title>NCT WISH Unveils Teaser for Debut Full-Length Album &apos;Ode to Love&apos;</news:title>
-      <news:keywords>NCT, Comeback, Debut, Awards, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
