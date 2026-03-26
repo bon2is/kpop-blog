@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/viral-video-of-top-male-k-pop-idol-unclasping-a-bra-incites-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T11:35:18.000Z</news:publication_date>
+      <news:title>Viral Video Of Top Male K-Pop Idol Unclasping A Bra Incites Major Disgust</news:title>
+      <news:keywords>K-Pop, Consent, Respect, Scandal, Idol Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-rms-comment-about-vs-weight-triggers-intense-fury/</loc>
     <news:news>
       <news:publication>
@@ -14,6 +26,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/jyp-entertainments-mysterious-post-sparks-concern-among-twic/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T09:25:46.000Z</news:publication_date>
+      <news:title>JYP Entertainment’s Mysterious Post Sparks Concern Among TWICE Fans</news:title>
+      <news:keywords>TWICE, JYP Entertainment, K-Pop, Comeback, Contract Negotiations</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kim-bum-takes-on-new-role-in-upcoming-sbs-drama/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-03-26T09:21:12.000Z</news:publication_date>
       <news:title>Kim Bum Takes On New Role In Upcoming SBS Drama</news:title>
       <news:keywords>K-Drama, Kim Bum, Sold Out On You, Romantic Comedy, Ahn Hyo Seop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/prosecutors-rule-media-play-accusations-against-hybe-as-not-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T08:40:29.000Z</news:publication_date>
+      <news:title>Prosecutors Rule Media Play Accusations Against HYBE As “Not Untrue”</news:title>
+      <news:keywords>BTS, HYBE, TOMORROW X TOGETHER, K-Pop Industry, Legal Ruling</news:keywords>
     </news:news>
   </url>
   <url>
@@ -59,6 +95,18 @@
       <news:publication_date>2026-03-26T07:15:42.000Z</news:publication_date>
       <news:title>BIGHIT MUSIC Takes Action: Protecting BTS&apos;s Rights</news:title>
       <news:keywords>BTS, BIGHIT MUSIC, Legal Proceedings, K-Pop, Artist Rights</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-young-dae-and-lee-naeun-deny-dating-rumors/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T06:33:35.000Z</news:publication_date>
+      <news:title>Kim Young Dae And Lee Naeun Deny Dating Rumors</news:title>
+      <news:keywords>Kim Young Dae, Lee Naeun, Dating Rumors, K-Drama, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -143,6 +191,18 @@
       <news:publication_date>2026-03-25T19:38:10.000Z</news:publication_date>
       <news:title>BTS&apos;s Jungkook Teases V Over TikTok Debut</news:title>
       <news:keywords>BTS, Debut, Jungkook, V, TikTok</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/disney-ventures-into-k-drama-with-the-koreans-a-reimagining-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T16:30:02.000Z</news:publication_date>
+      <news:title>Disney+ Ventures into K-Drama with &apos;The Koreans&apos;, a Reimagining of &apos;The Americans&apos;</news:title>
+      <news:keywords>K-Drama, Disney+, The Koreans, Lee Byung Hun, Han Ji Min</news:keywords>
     </news:news>
   </url>
   <url>
@@ -371,30 +431,6 @@
       <news:publication_date>2026-03-24T15:33:17.000Z</news:publication_date>
       <news:title>BTS Unveils Captivating Performance Video for &quot;SWIM&quot;</news:title>
       <news:keywords>BTS, Album, SWIM, ARIRANG, Performance Video</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-rm-blasted-with-accusations-of-trying-to-embarrass-jung/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-24T13:15:12.000Z</news:publication_date>
-      <news:title>BTS’s RM Blasted With Accusations Of Trying To “Embarrass” Jungkook In Recent Interview</news:title>
-      <news:keywords>BTS, RM, Jungkook, Interview, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-feud-rumors-spread-like-wildfire-after-viral-footage-e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-24T12:00:14.000Z</news:publication_date>
-      <news:title>Aespa Feud Rumors Spread Like Wildfire After Viral Footage Exposes &apos;Scary&apos; Attitudes</news:title>
-      <news:keywords>aespa, Feud Rumors, K-Pop Groups, Girl Groups, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
