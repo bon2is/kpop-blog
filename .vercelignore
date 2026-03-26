@@ -1,0 +1,25 @@
+# Dependencies (installed fresh during Vercel build)
+node_modules/
+
+# Local build outputs
+.next/
+out/
+
+# Automation scripts (not needed at runtime)
+scripts/
+
+# Local env
+.env
+.env.local
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Test/cache
+coverage/
+.cache/
