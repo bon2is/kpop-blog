@@ -5,9 +5,6 @@ node_modules/
 .next/
 out/
 
-# Automation scripts (not needed at runtime)
-scripts/
-
 # Local env
 .env
 .env.local
