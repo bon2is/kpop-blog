@@ -15,8 +15,9 @@
     "post-twitter": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-twitter.ts",
     "post-bluesky": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-bluesky.ts",
     "post-pinterest": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-pinterest.ts",
+    "post-reddit": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-reddit.ts",
     "generate": "npm run fetch-news && npm run build",
-    "generate-and-post": "npm run fetch-news && npm run post-threads && npm run post-twitter && npm run post-bluesky && npm run post-pinterest && npm run build"
+    "generate-and-post": "npm run fetch-news && npm run post-threads && npm run post-twitter && npm run post-bluesky && npm run post-pinterest && npm run post-reddit && npm run build"
   },
   "dependencies": {
     "@atproto/api": "^0.18.20",

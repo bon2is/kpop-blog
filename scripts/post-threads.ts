@@ -83,8 +83,49 @@ function savePostedSlugs(slugs: Set<string>): void {
   fs.writeFileSync(POSTED_FILE, JSON.stringify(data, null, 2));
 }
 
-// Get recent articles (last 24 hours)
-function getRecentArticles(): ArticleMetadata[] {
+// Engagement score: prioritize high-interest artists and hook keywords
+const HIGH_INTEREST_ARTISTS = [
+  'bts', 'blackpink', 'twice', 'aespa', 'ive', 'newjeans', 'stray kids',
+  'seventeen', 'nct', 'exo', 'bigbang', 'red velvet', 'got7', 'monsta x',
+  'txt', 'enhypen', 'le sserafim', 'itzy', 'gidle', 'ateez',
+  'jungkook', 'jennie', 'lisa', 'rosé', 'jimin', 'v ', ' rm ', 'suga',
+];
+
+const HOOK_KEYWORDS = [
+  'dating', 'relationship', 'married', 'wedding', 'pregnant', 'break up',
+  'comeback', 'new album', 'mv', 'music video', 'world tour', 'concert',
+  'controversy', 'backlash', 'accused', 'responds', 'shocking', 'reveals',
+  'disbands', 'leaves', 'joins', 'confirmed', 'breaks record', 'million',
+];
+
+function scoreArticle(article: ArticleMetadata): number {
+  const titleLower = article.title.toLowerCase();
+  const tagsLower = article.tags.map((t) => t.toLowerCase());
+  let score = 0;
+
+  // +30 per high-interest artist mention
+  for (const artist of HIGH_INTEREST_ARTISTS) {
+    if (titleLower.includes(artist) || tagsLower.some((t) => t.includes(artist))) {
+      score += 30;
+    }
+  }
+
+  // +20 per hook keyword
+  for (const kw of HOOK_KEYWORDS) {
+    if (titleLower.includes(kw)) score += 20;
+  }
+
+  // +10 for having a thumbnail (visual posts get more reach)
+  if (article.thumbnail) score += 10;
+
+  // +5 for music/drama (higher engagement categories)
+  if (article.category === 'music' || article.category === 'drama') score += 5;
+
+  return score;
+}
+
+// Get recent articles (last 24 hours), return top N by engagement score
+function getRecentArticles(topN = 3): ArticleMetadata[] {
   const articles: ArticleMetadata[] = [];
   const now = new Date();
   const oneDayAgo = new Date(now.getTime() - 24 * 60 * 60 * 1000);
@@ -99,7 +140,6 @@ function getRecentArticles(): ArticleMetadata[] {
 
       const publishedAt = new Date(data.publishedAt);
 
-      // Only get articles from last 24 hours
       if (publishedAt >= oneDayAgo) {
         const slug = file.replace('.md', '');
         articles.push({
@@ -115,15 +155,17 @@ function getRecentArticles(): ArticleMetadata[] {
       }
     }
 
-    // Sort by publishedAt (newest first)
-    articles.sort((a, b) =>
-      new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-    );
+    // Sort by engagement score (desc), then by date (desc) as tiebreaker
+    articles.sort((a, b) => {
+      const scoreDiff = scoreArticle(b) - scoreArticle(a);
+      if (scoreDiff !== 0) return scoreDiff;
+      return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+    });
   } catch (error) {
     console.error('Error reading articles:', error);
   }
 
-  return articles;
+  return articles.slice(0, topN);
 }
 
 // Generate hashtags for article
@@ -390,9 +432,10 @@ async function main(): Promise<void> {
   const postedSlugs = loadPostedSlugs();
   console.log(`Previously posted: ${postedSlugs.size} articles`);
 
-  // Get recent articles
-  const recentArticles = getRecentArticles();
-  console.log(`Recent articles (24h): ${recentArticles.length}`);
+  // Get top 3 articles by engagement score
+  const recentArticles = getRecentArticles(3);
+  console.log(`Top articles selected (24h): ${recentArticles.length}`);
+  recentArticles.forEach((a) => console.log(`  [score:${scoreArticle(a)}] ${a.title.slice(0, 60)}`));
 
   // Filter out already posted
   const newArticles = recentArticles.filter((a) => !postedSlugs.has(a.slug));

@@ -1186,12 +1186,23 @@ async function generateSafeContent(
     const prompt = `You are a K-Pop news analyst writing for a blog. Create ORIGINAL content about this news story.
 
 STRUCTURE YOUR RESPONSE WITH CLEAR PARAGRAPHS:
-1. summary: A factual summary of the news (2-3 sentences)
-2. commentary: Your ORIGINAL analysis split into 3-4 SHORT paragraphs (use "\\n\\n" to separate paragraphs). Each paragraph should be 2-3 sentences. Cover:
+0. title: Rewrite the headline to maximize clicks on Google Discover and social media.
+   RULES for title:
+   - Keep it under 70 characters
+   - Lead with the artist/group name if it's a major act (BTS, BLACKPINK, etc.)
+   - Use emotional or curiosity-driven language: "Shocks Fans", "Breaks Silence", "Reveals", "Makes History", "Sparks Debate", "You Won't Believe", etc.
+   - Be specific — include a key detail (album name, award, number) when relevant
+   - Do NOT use clickbait that misrepresents the story
+   - Example rewrites:
+     - "BTS Announces New Album" → "BTS Drops Surprise Album Announcement — Release Date Revealed"
+     - "BLACKPINK Jennie Attends Event" → "BLACKPINK Jennie Stuns at Paris Fashion Week in Rare Appearance"
+1. excerpt: One punchy sentence (under 160 chars) that makes someone want to click.
+2. summary: A factual summary of the news (2-3 sentences)
+3. commentary: Your ORIGINAL analysis split into 3-4 SHORT paragraphs (use "\\n\\n" to separate paragraphs). Each paragraph should be 2-3 sentences. Cover:
    - Why this news matters
    - Context in the K-Pop industry
    - What this means for fans or the artist's career
-3. tags: An array of 3-5 relevant keyword tags for this article. Include:
+4. tags: An array of 3-5 relevant keyword tags for this article. Include:
    - Artist/group names mentioned (e.g., "BTS", "BLACKPINK", "IVE")
    - Topic keywords (e.g., "Comeback", "Concert", "Album", "Charts", "Awards", "Debut", "Tour", "K-Drama", "Fashion", "Variety")
    - Only include tags that are genuinely relevant to the article content
