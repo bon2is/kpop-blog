@@ -21,8 +21,17 @@ const POSTED_FILE = path.join(process.cwd(), 'content/.discord-posted.json');
 
 const MAX_POSTS_PER_RUN = 3;
 
-// Brand color (pink/purple for K-Pop vibe)
-const EMBED_COLOR = 0xff69b4; // hot pink
+// Category-specific colors
+const CATEGORY_COLORS: Record<string, number> = {
+  music:     0xff69b4, // hot pink
+  drama:     0x9b59b6, // purple
+  celebrity: 0xf1c40f, // gold
+  variety:   0x3498db, // blue
+  fashion:   0xe91e8c, // magenta
+  news:      0x2ecc71, // green
+  audition:  0xe67e22, // orange
+};
+const DEFAULT_COLOR = 0xff69b4;
 
 interface ArticleMeta {
   slug: string;
@@ -122,30 +131,60 @@ function categoryEmoji(category: string): string {
   return map[category] ?? '📌';
 }
 
+// --- Category label ---
+function categoryLabel(category: string): string {
+  const map: Record<string, string> = {
+    music:     'K-Pop Music',
+    drama:     'K-Drama',
+    celebrity: 'Celebrity',
+    variety:   'Variety',
+    fashion:   'Fashion',
+    news:      'News',
+    audition:  'Audition',
+  };
+  return map[category] ?? 'K-Pop';
+}
+
 // --- Discord Embed payload ---
 function buildEmbed(article: ArticleMeta) {
   const articleUrl = `${SITE_URL}/article/${article.slug}/`;
-  const tagsStr = article.tags.map((t) => `\`${t}\``).join(' ');
   const emoji = categoryEmoji(article.category);
+  const color = CATEGORY_COLORS[article.category] ?? DEFAULT_COLOR;
+
+  // Tags: max 5, formatted as hashtags
+  const hashtags = article.tags.slice(0, 5).map((t) => `#${t.replace(/\s+/g, '')}`).join('  ');
+
+  const fields: Array<{ name: string; value: string; inline: boolean }> = [];
+
+  if (hashtags) {
+    fields.push({ name: '🏷️ Tags', value: hashtags, inline: false });
+  }
+
+  fields.push({
+    name: '📖 Read Full Article',
+    value: `[Click here to read on KPop Daily](${articleUrl})`,
+    inline: false,
+  });
 
   const embed: Record<string, unknown> = {
-    title: `${emoji} ${article.title}`,
+    author: {
+      name: `${emoji} ${categoryLabel(article.category)}`,
+      url: SITE_URL,
+      icon_url: `${SITE_URL}/favicon.ico`,
+    },
+    title: article.title,
     url: articleUrl,
     description: article.excerpt
-      ? article.excerpt.slice(0, 200)
+      ? article.excerpt.slice(0, 300)
       : 'Read the full article on KPop Daily.',
-    color: EMBED_COLOR,
+    color,
+    fields,
     footer: {
-      text: 'KPop Daily • kpop.andxo.com',
+      text: 'KPop Daily',
+      icon_url: `${SITE_URL}/favicon.ico`,
     },
     timestamp: new Date(article.publishedAt).toISOString(),
   };
-
-  if (tagsStr) {
-    (embed as Record<string, unknown>).fields = [
-      { name: 'Tags', value: tagsStr, inline: false },
-    ];
-  }
 
   if (article.thumbnail) {
     const thumbUrl = article.thumbnail.startsWith('http')

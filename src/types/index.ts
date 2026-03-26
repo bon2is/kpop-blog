@@ -70,6 +70,7 @@ export interface SiteConfig {
   links: {
     twitter: string;
     instagram: string;
+    discord?: string;
   };
 }
 

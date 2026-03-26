@@ -8,6 +8,7 @@ export const siteConfig: SiteConfig = {
   links: {
     twitter: 'https://twitter.com/kpopdaily',
     instagram: 'https://instagram.com/kpopdaily',
+    discord: 'https://discord.gg/49mJaMvZya',
   },
 };
 
