@@ -139,10 +139,18 @@ jobs:
         run: npm run post-pinterest
         continue-on-error: true
 
+      - name: Post to Discord
+        if: steps.git-check.outputs.changes == 'true'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          NEXT_PUBLIC_SITE_URL: https://kpop.andxo.com
+        run: npm run post-discord
+        continue-on-error: true
+
       - name: Commit social tracking files
         if: steps.git-check.outputs.changes == 'true'
         run: |
-          git add content/.threads-posted.json content/.twitter-posted.json content/.bluesky-posted.json content/.pinterest-posted.json 2>/dev/null || true
+          git add content/.threads-posted.json content/.twitter-posted.json content/.bluesky-posted.json content/.pinterest-posted.json content/.discord-posted.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Update social media posted lists"
           git pull --rebase origin main || true
           git push || true
@@ -165,7 +173,7 @@ jobs:
           fi
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Sources:** Soompi, Koreaboo, Korea Herald" >> $GITHUB_STEP_SUMMARY
-          echo "**Social:** Threads, Twitter/X, Bluesky auto-posting" >> $GITHUB_STEP_SUMMARY
+          echo "**Social:** Threads, Twitter/X, Bluesky, Pinterest, Discord auto-posting" >> $GITHUB_STEP_SUMMARY
 
   # Deploy to GitHub Pages (optional - uncomment if using)
   # deploy:
