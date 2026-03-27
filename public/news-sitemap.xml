@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T09:20:32.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Jennie, Fashion, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jin-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T08:45:37.000Z</news:publication_date>
+      <news:title>BTS Jin Sparks Debate</news:title>
+      <news:keywords>BTS, Jin, Documentary, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-stuns-with-viral-proportions/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T07:45:12.000Z</news:publication_date>
+      <news:title>BLACKPINK Stuns with Viral Proportions</news:title>
+      <news:keywords>BLACKPINK, K-Pop, Body Positivity, Social Media, Idol Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-sparks-joy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T07:06:32.000Z</news:publication_date>
+      <news:title>BTS Sparks Joy</news:title>
+      <news:keywords>BTS, K-Pop, Social Media, Girl Group, Interaction</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-tablos-daughter-name-drops/</loc>
     <news:news>
       <news:publication>
@@ -107,6 +155,18 @@
       <news:publication_date>2026-03-26T19:54:27.000Z</news:publication_date>
       <news:title>BTS Jungkook Breaks Barriers</news:title>
       <news:keywords>BTS, BLACKPINK, Jungkook, K-Pop Collaborations</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/10cm-breaks-hearts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T16:35:27.000Z</news:publication_date>
+      <news:title>10CM Breaks Hearts</news:title>
+      <news:keywords>Concert, Tour, 10CM, Asia Tour</news:keywords>
     </news:news>
   </url>
   <url>
@@ -371,66 +431,6 @@
       <news:publication_date>2026-03-25T11:46:30.000Z</news:publication_date>
       <news:title>SM Entertainment&apos;s Upcoming Boy Group Faces Sasaeng Incidents Before Debut</news:title>
       <news:keywords>Debut, SM Entertainment, Sasaeng, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-update-sparks-outrage-and-concern-over-minjis-futur/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T10:57:39.000Z</news:publication_date>
-      <news:title>NewJeans Update Sparks Outrage and Concern Over Minji&apos;s Future</news:title>
-      <news:keywords>NewJeans, Debut, Minji, K-Pop Group Dynamics, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-under-fire-the-bts-lyrics-controversy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T10:32:07.000Z</news:publication_date>
-      <news:title>HYBE Under Fire: The BTS Lyrics Controversy</news:title>
-      <news:keywords>BTS, HYBE, Comeback, Charts, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-solo-sales-spark-debate-on-member-popularity/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T10:20:11.000Z</news:publication_date>
-      <news:title>BTS Solo Sales Spark Debate on Member Popularity</news:title>
-      <news:keywords>BTS, Solo Debut, K-Pop Charts, Album Sales, Fandom</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/unpacking-the-timeless-theme-of-love-in-c-dramas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T07:05:50.000Z</news:publication_date>
-      <news:title>Unpacking the Timeless Theme of Love in C-Dramas</news:title>
-      <news:keywords>K-Drama, C-Drama, Romance, Love, Relationships</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-takes-center-stage-inkigayo-on-the-go-unveils-its-firs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T06:33:33.000Z</news:publication_date>
-      <news:title>K-Pop Takes Center Stage: &apos;Inkigayo ON THE GO&apos; Unveils Its First Lineup</news:title>
-      <news:keywords>NCT, TXT, Concert, Inkigayo ON THE GO, K-Pop Concert</news:keywords>
     </news:news>
   </url>
 </urlset>
