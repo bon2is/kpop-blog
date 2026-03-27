@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-tablos-daughter-name-drops/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T05:07:35.000Z</news:publication_date>
+      <news:title>BTS: Tablo&apos;s Daughter Name-Drops</news:title>
+      <news:keywords>BTS, Tablo, Epik High, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-rm-opens-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T04:00:23.000Z</news:publication_date>
+      <news:title>BTS RM Opens Up</news:title>
+      <news:keywords>BTS, RM, Jungkook, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kim-hyang-gi-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -14,6 +38,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/jinyoung-minju-face-new-challenges/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T02:21:54.000Z</news:publication_date>
+      <news:title>Jinyoung &amp; Minju Face New Challenges</news:title>
+      <news:keywords>GOT7, K-Drama, Jinyoung, Kim Min Ju, Still Shining</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-reveals-7-swim-remixes/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +59,30 @@
       <news:publication_date>2026-03-27T01:26:05.000Z</news:publication_date>
       <news:title>BTS Reveals 7 &apos;SWIM&apos; Remixes</news:title>
       <news:keywords>BTS, Album, SWIM, Remix Album, KEEP SWIMMING</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T00:21:07.000Z</news:publication_date>
+      <news:title>ENHYPEN Shocks Fans</news:title>
+      <news:keywords>ENHYPEN, Heeseung, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/boynextdoor-makes-may-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T22:40:46.000Z</news:publication_date>
+      <news:title>BOYNEXTDOOR Makes May Comeback</news:title>
+      <news:keywords>BOYNEXTDOOR, Comeback, Debut, K-Pop, May Return</news:keywords>
     </news:news>
   </url>
   <url>
@@ -371,42 +431,6 @@
       <news:publication_date>2026-03-25T06:33:33.000Z</news:publication_date>
       <news:title>K-Pop Takes Center Stage: &apos;Inkigayo ON THE GO&apos; Unveils Its First Lineup</news:title>
       <news:keywords>NCT, TXT, Concert, Inkigayo ON THE GO, K-Pop Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/byeon-woo-seoks-regal-transformation-in-perfect-crown-what-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T05:50:43.000Z</news:publication_date>
-      <news:title>Byeon Woo Seok&apos;s Regal Transformation in &quot;Perfect Crown&quot;: What It Means for His Career</news:title>
-      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance, MBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jin-left-out-of-arirang-credits-sparks-controversy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T05:10:20.000Z</news:publication_date>
-      <news:title>BTS’s Jin Left Out Of “Arirang” Credits Sparks Controversy</news:title>
-      <news:keywords>BTS, Jin, Credits, K-Pop, Fairness</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actors-shocking-music-debut-exploring-the-unexpected-turn/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T04:06:59.000Z</news:publication_date>
-      <news:title>Actor&apos;s Shocking Music Debut: Exploring the Unexpected Turn</news:title>
-      <news:keywords>Debut, ActorDebut, KPopCrossover, MusicDebut, KoreanEntertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
