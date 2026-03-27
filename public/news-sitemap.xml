@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkook-sparks-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T11:25:10.000Z</news:publication_date>
+      <news:title>BTS Jungkook Sparks Fury</news:title>
+      <news:keywords>BTS, Jungkook, Documentary, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -419,18 +431,6 @@
       <news:publication_date>2026-03-25T14:59:37.000Z</news:publication_date>
       <news:title>“Humint” Ignites Global Buzz Ahead of Netflix Premiere</news:title>
       <news:keywords>K-Drama, Netflix, Ryoo Seung-wan, Thriller, Humint</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sm-entertainments-upcoming-boy-group-faces-sasaeng-incidents/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T11:46:30.000Z</news:publication_date>
-      <news:title>SM Entertainment&apos;s Upcoming Boy Group Faces Sasaeng Incidents Before Debut</news:title>
-      <news:keywords>Debut, SM Entertainment, Sasaeng, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
