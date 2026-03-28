@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 11:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 14:32:01 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,37 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>IVE Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/ive-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/ive-sparks-debate/</guid>
+      <description>IVE member&apos;s bold look shocks fans!</description>
+      <pubDate>Sat, 28 Mar 2026 13:47:38 GMT</pubDate>
+      <category>fashion</category>
+      <category>IVE</category>
+      <category>K-Pop Fashion</category>
+      <category>Comeback</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/ive-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/ive-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/ive-sparks-debate.webp" />
+    </item>
+    <item>
+      <title>BTS Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/bts-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-sparks-debate/</guid>
+      <description>BTS&apos; future with HYBE uncertain</description>
+      <pubDate>Sat, 28 Mar 2026 12:41:48 GMT</pubDate>
+      <category>celebrity</category>
+      <category>BTS</category>
+      <category>HYBE</category>
+      <category>Comeback</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" />
+    </item>
     <item>
       <title>5th Gen Girls Shock Fans</title>
       <link>https://kpop.andxo.com/article/5th-gen-girls-shock-fans/</link>
@@ -63,23 +94,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/bts-blackpink-win-big.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/bts-blackpink-win-big.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/bts-blackpink-win-big.webp" />
-    </item>
-    <item>
-      <title>BTS Sparks Debate</title>
-      <link>https://kpop.andxo.com/article/bts-sparks-debate/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-sparks-debate/</guid>
-      <description>ARMYs under fire for behavior</description>
-      <pubDate>Sat, 28 Mar 2026 04:58:50 GMT</pubDate>
-      <category>celebrity</category>
-      <category>BTS</category>
-      <category>ARMY</category>
-      <category>The Tonight Show With Jimmy Fallon</category>
-      <category>Fan Behavior</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" />
     </item>
     <item>
       <title>IVE Breaks Barriers</title>
@@ -1669,23 +1683,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/top-actresss-mother-in-law-sparks-controversy-with-bts-comme.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/top-actresss-mother-in-law-sparks-controversy-with-bts-comme.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/top-actresss-mother-in-law-sparks-controversy-with-bts-comme.webp" />
-    </item>
-    <item>
-      <title>CLOSE YOUR EYES Announces April Comeback</title>
-      <link>https://kpop.andxo.com/article/close-your-eyes-announces-april-comeback/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/close-your-eyes-announces-april-comeback/</guid>
-      <description>The K-Pop group CLOSE YOUR EYES is set to release a new album in April, marking a significant moment in their career.</description>
-      <pubDate>Sun, 22 Mar 2026 23:37:24 GMT</pubDate>
-      <category>award</category>
-      <category>Comeback</category>
-      <category>Awards</category>
-      <category>Album</category>
-      <category>CLOSE YOUR EYES</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/close-your-eyes-announces-april-comeback.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/close-your-eyes-announces-april-comeback.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/close-your-eyes-announces-april-comeback.webp" />
     </item>
   </channel>
 </rss>

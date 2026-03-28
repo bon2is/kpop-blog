@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T13:47:38.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, K-Pop Fashion, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T12:41:48.000Z</news:publication_date>
+      <news:title>BTS Sparks Debate</news:title>
+      <news:keywords>BTS, HYBE, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/5th-gen-girls-shock-fans/</loc>
     <news:news>
       <news:publication>
@@ -35,18 +59,6 @@
       <news:publication_date>2026-03-28T05:26:32.000Z</news:publication_date>
       <news:title>BTS, BLACKPINK Win Big</news:title>
       <news:keywords>BTS, BLACKPINK, Stray Kids, Awards, iHeartRadio Music Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T04:58:50.000Z</news:publication_date>
-      <news:title>BTS Sparks Debate</news:title>
-      <news:keywords>BTS, ARMY, The Tonight Show With Jimmy Fallon, Fan Behavior, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -335,18 +347,6 @@
       <news:publication_date>2026-03-26T16:10:53.000Z</news:publication_date>
       <news:title>Park Boyoung Shocks Fans</news:title>
       <news:keywords>Park Boyoung, Disney+, K-Thriller, Gold Land, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/viral-video-of-top-male-k-pop-idol-unclasping-a-bra-incites-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T11:35:18.000Z</news:publication_date>
-      <news:title>Viral Video Of Top Male K-Pop Idol Unclasping A Bra Incites Major Disgust</news:title>
-      <news:keywords>K-Pop, Consent, Respect, Scandal, Idol Culture</news:keywords>
     </news:news>
   </url>
 </urlset>
