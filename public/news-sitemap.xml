@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-blackpink-win-big/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T05:26:32.000Z</news:publication_date>
+      <news:title>BTS, BLACKPINK Win Big</news:title>
+      <news:keywords>BTS, BLACKPINK, Stray Kids, Awards, iHeartRadio Music Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T04:58:50.000Z</news:publication_date>
+      <news:title>BTS Sparks Debate</news:title>
+      <news:keywords>BTS, ARMY, The Tonight Show With Jimmy Fallon, Fan Behavior, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-breaks-barriers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T04:30:54.000Z</news:publication_date>
+      <news:title>IVE Breaks Barriers</news:title>
+      <news:keywords>IVE, Inclusion, K-Pop, Diversity, Representation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5th-gen-idol-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T03:47:01.000Z</news:publication_date>
+      <news:title>5th Gen Idol Sparks Debate</news:title>
+      <news:keywords>5th Gen Idol, Vaping Controversy, K-Pop Scandals, Idol Reputation, K-Pop Industry</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ros-breaks-record/</loc>
     <news:news>
       <news:publication>
@@ -119,6 +167,18 @@
       <news:publication_date>2026-03-27T06:56:19.000Z</news:publication_date>
       <news:title>MONSTA X Unfolds New Era</news:title>
       <news:keywords>MONSTA X, Album, MV, Unfold, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kangmin-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T06:54:51.000Z</news:publication_date>
+      <news:title>KANGMIN Breaks Silence</news:title>
+      <news:keywords>Debut, Album, KANGMIN, VERIVERY, Solo Debut</news:keywords>
     </news:news>
   </url>
   <url>
@@ -371,18 +431,6 @@
       <news:publication_date>2026-03-26T05:58:42.000Z</news:publication_date>
       <news:title>BTS&apos;s Gwanghwamun Stage: Unpacking the Wedding Day Disruptions</news:title>
       <news:keywords>BTS, Concert, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/goblin-reunites-celebrating-a-decade-of-memories/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T05:18:33.000Z</news:publication_date>
-      <news:title>Goblin Reunites: Celebrating a Decade of Memories</news:title>
-      <news:keywords>K-Drama, Gong Yoo, Kim Go Eun, Reunion, Anniversary Special</news:keywords>
     </news:news>
   </url>
 </urlset>
