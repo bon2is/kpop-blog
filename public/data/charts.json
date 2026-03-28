@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T14:50:05.804Z",
+  "updatedAt": "2026-03-28T03:32:49.376Z",
   "unified": [
     {
       "rank": 1,
@@ -7,37 +7,37 @@
       "artist": "Hearts2Hearts",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260223_C7D11C6388097EC0E27C783AF95573C8.jpg",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20RUDE!%20MV%20official",
-      "score": 163.8,
+      "score": 160.5,
       "chartRanks": {
         "circle": 1,
-        "spotify": 1,
+        "spotify": 4,
         "youtube": 2
       }
     },
     {
       "rank": 2,
-      "title": "404 (New Era)",
-      "artist": "KiiiKiii",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260129_320A98E3BC79AEB90CEFB7E622189C58.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=KiiiKiii%20404%20(New%20Era)%20MV%20official",
-      "score": 157.2,
-      "chartRanks": {
-        "circle": 2,
-        "spotify": 5,
-        "youtube": 3
-      }
-    },
-    {
-      "rank": 3,
       "title": "0+0",
       "artist": "한로로",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250813_F0F7CC6DAE5927468BEBBA13FE39F439.jpg",
       "youtubeUrl": "https://www.youtube.com/results?search_query=%ED%95%9C%EB%A1%9C%EB%A1%9C%200%2B0%20MV%20official",
-      "score": 153.9,
+      "score": 149.5,
       "chartRanks": {
         "circle": 5,
-        "spotify": 2,
+        "spotify": 6,
         "youtube": 6
+      }
+    },
+    {
+      "rank": 3,
+      "title": "404 (New Era)",
+      "artist": "KiiiKiii",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260129_320A98E3BC79AEB90CEFB7E622189C58.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=KiiiKiii%20404%20(New%20Era)%20MV%20official",
+      "score": 145.1,
+      "chartRanks": {
+        "circle": 2,
+        "spotify": 16,
+        "youtube": 3
       }
     },
     {
@@ -46,10 +46,10 @@
       "artist": "IVE",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260212_76B514D0AC2BA3D6F6BCC29A31D866E4.jpg",
       "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BANG%20BANG%20MV%20official",
-      "score": 150.9,
+      "score": 131.1,
       "chartRanks": {
         "circle": 3,
-        "spotify": 12,
+        "spotify": 30,
         "youtube": 1
       }
     },
@@ -59,91 +59,28 @@
       "artist": "EPIK HIGH",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20211208_EBF0AA6A80AE70BF707EF9235CC276BB.jpg",
       "youtubeUrl": "https://www.youtube.com/results?search_query=EPIK%20HIGH%20Love%20Love%20Love%20MV%20official",
-      "score": 125.80000000000001,
+      "score": 106,
       "chartRanks": {
         "circle": 12,
-        "spotify": 7,
+        "spotify": 25,
         "youtube": 19
       }
     },
     {
       "rank": 6,
-      "title": "BLACKHOLE",
-      "artist": "IVE",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260226_B1050348BC06B8CE4F6C3FA8D32446F4.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BLACKHOLE%20MV%20official",
-      "score": 124.9,
-      "chartRanks": {
-        "circle": 11,
-        "spotify": 24,
-        "youtube": 5
-      }
-    },
-    {
-      "rank": 7,
       "title": "Drowning",
       "artist": "WOODZ",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20230503_E7C53ADD71BFA1DDDF64AD917065DB60.jpg",
       "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official",
-      "score": 124.69999999999999,
+      "score": 101.6,
       "chartRanks": {
         "circle": 8,
-        "spotify": 28,
+        "spotify": 49,
         "youtube": 4
       }
     },
     {
-      "rank": 8,
-      "title": "GO",
-      "artist": "BLACKPINK",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260302_28C69EE2DD9E7012A6A55017A6063356.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20GO%20MV%20official",
-      "score": 110.19999999999999,
-      "chartRanks": {
-        "circle": 26,
-        "spotify": 15,
-        "youtube": 13
-      }
-    },
-    {
-      "rank": 9,
-      "title": "Blue Valentine",
-      "artist": "NMIXX",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251016_272870CA6C83789274133BBB36EBA9F2.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Blue%20Valentine%20MV%20official",
-      "score": 106.9,
-      "chartRanks": {
-        "circle": 16,
-        "spotify": 26,
-        "youtube": 14
-      }
-    },
-    {
-      "rank": 10,
-      "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
-      "artist": "HAON",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HAON%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official",
-      "score": 105.6,
-      "chartRanks": {
-        "spotify": 3,
-        "youtube": 7
-      }
-    },
-    {
-      "rank": 11,
-      "title": "FOCUS",
-      "artist": "Hearts2Hearts",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251023_8B360FC5A25EC39586ED7B321C1A6902.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20FOCUS%20MV%20official",
-      "score": 99.6,
-      "chartRanks": {
-        "circle": 18,
-        "spotify": 9,
-        "youtube": 34
-      }
-    },
-    {
-      "rank": 12,
+      "rank": 7,
       "title": "사랑하게 될 거야",
       "artist": "한로로",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250716_0D9496CCFAE160295A1523F28C1D19B5.jpg",
@@ -155,7 +92,30 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 8,
+      "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
+      "artist": "HAON",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HAON%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official",
+      "score": 96.8,
+      "chartRanks": {
+        "spotify": 11,
+        "youtube": 7
+      }
+    },
+    {
+      "rank": 9,
+      "title": "BLACKHOLE",
+      "artist": "IVE",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260226_B1050348BC06B8CE4F6C3FA8D32446F4.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BLACKHOLE%20MV%20official",
+      "score": 95.19999999999999,
+      "chartRanks": {
+        "circle": 11,
+        "youtube": 5
+      }
+    },
+    {
+      "rank": 10,
       "title": "Good Goodbye",
       "artist": "HWASA",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251018_957C63B3E0C65EB4A0BFD4FCAFDCD940.jpg",
@@ -167,33 +127,46 @@
       }
     },
     {
-      "rank": 14,
-      "title": "IRIS OUT",
-      "artist": "Kenshi Yonezu",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250924_3A9C9C56F35DDDC8414F13649163ABBB.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20IRIS%20OUT%20MV%20official",
-      "score": 89.4,
+      "rank": 11,
+      "title": "GO",
+      "artist": "BLACKPINK",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260302_28C69EE2DD9E7012A6A55017A6063356.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20GO%20MV%20official",
+      "score": 82.7,
       "chartRanks": {
-        "circle": 46,
-        "spotify": 19,
-        "youtube": 10
+        "circle": 26,
+        "spotify": 40,
+        "youtube": 13
       }
     },
     {
-      "rank": 15,
-      "title": "STYLE",
+      "rank": 12,
+      "title": "Blue Valentine",
+      "artist": "NMIXX",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251016_272870CA6C83789274133BBB36EBA9F2.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Blue%20Valentine%20MV%20official",
+      "score": 82.69999999999999,
+      "chartRanks": {
+        "circle": 16,
+        "spotify": 48,
+        "youtube": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "FOCUS",
       "artist": "Hearts2Hearts",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250621_E56A9CB7C09D675FB5B75998358B5F37.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20STYLE%20MV%20official",
-      "score": 89.1,
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251023_8B360FC5A25EC39586ED7B321C1A6902.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20FOCUS%20MV%20official",
+      "score": 79.80000000000001,
       "chartRanks": {
-        "circle": 22,
-        "spotify": 16,
-        "youtube": 33
+        "circle": 18,
+        "spotify": 27,
+        "youtube": 34
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "title": "멸종위기사랑",
       "artist": "이찬혁",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250723_62DA3C9082B7D8DE87F871E20D4628BE.jpg",
@@ -205,7 +178,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "title": "뛰어(JUMP)",
       "artist": "BLACKPINK",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250714_ABA06AC2C43AC235D7DE6C32B24E383B.jpg",
@@ -217,31 +190,33 @@
       }
     },
     {
+      "rank": 16,
+      "title": "STYLE",
+      "artist": "Hearts2Hearts",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250621_E56A9CB7C09D675FB5B75998358B5F37.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20STYLE%20MV%20official",
+      "score": 72.6,
+      "chartRanks": {
+        "circle": 22,
+        "spotify": 31,
+        "youtube": 33
+      }
+    },
+    {
+      "rank": 17,
+      "title": "IRIS OUT",
+      "artist": "Kenshi Yonezu",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250924_3A9C9C56F35DDDC8414F13649163ABBB.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20IRIS%20OUT%20MV%20official",
+      "score": 69.6,
+      "chartRanks": {
+        "circle": 46,
+        "spotify": 37,
+        "youtube": 10
+      }
+    },
+    {
       "rank": 18,
-      "title": "NOT CUTE ANYMORE",
-      "artist": "ILLIT",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251127_BD248D5A8F644E7194859DA074EDFF79.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20NOT%20CUTE%20ANYMORE%20MV%20official",
-      "score": 73.5,
-      "chartRanks": {
-        "circle": 25,
-        "spotify": 22,
-        "youtube": 38
-      }
-    },
-    {
-      "rank": 19,
-      "title": "SSAK (Feat. Loco) (Prod. By GRAY)",
-      "artist": "OXYNOVA",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=OXYNOVA%20SSAK%20(Feat.%20Loco)%20(Prod.%20By%20GRAY)%20MV%20official",
-      "score": 65.9,
-      "chartRanks": {
-        "spotify": 14,
-        "youtube": 30
-      }
-    },
-    {
-      "rank": 20,
       "title": "like JENNIE",
       "artist": "JENNIE",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250310_453C780EA118BDF1F65F8418895F0254.jpg",
@@ -253,7 +228,37 @@
       }
     },
     {
+      "rank": 19,
+      "title": "SWIM",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20SWIM%20MV%20official",
+      "score": 55.00000000000001,
+      "chartRanks": {
+        "spotify": 1
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Body to Body",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Body%20to%20Body%20MV%20official",
+      "score": 53.900000000000006,
+      "chartRanks": {
+        "spotify": 2
+      }
+    },
+    {
       "rank": 21,
+      "title": "KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki)",
+      "artist": "NOWIMYOUNG",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20KISS%20KISS%20KISS%20(Feat.%20SUNWOO%20(THE%20BOYZ))%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official",
+      "score": 52.800000000000004,
+      "chartRanks": {
+        "spotify": 3
+      }
+    },
+    {
+      "rank": 22,
       "title": "SPAGHETTI (feat. j-hope of BTS)",
       "artist": "LE SSERAFIM",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251027_CFB8C016743C4025CC5D8A2E4A0C1F15.jpg",
@@ -265,28 +270,7 @@
       }
     },
     {
-      "rank": 22,
-      "title": "Money Checks (Prod. by Hukky Shibaseki)",
-      "artist": "NOWIMYOUNG",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20Money%20Checks%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official",
-      "score": 51.900000000000006,
-      "chartRanks": {
-        "spotify": 6,
-        "youtube": 49
-      }
-    },
-    {
       "rank": 23,
-      "title": "Landing in Love",
-      "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official",
-      "score": 51.7,
-      "chartRanks": {
-        "spotify": 4
-      }
-    },
-    {
-      "rank": 24,
       "title": "너에게 닿기를",
       "artist": "10cm",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251231_819793CC4BBC4C8B1212C5A69D15A1BF.jpg",
@@ -298,7 +282,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "그대 작은 나의 세상이 되어",
       "artist": "카더가든",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260209_34AF0A9BF8DA530A8E4D43849EF399A3.jpg",
@@ -310,18 +294,40 @@
       }
     },
     {
-      "rank": 26,
-      "title": "JANE DOE",
-      "artist": "Kenshi Yonezu",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20JANE%20DOE%20MV%20official",
-      "score": 50.1,
+      "rank": 25,
+      "title": "Hooligan",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Hooligan%20MV%20official",
+      "score": 50.6,
       "chartRanks": {
-        "spotify": 36,
-        "youtube": 23
+        "spotify": 5
+      }
+    },
+    {
+      "rank": 26,
+      "title": "NOT CUTE ANYMORE",
+      "artist": "ILLIT",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251127_BD248D5A8F644E7194859DA074EDFF79.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20NOT%20CUTE%20ANYMORE%20MV%20official",
+      "score": 49.300000000000004,
+      "chartRanks": {
+        "circle": 25,
+        "spotify": 44,
+        "youtube": 38
       }
     },
     {
       "rank": 27,
+      "title": "FYA",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20FYA%20MV%20official",
+      "score": 48.400000000000006,
+      "chartRanks": {
+        "spotify": 7
+      }
+    },
+    {
+      "rank": 28,
       "title": "THAT'S A NO NO(Live)",
       "artist": "ITZY",
       "youtubeUrl": "https://www.youtube.com/results?search_query=ITZY%20THAT'S%20A%20NO%20NO(Live)%20MV%20official",
@@ -331,17 +337,17 @@
       }
     },
     {
-      "rank": 28,
-      "title": "Don’t Say You Love Me",
-      "artist": "Jin",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Jin%20Don%E2%80%99t%20Say%20You%20Love%20Me%20MV%20official",
+      "rank": 29,
+      "title": "Aliens",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Aliens%20MV%20official",
       "score": 47.300000000000004,
       "chartRanks": {
         "spotify": 8
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "캐치 캐치",
       "artist": "YENA",
       "youtubeUrl": "https://www.youtube.com/results?search_query=YENA%20%EC%BA%90%EC%B9%98%20%EC%BA%90%EC%B9%98%20MV%20official",
@@ -351,17 +357,27 @@
       }
     },
     {
-      "rank": 30,
-      "title": "Who",
-      "artist": "Jimin",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Jimin%20Who%20MV%20official",
+      "rank": 31,
+      "title": "Like Animals",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Like%20Animals%20MV%20official",
+      "score": 46.2,
+      "chartRanks": {
+        "spotify": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "2.0",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%202.0%20MV%20official",
       "score": 45.1,
       "chartRanks": {
         "spotify": 10
       }
     },
     {
-      "rank": 31,
+      "rank": 33,
       "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
       "artist": "김하온 (HAON), Nosun, Raf Sandou, Marv, 정준혁",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260311_07382B24CC89FCA750BC103205CEBEA4.jpg",
@@ -372,7 +388,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 34,
       "title": "SWIM",
       "artist": "방탄소년단",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_DF7D18A5E9A0B794BF5770C4952A34AC.jpg",
@@ -383,43 +399,20 @@
       }
     },
     {
-      "rank": 33,
-      "title": "Seven",
-      "artist": "Jung Kook",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official",
-      "score": 44,
-      "chartRanks": {
-        "spotify": 11
-      }
-    },
-    {
-      "rank": 34,
-      "title": "Whiplash",
-      "artist": "aespa",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20241024_6C1B2F849AE48EA65004861E13C2398C.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20Whiplash%20MV%20official",
-      "score": 43.8,
-      "chartRanks": {
-        "circle": 27,
-        "spotify": 33
-      }
-    },
-    {
       "rank": 35,
-      "title": "사랑은 봄비처럼...이별은 겨울비처럼",
-      "artist": "Lim Hyun Jung",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Hyun%20Jung%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EB%B4%84%EB%B9%84%EC%B2%98%EB%9F%BC...%EC%9D%B4%EB%B3%84%EC%9D%80%20%EA%B2%A8%EC%9A%B8%EB%B9%84%EC%B2%98%EB%9F%BC%20MV%20official",
-      "score": 42.1,
+      "title": "Merry Go Round",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Merry%20Go%20Round%20MV%20official",
+      "score": 42.900000000000006,
       "chartRanks": {
-        "spotify": 40,
-        "youtube": 26
+        "spotify": 12
       }
     },
     {
       "rank": 36,
-      "title": "Let Me Love My Youth",
+      "title": "Landing in Love",
       "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official",
       "score": 41.800000000000004,
       "chartRanks": {
         "spotify": 13
@@ -427,6 +420,37 @@
     },
     {
       "rank": 37,
+      "title": "SSAK (Feat. Loco) (Prod. By GRAY)",
+      "artist": "OXYNOVA",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=OXYNOVA%20SSAK%20(Feat.%20Loco)%20(Prod.%20By%20GRAY)%20MV%20official",
+      "score": 41.7,
+      "chartRanks": {
+        "spotify": 36,
+        "youtube": 30
+      }
+    },
+    {
+      "rank": 38,
+      "title": "they don’t know ’bout us",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20they%20don%E2%80%99t%20know%20%E2%80%99bout%20us%20MV%20official",
+      "score": 40.7,
+      "chartRanks": {
+        "spotify": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "NORMAL",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20NORMAL%20MV%20official",
+      "score": 39.6,
+      "chartRanks": {
+        "spotify": 15
+      }
+    },
+    {
+      "rank": 40,
       "title": "Sadder Than Yesterday",
       "artist": "Woody",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Woody%20Sadder%20Than%20Yesterday%20MV%20official",
@@ -436,7 +460,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 41,
       "title": "타임캡슐",
       "artist": "다비치",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251019_CA292B27E21430AA736AD38A60D84E59.jpg",
@@ -447,28 +471,17 @@
       }
     },
     {
-      "rank": 39,
-      "title": "Golden",
-      "artist": "HUNTR/X",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HUNTR%2FX%20Golden%20MV%20official",
-      "score": 37.5,
-      "chartRanks": {
-        "spotify": 42,
-        "youtube": 28
-      }
-    },
-    {
-      "rank": 40,
-      "title": "아크라포빅 (Akrapovic)",
-      "artist": "hamo",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=hamo%20%EC%95%84%ED%81%AC%EB%9D%BC%ED%8F%AC%EB%B9%85%20(Akrapovic)%20MV%20official",
+      "rank": 42,
+      "title": "Who",
+      "artist": "Jimin",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Jimin%20Who%20MV%20official",
       "score": 37.400000000000006,
       "chartRanks": {
         "spotify": 17
       }
     },
     {
-      "rank": 41,
+      "rank": 43,
       "title": "입춘",
       "artist": "HANRORO",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20%EC%9E%85%EC%B6%98%20MV%20official",
@@ -478,17 +491,17 @@
       }
     },
     {
-      "rank": 42,
-      "title": "yours",
-      "artist": "데이먼스 이어 Damons year",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A8%BC%EC%8A%A4%20%EC%9D%B4%EC%96%B4%20Damons%20year%20yours%20MV%20official",
+      "rank": 44,
+      "title": "One More Night",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20One%20More%20Night%20MV%20official",
       "score": 36.300000000000004,
       "chartRanks": {
         "spotify": 18
       }
     },
     {
-      "rank": 43,
+      "rank": 45,
       "title": "Golden",
       "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250625_ECFE2571549F5CD2C9211F7155E24CBD.jpg",
@@ -499,7 +512,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 46,
       "title": "As Flowers Bloom and Fall",
       "artist": "HANZ",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HANZ%20As%20Flowers%20Bloom%20and%20Fall%20MV%20official",
@@ -509,7 +522,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 47,
       "title": "미워 (Ego)",
       "artist": "CRUSH",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20231117_DFAC075907F50A988D69F9480C771681.jpg",
@@ -521,17 +534,27 @@
       }
     },
     {
-      "rank": 46,
-      "title": "My whole world",
-      "artist": "Car, the garden",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Car%2C%20the%20garden%20My%20whole%20world%20MV%20official",
+      "rank": 48,
+      "title": "Into the Sun",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Into%20the%20Sun%20MV%20official",
+      "score": 35.2,
+      "chartRanks": {
+        "spotify": 19
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Please",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Please%20MV%20official",
       "score": 34.1,
       "chartRanks": {
         "spotify": 20
       }
     },
     {
-      "rank": 47,
+      "rank": 50,
       "title": "Body to Body",
       "artist": "방탄소년단",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_4D26FF24DC5EAB1494F30E281DFA4D89.jpg",
@@ -539,38 +562,6 @@
       "score": 34,
       "chartRanks": {
         "circle": 17
-      }
-    },
-    {
-      "rank": 48,
-      "title": "Ego",
-      "artist": "Crush",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Crush%20Ego%20MV%20official",
-      "score": 33,
-      "chartRanks": {
-        "spotify": 21
-      }
-    },
-    {
-      "rank": 49,
-      "title": "FAMOUS",
-      "artist": "ALLDAY PROJECT",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250626_51F1C0B619E826AF33738B314AB773F9.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ALLDAY%20PROJECT%20FAMOUS%20MV%20official",
-      "score": 32.2,
-      "chartRanks": {
-        "circle": 38,
-        "youtube": 35
-      }
-    },
-    {
-      "rank": 50,
-      "title": "TIME CAPSULE",
-      "artist": "DAVICHI",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=DAVICHI%20TIME%20CAPSULE%20MV%20official",
-      "score": 31.2,
-      "chartRanks": {
-        "youtube": 25
       }
     }
   ],
@@ -929,303 +920,303 @@
   "spotify": [
     {
       "rank": 1,
+      "title": "SWIM",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20SWIM%20MV%20official"
+    },
+    {
+      "rank": 2,
+      "title": "Body to Body",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Body%20to%20Body%20MV%20official"
+    },
+    {
+      "rank": 3,
+      "title": "KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki)",
+      "artist": "NOWIMYOUNG",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20KISS%20KISS%20KISS%20(Feat.%20SUNWOO%20(THE%20BOYZ))%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official"
+    },
+    {
+      "rank": 4,
       "title": "RUDE!",
       "artist": "Hearts2Hearts",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20RUDE!%20MV%20official"
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "title": "Hooligan",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Hooligan%20MV%20official"
+    },
+    {
+      "rank": 6,
       "title": "0+0",
       "artist": "HANRORO",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%200%2B0%20MV%20official"
     },
     {
-      "rank": 3,
+      "rank": 7,
+      "title": "FYA",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20FYA%20MV%20official"
+    },
+    {
+      "rank": 8,
+      "title": "Aliens",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Aliens%20MV%20official"
+    },
+    {
+      "rank": 9,
+      "title": "Like Animals",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Like%20Animals%20MV%20official"
+    },
+    {
+      "rank": 10,
+      "title": "2.0",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%202.0%20MV%20official"
+    },
+    {
+      "rank": 11,
       "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
       "artist": "HAON",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HAON%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official"
     },
     {
-      "rank": 4,
+      "rank": 12,
+      "title": "Merry Go Round",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Merry%20Go%20Round%20MV%20official"
+    },
+    {
+      "rank": 13,
       "title": "Landing in Love",
       "artist": "HANRORO",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official"
     },
     {
-      "rank": 5,
+      "rank": 14,
+      "title": "they don’t know ’bout us",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20they%20don%E2%80%99t%20know%20%E2%80%99bout%20us%20MV%20official"
+    },
+    {
+      "rank": 15,
+      "title": "NORMAL",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20NORMAL%20MV%20official"
+    },
+    {
+      "rank": 16,
       "title": "404 (New Era)",
       "artist": "KiiiKiii",
       "youtubeUrl": "https://www.youtube.com/results?search_query=KiiiKiii%20404%20(New%20Era)%20MV%20official"
     },
     {
-      "rank": 6,
-      "title": "Money Checks (Prod. by Hukky Shibaseki)",
-      "artist": "NOWIMYOUNG",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20Money%20Checks%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official"
-    },
-    {
-      "rank": 7,
-      "title": "Love Love Love",
-      "artist": "Epik High",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Epik%20High%20Love%20Love%20Love%20MV%20official"
-    },
-    {
-      "rank": 8,
-      "title": "Don’t Say You Love Me",
-      "artist": "Jin",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Jin%20Don%E2%80%99t%20Say%20You%20Love%20Me%20MV%20official"
-    },
-    {
-      "rank": 9,
-      "title": "FOCUS",
-      "artist": "Hearts2Hearts",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20FOCUS%20MV%20official"
-    },
-    {
-      "rank": 10,
+      "rank": 17,
       "title": "Who",
       "artist": "Jimin",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Jimin%20Who%20MV%20official"
     },
     {
-      "rank": 11,
-      "title": "Seven",
-      "artist": "Jung Kook",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official"
+      "rank": 18,
+      "title": "One More Night",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20One%20More%20Night%20MV%20official"
     },
     {
-      "rank": 12,
-      "title": "BANG BANG",
-      "artist": "IVE",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BANG%20BANG%20MV%20official"
+      "rank": 19,
+      "title": "Into the Sun",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Into%20the%20Sun%20MV%20official"
     },
     {
-      "rank": 13,
-      "title": "Let Me Love My Youth",
-      "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official"
+      "rank": 20,
+      "title": "Please",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Please%20MV%20official"
     },
     {
-      "rank": 14,
-      "title": "SSAK (Feat. Loco) (Prod. By GRAY)",
-      "artist": "OXYNOVA",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=OXYNOVA%20SSAK%20(Feat.%20Loco)%20(Prod.%20By%20GRAY)%20MV%20official"
+      "rank": 21,
+      "title": "Don’t Say You Love Me",
+      "artist": "Jin",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Jin%20Don%E2%80%99t%20Say%20You%20Love%20Me%20MV%20official"
     },
     {
-      "rank": 15,
-      "title": "GO",
-      "artist": "BLACKPINK",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20GO%20MV%20official"
+      "rank": 22,
+      "title": "No. 29",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20No.%2029%20MV%20official"
     },
     {
-      "rank": 16,
-      "title": "STYLE",
-      "artist": "Hearts2Hearts",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20STYLE%20MV%20official"
-    },
-    {
-      "rank": 17,
+      "rank": 23,
       "title": "아크라포빅 (Akrapovic)",
       "artist": "hamo",
       "youtubeUrl": "https://www.youtube.com/results?search_query=hamo%20%EC%95%84%ED%81%AC%EB%9D%BC%ED%8F%AC%EB%B9%85%20(Akrapovic)%20MV%20official"
     },
     {
-      "rank": 18,
-      "title": "yours",
-      "artist": "데이먼스 이어 Damons year",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A8%BC%EC%8A%A4%20%EC%9D%B4%EC%96%B4%20Damons%20year%20yours%20MV%20official"
-    },
-    {
-      "rank": 19,
-      "title": "IRIS OUT",
-      "artist": "Kenshi Yonezu",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20IRIS%20OUT%20MV%20official"
-    },
-    {
-      "rank": 20,
-      "title": "My whole world",
-      "artist": "Car, the garden",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Car%2C%20the%20garden%20My%20whole%20world%20MV%20official"
-    },
-    {
-      "rank": 21,
-      "title": "Ego",
-      "artist": "Crush",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Crush%20Ego%20MV%20official"
-    },
-    {
-      "rank": 22,
-      "title": "NOT CUTE ANYMORE",
-      "artist": "ILLIT",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20NOT%20CUTE%20ANYMORE%20MV%20official"
-    },
-    {
-      "rank": 23,
-      "title": "Endangered Love",
-      "artist": "LEE CHANHYUK",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=LEE%20CHANHYUK%20Endangered%20Love%20MV%20official"
-    },
-    {
       "rank": 24,
-      "title": "BLACKHOLE",
-      "artist": "IVE",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BLACKHOLE%20MV%20official"
+      "title": "SKY PASS (Feat. BOBBY) (Prod. by GRAY)",
+      "artist": "OSUN",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=OSUN%20SKY%20PASS%20(Feat.%20BOBBY)%20(Prod.%20by%20GRAY)%20MV%20official"
     },
     {
       "rank": 25,
-      "title": "Forever Has Always Been",
-      "artist": "Redoor",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Redoor%20Forever%20Has%20Always%20Been%20MV%20official"
+      "title": "Love Love Love",
+      "artist": "Epik High",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Epik%20High%20Love%20Love%20Love%20MV%20official"
     },
     {
       "rank": 26,
-      "title": "Blue Valentine",
-      "artist": "NMIXX",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Blue%20Valentine%20MV%20official"
+      "title": "Money Checks (Prod. by Hukky Shibaseki)",
+      "artist": "NOWIMYOUNG",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20Money%20Checks%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official"
     },
     {
       "rank": 27,
-      "title": "Pretender",
-      "artist": "OFFICIAL HIGE DANDISM",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=OFFICIAL%20HIGE%20DANDISM%20Pretender%20MV%20official"
+      "title": "FOCUS",
+      "artist": "Hearts2Hearts",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20FOCUS%20MV%20official"
     },
     {
       "rank": 28,
-      "title": "Drowning",
-      "artist": "WOODZ",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official"
+      "title": "Seven",
+      "artist": "Jung Kook",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official"
     },
     {
       "rank": 29,
-      "title": "Winter Ahead",
-      "artist": "V",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=V%20Winter%20Ahead%20MV%20official"
+      "title": "Let Me Love My Youth",
+      "artist": "HANRORO",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official"
     },
     {
       "rank": 30,
-      "title": "JUMP",
-      "artist": "BLACKPINK",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20JUMP%20MV%20official"
+      "title": "BANG BANG",
+      "artist": "IVE",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BANG%20BANG%20MV%20official"
     },
     {
       "rank": 31,
-      "title": "We Are",
-      "artist": "Woo",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Woo%20We%20Are%20MV%20official"
+      "title": "STYLE",
+      "artist": "Hearts2Hearts",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20STYLE%20MV%20official"
     },
     {
       "rank": 32,
-      "title": "Eternal Moment",
-      "artist": "Lim Young Woong",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Young%20Woong%20Eternal%20Moment%20MV%20official"
+      "title": "MDLZ (With. PENOMECO)",
+      "artist": "Marv",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Marv%20MDLZ%20(With.%20PENOMECO)%20MV%20official"
     },
     {
       "rank": 33,
-      "title": "Whiplash",
-      "artist": "aespa",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20Whiplash%20MV%20official"
-    },
-    {
-      "rank": 34,
       "title": "Catch Catch",
       "artist": "YENA",
       "youtubeUrl": "https://www.youtube.com/results?search_query=YENA%20Catch%20Catch%20MV%20official"
     },
     {
+      "rank": 34,
+      "title": "Endangered Love",
+      "artist": "LEE CHANHYUK",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=LEE%20CHANHYUK%20Endangered%20Love%20MV%20official"
+    },
+    {
       "rank": 35,
-      "title": "Magnetic",
-      "artist": "ILLIT",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20Magnetic%20MV%20official"
+      "title": "yours",
+      "artist": "데이먼스 이어 Damons year",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A8%BC%EC%8A%A4%20%EC%9D%B4%EC%96%B4%20Damons%20year%20yours%20MV%20official"
     },
     {
       "rank": 36,
-      "title": "JANE DOE",
-      "artist": "Kenshi Yonezu",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20JANE%20DOE%20MV%20official"
+      "title": "SSAK (Feat. Loco) (Prod. By GRAY)",
+      "artist": "OXYNOVA",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=OXYNOVA%20SSAK%20(Feat.%20Loco)%20(Prod.%20By%20GRAY)%20MV%20official"
     },
     {
       "rank": 37,
-      "title": "KOLOK COLOK",
-      "artist": "KC",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=KC%20KOLOK%20COLOK%20MV%20official"
+      "title": "IRIS OUT",
+      "artist": "Kenshi Yonezu",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20IRIS%20OUT%20MV%20official"
     },
     {
       "rank": 38,
-      "title": "The Chase",
-      "artist": "Hearts2Hearts",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20The%20Chase%20MV%20official"
+      "title": "MAMA (Feat. UNEDUCATED KID) (Prod. by Lil Moshpit)",
+      "artist": "Lil Moshpit",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Lil%20Moshpit%20MAMA%20(Feat.%20UNEDUCATED%20KID)%20(Prod.%20by%20Lil%20Moshpit)%20MV%20official"
     },
     {
       "rank": 39,
-      "title": "Billyeoon Goyangi (Do the Dance)",
-      "artist": "ILLIT",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20Billyeoon%20Goyangi%20(Do%20the%20Dance)%20MV%20official"
+      "title": "MR. ROCKLEE (Feat. JUSTHIS) (Prod. by Lil Moshpit)",
+      "artist": "Lil Moshpit",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Lil%20Moshpit%20MR.%20ROCKLEE%20(Feat.%20JUSTHIS)%20(Prod.%20by%20Lil%20Moshpit)%20MV%20official"
     },
     {
       "rank": 40,
-      "title": "사랑은 봄비처럼...이별은 겨울비처럼",
-      "artist": "Lim Hyun Jung",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Hyun%20Jung%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EB%B4%84%EB%B9%84%EC%B2%98%EB%9F%BC...%EC%9D%B4%EB%B3%84%EC%9D%80%20%EA%B2%A8%EC%9A%B8%EB%B9%84%EC%B2%98%EB%9F%BC%20MV%20official"
+      "title": "GO",
+      "artist": "BLACKPINK",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BLACKPINK%20GO%20MV%20official"
     },
     {
       "rank": 41,
-      "title": "Heavenly Ever After",
-      "artist": "Lim Young Woong",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Young%20Woong%20Heavenly%20Ever%20After%20MV%20official"
+      "title": "My whole world",
+      "artist": "Car, the garden",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Car%2C%20the%20garden%20My%20whole%20world%20MV%20official"
     },
     {
       "rank": 42,
-      "title": "Golden",
-      "artist": "HUNTR/X",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HUNTR%2FX%20Golden%20MV%20official"
+      "title": "Ego",
+      "artist": "Crush",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Crush%20Ego%20MV%20official"
     },
     {
       "rank": 43,
-      "title": "LOV3 (Feat. Bryan Chase, Okasian)",
-      "artist": "Sik-K",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Sik-K%20LOV3%20(Feat.%20Bryan%20Chase%2C%20Okasian)%20MV%20official"
+      "title": "Forever Has Always Been",
+      "artist": "Redoor",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Redoor%20Forever%20Has%20Always%20Been%20MV%20official"
     },
     {
       "rank": 44,
-      "title": "Closely Far Away",
-      "artist": "Car, the garden",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Car%2C%20the%20garden%20Closely%20Far%20Away%20MV%20official"
+      "title": "NOT CUTE ANYMORE",
+      "artist": "ILLIT",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20NOT%20CUTE%20ANYMORE%20MV%20official"
     },
     {
       "rank": 45,
-      "title": "toxic till the end",
-      "artist": "ROSÉ",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ROS%C3%89%20toxic%20till%20the%20end%20MV%20official"
+      "title": "Pretender",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=OFFICIAL%20HIGE%20DANDISM%20Pretender%20MV%20official"
     },
     {
       "rank": 46,
-      "title": "너",
-      "artist": "SYSTEM SEOUL",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=SYSTEM%20SEOUL%20%EB%84%88%20MV%20official"
+      "title": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
+      "artist": "Fleeky Bang",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Fleeky%20Bang%20EMERGENCY%20(Feat.%20J-Tong)%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official"
     },
     {
       "rank": 47,
-      "title": "ULSSIGU",
-      "artist": "Lim Young Woong",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Young%20Woong%20ULSSIGU%20MV%20official"
+      "title": "We Are",
+      "artist": "Woo",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Woo%20We%20Are%20MV%20official"
     },
     {
       "rank": 48,
-      "title": "Really Like You",
-      "artist": "BABYMONSTER",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BABYMONSTER%20Really%20Like%20You%20MV%20official"
+      "title": "Blue Valentine",
+      "artist": "NMIXX",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Blue%20Valentine%20MV%20official"
     },
     {
       "rank": 49,
-      "title": "No Manners (Feat. Jay Park) (Prod. by Lil Moshpit)",
-      "artist": "Lil Moshpit",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lil%20Moshpit%20No%20Manners%20(Feat.%20Jay%20Park)%20(Prod.%20by%20Lil%20Moshpit)%20MV%20official"
+      "title": "Drowning",
+      "artist": "WOODZ",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official"
     },
     {
       "rank": 50,
-      "title": "Unread Message",
-      "artist": "Lim Young Woong",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Young%20Woong%20Unread%20Message%20MV%20official"
+      "title": "Whiplash",
+      "artist": "aespa",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20Whiplash%20MV%20official"
     }
   ],
   "youtube": [

@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ros-breaks-record/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T03:14:12.000Z</news:publication_date>
+      <news:title>Rosé Breaks Record</news:title>
+      <news:keywords>BLACKPINK, MV, Rosé, Bruno Mars, YouTube Records</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jisoo-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T01:24:36.000Z</news:publication_date>
+      <news:title>Jisoo Breaks Silence</news:title>
+      <news:keywords>BLACKPINK, Jisoo, Dating Philosophy, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-j-hope-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T13:30:05.000Z</news:publication_date>
+      <news:title>BTS J-Hope Breaks Silence</news:title>
+      <news:keywords>BTS, J-Hope, Documentary</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-jungkook-sparks-fury/</loc>
     <news:news>
       <news:publication>
@@ -38,6 +74,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/ioi-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T08:24:34.000Z</news:publication_date>
+      <news:title>I.O.I Makes History</news:title>
+      <news:keywords>Debut, Concert, Tour, I.O.I, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-stuns-with-viral-proportions/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-03-27T07:06:32.000Z</news:publication_date>
       <news:title>BTS Sparks Joy</news:title>
       <news:keywords>BTS, K-Pop, Social Media, Girl Group, Interaction</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/monsta-x-unfolds-new-era/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T06:56:19.000Z</news:publication_date>
+      <news:title>MONSTA X Unfolds New Era</news:title>
+      <news:keywords>MONSTA X, Album, MV, Unfold, Comeback</news:keywords>
     </news:news>
   </url>
   <url>
@@ -323,114 +383,6 @@
       <news:publication_date>2026-03-26T05:18:33.000Z</news:publication_date>
       <news:title>Goblin Reunites: Celebrating a Decade of Memories</news:title>
       <news:keywords>K-Drama, Gong Yoo, Kim Go Eun, Reunion, Anniversary Special</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twices-chaeyoung-to-modify-upcoming-scheduled-activities-due/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T01:26:23.000Z</news:publication_date>
-      <news:title>TWICE’s Chaeyoung To Modify Upcoming Scheduled Activities Due To Health</news:title>
-      <news:keywords>TWICE, Chaeyoung, Health, K-Pop, JYP Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-safety-concerns-spark-outrage-against-filmmaker/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T22:51:29.000Z</news:publication_date>
-      <news:title>BTS Safety Concerns Spark Outrage Against Filmmaker</news:title>
-      <news:keywords>BTS, Safety Concerns, K-Pop Industry, Filmmaker</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-ningning-stuns-fans-with-daring-photos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T21:10:06.000Z</news:publication_date>
-      <news:title>aespa’s NingNing Stuns Fans with Daring Photos</news:title>
-      <news:keywords>aespa, NingNing, Photoshoot, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/junior-hybe-idol-makes-baffling-confession-about-btss-jungko/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T20:30:38.000Z</news:publication_date>
-      <news:title>Junior HYBE Idol Makes Baffling Confession About BTS’s Jungkook</news:title>
-      <news:keywords>BTS, Jungkook, HYBE, K-Pop Idol Confessions, K-Pop Industry Dynamics</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-teases-v-over-tiktok-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T19:38:10.000Z</news:publication_date>
-      <news:title>BTS&apos;s Jungkook Teases V Over TikTok Debut</news:title>
-      <news:keywords>BTS, Debut, Jungkook, V, TikTok</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/disney-ventures-into-k-drama-with-the-koreans-a-reimagining-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T16:30:02.000Z</news:publication_date>
-      <news:title>Disney+ Ventures into K-Drama with &apos;The Koreans&apos;, a Reimagining of &apos;The Americans&apos;</news:title>
-      <news:keywords>K-Drama, Disney+, The Koreans, Lee Byung Hun, Han Ji Min</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/absolute-value-of-romance-previews-love-laughter-and-lessons/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T16:10:55.000Z</news:publication_date>
-      <news:title>Absolute Value of Romance Previews Love, Laughter, and Lessons in Growing Up</news:title>
-      <news:keywords>K-Drama, Coming-of-Age, Prime Video, Absolute Value of Romance, Korean Series</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkooks-dating-rumors-spark-heated-debate-among-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T15:25:40.000Z</news:publication_date>
-      <news:title>BTS Jungkook&apos;s Dating Rumors Spark Heated Debate Among Fans</news:title>
-      <news:keywords>BTS, Jungkook, Dating Rumors, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/humint-ignites-global-buzz-ahead-of-netflix-premiere/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T14:59:37.000Z</news:publication_date>
-      <news:title>“Humint” Ignites Global Buzz Ahead of Netflix Premiere</news:title>
-      <news:keywords>K-Drama, Netflix, Ryoo Seung-wan, Thriller, Humint</news:keywords>
     </news:news>
   </url>
 </urlset>
