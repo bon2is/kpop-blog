@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/5th-gen-girls-shock-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T10:19:37.000Z</news:publication_date>
+      <news:title>5th Gen Girls Shock Fans</news:title>
+      <news:keywords>Debut, 5th Gen, K-Pop, Girl Group, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-manon-sparks-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T07:04:58.000Z</news:publication_date>
+      <news:title>KATSEYE Manon Sparks Concern</news:title>
+      <news:keywords>KATSEYE, Hiatus, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-blackpink-win-big/</loc>
     <news:news>
       <news:publication>
@@ -323,114 +347,6 @@
       <news:publication_date>2026-03-26T11:35:18.000Z</news:publication_date>
       <news:title>Viral Video Of Top Male K-Pop Idol Unclasping A Bra Incites Major Disgust</news:title>
       <news:keywords>K-Pop, Consent, Respect, Scandal, Idol Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-rms-comment-about-vs-weight-triggers-intense-fury/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T11:00:14.000Z</news:publication_date>
-      <news:title>BTS RM’s Comment About V’s Weight Triggers Intense Fury</news:title>
-      <news:keywords>BTS, Body Positivity, K-Pop Controversy, RM, V</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jyp-entertainments-mysterious-post-sparks-concern-among-twic/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T09:25:46.000Z</news:publication_date>
-      <news:title>JYP Entertainment’s Mysterious Post Sparks Concern Among TWICE Fans</news:title>
-      <news:keywords>TWICE, JYP Entertainment, K-Pop, Comeback, Contract Negotiations</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-bum-takes-on-new-role-in-upcoming-sbs-drama/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T09:21:12.000Z</news:publication_date>
-      <news:title>Kim Bum Takes On New Role In Upcoming SBS Drama</news:title>
-      <news:keywords>K-Drama, Kim Bum, Sold Out On You, Romantic Comedy, Ahn Hyo Seop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/prosecutors-rule-media-play-accusations-against-hybe-as-not-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T08:40:29.000Z</news:publication_date>
-      <news:title>Prosecutors Rule Media Play Accusations Against HYBE As “Not Untrue”</news:title>
-      <news:keywords>BTS, HYBE, TOMORROW X TOGETHER, K-Pop Industry, Legal Ruling</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-gwanghwamun-performance-attendance-numbers-revealed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T08:37:17.000Z</news:publication_date>
-      <news:title>BTS’s Gwanghwamun Performance Attendance Numbers Revealed</news:title>
-      <news:keywords>BTS, Tour, Concert, Attendance, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kpop-demon-hunters-faces-backlash-over-latest-collaboration/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T08:08:02.000Z</news:publication_date>
-      <news:title>KPop Demon Hunters Faces Backlash Over Latest Collaboration</news:title>
-      <news:keywords>Concert, Album, KPop Demon Hunters, Collaboration, Backlash</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bighit-music-takes-action-protecting-btss-rights/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T07:15:42.000Z</news:publication_date>
-      <news:title>BIGHIT MUSIC Takes Action: Protecting BTS&apos;s Rights</news:title>
-      <news:keywords>BTS, BIGHIT MUSIC, Legal Proceedings, K-Pop, Artist Rights</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-young-dae-and-lee-naeun-deny-dating-rumors/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T06:33:35.000Z</news:publication_date>
-      <news:title>Kim Young Dae And Lee Naeun Deny Dating Rumors</news:title>
-      <news:keywords>Kim Young Dae, Lee Naeun, Dating Rumors, K-Drama, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-gwanghwamun-stage-unpacking-the-wedding-day-disruptions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T05:58:42.000Z</news:publication_date>
-      <news:title>BTS&apos;s Gwanghwamun Stage: Unpacking the Wedding Day Disruptions</news:title>
-      <news:keywords>BTS, Concert, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
