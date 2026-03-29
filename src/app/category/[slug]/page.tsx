@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import AdBanner, { SidebarAd } from '@/components/AdBanner';
+import AuditionPromoCard from '@/components/AuditionPromoCard';
 import CategoryArticleList from '@/components/CategoryArticleList';
 import { getArticlesByCategory } from '@/lib/articles';
 import { categories, getCategoryBySlug } from '@/lib/config';
@@ -106,6 +107,9 @@ export default function CategoryPage({ params }: CategoryPageProps) {
       <div className="flex gap-8">
         {/* Main Content */}
         <div className="flex-1 min-w-0">
+          {/* Audition promo card — always shown at the top of audition category */}
+          {category.slug === 'audition' && <AuditionPromoCard />}
+
           {/* Articles Grid */}
           {articles.length > 0 ? (
             <CategoryArticleList articles={articles} categoryColor={category.color} />
