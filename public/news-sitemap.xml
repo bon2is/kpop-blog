@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T05:07:11.000Z</news:publication_date>
+      <news:title>Ha Jung Woo Shocks Fans</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Mad Concrete Dreams, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/zerobaseones-sung-han-bin-agency-fights-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T04:01:05.000Z</news:publication_date>
+      <news:title>ZEROBASEONE&apos;s Sung Han Bin: Agency Fights Back</news:title>
+      <news:keywords>ZEROBASEONE, Sung Han Bin, THE L1VE, K-Pop, Legal Action</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/model-reveals-shocking-jennie-inspiration/</loc>
     <news:news>
       <news:publication>
@@ -251,30 +275,6 @@
       <news:publication_date>2026-03-27T06:54:51.000Z</news:publication_date>
       <news:title>KANGMIN Breaks Silence</news:title>
       <news:keywords>Debut, Album, KANGMIN, VERIVERY, Solo Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-tablos-daughter-name-drops/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T05:07:35.000Z</news:publication_date>
-      <news:title>BTS: Tablo&apos;s Daughter Name-Drops</news:title>
-      <news:keywords>BTS, Tablo, Epik High, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-rm-opens-up/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T04:00:23.000Z</news:publication_date>
-      <news:title>BTS RM Opens Up</news:title>
-      <news:keywords>BTS, RM, Jungkook, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
