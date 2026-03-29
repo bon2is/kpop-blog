@@ -93,10 +93,7 @@ jobs:
             CHART_MSG=""
           fi
 
-          git commit -m "Auto-update: ${NEW_COUNT} new article(s) with AI thumbnails${CHART_MSG}
-
-          Generated with DALL-E 3 (Studio Ghibli style)
-          Images optimized to WebP format" || exit 0
+          git commit -m "Auto-update: ${NEW_COUNT} new article(s) with thumbnails${CHART_MSG}" || exit 0
 
           git pull --rebase origin main || true
           git push
@@ -152,8 +149,12 @@ jobs:
         run: |
           git add content/.threads-posted.json content/.twitter-posted.json content/.bluesky-posted.json content/.pinterest-posted.json content/.discord-posted.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Update social media posted lists"
-          git pull --rebase origin main || true
-          git push || true
+          # Retry push up to 3 times to ensure Threads tracker is always persisted
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying..."
+            sleep 5
+          done
 
       - name: Build site
         run: npm run build

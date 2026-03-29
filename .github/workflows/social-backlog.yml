@@ -40,10 +40,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Post backlog articles to all platforms
+      # NOTE: Threads posting is intentionally excluded from backlog.
+      # Threads is handled exclusively by fetch-and-deploy.yml to prevent
+      # duplicate posts caused by tracker race conditions between workflows.
+      - name: Post backlog articles to Twitter and Bluesky
         env:
-          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           TWITTER_APP_KEY: ${{ secrets.TWITTER_APP_KEY }}
           TWITTER_APP_SECRET: ${{ secrets.TWITTER_APP_SECRET }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
@@ -65,7 +66,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add content/.threads-posted.json content/.twitter-posted.json content/.bluesky-posted.json content/.pinterest-posted.json 2>/dev/null || true
+          git add content/.twitter-posted.json content/.bluesky-posted.json content/.pinterest-posted.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Update social media posted lists"
           # Pull latest before pushing to avoid non-fast-forward rejection
           git pull --rebase origin main || true
@@ -78,6 +79,6 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "Backlog posting completed" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Platforms:** Threads, Twitter/X, Bluesky" >> $GITHUB_STEP_SUMMARY
+          echo "**Platforms:** Twitter/X, Bluesky, Pinterest (Threads handled by fetch-and-deploy)" >> $GITHUB_STEP_SUMMARY
           echo "**Schedule:** 4x daily (07:00, 12:00, 18:00, 22:00 KST)" >> $GITHUB_STEP_SUMMARY
           echo "**Posts per run:** 2 articles per platform" >> $GITHUB_STEP_SUMMARY

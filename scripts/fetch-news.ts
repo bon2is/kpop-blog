@@ -1614,12 +1614,18 @@ async function main(): Promise<void> {
       const category = detectCategory(safeContent.title, safeContent.content);
       const slug = generateSlug(safeContent.title);
 
-      // --- Image strategy: YouTube thumbnail → AI fallback ---
+      // --- Image strategy: og:image → YouTube thumbnail → AI fallback ---
       let thumbnail: string | undefined;
       let isAIGenerated = false;
 
-      // 1) YouTube thumbnail from extracted links (official music video / content)
-      if (extractedMedia.youtubeLinks.length > 0) {
+      // 1) og:image from original article (official K-pop press/promotional photo)
+      if (extractedMedia.ogImage) {
+        thumbnail = await downloadImageFromUrl(extractedMedia.ogImage, slug);
+        if (thumbnail) console.log(`  Thumbnail: og:image (official press photo)`);
+      }
+
+      // 2) YouTube thumbnail from extracted links (official music video / content)
+      if (!thumbnail && extractedMedia.youtubeLinks.length > 0) {
         const videoId = extractYouTubeId(extractedMedia.youtubeLinks[0]);
         if (videoId) {
           // maxresdefault (1280×720) → hqdefault (480×360) fallback
@@ -1631,11 +1637,11 @@ async function main(): Promise<void> {
         }
       }
 
-      // 2) Fallback: AI-generated ultra-detail anime illustration
+      // 3) AI-generated fallback (only when no real image available)
       if (!thumbnail) {
         thumbnail = await generateAIImage(category, safeContent.title, safeContent.summary, slug);
         if (thumbnail) isAIGenerated = true;
-        console.log(`  Thumbnail: ${thumbnail ? 'AI-generated (ultra-detail anime)' : 'skipped'}`);
+        console.log(`  Thumbnail: ${thumbnail ? 'AI-generated (fallback)' : 'skipped'}`);
       }
 
       // Create article with new structure
