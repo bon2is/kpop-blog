@@ -1,14 +1,23 @@
+'use client';
+
 import Link from 'next/link';
+import { trackEvent } from '@/components/GoogleAnalytics';
 
 const PROMO_URL = 'https://www.andxo.com/audition';
 
-export default function AuditionPromoCard() {
+interface Props {
+  /** GA event label — identifies where the card was clicked */
+  source?: string;
+}
+
+export default function AuditionPromoCard({ source = 'unknown' }: Props) {
   return (
     <Link
       href={PROMO_URL}
       target="_blank"
       rel="noopener noreferrer"
       className="group block mb-8"
+      onClick={() => trackEvent('audition_promo_click', 'outbound', source)}
       aria-label="Visit andxo.com for the latest K-Pop audition information"
     >
       <div
@@ -56,9 +65,7 @@ export default function AuditionPromoCard() {
 
           {/* CTA Button */}
           <div className="flex-shrink-0">
-            <span
-              className="inline-flex items-center gap-2 bg-white text-amber-600 font-bold text-sm px-5 py-2.5 rounded-full shadow-md transition-all duration-200 group-hover:shadow-lg group-hover:scale-105"
-            >
+            <span className="inline-flex items-center gap-2 bg-white text-amber-600 font-bold text-sm px-5 py-2.5 rounded-full shadow-md transition-all duration-200 group-hover:shadow-lg group-hover:scale-105">
               Explore Now
               <svg className="w-4 h-4 transition-transform duration-200 group-hover:translate-x-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M17 8l4 4m0 0l-4 4m4-4H3" />

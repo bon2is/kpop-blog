@@ -3,6 +3,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import ArticleCard from '@/components/ArticleCard';
 import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
+import AuditionPromoCard from '@/components/AuditionPromoCard';
+import AuditionSidebarWidget from '@/components/AuditionSidebarWidget';
 import { NewsletterBanner, NewsletterSidebar } from '@/components/Newsletter';
 import { getAllArticles } from '@/lib/articles';
 import { artists } from '@/lib/artists';
@@ -192,6 +194,9 @@ export default function HomePage() {
 
             <AdBanner className="mb-10" />
 
+            {/* Audition promo — between Latest News and More Stories */}
+            <AuditionPromoCard source="homepage_feed" />
+
             {/* More Stories */}
             {moreArticles.length > 0 && (
               <section className="mb-10">
@@ -234,6 +239,7 @@ export default function HomePage() {
           <aside className="hidden xl:block w-80 flex-shrink-0 space-y-6">
             <ReadingList allArticles={slimArticles} />
             <TrendingSection articles={slimArticles} />
+            <AuditionSidebarWidget source="homepage_sidebar" />
             <NewsletterSidebar />
             <SidebarAd />
           </aside>

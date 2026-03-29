@@ -108,7 +108,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
         {/* Main Content */}
         <div className="flex-1 min-w-0">
           {/* Audition promo card — always shown at the top of audition category */}
-          {category.slug === 'audition' && <AuditionPromoCard />}
+          {category.slug === 'audition' && <AuditionPromoCard source="category_audition" />}
 
           {/* Articles Grid */}
           {articles.length > 0 ? (

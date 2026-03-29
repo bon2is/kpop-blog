@@ -7,6 +7,8 @@ import { getArtistByTag } from '@/lib/artists';
 import { formatDate, estimateReadingTime, extractHeadings } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
 import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
+import AuditionPromoCard from '@/components/AuditionPromoCard';
+import AuditionSidebarWidget from '@/components/AuditionSidebarWidget';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
 import ArticleCard from '@/components/ArticleCard';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
@@ -332,6 +334,14 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </Link>
       )}
 
+      {/* Audition promo — shown for audition/debut/trainee-related articles */}
+      {(article.category === 'audition' ||
+        article.tags.some((t) =>
+          ['audition', 'trainee', 'debut', 'casting', 'survival show'].includes(t.toLowerCase())
+        )) && (
+        <AuditionPromoCard source="article_inline" />
+      )}
+
       {/* Like/Dislike, Bookmark & Share Buttons */}
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8 p-4 bg-gray-50 rounded-xl">
         <div className="flex items-center gap-3">
@@ -351,6 +361,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         {/* Sidebar - Desktop Only */}
         <aside className="hidden xl:block w-72 flex-shrink-0 space-y-6">
           <TableOfContents headings={headings} />
+          <AuditionSidebarWidget source="article_sidebar" />
           <NewsletterSidebar />
           <SidebarAd />
         </aside>
