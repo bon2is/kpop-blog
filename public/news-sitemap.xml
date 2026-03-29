@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/kim-seung-soo-sparks-hope/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T10:29:51.000Z</news:publication_date>
+      <news:title>Kim Seung Soo Sparks Hope</news:title>
+      <news:keywords>Kim Seung Soo, Kim Hyung Mook, Recipe for Love, K-Drama, KBS2</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-rm-unleashes-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T07:41:20.000Z</news:publication_date>
+      <news:title>BTS RM Unleashes Fury</news:title>
+      <news:keywords>BTS, RM, Celebrity News, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/idol-reveals-secret/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T07:36:43.000Z</news:publication_date>
+      <news:title>Idol Reveals Secret</news:title>
+      <news:keywords>K-Pop, Idol Life, Motherhood</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ncts-jaemin-stuns-namgoong-mins-sweet-surprise/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T07:34:34.000Z</news:publication_date>
+      <news:title>NCT&apos;s Jaemin Stuns: Namgoong Min&apos;s Sweet Surprise</news:title>
+      <news:keywords>NCT, Concert, Jaemin, Namgoong Min, NCT DREAM</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-faces-off/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T07:05:42.000Z</news:publication_date>
+      <news:title>Park Hae Soo Faces Off</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, Suspense, The Scarecrow</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -191,90 +251,6 @@
       <news:publication_date>2026-03-27T11:25:10.000Z</news:publication_date>
       <news:title>BTS Jungkook Sparks Fury</news:title>
       <news:keywords>BTS, Jungkook, Documentary, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T09:20:32.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie Sparks Debate</news:title>
-      <news:keywords>BLACKPINK, Jennie, Fashion, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jin-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T08:45:37.000Z</news:publication_date>
-      <news:title>BTS Jin Sparks Debate</news:title>
-      <news:keywords>BTS, Jin, Documentary, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ioi-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T08:24:34.000Z</news:publication_date>
-      <news:title>I.O.I Makes History</news:title>
-      <news:keywords>Debut, Concert, Tour, I.O.I, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-stuns-with-viral-proportions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T07:45:12.000Z</news:publication_date>
-      <news:title>BLACKPINK Stuns with Viral Proportions</news:title>
-      <news:keywords>BLACKPINK, K-Pop, Body Positivity, Social Media, Idol Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-sparks-joy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T07:06:32.000Z</news:publication_date>
-      <news:title>BTS Sparks Joy</news:title>
-      <news:keywords>BTS, K-Pop, Social Media, Girl Group, Interaction</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/monsta-x-unfolds-new-era/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T06:56:19.000Z</news:publication_date>
-      <news:title>MONSTA X Unfolds New Era</news:title>
-      <news:keywords>MONSTA X, Album, MV, Unfold, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kangmin-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T06:54:51.000Z</news:publication_date>
-      <news:title>KANGMIN Breaks Silence</news:title>
-      <news:keywords>Debut, Album, KANGMIN, VERIVERY, Solo Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
