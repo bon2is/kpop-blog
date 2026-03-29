@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/model-reveals-shocking-jennie-inspiration/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T03:21:18.000Z</news:publication_date>
+      <news:title>Model Reveals Shocking Jennie Inspiration</news:title>
+      <news:keywords>BLACKPINK, aespa, Jennie, Ningning, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nana-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T01:44:38.000Z</news:publication_date>
+      <news:title>Nana Breaks Silence</news:title>
+      <news:keywords>Nana, Court Appearance, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T18:29:13.000Z</news:publication_date>
+      <news:title>BTS Breaks Silence</news:title>
+      <news:keywords>BTS, Comeback, Concert, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -239,114 +275,6 @@
       <news:publication_date>2026-03-27T04:00:23.000Z</news:publication_date>
       <news:title>BTS RM Opens Up</news:title>
       <news:keywords>BTS, RM, Jungkook, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-hyang-gi-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T03:07:10.000Z</news:publication_date>
-      <news:title>Kim Hyang Gi Sparks Debate</news:title>
-      <news:keywords>K-Drama, Kim Hyang Gi, Cha Hak Yeon, N.Flying, BL Novel</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jinyoung-minju-face-new-challenges/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T02:21:54.000Z</news:publication_date>
-      <news:title>Jinyoung &amp; Minju Face New Challenges</news:title>
-      <news:keywords>GOT7, K-Drama, Jinyoung, Kim Min Ju, Still Shining</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-reveals-7-swim-remixes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T01:26:05.000Z</news:publication_date>
-      <news:title>BTS Reveals 7 &apos;SWIM&apos; Remixes</news:title>
-      <news:keywords>BTS, Album, SWIM, Remix Album, KEEP SWIMMING</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T00:21:07.000Z</news:publication_date>
-      <news:title>ENHYPEN Shocks Fans</news:title>
-      <news:keywords>ENHYPEN, Heeseung, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/boynextdoor-makes-may-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T22:40:46.000Z</news:publication_date>
-      <news:title>BOYNEXTDOOR Makes May Comeback</news:title>
-      <news:keywords>BOYNEXTDOOR, Comeback, Debut, K-Pop, May Return</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisa-sizzles/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T21:21:52.000Z</news:publication_date>
-      <news:title>BLACKPINK Lisa Sizzles</news:title>
-      <news:keywords>BLACKPINK, Lisa, Photoshoot, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkook-breaks-barriers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T19:54:27.000Z</news:publication_date>
-      <news:title>BTS Jungkook Breaks Barriers</news:title>
-      <news:keywords>BTS, BLACKPINK, Jungkook, K-Pop Collaborations</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/10cm-breaks-hearts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T16:35:27.000Z</news:publication_date>
-      <news:title>10CM Breaks Hearts</news:title>
-      <news:keywords>Concert, Tour, 10CM, Asia Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-boyoung-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T16:10:53.000Z</news:publication_date>
-      <news:title>Park Boyoung Shocks Fans</news:title>
-      <news:keywords>Park Boyoung, Disney+, K-Thriller, Gold Land, K-Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
