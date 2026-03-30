@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/actor-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T03:28:16.000Z</news:publication_date>
+      <news:title>Actor Sparks Debate</news:title>
+      <news:keywords>K-Drama, Backlash, Accountability</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-v-reveals-shocking-career-doubt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T02:10:37.000Z</news:publication_date>
+      <news:title>BTS&apos;s V Reveals Shocking Career Doubt</news:title>
+      <news:keywords>BTS, V, K-Pop, Career, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/mingyu-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T01:42:09.000Z</news:publication_date>
+      <news:title>Mingyu Sparks Debate</news:title>
+      <news:keywords>SEVENTEEN, Mingyu, Cultural Appropriation, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seventeen-takes-stand/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T01:23:37.000Z</news:publication_date>
+      <news:title>SEVENTEEN Takes Stand</news:title>
+      <news:keywords>SEVENTEEN, PLEDIS Entertainment, Legal Action, Artists&apos; Rights</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/baekhyun-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T21:35:40.000Z</news:publication_date>
+      <news:title>Baekhyun Makes History</news:title>
+      <news:keywords>EXO, Debut, Baekhyun, US TV Debut, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -227,42 +287,6 @@
       <news:publication_date>2026-03-28T04:30:54.000Z</news:publication_date>
       <news:title>IVE Breaks Barriers</news:title>
       <news:keywords>IVE, Inclusion, K-Pop, Diversity, Representation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5th-gen-idol-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T03:47:01.000Z</news:publication_date>
-      <news:title>5th Gen Idol Sparks Debate</news:title>
-      <news:keywords>5th Gen Idol, Vaping Controversy, K-Pop Scandals, Idol Reputation, K-Pop Industry</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ros-breaks-record/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T03:14:12.000Z</news:publication_date>
-      <news:title>Rosé Breaks Record</news:title>
-      <news:keywords>BLACKPINK, MV, Rosé, Bruno Mars, YouTube Records</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jisoo-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T01:24:36.000Z</news:publication_date>
-      <news:title>Jisoo Breaks Silence</news:title>
-      <news:keywords>BLACKPINK, Jisoo, Dating Philosophy, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
