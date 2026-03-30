@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 03:54:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:26:07 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,55 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>IU Reveals Royal Side</title>
+      <link>https://kpop.andxo.com/article/iu-reveals-royal-side/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/iu-reveals-royal-side/</guid>
+      <description>IU stuns in new drama posters!</description>
+      <pubDate>Mon, 30 Mar 2026 05:38:25 GMT</pubDate>
+      <category>drama</category>
+      <category>IU</category>
+      <category>K-Drama</category>
+      <category>Perfect Crown</category>
+      <category>Byeon Woo Seok</category>
+      <category>MBC</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/iu-reveals-royal-side.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/iu-reveals-royal-side.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/iu-reveals-royal-side.webp" />
+    </item>
+    <item>
+      <title>K-Pop Star Sparks Outrage</title>
+      <link>https://kpop.andxo.com/article/k-pop-star-sparks-outrage/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-star-sparks-outrage/</guid>
+      <description>Singer&apos;s shocking behavior sparks backlash</description>
+      <pubDate>Mon, 30 Mar 2026 05:15:52 GMT</pubDate>
+      <category>celebrity</category>
+      <category>K-Pop</category>
+      <category>Scandal</category>
+      <category>Backlash</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/k-pop-star-sparks-outrage.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/k-pop-star-sparks-outrage.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/k-pop-star-sparks-outrage.webp" />
+    </item>
+    <item>
+      <title>TWICE Sparks Concern</title>
+      <link>https://kpop.andxo.com/article/twice-sparks-concern/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/twice-sparks-concern/</guid>
+      <description>TWICE member&apos;s legs spark concern!</description>
+      <pubDate>Mon, 30 Mar 2026 04:36:18 GMT</pubDate>
+      <category>news</category>
+      <category>TWICE</category>
+      <category>K-Pop</category>
+      <category>Idol Welfare</category>
+      <category>Health Concerns</category>
+      <category>Comeback</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/twice-sparks-concern.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/twice-sparks-concern.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/twice-sparks-concern.webp" />
+    </item>
     <item>
       <title>Actor Sparks Debate</title>
       <link>https://kpop.andxo.com/article/actor-sparks-debate/</link>
@@ -79,6 +128,38 @@
       <enclosure url="https://kpop.andxo.com/images/posts/seventeen-takes-stand.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/seventeen-takes-stand.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/seventeen-takes-stand.webp" />
+    </item>
+    <item>
+      <title>OG Boy Group Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/og-boy-group-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/og-boy-group-sparks-debate/</guid>
+      <description>Member&apos;s absence raises questions!</description>
+      <pubDate>Mon, 30 Mar 2026 01:19:03 GMT</pubDate>
+      <category>celebrity</category>
+      <category>OG Boy Group</category>
+      <category>Reunion</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/og-boy-group-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/og-boy-group-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/og-boy-group-sparks-debate.webp" />
+    </item>
+    <item>
+      <title>IU Enchants in Royal Romance</title>
+      <link>https://kpop.andxo.com/article/iu-enchants-in-royal-romance/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/iu-enchants-in-royal-romance/</guid>
+      <description>IU stars in fairy tale drama!</description>
+      <pubDate>Mon, 30 Mar 2026 00:23:00 GMT</pubDate>
+      <category>drama</category>
+      <category>IU</category>
+      <category>K-Drama</category>
+      <category>Byeon Woo Seok</category>
+      <category>Romance</category>
+      <category>MBC</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.com/images/posts/iu-enchants-in-royal-romance.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.com/images/posts/iu-enchants-in-royal-romance.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.com/images/posts/iu-enchants-in-royal-romance.webp" />
     </item>
     <item>
       <title>Baekhyun Makes History</title>
@@ -1594,88 +1675,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/chae-won-bin-shines-as-a-home-shopping-host-in-upcoming-dram.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/chae-won-bin-shines-as-a-home-shopping-host-in-upcoming-dram.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/chae-won-bin-shines-as-a-home-shopping-host-in-upcoming-dram.webp" />
-    </item>
-    <item>
-      <title>K-Pop Artists Take Center Stage At Head In The Clouds LA Festival</title>
-      <link>https://kpop.andxo.com/article/k-pop-artists-take-center-stage-at-head-in-the-clouds-la-fes/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-artists-take-center-stage-at-head-in-the-clouds-la-fes/</guid>
-      <description>Get ready for an unforgettable night of music and entertainment as KATSEYE, XG, and more perform at Head In The Clouds LA</description>
-      <pubDate>Tue, 24 Mar 2026 02:08:11 GMT</pubDate>
-      <category>news</category>
-      <category>KATSEYE</category>
-      <category>XG</category>
-      <category>Head In The Clouds LA</category>
-      <category>K-Pop</category>
-      <category>Festival</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/k-pop-artists-take-center-stage-at-head-in-the-clouds-la-fes.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/k-pop-artists-take-center-stage-at-head-in-the-clouds-la-fes.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/k-pop-artists-take-center-stage-at-head-in-the-clouds-la-fes.webp" />
-    </item>
-    <item>
-      <title>Dreamcatcher’s Gahyun Embarks on New Journey as Lee Seo Yul</title>
-      <link>https://kpop.andxo.com/article/dreamcatchers-gahyun-embarks-on-new-journey-as-lee-seo-yul/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/dreamcatchers-gahyun-embarks-on-new-journey-as-lee-seo-yul/</guid>
-      <description>Dreamcatcher member Gahyun changes stage name for acting and signs with new agency</description>
-      <pubDate>Tue, 24 Mar 2026 01:33:14 GMT</pubDate>
-      <category>news</category>
-      <category>Dreamcatcher</category>
-      <category>Gahyun</category>
-      <category>Lee Seo Yul</category>
-      <category>Acting Debut</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/dreamcatchers-gahyun-embarks-on-new-journey-as-lee-seo-yul.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/dreamcatchers-gahyun-embarks-on-new-journey-as-lee-seo-yul.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/dreamcatchers-gahyun-embarks-on-new-journey-as-lee-seo-yul.webp" />
-    </item>
-    <item>
-      <title>Top 3rd Gen Male Idol Sparks Debate with Plastic Surgery Suggestion</title>
-      <link>https://kpop.andxo.com/article/top-3rd-gen-male-idol-sparks-debate-with-plastic-surgery-sug/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/top-3rd-gen-male-idol-sparks-debate-with-plastic-surgery-sug/</guid>
-      <description>A popular 3rd generation male K-Pop idol has sparked a heated debate among fans after suggesting he might consider plastic surgery for himself, citing his small eyes as a potential area for improvement.</description>
-      <pubDate>Tue, 24 Mar 2026 00:29:09 GMT</pubDate>
-      <category>celebrity</category>
-      <category>K-Pop</category>
-      <category>Plastic Surgery</category>
-      <category>Beauty Standards</category>
-      <category>3rd Gen Idols</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/top-3rd-gen-male-idol-sparks-debate-with-plastic-surgery-sug.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/top-3rd-gen-male-idol-sparks-debate-with-plastic-surgery-sug.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/top-3rd-gen-male-idol-sparks-debate-with-plastic-surgery-sug.webp" />
-    </item>
-    <item>
-      <title>K-Pop Giant To Return To Korea Following Non-Compete Expiration: His First Official Schedule</title>
-      <link>https://kpop.andxo.com/article/k-pop-giant-to-return-to-korea-following-non-compete-expirat/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-giant-to-return-to-korea-following-non-compete-expirat/</guid>
-      <description>A K-Pop giant is set to return to Korea after his non-compete clause has expired, marking a significant moment in his career.</description>
-      <pubDate>Tue, 24 Mar 2026 00:10:20 GMT</pubDate>
-      <category>comeback</category>
-      <category>Comeback</category>
-      <category>Tour</category>
-      <category>K-Pop</category>
-      <category>Non-Compete Expiration</category>
-      <category>Korean Music Scene</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/k-pop-giant-to-return-to-korea-following-non-compete-expirat.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/k-pop-giant-to-return-to-korea-following-non-compete-expirat.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/k-pop-giant-to-return-to-korea-following-non-compete-expirat.webp" />
-    </item>
-    <item>
-      <title>BTS Faces Backlash Over Netflix Footage</title>
-      <link>https://kpop.andxo.com/article/bts-faces-backlash-over-netflix-footage/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-faces-backlash-over-netflix-footage/</guid>
-      <description>BTS is under fire for their behavior in Netflix footage, sparking a heated debate among fans and critics alike.</description>
-      <pubDate>Mon, 23 Mar 2026 14:32:38 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>Netflix</category>
-      <category>Controversy</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/bts-faces-backlash-over-netflix-footage.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/bts-faces-backlash-over-netflix-footage.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/bts-faces-backlash-over-netflix-footage.webp" />
     </item>
   </channel>
 </rss>

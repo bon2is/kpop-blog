@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/iu-reveals-royal-side/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T05:38:25.000Z</news:publication_date>
+      <news:title>IU Reveals Royal Side</news:title>
+      <news:keywords>IU, K-Drama, Perfect Crown, Byeon Woo Seok, MBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-star-sparks-outrage/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T05:15:52.000Z</news:publication_date>
+      <news:title>K-Pop Star Sparks Outrage</news:title>
+      <news:keywords>K-Pop, Scandal, Backlash</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-sparks-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T04:36:18.000Z</news:publication_date>
+      <news:title>TWICE Sparks Concern</news:title>
+      <news:keywords>TWICE, K-Pop, Idol Welfare, Health Concerns, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/actor-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +83,30 @@
       <news:publication_date>2026-03-30T01:23:37.000Z</news:publication_date>
       <news:title>SEVENTEEN Takes Stand</news:title>
       <news:keywords>SEVENTEEN, PLEDIS Entertainment, Legal Action, Artists&apos; Rights</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/og-boy-group-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T01:19:03.000Z</news:publication_date>
+      <news:title>OG Boy Group Sparks Debate</news:title>
+      <news:keywords>OG Boy Group, Reunion, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-enchants-in-royal-romance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T00:23:00.000Z</news:publication_date>
+      <news:title>IU Enchants in Royal Romance</news:title>
+      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance, MBC</news:keywords>
     </news:news>
   </url>
   <url>
@@ -263,30 +323,6 @@
       <news:publication_date>2026-03-28T07:04:58.000Z</news:publication_date>
       <news:title>KATSEYE Manon Sparks Concern</news:title>
       <news:keywords>KATSEYE, Hiatus, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-blackpink-win-big/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T05:26:32.000Z</news:publication_date>
-      <news:title>BTS, BLACKPINK Win Big</news:title>
-      <news:keywords>BTS, BLACKPINK, Stray Kids, Awards, iHeartRadio Music Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-breaks-barriers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T04:30:54.000Z</news:publication_date>
-      <news:title>IVE Breaks Barriers</news:title>
-      <news:keywords>IVE, Inclusion, K-Pop, Diversity, Representation</news:keywords>
     </news:news>
   </url>
 </urlset>
