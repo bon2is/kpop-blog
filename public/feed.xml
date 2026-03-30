@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:44:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 15:03:16 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Heeseung Sparks Worry</title>
+      <link>https://kpop.andxo.com/article/heeseung-sparks-worry/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/heeseung-sparks-worry/</guid>
+      <description>Heeseung&apos;s behavior raises concerns!</description>
+      <pubDate>Mon, 30 Mar 2026 14:20:30 GMT</pubDate>
+      <category>audition</category>
+      <category>ENHYPEN</category>
+      <category>Debut</category>
+      <category>Heeseung</category>
+      <category>Solo Debut</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/heeseung-sparks-worry.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/heeseung-sparks-worry.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/heeseung-sparks-worry.webp" />
+    </item>
     <item>
       <title>ENHYPEN Heeseung Shocks Fans</title>
       <link>https://kpop.andxo.com/article/enhypen-heeseung-shocks-fans/</link>
@@ -1656,22 +1673,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/bigbangs-g-dragon-taeyang-and-tops-unexpected-interaction-sp.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/bigbangs-g-dragon-taeyang-and-tops-unexpected-interaction-sp.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/bigbangs-g-dragon-taeyang-and-tops-unexpected-interaction-sp.webp" />
-    </item>
-    <item>
-      <title>Divided Reactions to BLACKPINK Jennie&apos;s Figure Spark Important Conversations</title>
-      <link>https://kpop.andxo.com/article/divided-reactions-to-blackpink-jennies-figure-spark-importan/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/divided-reactions-to-blackpink-jennies-figure-spark-importan/</guid>
-      <description>A recent post about BLACKPINK&apos;s Jennie has ignited a heated debate about body image and beauty standards in the K-Pop industry.</description>
-      <pubDate>Tue, 24 Mar 2026 11:30:09 GMT</pubDate>
-      <category>news</category>
-      <category>BLACKPINK</category>
-      <category>Jennie</category>
-      <category>Body Image</category>
-      <category>K-Pop Beauty Standards</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/divided-reactions-to-blackpink-jennies-figure-spark-importan.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/divided-reactions-to-blackpink-jennies-figure-spark-importan.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/divided-reactions-to-blackpink-jennies-figure-spark-importan.webp" />
     </item>
   </channel>
 </rss>
