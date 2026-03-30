@@ -10,6 +10,44 @@ import * as cheerio from 'cheerio';
 const fetch = require('node-fetch');
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const GIF = require('sharp-gif2');
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
+
+// Cloudflare R2 client (S3-compatible) — used when R2 env vars are set
+const r2Client = (
+  process.env.R2_ENDPOINT &&
+  process.env.R2_ACCESS_KEY_ID &&
+  process.env.R2_SECRET_ACCESS_KEY
+) ? new S3Client({
+  region: 'auto',
+  endpoint: process.env.R2_ENDPOINT,
+  credentials: {
+    accessKeyId: process.env.R2_ACCESS_KEY_ID,
+    secretAccessKey: process.env.R2_SECRET_ACCESS_KEY,
+  },
+}) : null;
+
+// Upload a buffer to R2 and return its public URL
+async function uploadToR2(buffer: Buffer, key: string): Promise<string | undefined> {
+  if (!r2Client || !process.env.R2_BUCKET_NAME || !process.env.R2_PUBLIC_URL) {
+    return undefined;
+  }
+  try {
+    await r2Client.send(new PutObjectCommand({
+      Bucket: process.env.R2_BUCKET_NAME,
+      Key: key,
+      Body: buffer,
+      ContentType: 'image/webp',
+      CacheControl: 'public, max-age=31536000, immutable',
+    }));
+    const publicUrl = `${process.env.R2_PUBLIC_URL.replace(/\/$/, '')}/${key}`;
+    console.log(`  R2 upload: ${key}`);
+    return publicUrl;
+  } catch (error) {
+    console.error('  R2 upload error:', error);
+    return undefined;
+  }
+}
 
 // Types for extracted media
 interface ExtractedMedia {
@@ -162,6 +200,54 @@ function getSourceDomain(url: string): string {
 const IMAGES_DIR = path.join(process.cwd(), 'public/images/posts');
 
 // ── Image Prompt Engineering ──────────────────────────────────────
+
+// Extract the primary K-pop subject (group or solo artist) for image search
+function extractKpopSubject(title: string, summary: string): string | null {
+  // Solo artist map: [Wikipedia-friendly display name, search terms[]]
+  // Checked BEFORE group detection to avoid summary mentions hijacking the result
+  // e.g. "Baekhyun To Appear On..." should not become BTS just because summary mentions BTS
+  const soloArtists: [string, string[]][] = [
+    ['Jungkook', ['jungkook']],
+    ['Jimin', [' jimin bts', ' jimin ']],
+    ['Kim Taehyung', ['kim taehyung', ' taehyung ']],
+    ['Suga', [' suga bts', 'agust d']],
+    ['J-Hope', ['j-hope', 'jhope']],
+    ['Jin BTS', [' jin bts', ' seokjin']],
+    ['RM BTS', [' rm bts', 'kim namjoon', ' namjoon ']],
+    ['Jennie', [' jennie ']],
+    ['Lisa', [' lisa ']],
+    ['Jisoo', [' jisoo ']],
+    ['Rosé', ['rosé', ' rose ']],
+    ['Taeyeon', ['taeyeon']],
+    ['Taemin', ['taemin']],
+    ['Baekhyun', ['baekhyun']],
+    ['Hwasa', ['hwasa']],
+    ['Hyunjin', [' hyunjin ']],
+    ['IU singer', [' iu ', " 'iu'", ' "iu"']],
+    ['G-Dragon', ['g-dragon', 'gdragon']],
+    ['Karina aespa', ['karina aespa']],
+    ['Wonyoung', ['wonyoung']],
+  ];
+
+  // Step 1: solo artist match on title only (most reliable signal)
+  const titleLower = title.toLowerCase();
+  for (const [name, terms] of soloArtists) {
+    if (terms.some(t => titleLower.includes(t))) return name;
+  }
+
+  // Step 2: group match on title only
+  const groupFromTitle = extractKpopGroup(title);
+  if (groupFromTitle) return groupFromTitle;
+
+  // Step 3: solo artist match on combined text (title + summary)
+  const combinedLower = `${title} ${summary}`.toLowerCase();
+  for (const [name, terms] of soloArtists) {
+    if (terms.some(t => combinedLower.includes(t))) return name;
+  }
+
+  // Step 4: group match on combined text
+  return extractKpopGroup(`${title} ${summary}`);
+}
 
 // Extract K-Pop group from text
 function extractKpopGroup(text: string): string | null {
@@ -650,59 +736,43 @@ async function fetchWikipediaImage(title: string, slug: string): Promise<string 
   }
 }
 
-// Save raw binary image buffer as optimized WebP
+// Save raw binary image buffer as optimized WebP — R2 preferred, local fallback
 async function saveGeneratedImageBuffer(imageBuffer: Buffer, slug: string): Promise<string | undefined> {
   try {
-    const imagesDir = path.join(process.cwd(), 'public/images/posts');
-    if (!fs.existsSync(imagesDir)) fs.mkdirSync(imagesDir, { recursive: true });
-
     const filename = `${slug}.webp`;
-    const outputPath = path.join(imagesDir, filename);
 
-    await sharp(imageBuffer)
+    // Convert to 1200×630 WebP buffer once
+    const webpBuffer = await sharp(imageBuffer)
       .resize(1200, 630, { fit: 'cover', position: 'center' })
       .webp({ quality: 88, effort: 5 })
-      .toFile(outputPath);
+      .toBuffer();
 
-    const publicPath = `/images/posts/${filename}`;
-    console.log(`  Image saved (binary): ${publicPath}`);
+    // R2: upload if configured
+    if (r2Client) {
+      const r2Url = await uploadToR2(webpBuffer, `posts/${filename}`);
+      if (r2Url) {
+        createAnimatedThumbnailR2(webpBuffer, slug).catch(() => {});
+        return r2Url;
+      }
+    }
 
-    // Generate animated WebP in background (non-blocking)
+    // Local fallback
+    const imagesDir = path.join(process.cwd(), 'public/images/posts');
+    if (!fs.existsSync(imagesDir)) fs.mkdirSync(imagesDir, { recursive: true });
+    const outputPath = path.join(imagesDir, filename);
+    await sharp(webpBuffer).toFile(outputPath);
+    console.log(`  Image saved locally: /images/posts/${filename}`);
     createAnimatedThumbnail(outputPath, slug).catch(() => {});
-
-    return publicPath;
+    return `/images/posts/${filename}`;
   } catch (error) {
-    console.error('  Error saving binary image:', error);
+    console.error('  Error saving image buffer:', error);
     return undefined;
   }
 }
 
 // Save base64 image as optimized WebP
 async function saveGeneratedImage(base64Image: string, slug: string): Promise<string | undefined> {
-  try {
-    const imageBuffer = Buffer.from(base64Image, 'base64');
-    const imagesDir = path.join(process.cwd(), 'public/images/posts');
-    if (!fs.existsSync(imagesDir)) fs.mkdirSync(imagesDir, { recursive: true });
-
-    const filename = `${slug}.webp`;
-    const outputPath = path.join(imagesDir, filename);
-
-    await sharp(imageBuffer)
-      .resize(1200, 630, { fit: 'cover', position: 'center' })
-      .webp({ quality: 88, effort: 5 })
-      .toFile(outputPath);
-
-    const publicPath = `/images/posts/${filename}`;
-    console.log(`  Image saved: ${publicPath}`);
-
-    // Generate animated WebP in background (non-blocking)
-    createAnimatedThumbnail(outputPath, slug).catch(() => {});
-
-    return publicPath;
-  } catch (error) {
-    console.error('  Error saving image:', error);
-    return undefined;
-  }
+  return saveGeneratedImageBuffer(Buffer.from(base64Image, 'base64'), slug);
 }
 
 // Create animated WebP thumbnail using Ken Burns effect
@@ -752,6 +822,274 @@ async function createAnimatedThumbnail(staticWebpPath: string, slug: string): Pr
     return undefined;
   }
 }
+
+// Create animated WebP and upload to R2 (background task, R2 mode only)
+async function createAnimatedThumbnailR2(staticBuffer: Buffer, slug: string): Promise<void> {
+  try {
+    const OUTPUT_W = 1200, OUTPUT_H = 630, NUM_FRAMES = 16, FRAME_DELAY = 120;
+    const scale = 1.07;
+    const scaledW = Math.round(OUTPUT_W * scale);
+    const scaledH = Math.round(OUTPUT_H * scale);
+
+    const baseBuffer = await sharp(staticBuffer)
+      .resize(scaledW, scaledH, { fit: 'fill', kernel: sharp.kernel.lanczos3 })
+      .toBuffer();
+
+    const sharpFrames = Array.from({ length: NUM_FRAMES }, (_, i) => {
+      const t = i / (NUM_FRAMES - 1);
+      const left = Math.round(t * (scaledW - OUTPUT_W));
+      const top  = Math.round(t * (scaledH - OUTPUT_H));
+      return sharp(baseBuffer).extract({ left, top, width: OUTPUT_W, height: OUTPUT_H });
+    });
+
+    const animated = await GIF
+      .createGif({ delay: FRAME_DELAY, repeat: 0, width: OUTPUT_W, height: OUTPUT_H })
+      .addFrame(sharpFrames)
+      .toSharp();
+
+    const animBuffer = await animated.webp({ loop: 0 }).toBuffer();
+    await uploadToR2(animBuffer, `posts/${slug}-animated.webp`);
+    console.log(`  Animated WebP uploaded to R2: posts/${slug}-animated.webp`);
+  } catch (error) {
+    console.error('  Error creating animated thumbnail for R2:', error);
+  }
+}
+
+// ── Official artist image sources (priority 1–4) ─────────────────────────────
+
+// 1. Wikipedia: official artist/group page thumbnail (free, no key needed)
+async function fetchArtistImageWikipedia(subject: string, slug: string): Promise<string | undefined> {
+  try {
+    const wikiHeaders = {
+      'User-Agent': 'KpopDailyBot/1.0 (https://kpop.andxo.com; contact via site)',
+      'Accept': 'application/json',
+    };
+    console.log(`  [Wikipedia] Searching: "${subject}"`);
+
+    let imageUrl: string | undefined;
+
+    // Direct page lookup (works when subject matches Wikipedia title exactly)
+    const directRes = await fetch(
+      `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(subject)}`,
+      { headers: wikiHeaders, timeout: 10000 }
+    );
+    if (directRes.ok) {
+      const data = await directRes.json() as {
+        originalimage?: { source?: string };
+        thumbnail?: { source?: string };
+        title?: string;
+      };
+      imageUrl = data.originalimage?.source || data.thumbnail?.source;
+      if (imageUrl) console.log(`  [Wikipedia] Direct match: "${data.title}"`);
+    }
+
+    // Fallback: MediaWiki search API
+    if (!imageUrl) {
+      const searchRes = await fetch(
+        `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(subject + ' K-pop singer group')}&srlimit=3&format=json&origin=*`,
+        { headers: wikiHeaders, timeout: 10000 }
+      );
+      if (searchRes.ok) {
+        const searchData = await searchRes.json() as {
+          query?: { search?: Array<{ title: string }> };
+        };
+        const firstResult = searchData.query?.search?.[0];
+        if (firstResult) {
+          const summaryRes = await fetch(
+            `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(firstResult.title)}`,
+            { headers: wikiHeaders, timeout: 10000 }
+          );
+          if (summaryRes.ok) {
+            const summaryData = await summaryRes.json() as {
+              originalimage?: { source?: string };
+              thumbnail?: { source?: string };
+              title?: string;
+            };
+            imageUrl = summaryData.originalimage?.source || summaryData.thumbnail?.source;
+            if (imageUrl) console.log(`  [Wikipedia] Search match: "${summaryData.title}"`);
+          }
+        }
+      }
+    }
+
+    if (!imageUrl) {
+      console.log(`  [Wikipedia] No image for "${subject}"`);
+      return undefined;
+    }
+    return downloadImageFromUrl(imageUrl, slug);
+  } catch (error) {
+    console.error('  [Wikipedia] Error:', error);
+    return undefined;
+  }
+}
+
+// 2. Last.fm: scrape og:image from artist page
+// Note: Last.fm API no longer returns artist images since Aug 2019 — page scrape instead
+async function fetchArtistImageLastFm(subject: string, slug: string): Promise<string | undefined> {
+  try {
+    const pageUrl = `https://www.last.fm/music/${encodeURIComponent(subject.replace(/\s+/g, '+'))}`;
+    console.log(`  [Last.fm] Fetching: "${subject}"`);
+
+    const response = await fetch(pageUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'Accept': 'text/html,application/xhtml+xml',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+      timeout: 12000,
+    });
+
+    if (!response.ok) {
+      console.log(`  [Last.fm] Not found: "${subject}" (${response.status})`);
+      return undefined;
+    }
+
+    const html = await response.text();
+    const $ = cheerio.load(html);
+
+    // og:image is the artist promo/press photo on Last.fm
+    const ogImage = $('meta[property="og:image"]').attr('content');
+    if (ogImage && ogImage.startsWith('http')
+        && !ogImage.includes('/default_') && !ogImage.includes('placeholder')) {
+      console.log(`  [Last.fm] Found og:image`);
+      return downloadImageFromUrl(ogImage, slug);
+    }
+
+    // Fallback: artist header image element
+    const headerSrc = $('.header-new-background-image').attr('src') ||
+                      $('.artist-header-image img').attr('src');
+    if (headerSrc && headerSrc.startsWith('http')) {
+      console.log(`  [Last.fm] Found header image`);
+      return downloadImageFromUrl(headerSrc, slug);
+    }
+
+    console.log(`  [Last.fm] No suitable image for "${subject}"`);
+    return undefined;
+  } catch (error) {
+    console.error('  [Last.fm] Error:', error);
+    return undefined;
+  }
+}
+
+// 3. Melon crawl: parse artist image from Melon search page HTML
+// Melon uses SSR for initial artist cards, so some data is in raw HTML
+async function fetchArtistImageMelonCrawl(subject: string, slug: string): Promise<string | undefined> {
+  try {
+    console.log(`  [Melon Crawl] Searching: "${subject}"`);
+    const searchUrl = `https://www.melon.com/search/keyword/index.htm?q=${encodeURIComponent(subject)}`;
+
+    const response = await fetch(searchUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml',
+        'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8',
+        'Referer': 'https://www.melon.com',
+      },
+      timeout: 12000,
+    });
+
+    if (!response.ok) {
+      console.log(`  [Melon Crawl] Request failed: ${response.status}`);
+      return undefined;
+    }
+
+    const html = await response.text();
+    const $ = cheerio.load(html);
+
+    // Look for artist image in Melon's SSR-rendered artist cards
+    const imgUrl =
+      $('img[src*="cdnimg.melon.co.kr/cm/artist"]').first().attr('src') ||
+      $('div.artist img.thumb_atist').first().attr('src') ||
+      $('li.artist .thumb img').first().attr('src');
+
+    if (imgUrl && imgUrl.startsWith('http')) {
+      console.log(`  [Melon Crawl] Found artist image`);
+      return downloadImageFromUrl(imgUrl, slug);
+    }
+
+    // Extract artistId from page JS/HTML and construct Melon CDN URL
+    const artistIdMatch = html.match(/artistId['":\s=]+(\d{5,8})/);
+    if (artistIdMatch) {
+      const artistId = artistIdMatch[1];
+      const cdnUrl = `https://cdnimg.melon.co.kr/cm/artist/images/${artistId}/${artistId}.jpg`;
+      console.log(`  [Melon Crawl] Trying CDN for artistId=${artistId}`);
+      const result = await downloadImageFromUrl(cdnUrl, slug);
+      if (result) return result;
+    }
+
+    console.log(`  [Melon Crawl] No image for "${subject}"`);
+    return undefined;
+  } catch (error) {
+    console.error('  [Melon Crawl] Error:', error);
+    return undefined;
+  }
+}
+
+// 4. Melon API: find artistId via AJAX, then fetch from Melon CDN / artist info API
+async function fetchArtistImageMelonApi(subject: string, slug: string): Promise<string | undefined> {
+  try {
+    console.log(`  [Melon API] Searching: "${subject}"`);
+
+    // Use Melon's search with XHR headers to get a lighter response
+    const searchUrl = `https://www.melon.com/search/keyword/index.htm?q=${encodeURIComponent(subject)}&section=artist&display=5&page=1`;
+    const searchRes = await fetch(searchUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'application/json, text/javascript, */*; q=0.01',
+        'X-Requested-With': 'XMLHttpRequest',
+        'Referer': 'https://www.melon.com',
+      },
+      timeout: 12000,
+    });
+
+    if (!searchRes.ok) return undefined;
+
+    const text = await searchRes.text();
+
+    // Find artistId in the JSON/HTML response
+    const artistIdMatch = text.match(/["']?artistId["']?\s*[:=]\s*["']?(\d{5,8})["']?/);
+    if (!artistIdMatch) {
+      console.log(`  [Melon API] artistId not found for "${subject}"`);
+      return undefined;
+    }
+
+    const artistId = artistIdMatch[1];
+    console.log(`  [Melon API] Found artistId=${artistId}`);
+
+    // Try Melon's artist timeline/info API
+    const infoRes = await fetch(
+      `https://www.melon.com/artist/albumTimelineList.json?artistId=${artistId}&listType=artistAlbum&startIndex=1&pageSize=1`,
+      {
+        headers: {
+          'User-Agent': 'Mozilla/5.0',
+          'Referer': 'https://www.melon.com',
+        },
+        timeout: 10000,
+      }
+    );
+
+    if (infoRes.ok) {
+      const data = await infoRes.json() as {
+        artistInfo?: { artistImgPath?: string };
+      };
+      const imgPath = data?.artistInfo?.artistImgPath;
+      if (imgPath && imgPath.startsWith('http')) {
+        console.log(`  [Melon API] Found artist image via API`);
+        return downloadImageFromUrl(imgPath, slug);
+      }
+    }
+
+    // Final fallback: construct CDN URL from artistId
+    const cdnUrl = `https://cdnimg.melon.co.kr/cm/artist/images/${artistId}/${artistId}.jpg`;
+    console.log(`  [Melon API] Trying CDN URL for artistId=${artistId}`);
+    return downloadImageFromUrl(cdnUrl, slug);
+  } catch (error) {
+    console.error('  [Melon API] Error:', error);
+    return undefined;
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
 
 // Types
 interface RSSItem {
@@ -1614,21 +1952,42 @@ async function main(): Promise<void> {
       const category = detectCategory(safeContent.title, safeContent.content);
       const slug = generateSlug(safeContent.title);
 
-      // --- Image strategy: og:image → YouTube thumbnail → AI fallback ---
+      // --- Image strategy: Wikipedia → Last.fm → Melon crawl → Melon API → YouTube → AI ---
       let thumbnail: string | undefined;
       let isAIGenerated = false;
 
-      // 1) og:image from original article (official K-pop press/promotional photo)
-      if (extractedMedia.ogImage) {
-        thumbnail = await downloadImageFromUrl(extractedMedia.ogImage, slug);
-        if (thumbnail) console.log(`  Thumbnail: og:image (official press photo)`);
+      // Extract the K-pop artist/group for official image search
+      const subject = extractKpopSubject(safeContent.title, safeContent.summary);
+      if (subject) console.log(`  Subject: ${subject}`);
+
+      // 1) Wikipedia: official artist/group page photo
+      if (subject) {
+        thumbnail = await fetchArtistImageWikipedia(subject, slug);
+        if (thumbnail) console.log(`  Thumbnail: Wikipedia`);
       }
 
-      // 2) YouTube thumbnail from extracted links (official music video / content)
+      // 2) Last.fm: official artist photo (scraped from artist page)
+      if (!thumbnail && subject) {
+        thumbnail = await fetchArtistImageLastFm(subject, slug);
+        if (thumbnail) console.log(`  Thumbnail: Last.fm`);
+      }
+
+      // 3) Melon crawl: artist image from Melon search HTML
+      if (!thumbnail && subject) {
+        thumbnail = await fetchArtistImageMelonCrawl(subject, slug);
+        if (thumbnail) console.log(`  Thumbnail: Melon crawl`);
+      }
+
+      // 4) Melon API: artist image via Melon CDN/API
+      if (!thumbnail && subject) {
+        thumbnail = await fetchArtistImageMelonApi(subject, slug);
+        if (thumbnail) console.log(`  Thumbnail: Melon API`);
+      }
+
+      // 5) YouTube thumbnail from extracted article links
       if (!thumbnail && extractedMedia.youtubeLinks.length > 0) {
         const videoId = extractYouTubeId(extractedMedia.youtubeLinks[0]);
         if (videoId) {
-          // maxresdefault (1280×720) → hqdefault (480×360) fallback
           thumbnail = await downloadImageFromUrl(`https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`, slug);
           if (!thumbnail) {
             thumbnail = await downloadImageFromUrl(`https://img.youtube.com/vi/${videoId}/hqdefault.jpg`, slug);
@@ -1637,7 +1996,7 @@ async function main(): Promise<void> {
         }
       }
 
-      // 3) AI-generated fallback (only when no real image available)
+      // 6) AI-generated fallback (last resort)
       if (!thumbnail) {
         thumbnail = await generateAIImage(category, safeContent.title, safeContent.summary, slug);
         if (thumbnail) isAIGenerated = true;

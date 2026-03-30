@@ -51,6 +51,11 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_PUBLIC_URL: ${{ secrets.R2_PUBLIC_URL }}
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           MAX_ARTICLES: ${{ github.event.inputs.max_articles || '5' }}
         run: npm run fetch-news
         timeout-minutes: 15
@@ -68,7 +73,7 @@ jobs:
       - name: Check for changes
         id: git-check
         run: |
-          if git diff --quiet content/ public/images/posts/ public/data/ public/feed.xml public/news-sitemap.xml 2>/dev/null; then
+          if git diff --quiet content/ public/data/ public/feed.xml public/news-sitemap.xml 2>/dev/null; then
             echo "changes=false" >> $GITHUB_OUTPUT
           else
             echo "changes=true" >> $GITHUB_OUTPUT
