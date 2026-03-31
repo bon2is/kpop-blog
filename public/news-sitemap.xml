@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybes-newbies-spark-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T14:03:31.000Z</news:publication_date>
+      <news:title>HYBE&apos;s Newbies Spark Debate</news:title>
+      <news:keywords>BTS, Debut, HYBE, Girl Group, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T12:36:54.000Z</news:publication_date>
+      <news:title>BTS Sparks Debate</news:title>
+      <news:keywords>BTS, Awards, Album, Grammy Awards, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/shinee-taemin-stuns-in-new-photos/</loc>
     <news:news>
       <news:publication>
@@ -38,6 +62,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/enhypen-heeseung-sparks-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T09:22:33.000Z</news:publication_date>
+      <news:title>ENHYPEN Heeseung Sparks Fury</news:title>
+      <news:keywords>ENHYPEN, Heeseung, BeLift Lab, K-Pop Controversy, Fan Interactions</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ncts-jaemin-surprises-namkoong-min/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +95,30 @@
       <news:publication_date>2026-03-31T08:50:11.000Z</news:publication_date>
       <news:title>BTS Sparks Fury</news:title>
       <news:keywords>BTS, Collaboration, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lee-hee-joon-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T07:25:24.000Z</news:publication_date>
+      <news:title>Lee Hee Joon Shocks Fans</news:title>
+      <news:keywords>K-Drama, Lee Hee Joon, The Scarecrow, ENA</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T06:41:24.000Z</news:publication_date>
+      <news:title>Ju Ji Hoon Shocks Fans</news:title>
+      <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Climax, Thriller</news:keywords>
     </news:news>
   </url>
   <url>
@@ -215,18 +275,6 @@
       <news:publication_date>2026-03-30T09:00:11.000Z</news:publication_date>
       <news:title>IVE&apos;s Liz Sparks Debate</news:title>
       <news:keywords>IVE, Body Shaming, K-Pop Industry, Liz, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T08:20:08.000Z</news:publication_date>
-      <news:title>Ju Ji Hoon Shocks Fans</news:title>
-      <news:keywords>Ju Ji Hoon, Ha Ji Won, Climax, K-Drama</news:keywords>
     </news:news>
   </url>
   <url>
@@ -395,18 +443,6 @@
       <news:publication_date>2026-03-29T21:35:40.000Z</news:publication_date>
       <news:title>Baekhyun Makes US TV Debut</news:title>
       <news:keywords>Debut, Baekhyun, US TV Debut, The Kelly Clarkson Show, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T14:00:45.000Z</news:publication_date>
-      <news:title>BTS Sparks Debate</news:title>
-      <news:keywords>BTS, Bang Si Hyuk, K-Pop, Leadership, Management</news:keywords>
     </news:news>
   </url>
 </urlset>

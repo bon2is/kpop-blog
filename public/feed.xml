@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:02:58 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,40 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>HYBE&apos;s Newbies Spark Debate</title>
+      <link>https://kpop.andxo.com/article/hybes-newbies-spark-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/hybes-newbies-spark-debate/</guid>
+      <description>HYBE&apos;s new girl group teaser ignites fan reactions!</description>
+      <pubDate>Tue, 31 Mar 2026 14:03:31 GMT</pubDate>
+      <category>audition</category>
+      <category>BTS</category>
+      <category>Debut</category>
+      <category>HYBE</category>
+      <category>Girl Group</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybes-newbies-spark-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybes-newbies-spark-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybes-newbies-spark-debate.webp" />
+    </item>
+    <item>
+      <title>BTS Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/bts-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-sparks-debate/</guid>
+      <description>Will BTS win a Grammy?</description>
+      <pubDate>Tue, 31 Mar 2026 12:36:54 GMT</pubDate>
+      <category>award</category>
+      <category>BTS</category>
+      <category>Awards</category>
+      <category>Album</category>
+      <category>Grammy Awards</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-sparks-debate.webp" />
+    </item>
     <item>
       <title>SHINee Taemin Stuns in New Photos</title>
       <link>https://kpop.andxo.com/article/shinee-taemin-stuns-in-new-photos/</link>
@@ -66,6 +100,23 @@
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-rm-sparks-debate.webp" />
     </item>
     <item>
+      <title>ENHYPEN Heeseung Sparks Fury</title>
+      <link>https://kpop.andxo.com/article/enhypen-heeseung-sparks-fury/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/enhypen-heeseung-sparks-fury/</guid>
+      <description>Heeseung&apos;s fan interactions ignite outrage!</description>
+      <pubDate>Tue, 31 Mar 2026 09:22:33 GMT</pubDate>
+      <category>celebrity</category>
+      <category>ENHYPEN</category>
+      <category>Heeseung</category>
+      <category>BeLift Lab</category>
+      <category>K-Pop Controversy</category>
+      <category>Fan Interactions</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/enhypen-heeseung-sparks-fury.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/enhypen-heeseung-sparks-fury.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/enhypen-heeseung-sparks-fury.webp" />
+    </item>
+    <item>
       <title>NCT&apos;s Jaemin Surprises Namkoong Min</title>
       <link>https://kpop.andxo.com/article/ncts-jaemin-surprises-namkoong-min/</link>
       <guid isPermaLink="true">https://kpop.andxo.com/article/ncts-jaemin-surprises-namkoong-min/</guid>
@@ -96,6 +147,39 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-sparks-fury.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-sparks-fury.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-sparks-fury.webp" />
+    </item>
+    <item>
+      <title>Lee Hee Joon Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/lee-hee-joon-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/lee-hee-joon-shocks-fans/</guid>
+      <description>Lee Hee Joon&apos;s intense new role revealed!</description>
+      <pubDate>Tue, 31 Mar 2026 07:25:24 GMT</pubDate>
+      <category>drama</category>
+      <category>K-Drama</category>
+      <category>Lee Hee Joon</category>
+      <category>The Scarecrow</category>
+      <category>ENA</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-hee-joon-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-hee-joon-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-hee-joon-shocks-fans.webp" />
+    </item>
+    <item>
+      <title>Ju Ji Hoon Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</guid>
+      <description>Ju Ji Hoon in perilous situation</description>
+      <pubDate>Tue, 31 Mar 2026 06:41:24 GMT</pubDate>
+      <category>drama</category>
+      <category>K-Drama</category>
+      <category>Ju Ji Hoon</category>
+      <category>Ha Ji Won</category>
+      <category>Climax</category>
+      <category>Thriller</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" />
     </item>
     <item>
       <title>BTS Shocks Fans</title>
@@ -306,22 +390,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ives-liz-sparks-debate.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ives-liz-sparks-debate.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ives-liz-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>Ju Ji Hoon Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</guid>
-      <description>New &apos;Climax&apos; stills revealed!</description>
-      <pubDate>Mon, 30 Mar 2026 08:20:08 GMT</pubDate>
-      <category>drama</category>
-      <category>Ju Ji Hoon</category>
-      <category>Ha Ji Won</category>
-      <category>Climax</category>
-      <category>K-Drama</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" />
     </item>
     <item>
       <title>BTS V Sparks Debate</title>
@@ -551,23 +619,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/baekhyun-makes-us-tv-debut.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/baekhyun-makes-us-tv-debut.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/baekhyun-makes-us-tv-debut.webp" />
-    </item>
-    <item>
-      <title>BTS Sparks Debate</title>
-      <link>https://kpop.andxo.com/article/bts-sparks-debate/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-sparks-debate/</guid>
-      <description>BTS&apos;s reaction to Bang Si Hyuk sparks outrage!</description>
-      <pubDate>Sun, 29 Mar 2026 14:00:45 GMT</pubDate>
-      <category>celebrity</category>
-      <category>BTS</category>
-      <category>Bang Si Hyuk</category>
-      <category>K-Pop</category>
-      <category>Leadership</category>
-      <category>Management</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/bts-sparks-debate.webp" />
     </item>
     <item>
       <title>BTS Breaks Down</title>
@@ -1613,57 +1664,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/bts-solo-sales-spark-debate-on-member-popularity.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/bts-solo-sales-spark-debate-on-member-popularity.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/bts-solo-sales-spark-debate-on-member-popularity.webp" />
-    </item>
-    <item>
-      <title>Unpacking the Timeless Theme of Love in C-Dramas</title>
-      <link>https://kpop.andxo.com/article/unpacking-the-timeless-theme-of-love-in-c-dramas/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/unpacking-the-timeless-theme-of-love-in-c-dramas/</guid>
-      <description>A look into the enduring appeal of love themes in C-Dramas, focusing on the nuances of romance and relationships.</description>
-      <pubDate>Wed, 25 Mar 2026 07:05:50 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Drama</category>
-      <category>C-Drama</category>
-      <category>Romance</category>
-      <category>Love</category>
-      <category>Relationships</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/unpacking-the-timeless-theme-of-love-in-c-dramas.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/unpacking-the-timeless-theme-of-love-in-c-dramas.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/unpacking-the-timeless-theme-of-love-in-c-dramas.webp" />
-    </item>
-    <item>
-      <title>K-Pop Takes Center Stage: &apos;Inkigayo ON THE GO&apos; Unveils Its First Lineup</title>
-      <link>https://kpop.andxo.com/article/k-pop-takes-center-stage-inkigayo-on-the-go-unveils-its-firs/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-takes-center-stage-inkigayo-on-the-go-unveils-its-firs/</guid>
-      <description>Get ready for a unique music experience as &apos;Inkigayo ON THE GO&apos; announces its first lineup of artists, promising an unforgettable concert at Paradise City in Incheon.</description>
-      <pubDate>Wed, 25 Mar 2026 06:33:33 GMT</pubDate>
-      <category>tour</category>
-      <category>NCT</category>
-      <category>TXT</category>
-      <category>Concert</category>
-      <category>Inkigayo ON THE GO</category>
-      <category>K-Pop Concert</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/k-pop-takes-center-stage-inkigayo-on-the-go-unveils-its-firs.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/k-pop-takes-center-stage-inkigayo-on-the-go-unveils-its-firs.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/k-pop-takes-center-stage-inkigayo-on-the-go-unveils-its-firs.webp" />
-    </item>
-    <item>
-      <title>Byeon Woo Seok&apos;s Regal Transformation in &quot;Perfect Crown&quot;: What It Means for His Career</title>
-      <link>https://kpop.andxo.com/article/byeon-woo-seoks-regal-transformation-in-perfect-crown-what-i/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/byeon-woo-seoks-regal-transformation-in-perfect-crown-what-i/</guid>
-      <description>Byeon Woo Seok discusses his role in MBC&apos;s &quot;Perfect Crown&quot;, a romantic drama set in a modern Korean monarchy.</description>
-      <pubDate>Wed, 25 Mar 2026 05:50:43 GMT</pubDate>
-      <category>drama</category>
-      <category>IU</category>
-      <category>K-Drama</category>
-      <category>Byeon Woo Seok</category>
-      <category>Romance</category>
-      <category>MBC</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/byeon-woo-seoks-regal-transformation-in-perfect-crown-what-i.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/byeon-woo-seoks-regal-transformation-in-perfect-crown-what-i.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/byeon-woo-seoks-regal-transformation-in-perfect-crown-what-i.webp" />
     </item>
   </channel>
 </rss>
