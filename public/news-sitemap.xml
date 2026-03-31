@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T06:08:25.000Z</news:publication_date>
+      <news:title>BTS Shocks Fans</news:title>
+      <news:keywords>BTS, K-Pop, Idol-Actress, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/idol-sparks-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T05:58:17.000Z</news:publication_date>
+      <news:title>Idol Sparks Fury</news:title>
+      <news:keywords>K-Pop, Idol, Fansite, Scandal</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-v-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T05:21:05.000Z</news:publication_date>
+      <news:title>BTS V Breaks Silence</news:title>
+      <news:keywords>BTS, V, English Skills, K-Pop Idols, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-member-reveals-genetic-condition/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T04:55:51.000Z</news:publication_date>
+      <news:title>NCT Member Reveals Genetic Condition</news:title>
+      <news:keywords>NCT, K-Pop, Genetic Condition, Mental Health, Wellness</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T04:01:51.000Z</news:publication_date>
+      <news:title>K-Pop Idol Sparks Debate</news:title>
+      <news:keywords>K-Pop, Idol, Fan Engagement, Industry, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/txts-yeonjun-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -131,18 +191,6 @@
       <news:publication_date>2026-03-30T07:33:21.000Z</news:publication_date>
       <news:title>TXT&apos;s Yeonjun Reveals New Role</news:title>
       <news:keywords>TXT, Yeonjun, Fashion, Survival Show, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-v-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T06:59:41.000Z</news:publication_date>
-      <news:title>BTS V Breaks Silence</news:title>
-      <news:keywords>BTS, V, Inspiration, K-Pop, Comeback</news:keywords>
     </news:news>
   </url>
   <url>
@@ -383,30 +431,6 @@
       <news:publication_date>2026-03-29T07:05:42.000Z</news:publication_date>
       <news:title>Park Hae Soo Faces Off</news:title>
       <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, Suspense, The Scarecrow</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T05:07:11.000Z</news:publication_date>
-      <news:title>Ha Jung Woo Shocks Fans</news:title>
-      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Mad Concrete Dreams, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/zerobaseones-sung-han-bin-agency-fights-back/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T04:01:05.000Z</news:publication_date>
-      <news:title>ZEROBASEONE&apos;s Sung Han Bin: Agency Fights Back</news:title>
-      <news:keywords>ZEROBASEONE, Sung Han Bin, THE L1VE, K-Pop, Legal Action</news:keywords>
     </news:news>
   </url>
 </urlset>
