@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/txts-yeonjun-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T03:38:25.000Z</news:publication_date>
+      <news:title>TXT&apos;s Yeonjun Sparks Debate</news:title>
+      <news:keywords>TXT, Yeonjun, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T02:39:46.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, Mental Health, K-Pop, Isolation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-star-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T01:30:13.000Z</news:publication_date>
+      <news:title>K-Pop Star Breaks Silence</news:title>
+      <news:keywords>K-Pop, Mental Health, Comeback, Depression</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-member-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T18:52:16.000Z</news:publication_date>
+      <news:title>IVE Member Shocks Fans</news:title>
+      <news:keywords>IVE, Retirement, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/heeseung-sparks-worry/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +59,18 @@
       <news:publication_date>2026-03-30T14:20:30.000Z</news:publication_date>
       <news:title>Heeseung Sparks Worry</news:title>
       <news:keywords>ENHYPEN, Debut, Heeseung, Solo Debut, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/agami-makes-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T13:38:21.000Z</news:publication_date>
+      <news:title>AGAMI Makes Debut</news:title>
+      <news:keywords>Debut, AGAMI, K-Band, New Music</news:keywords>
     </news:news>
   </url>
   <url>
@@ -347,42 +407,6 @@
       <news:publication_date>2026-03-29T04:01:05.000Z</news:publication_date>
       <news:title>ZEROBASEONE&apos;s Sung Han Bin: Agency Fights Back</news:title>
       <news:keywords>ZEROBASEONE, Sung Han Bin, THE L1VE, K-Pop, Legal Action</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/model-reveals-shocking-jennie-inspiration/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T03:21:18.000Z</news:publication_date>
-      <news:title>Model Reveals Shocking Jennie Inspiration</news:title>
-      <news:keywords>BLACKPINK, aespa, Jennie, Ningning, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nana-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T01:44:38.000Z</news:publication_date>
-      <news:title>Nana Breaks Silence</news:title>
-      <news:keywords>Nana, Court Appearance, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T18:29:13.000Z</news:publication_date>
-      <news:title>BTS Breaks Silence</news:title>
-      <news:keywords>BTS, Comeback, Concert, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
