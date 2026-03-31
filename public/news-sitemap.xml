@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/shinee-taemin-stuns-in-new-photos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T11:10:10.000Z</news:publication_date>
+      <news:title>SHINee Taemin Stuns in New Photos</news:title>
+      <news:keywords>SHINee, Taemin, Getty Pictures, K-Pop Fashion</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-jong-kook-sparks-chaos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T10:55:35.000Z</news:publication_date>
+      <news:title>Kim Jong Kook Sparks Chaos</news:title>
+      <news:keywords>Kim Jong Kook, Daesung, Travel Variety Show, Korean TV, SBS Plus</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-rm-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T09:55:16.000Z</news:publication_date>
+      <news:title>BTS RM Sparks Debate</news:title>
+      <news:keywords>BTS, RM, K-Pop, Beauty Standards, Social Media</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ncts-jaemin-surprises-namkoong-min/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T09:00:46.000Z</news:publication_date>
+      <news:title>NCT&apos;s Jaemin Surprises Namkoong Min</news:title>
+      <news:keywords>NCT, K-Drama, Namkoong Min, Friendship</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-sparks-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T08:50:11.000Z</news:publication_date>
+      <news:title>BTS Sparks Fury</news:title>
+      <news:keywords>BTS, Collaboration, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -347,90 +407,6 @@
       <news:publication_date>2026-03-29T14:00:45.000Z</news:publication_date>
       <news:title>BTS Sparks Debate</news:title>
       <news:keywords>BTS, Bang Si Hyuk, K-Pop, Leadership, Management</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-breaks-down/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T11:26:14.000Z</news:publication_date>
-      <news:title>BTS Breaks Down</news:title>
-      <news:keywords>BTS, Mental Health, K-Pop, Comeback, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-seung-soo-sparks-hope/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T10:29:51.000Z</news:publication_date>
-      <news:title>Kim Seung Soo Sparks Hope</news:title>
-      <news:keywords>Kim Seung Soo, Kim Hyung Mook, Recipe for Love, K-Drama, KBS2</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idols-embroiled/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T10:04:42.000Z</news:publication_date>
-      <news:title>K-Pop Idols Embroiled</news:title>
-      <news:keywords>K-Pop, Scandal, Idols, Leaked Video, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-rm-unleashes-fury/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T07:41:20.000Z</news:publication_date>
-      <news:title>BTS RM Unleashes Fury</news:title>
-      <news:keywords>BTS, RM, Celebrity News, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-reveals-secret/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T07:36:43.000Z</news:publication_date>
-      <news:title>Idol Reveals Secret</news:title>
-      <news:keywords>K-Pop, Idol Life, Motherhood</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ncts-jaemin-stuns-namgoong-mins-sweet-surprise/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T07:34:34.000Z</news:publication_date>
-      <news:title>NCT&apos;s Jaemin Stuns: Namgoong Min&apos;s Sweet Surprise</news:title>
-      <news:keywords>NCT, Concert, Jaemin, Namgoong Min, NCT DREAM</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-hae-soo-faces-off/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T07:05:42.000Z</news:publication_date>
-      <news:title>Park Hae Soo Faces Off</news:title>
-      <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, Suspense, The Scarecrow</news:keywords>
     </news:news>
   </url>
 </urlset>
