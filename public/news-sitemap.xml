@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T14:05:04.000Z</news:publication_date>
+      <news:title>BTS Shocks Fans</news:title>
+      <news:keywords>BTS, Debut, Jungkook, V, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ius-drama-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T13:58:10.000Z</news:publication_date>
+      <news:title>IU&apos;s Drama Sparks Debate</news:title>
+      <news:keywords>RIIZE, IU, BIBI, Charts, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jennie-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T13:49:35.000Z</news:publication_date>
+      <news:title>Jennie Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Jennie, Fashion, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T12:12:47.000Z</news:publication_date>
+      <news:title>IVE Breaks Silence</news:title>
+      <news:keywords>IVE, Album, Solo Album, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T11:52:57.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, Body Image, K-Pop Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/babymonsters-ahyeon-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -302,18 +362,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T06:08:25.000Z</news:publication_date>
-      <news:title>BTS Shocks Fans</news:title>
-      <news:keywords>BTS, K-Pop, Idol-Actress, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://kpop.andxo.com/article/idol-sparks-fury/</loc>
     <news:news>
       <news:publication>
@@ -374,18 +422,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T02:39:46.000Z</news:publication_date>
-      <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, Mental Health, K-Pop, Isolation</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://kpop.andxo.com/article/k-pop-star-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -407,30 +443,6 @@
       <news:publication_date>2026-03-30T18:52:16.000Z</news:publication_date>
       <news:title>IVE Member Shocks Fans</news:title>
       <news:keywords>IVE, Retirement, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heeseung-sparks-worry/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T14:20:30.000Z</news:publication_date>
-      <news:title>Heeseung Sparks Worry</news:title>
-      <news:keywords>ENHYPEN, Debut, Heeseung, Solo Debut, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/agami-makes-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T13:38:21.000Z</news:publication_date>
-      <news:title>AGAMI Makes Debut</news:title>
-      <news:keywords>Debut, AGAMI, K-Band, New Music</news:keywords>
     </news:news>
   </url>
 </urlset>
