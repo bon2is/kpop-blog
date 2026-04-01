@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/iu-reveals-crown-jewels/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T03:08:36.000Z</news:publication_date>
+      <news:title>IU Reveals Crown Jewels</news:title>
+      <news:keywords>IU, Debut, K-Drama, Byeon Woo Seok, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lee-kwang-soo-sparks-romance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T18:49:09.000Z</news:publication_date>
+      <news:title>Lee Kwang Soo Sparks Romance</news:title>
+      <news:keywords>K-Drama, Lee Kwang Soo, Lee Sun Bin, Romance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/son-ye-jin-celebrates-4th-anniversary/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T18:33:20.000Z</news:publication_date>
+      <news:title>Son Ye Jin Celebrates 4th Anniversary</news:title>
+      <news:keywords>Son Ye Jin, Hyun Bin, Wedding Anniversary, K-Drama, Celebrity Couples</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-reveals-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T17:28:00.000Z</news:publication_date>
+      <news:title>KATSEYE Reveals Comeback</news:title>
+      <news:keywords>Comeback, KATSEYE, PINKY UP, K-Pop, New Single</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/taeyang-reveals-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T17:05:21.000Z</news:publication_date>
+      <news:title>Taeyang Reveals Comeback</news:title>
+      <news:keywords>BIGBANG, Comeback, Album, Taeyang, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybes-newbies-spark-debate/</loc>
     <news:news>
       <news:publication>
@@ -347,102 +407,6 @@
       <news:publication_date>2026-03-30T04:36:18.000Z</news:publication_date>
       <news:title>TWICE Sparks Concern</news:title>
       <news:keywords>TWICE, K-Pop, Idol Welfare, Health Concerns, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actor-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T03:28:16.000Z</news:publication_date>
-      <news:title>Actor Sparks Debate</news:title>
-      <news:keywords>K-Drama, Backlash, Accountability</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-v-reveals-shocking-career-doubt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T02:10:37.000Z</news:publication_date>
-      <news:title>BTS&apos;s V Reveals Shocking Career Doubt</news:title>
-      <news:keywords>BTS, V, K-Pop, Career, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mingyu-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T01:42:09.000Z</news:publication_date>
-      <news:title>Mingyu Sparks Debate</news:title>
-      <news:keywords>SEVENTEEN, Mingyu, Cultural Appropriation, K-Pop, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeen-takes-stand/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T01:23:37.000Z</news:publication_date>
-      <news:title>SEVENTEEN Takes Stand</news:title>
-      <news:keywords>SEVENTEEN, PLEDIS Entertainment, Legal Action, Artists&apos; Rights</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/og-boy-group-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T01:19:03.000Z</news:publication_date>
-      <news:title>OG Boy Group Sparks Debate</news:title>
-      <news:keywords>OG Boy Group, Reunion, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-enchants-in-royal-romance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T00:23:00.000Z</news:publication_date>
-      <news:title>IU Enchants in Royal Romance</news:title>
-      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance, MBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/baekhyun-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T21:35:40.000Z</news:publication_date>
-      <news:title>Baekhyun Makes History</news:title>
-      <news:keywords>EXO, Debut, Baekhyun, US TV Debut, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/baekhyun-makes-us-tv-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T21:35:40.000Z</news:publication_date>
-      <news:title>Baekhyun Makes US TV Debut</news:title>
-      <news:keywords>Debut, Baekhyun, US TV Debut, The Kelly Clarkson Show, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
