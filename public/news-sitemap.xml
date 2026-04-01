@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-backlash/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T05:29:39.000Z</news:publication_date>
+      <news:title>IVE Sparks Backlash</news:title>
+      <news:keywords>IVE, Debut, Fansite, K-Pop, Privacy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/2nd-gen-idol-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T05:02:21.000Z</news:publication_date>
+      <news:title>2nd-Gen Idol Shocks Fans</news:title>
+      <news:keywords>2nd-Gen Idol, K-Pop, Comeback, Success Story</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5th-gen-idol-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T03:20:58.000Z</news:publication_date>
+      <news:title>5th Gen Idol Reveals</news:title>
+      <news:keywords>5th Gen Idol, Skincare, K-Pop, Health Routine, Beauty</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/iu-reveals-crown-jewels/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +47,18 @@
       <news:publication_date>2026-04-01T03:08:36.000Z</news:publication_date>
       <news:title>IU Reveals Crown Jewels</news:title>
       <news:keywords>IU, Debut, K-Drama, Byeon Woo Seok, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-turns-actress-wedding-bells/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T02:04:32.000Z</news:publication_date>
+      <news:title>K-Pop Idol Turns Actress: Wedding Bells</news:title>
+      <news:keywords>K-Pop, Wedding, Actress</news:keywords>
     </news:news>
   </url>
   <url>
@@ -35,6 +83,18 @@
       <news:publication_date>2026-03-31T18:33:20.000Z</news:publication_date>
       <news:title>Son Ye Jin Celebrates 4th Anniversary</news:title>
       <news:keywords>Son Ye Jin, Hyun Bin, Wedding Anniversary, K-Drama, Celebrity Couples</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/staycs-agency-reveals-new-girl-group/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T18:10:01.000Z</news:publication_date>
+      <news:title>STAYC&apos;s Agency Reveals New Girl Group</news:title>
+      <news:keywords>Debut, STAYC, UNCHILD, K-Pop, Girl Group</news:keywords>
     </news:news>
   </url>
   <url>
@@ -359,54 +419,6 @@
       <news:publication_date>2026-03-30T07:33:21.000Z</news:publication_date>
       <news:title>TXT&apos;s Yeonjun Reveals New Role</news:title>
       <news:keywords>TXT, Yeonjun, Fashion, Survival Show, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-reveals-royal-side/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T05:38:25.000Z</news:publication_date>
-      <news:title>IU Reveals Royal Side</news:title>
-      <news:keywords>IU, K-Drama, Perfect Crown, Byeon Woo Seok, MBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T05:38:25.000Z</news:publication_date>
-      <news:title>IU Shocks Fans</news:title>
-      <news:keywords>IU, K-Drama, Perfect Crown, Byeon Woo Seok, MBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-star-sparks-outrage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T05:15:52.000Z</news:publication_date>
-      <news:title>K-Pop Star Sparks Outrage</news:title>
-      <news:keywords>K-Pop, Scandal, Backlash</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twice-sparks-concern/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T04:36:18.000Z</news:publication_date>
-      <news:title>TWICE Sparks Concern</news:title>
-      <news:keywords>TWICE, K-Pop, Idol Welfare, Health Concerns, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
