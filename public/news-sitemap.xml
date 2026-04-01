@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/babymonsters-ahyeon-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T11:25:07.000Z</news:publication_date>
+      <news:title>BABYMONSTER&apos;s Ahyeon Sparks Debate</news:title>
+      <news:keywords>BABYMONSTER, Ahyeon, Body Shaming, K-Pop, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseyes-manon-sparks-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T11:17:01.000Z</news:publication_date>
+      <news:title>KATSEYE&apos;s Manon Sparks Concern</news:title>
+      <news:keywords>KATSEYE, Manon, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T10:50:13.000Z</news:publication_date>
+      <news:title>ENHYPEN Sparks Debate</news:title>
+      <news:keywords>ENHYPEN, Heeseung, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-hyun-line-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T08:21:37.000Z</news:publication_date>
+      <news:title>BTS&apos;s Hyun Line Sparks Debate</news:title>
+      <news:keywords>BTS, Confidential Assignment, K-Movie, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-security-guards-female-idol/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T07:10:23.000Z</news:publication_date>
+      <news:title>BTS Security Guards Female Idol</news:title>
+      <news:keywords>BTS, Security, K-Pop Idols</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ive-sparks-backlash/</loc>
     <news:news>
       <news:publication>
@@ -371,54 +431,6 @@
       <news:publication_date>2026-03-30T13:38:21.000Z</news:publication_date>
       <news:title>AGAMI Makes Debut</news:title>
       <news:keywords>Debut, AGAMI, K-Band, New Music</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-heeseung-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T10:18:58.000Z</news:publication_date>
-      <news:title>ENHYPEN Heeseung Shocks Fans</news:title>
-      <news:keywords>ENHYPEN, Heeseung, K-Pop Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-liz-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T09:00:11.000Z</news:publication_date>
-      <news:title>IVE&apos;s Liz Sparks Debate</news:title>
-      <news:keywords>IVE, Body Shaming, K-Pop Industry, Liz, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-v-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T08:05:01.000Z</news:publication_date>
-      <news:title>BTS V Sparks Debate</news:title>
-      <news:keywords>BTS, Language, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txts-yeonjun-reveals-new-role/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T07:33:21.000Z</news:publication_date>
-      <news:title>TXT&apos;s Yeonjun Reveals New Role</news:title>
-      <news:keywords>TXT, Yeonjun, Fashion, Survival Show, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
