@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-wonyoung-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-02T05:09:54.000Z</news:publication_date>
+      <news:title>IVE Wonyoung Sparks Debate</news:title>
+      <news:keywords>IVE, Wonyoung, Marriage, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/cha-jun-hwan-joins-fantagio/</loc>
     <news:news>
       <news:publication>
@@ -14,6 +26,30 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/jungkook-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-02T01:57:44.000Z</news:publication_date>
+      <news:title>Jungkook Sparks Debate</news:title>
+      <news:keywords>BTS, Jungkook, Cultural Sensitivity, Baby Names, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T22:54:05.000Z</news:publication_date>
+      <news:title>HYBE Shocks Fans</news:title>
+      <news:keywords>HYBE, Scooter Braun, K-Pop Industry, Business</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lisa-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +59,30 @@
       <news:publication_date>2026-04-01T21:01:29.000Z</news:publication_date>
       <news:title>Lisa Shocks Fans</news:title>
       <news:keywords>BLACKPINK, Debut, Lisa, Residency, Las Vegas</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-v-12-year-secret-revealed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T19:46:51.000Z</news:publication_date>
+      <news:title>BTS V: 12-Year Secret Revealed</news:title>
+      <news:keywords>BTS, V, Fansite, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hwasa-stuns-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T17:26:59.000Z</news:publication_date>
+      <news:title>Hwasa Stuns Fans</news:title>
+      <news:keywords>MAMAMOO, Hwasa, GQ Korea, Pictorial, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -419,54 +479,6 @@
       <news:publication_date>2026-03-31T06:41:24.000Z</news:publication_date>
       <news:title>Ju Ji Hoon Shocks Fans</news:title>
       <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Climax, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-sparks-fury/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T05:58:17.000Z</news:publication_date>
-      <news:title>Idol Sparks Fury</news:title>
-      <news:keywords>K-Pop, Idol, Fansite, Scandal</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-v-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T05:21:05.000Z</news:publication_date>
-      <news:title>BTS V Breaks Silence</news:title>
-      <news:keywords>BTS, V, English Skills, K-Pop Idols, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-member-reveals-genetic-condition/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T04:55:51.000Z</news:publication_date>
-      <news:title>NCT Member Reveals Genetic Condition</news:title>
-      <news:keywords>NCT, K-Pop, Genetic Condition, Mental Health, Wellness</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T04:01:51.000Z</news:publication_date>
-      <news:title>K-Pop Idol Sparks Debate</news:title>
-      <news:keywords>K-Pop, Idol, Fan Engagement, Industry, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
