@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:55:28 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -193,6 +193,23 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-v-12-year-secret-revealed.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-v-12-year-secret-revealed.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-v-12-year-secret-revealed.webp" />
+    </item>
+    <item>
+      <title>Dayoung Breaks Silence</title>
+      <link>https://kpop.andxo.com/article/dayoung-breaks-silence/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/dayoung-breaks-silence/</guid>
+      <description>Dayoung&apos;s solo comeback is coming!</description>
+      <pubDate>Wed, 01 Apr 2026 17:42:33 GMT</pubDate>
+      <category>comeback</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <category>MV</category>
+      <category>Dayoung</category>
+      <category>WJSN</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/dayoung-breaks-silence.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/dayoung-breaks-silence.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/dayoung-breaks-silence.webp" />
     </item>
     <item>
       <title>Hwasa Stuns Fans</title>
@@ -1638,23 +1655,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/bts-rm-opens-up.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/bts-rm-opens-up.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/bts-rm-opens-up.webp" />
-    </item>
-    <item>
-      <title>Kim Hyang Gi Sparks Debate</title>
-      <link>https://kpop.andxo.com/article/kim-hyang-gi-sparks-debate/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/kim-hyang-gi-sparks-debate/</guid>
-      <description>Kim Hyang Gi&apos;s new drama is here!</description>
-      <pubDate>Fri, 27 Mar 2026 03:07:10 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Drama</category>
-      <category>Kim Hyang Gi</category>
-      <category>Cha Hak Yeon</category>
-      <category>N.Flying</category>
-      <category>BL Novel</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/kim-hyang-gi-sparks-debate.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/kim-hyang-gi-sparks-debate.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/kim-hyang-gi-sparks-debate.webp" />
     </item>
   </channel>
 </rss>

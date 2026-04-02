@@ -134,6 +134,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/dayoung-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T17:42:33.000Z</news:publication_date>
+      <news:title>Dayoung Breaks Silence</news:title>
+      <news:keywords>Comeback, Debut, MV, Dayoung, WJSN</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hwasa-stuns-fans/</loc>
     <news:news>
       <news:publication>
@@ -419,18 +431,6 @@
       <news:publication_date>2026-03-31T17:05:21.000Z</news:publication_date>
       <news:title>Taeyang Reveals Comeback</news:title>
       <news:keywords>BIGBANG, Comeback, Album, Taeyang, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybes-newbies-spark-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T14:03:31.000Z</news:publication_date>
-      <news:title>HYBE&apos;s Newbies Spark Debate</news:title>
-      <news:keywords>BTS, Debut, HYBE, Girl Group, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
