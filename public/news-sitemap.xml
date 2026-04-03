@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-han-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T03:32:42.000Z</news:publication_date>
+      <news:title>Stray Kids&apos; Han Sparks Debate</news:title>
+      <news:keywords>Stray Kids, Dating Rumors, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/eunhyuk-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-04-03T02:14:03.000Z</news:publication_date>
       <news:title>Eunhyuk Shocks Fans</news:title>
       <news:keywords>Super Junior, Eunhyuk, Donation, Philanthropy, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T00:17:41.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, K-Pop, Idol Resemblance</news:keywords>
     </news:news>
   </url>
   <url>
@@ -302,18 +326,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T11:52:57.000Z</news:publication_date>
-      <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, Body Image, K-Pop Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://kpop.andxo.com/article/babymonsters-ahyeon-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -371,30 +383,6 @@
       <news:publication_date>2026-04-01T07:10:23.000Z</news:publication_date>
       <news:title>BTS Security Guards Female Idol</news:title>
       <news:keywords>BTS, Security, K-Pop Idols</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-backlash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T05:29:39.000Z</news:publication_date>
-      <news:title>IVE Sparks Backlash</news:title>
-      <news:keywords>IVE, Debut, Fansite, K-Pop, Privacy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/2nd-gen-idol-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T05:02:21.000Z</news:publication_date>
-      <news:title>2nd-Gen Idol Shocks Fans</news:title>
-      <news:keywords>2nd-Gen Idol, K-Pop, Comeback, Success Story</news:keywords>
     </news:news>
   </url>
 </urlset>
