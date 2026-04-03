@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-04-03T14:42:35.120Z",
+  "updatedAt": "2026-04-03T16:06:29.947Z",
   "unified": [
     {
       "rank": 1,
+      "title": "SWIM",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_DF7D18A5E9A0B794BF5770C4952A34AC.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20SWIM%20MV%20official",
+      "score": 165,
+      "chartRanks": {
+        "circle": 1,
+        "spotify": 1,
+        "youtube": 1
+      }
+    },
+    {
+      "rank": 2,
       "title": "RUDE!",
       "artist": "Hearts2Hearts",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260223_C7D11C6388097EC0E27C783AF95573C8.jpg",
@@ -15,7 +28,20 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "Body to Body",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_4D26FF24DC5EAB1494F30E281DFA4D89.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20Body%20to%20Body%20MV%20official",
+      "score": 158.5,
+      "chartRanks": {
+        "circle": 4,
+        "spotify": 2,
+        "youtube": 3
+      }
+    },
+    {
+      "rank": 4,
       "title": "0+0",
       "artist": "한로로",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250813_F0F7CC6DAE5927468BEBBA13FE39F439.jpg",
@@ -28,7 +54,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "404 (New Era)",
       "artist": "KiiiKiii",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260129_320A98E3BC79AEB90CEFB7E622189C58.jpg",
@@ -41,7 +67,33 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "KISS KISS KISS (Feat. 선우 (THE BOYZ)) (Prod. by Hukky Shibaseki)",
+      "artist": "nowimyoung, Royal 44",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_04086E535D39E13F894378D89CAB6FCF.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=nowimyoung%2C%20Royal%2044%20KISS%20KISS%20KISS%20(Feat.%20%EC%84%A0%EC%9A%B0%20(THE%20BOYZ))%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official",
+      "score": 131.60000000000002,
+      "chartRanks": {
+        "circle": 13,
+        "spotify": 3,
+        "youtube": 17
+      }
+    },
+    {
+      "rank": 7,
+      "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
+      "artist": "김하온 (HAON), Nosun, Raf Sandou, Marv, 정준혁",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260311_07382B24CC89FCA750BC103205CEBEA4.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%95%98%EC%98%A8%2C%20Nosun%2C%20Raf%20Sandou%2C%20Marv%2C%20%EC%A0%95%EC%A4%80%ED%98%81%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official",
+      "score": 131.6,
+      "chartRanks": {
+        "circle": 9,
+        "spotify": 11,
+        "youtube": 13
+      }
+    },
+    {
+      "rank": 8,
       "title": "BANG BANG",
       "artist": "IVE",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260212_76B514D0AC2BA3D6F6BCC29A31D866E4.jpg",
@@ -54,29 +106,20 @@
       }
     },
     {
-      "rank": 5,
-      "title": "SWIM",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20SWIM%20MV%20official",
-      "score": 115,
+      "rank": 9,
+      "title": "Hooligan",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_300E161F4B5A12983D92274D72FBCC02.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20Hooligan%20MV%20official",
+      "score": 113.19999999999999,
       "chartRanks": {
-        "spotify": 1,
-        "youtube": 1
+        "circle": 16,
+        "spotify": 5,
+        "youtube": 28
       }
     },
     {
-      "rank": 6,
-      "title": "Body to Body",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Body%20to%20Body%20MV%20official",
-      "score": 111.5,
-      "chartRanks": {
-        "spotify": 2,
-        "youtube": 3
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 10,
       "title": "Drowning",
       "artist": "WOODZ",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20230503_E7C53ADD71BFA1DDDF64AD917065DB60.jpg",
@@ -89,7 +132,20 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 11,
+      "title": "FYA",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_41AEB2939BCD921BEDE9BC89E5EE6902.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20FYA%20MV%20official",
+      "score": 98.60000000000001,
+      "chartRanks": {
+        "circle": 20,
+        "spotify": 7,
+        "youtube": 35
+      }
+    },
+    {
+      "rank": 12,
       "title": "사랑하게 될 거야",
       "artist": "한로로",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250716_0D9496CCFAE160295A1523F28C1D19B5.jpg",
@@ -101,7 +157,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 13,
       "title": "Love Love Love",
       "artist": "EPIK HIGH",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20211208_EBF0AA6A80AE70BF707EF9235CC276BB.jpg",
@@ -114,18 +170,7 @@
       }
     },
     {
-      "rank": 10,
-      "title": "KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki)",
-      "artist": "NOWIMYOUNG",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20KISS%20KISS%20KISS%20(Feat.%20SUNWOO%20(THE%20BOYZ))%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official",
-      "score": 93.6,
-      "chartRanks": {
-        "spotify": 3,
-        "youtube": 17
-      }
-    },
-    {
-      "rank": 11,
+      "rank": 14,
       "title": "BLACKHOLE",
       "artist": "IVE",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260226_B1050348BC06B8CE4F6C3FA8D32446F4.jpg",
@@ -137,7 +182,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 15,
       "title": "Good Goodbye",
       "artist": "HWASA",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251018_957C63B3E0C65EB4A0BFD4FCAFDCD940.jpg",
@@ -149,18 +194,7 @@
       }
     },
     {
-      "rank": 13,
-      "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
-      "artist": "HAON",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HAON%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official",
-      "score": 89.6,
-      "chartRanks": {
-        "spotify": 11,
-        "youtube": 13
-      }
-    },
-    {
-      "rank": 14,
+      "rank": 16,
       "title": "Blue Valentine",
       "artist": "NMIXX",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251016_272870CA6C83789274133BBB36EBA9F2.jpg",
@@ -173,18 +207,7 @@
       }
     },
     {
-      "rank": 15,
-      "title": "Hooligan",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Hooligan%20MV%20official",
-      "score": 78.2,
-      "chartRanks": {
-        "spotify": 5,
-        "youtube": 28
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "title": "멸종위기사랑",
       "artist": "이찬혁",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250723_62DA3C9082B7D8DE87F871E20D4628BE.jpg",
@@ -196,18 +219,57 @@
       }
     },
     {
-      "rank": 17,
-      "title": "FYA",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20FYA%20MV%20official",
-      "score": 67.60000000000001,
+      "rank": 18,
+      "title": "SKY PASS (Feat. BOBBY) (Prod. by GRAY)",
+      "artist": "OSUN, MASON HOME",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_EF1080DB1C56EE499ED712FD037BBD06.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=OSUN%2C%20MASON%20HOME%20SKY%20PASS%20(Feat.%20BOBBY)%20(Prod.%20by%20GRAY)%20MV%20official",
+      "score": 75.5,
       "chartRanks": {
-        "spotify": 7,
-        "youtube": 35
+        "circle": 40,
+        "spotify": 24,
+        "youtube": 22
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "title": "Aliens",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_18A53FDA834E8CDF5AB886E6304BB048.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20Aliens%20MV%20official",
+      "score": 75.30000000000001,
+      "chartRanks": {
+        "circle": 23,
+        "spotify": 8
+      }
+    },
+    {
+      "rank": 20,
+      "title": "2.0",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_D2CC6C790D291CF8B8C033A4EC0587A8.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%202.0%20MV%20official",
+      "score": 74.89999999999999,
+      "chartRanks": {
+        "circle": 32,
+        "spotify": 10,
+        "youtube": 42
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Like Animals",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_8539E67E8BF08D58FE185EE7FFEABE20.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20Like%20Animals%20MV%20official",
+      "score": 72.2,
+      "chartRanks": {
+        "circle": 25,
+        "spotify": 9
+      }
+    },
+    {
+      "rank": 22,
       "title": "FOCUS",
       "artist": "Hearts2Hearts",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251023_8B360FC5A25EC39586ED7B321C1A6902.jpg",
@@ -220,7 +282,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 23,
       "title": "뛰어(JUMP)",
       "artist": "BLACKPINK",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250714_ABA06AC2C43AC235D7DE6C32B24E383B.jpg",
@@ -232,18 +294,20 @@
       }
     },
     {
-      "rank": 20,
-      "title": "SKY PASS (Feat. BOBBY) (Prod. by GRAY)",
-      "artist": "OSUN",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=OSUN%20SKY%20PASS%20(Feat.%20BOBBY)%20(Prod.%20by%20GRAY)%20MV%20official",
-      "score": 64.5,
+      "rank": 24,
+      "title": "Merry Go Round",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_A37548893A0FDBC7AD2B3372883401E5.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20Merry%20Go%20Round%20MV%20official",
+      "score": 61.10000000000001,
       "chartRanks": {
-        "spotify": 24,
-        "youtube": 22
+        "circle": 34,
+        "spotify": 12,
+        "youtube": 50
       }
     },
     {
-      "rank": 21,
+      "rank": 25,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20IRIS%20OUT%20MV%20official",
@@ -254,7 +318,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 26,
       "title": "GO",
       "artist": "BLACKPINK",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260302_28C69EE2DD9E7012A6A55017A6063356.jpg",
@@ -267,7 +331,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 27,
       "title": "STYLE",
       "artist": "Hearts2Hearts",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250621_E56A9CB7C09D675FB5B75998358B5F37.jpg",
@@ -280,18 +344,7 @@
       }
     },
     {
-      "rank": 24,
-      "title": "2.0",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%202.0%20MV%20official",
-      "score": 55.9,
-      "chartRanks": {
-        "spotify": 10,
-        "youtube": 42
-      }
-    },
-    {
-      "rank": 25,
+      "rank": 28,
       "title": "너에게 닿기를",
       "artist": "10cm",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251231_819793CC4BBC4C8B1212C5A69D15A1BF.jpg",
@@ -303,18 +356,19 @@
       }
     },
     {
-      "rank": 26,
-      "title": "SWIM",
-      "artist": "방탄소년단",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_DF7D18A5E9A0B794BF5770C4952A34AC.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20SWIM%20MV%20official",
-      "score": 50,
+      "rank": 29,
+      "title": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250625_ECFE2571549F5CD2C9211F7155E24CBD.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HUNTR%2FX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%2C%20KPop%20Demon%20Hunters%20Cast%20Golden%20MV%20official",
+      "score": 53.599999999999994,
       "chartRanks": {
-        "circle": 1
+        "circle": 19,
+        "youtube": 33
       }
     },
     {
-      "rank": 27,
+      "rank": 30,
       "title": "캐치 캐치",
       "artist": "YENA",
       "youtubeUrl": "https://www.youtube.com/results?search_query=YENA%20%EC%BA%90%EC%B9%98%20%EC%BA%90%EC%B9%98%20MV%20official",
@@ -324,44 +378,13 @@
       }
     },
     {
-      "rank": 28,
-      "title": "Aliens",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Aliens%20MV%20official",
-      "score": 47.300000000000004,
-      "chartRanks": {
-        "spotify": 8
-      }
-    },
-    {
-      "rank": 29,
-      "title": "Body to Body",
-      "artist": "방탄소년단",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_4D26FF24DC5EAB1494F30E281DFA4D89.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20Body%20to%20Body%20MV%20official",
-      "score": 47,
-      "chartRanks": {
-        "circle": 4
-      }
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "title": "아크라포빅",
       "artist": "hamo",
       "youtubeUrl": "https://www.youtube.com/results?search_query=hamo%20%EC%95%84%ED%81%AC%EB%9D%BC%ED%8F%AC%EB%B9%85%20MV%20official",
       "score": 46.8,
       "chartRanks": {
         "youtube": 12
-      }
-    },
-    {
-      "rank": 31,
-      "title": "Like Animals",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Like%20Animals%20MV%20official",
-      "score": 46.2,
-      "chartRanks": {
-        "spotify": 9
       }
     },
     {
@@ -377,17 +400,6 @@
     },
     {
       "rank": 33,
-      "title": "Merry Go Round",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Merry%20Go%20Round%20MV%20official",
-      "score": 44.10000000000001,
-      "chartRanks": {
-        "spotify": 12,
-        "youtube": 50
-      }
-    },
-    {
-      "rank": 34,
       "title": "THAT'S A NO NO(Live)",
       "artist": "ITZY",
       "youtubeUrl": "https://www.youtube.com/results?search_query=ITZY%20THAT'S%20A%20NO%20NO(Live)%20MV%20official",
@@ -397,18 +409,7 @@
       }
     },
     {
-      "rank": 35,
-      "title": "TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush)",
-      "artist": "김하온 (HAON), Nosun, Raf Sandou, Marv, 정준혁",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260311_07382B24CC89FCA750BC103205CEBEA4.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EA%B9%80%ED%95%98%EC%98%A8%2C%20Nosun%2C%20Raf%20Sandou%2C%20Marv%2C%20%EC%A0%95%EC%A4%80%ED%98%81%20TICK%20TOCK%20(Feat.%20ZICO)%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official",
-      "score": 42,
-      "chartRanks": {
-        "circle": 9
-      }
-    },
-    {
-      "rank": 36,
+      "rank": 34,
       "title": "Landing in Love",
       "artist": "HANRORO",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official",
@@ -418,7 +419,19 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 35,
+      "title": "they don`t know `bout us",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_DDC7B9FD5F50F96635CD700D2B501E4D.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20they%20don%60t%20know%20%60bout%20us%20MV%20official",
+      "score": 41.7,
+      "chartRanks": {
+        "circle": 50,
+        "spotify": 14
+      }
+    },
+    {
+      "rank": 36,
       "title": "SPAGHETTI (feat. j-hope of BTS)",
       "artist": "LE SSERAFIM",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251027_CFB8C016743C4025CC5D8A2E4A0C1F15.jpg",
@@ -430,17 +443,19 @@
       }
     },
     {
-      "rank": 38,
-      "title": "they don’t know ’bout us",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20they%20don%E2%80%99t%20know%20%E2%80%99bout%20us%20MV%20official",
-      "score": 40.7,
+      "rank": 37,
+      "title": "One More Night",
+      "artist": "방탄소년단",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_E1A2A309A07590B85BA26BE9404B754D.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20One%20More%20Night%20MV%20official",
+      "score": 40.300000000000004,
       "chartRanks": {
-        "spotify": 14
+        "circle": 47,
+        "spotify": 18
       }
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "그대 작은 나의 세상이 되어",
       "artist": "카더가든",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260209_34AF0A9BF8DA530A8E4D43849EF399A3.jpg",
@@ -451,7 +466,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "NORMAL",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20NORMAL%20MV%20official",
@@ -461,18 +476,7 @@
       }
     },
     {
-      "rank": 41,
-      "title": "KISS KISS KISS (Feat. 선우 (THE BOYZ)) (Prod. by Hukky Shibaseki)",
-      "artist": "nowimyoung, Royal 44",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_04086E535D39E13F894378D89CAB6FCF.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=nowimyoung%2C%20Royal%2044%20KISS%20KISS%20KISS%20(Feat.%20%EC%84%A0%EC%9A%B0%20(THE%20BOYZ))%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official",
-      "score": 38,
-      "chartRanks": {
-        "circle": 13
-      }
-    },
-    {
-      "rank": 42,
+      "rank": 40,
       "title": "Who",
       "artist": "Jimin",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Jimin%20Who%20MV%20official",
@@ -482,17 +486,7 @@
       }
     },
     {
-      "rank": 43,
-      "title": "One More Night",
-      "artist": "BTS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20One%20More%20Night%20MV%20official",
-      "score": 36.300000000000004,
-      "chartRanks": {
-        "spotify": 18
-      }
-    },
-    {
-      "rank": 44,
+      "rank": 41,
       "title": "타임캡슐",
       "artist": "다비치",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251019_CA292B27E21430AA736AD38A60D84E59.jpg",
@@ -503,7 +497,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 42,
       "title": "Into the Sun",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Into%20the%20Sun%20MV%20official",
@@ -513,18 +507,7 @@
       }
     },
     {
-      "rank": 46,
-      "title": "Hooligan",
-      "artist": "방탄소년단",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260323_300E161F4B5A12983D92274D72FBCC02.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%20Hooligan%20MV%20official",
-      "score": 35,
-      "chartRanks": {
-        "circle": 16
-      }
-    },
-    {
-      "rank": 47,
+      "rank": 43,
       "title": "Please",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Please%20MV%20official",
@@ -534,7 +517,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 44,
       "title": "Sadder Than Yesterday",
       "artist": "Woody",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Woody%20Sadder%20Than%20Yesterday%20MV%20official",
@@ -544,7 +527,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 45,
       "title": "Don’t Say You Love Me",
       "artist": "Jin",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Jin%20Don%E2%80%99t%20Say%20You%20Love%20Me%20MV%20official",
@@ -554,14 +537,53 @@
       }
     },
     {
-      "rank": 50,
-      "title": "Golden",
-      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250625_ECFE2571549F5CD2C9211F7155E24CBD.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HUNTR%2FX%2C%20EJAE%2C%20AUDREY%20NUNA%2C%20REI%20AMI%2C%20KPop%20Demon%20Hunters%20Cast%20Golden%20MV%20official",
-      "score": 32,
+      "rank": 46,
+      "title": "No. 29",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20No.%2029%20MV%20official",
+      "score": 31.900000000000002,
       "chartRanks": {
-        "circle": 19
+        "spotify": 22
+      }
+    },
+    {
+      "rank": 47,
+      "title": "입춘",
+      "artist": "HANRORO",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20%EC%9E%85%EC%B6%98%20MV%20official",
+      "score": 31.2,
+      "chartRanks": {
+        "youtube": 25
+      }
+    },
+    {
+      "rank": 48,
+      "title": "아크라포빅 (Akrapovic)",
+      "artist": "hamo",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=hamo%20%EC%95%84%ED%81%AC%EB%9D%BC%ED%8F%AC%EB%B9%85%20(Akrapovic)%20MV%20official",
+      "score": 30.800000000000004,
+      "chartRanks": {
+        "spotify": 23
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Dynamite",
+      "artist": "BTS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Dynamite%20MV%20official",
+      "score": 28.799999999999997,
+      "chartRanks": {
+        "youtube": 27
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Money Checks (Prod. by Hukky Shibaseki)",
+      "artist": "NOWIMYOUNG",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20Money%20Checks%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official",
+      "score": 27.500000000000004,
+      "chartRanks": {
+        "spotify": 26
       }
     }
   ],
