@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jinyoung-sparks-tears/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T10:49:29.000Z</news:publication_date>
+      <news:title>Jinyoung Sparks Tears</news:title>
+      <news:keywords>GOT7, K-Drama, Jinyoung, Still Shining, Finale</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-dream-vs-enhypen-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T08:55:53.000Z</news:publication_date>
+      <news:title>NCT DREAM vs ENHYPEN Sparks Debate</news:title>
+      <news:keywords>NCT, ENHYPEN, NCT DREAM, K-Pop, Group Dynamics</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-bo-young-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T08:41:54.000Z</news:publication_date>
+      <news:title>Park Bo Young Shocks Fans</news:title>
+      <news:keywords>K-Drama, Park Bo Young, Lee Kwang Soo, Variety Show, Guest Appearance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kwak-sun-young-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T07:38:09.000Z</news:publication_date>
+      <news:title>Kwak Sun Young Makes History</news:title>
+      <news:keywords>K-Drama, Kwak Sun Young, Park Hae Soo, The Scarecrow, New Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/mark-leaves-nct/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T06:23:05.000Z</news:publication_date>
+      <news:title>Mark Leaves NCT</news:title>
+      <news:keywords>NCT, Mark, SM Entertainment, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/stray-kids-han-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -323,66 +383,6 @@
       <news:publication_date>2026-04-01T12:12:47.000Z</news:publication_date>
       <news:title>IVE Breaks Silence</news:title>
       <news:keywords>IVE, Album, Solo Album, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonsters-ahyeon-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T11:25:07.000Z</news:publication_date>
-      <news:title>BABYMONSTER&apos;s Ahyeon Sparks Debate</news:title>
-      <news:keywords>BABYMONSTER, Ahyeon, Body Shaming, K-Pop, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseyes-manon-sparks-concern/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T11:17:01.000Z</news:publication_date>
-      <news:title>KATSEYE&apos;s Manon Sparks Concern</news:title>
-      <news:keywords>KATSEYE, Manon, Comeback, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T10:50:13.000Z</news:publication_date>
-      <news:title>ENHYPEN Sparks Debate</news:title>
-      <news:keywords>ENHYPEN, Heeseung, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-hyun-line-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T08:21:37.000Z</news:publication_date>
-      <news:title>BTS&apos;s Hyun Line Sparks Debate</news:title>
-      <news:keywords>BTS, Confidential Assignment, K-Movie, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-security-guards-female-idol/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T07:10:23.000Z</news:publication_date>
-      <news:title>BTS Security Guards Female Idol</news:title>
-      <news:keywords>BTS, Security, K-Pop Idols</news:keywords>
     </news:news>
   </url>
 </urlset>
