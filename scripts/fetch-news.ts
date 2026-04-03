@@ -858,7 +858,7 @@ async function createAnimatedThumbnailR2(staticBuffer: Buffer, slug: string): Pr
 // ── Official artist image sources (priority 1–4) ─────────────────────────────
 
 // 1. Wikipedia: official artist/group page thumbnail (free, no key needed)
-async function fetchArtistImageWikipedia(subject: string, slug: string): Promise<string | undefined> {
+async function fetchArtistImageWikipedia(subject: string, slug: string, usedSourceUrls: Set<string>): Promise<string | undefined> {
   try {
     const wikiHeaders = {
       'User-Agent': 'KpopDailyBot/1.0 (https://kpop.andxo.com; contact via site)',
@@ -916,6 +916,11 @@ async function fetchArtistImageWikipedia(subject: string, slug: string): Promise
       console.log(`  [Wikipedia] No image for "${subject}"`);
       return undefined;
     }
+    if (usedSourceUrls.has(imageUrl)) {
+      console.log(`  [Wikipedia] Skipping duplicate source: ${imageUrl.slice(-40)}`);
+      return undefined;
+    }
+    usedSourceUrls.add(imageUrl);
     return downloadImageFromUrl(imageUrl, slug);
   } catch (error) {
     console.error('  [Wikipedia] Error:', error);
@@ -925,7 +930,7 @@ async function fetchArtistImageWikipedia(subject: string, slug: string): Promise
 
 // 2. Last.fm: scrape og:image from artist page
 // Note: Last.fm API no longer returns artist images since Aug 2019 — page scrape instead
-async function fetchArtistImageLastFm(subject: string, slug: string): Promise<string | undefined> {
+async function fetchArtistImageLastFm(subject: string, slug: string, usedSourceUrls: Set<string>): Promise<string | undefined> {
   try {
     const pageUrl = `https://www.last.fm/music/${encodeURIComponent(subject.replace(/\s+/g, '+'))}`;
     console.log(`  [Last.fm] Fetching: "${subject}"`);
@@ -951,16 +956,26 @@ async function fetchArtistImageLastFm(subject: string, slug: string): Promise<st
     const ogImage = $('meta[property="og:image"]').attr('content');
     if (ogImage && ogImage.startsWith('http')
         && !ogImage.includes('/default_') && !ogImage.includes('placeholder')) {
-      console.log(`  [Last.fm] Found og:image`);
-      return downloadImageFromUrl(ogImage, slug);
+      if (usedSourceUrls.has(ogImage)) {
+        console.log(`  [Last.fm] Skipping duplicate og:image`);
+      } else {
+        console.log(`  [Last.fm] Found og:image`);
+        usedSourceUrls.add(ogImage);
+        return downloadImageFromUrl(ogImage, slug);
+      }
     }
 
     // Fallback: artist header image element
     const headerSrc = $('.header-new-background-image').attr('src') ||
                       $('.artist-header-image img').attr('src');
     if (headerSrc && headerSrc.startsWith('http')) {
-      console.log(`  [Last.fm] Found header image`);
-      return downloadImageFromUrl(headerSrc, slug);
+      if (usedSourceUrls.has(headerSrc)) {
+        console.log(`  [Last.fm] Skipping duplicate header image`);
+      } else {
+        console.log(`  [Last.fm] Found header image`);
+        usedSourceUrls.add(headerSrc);
+        return downloadImageFromUrl(headerSrc, slug);
+      }
     }
 
     console.log(`  [Last.fm] No suitable image for "${subject}"`);
@@ -973,7 +988,7 @@ async function fetchArtistImageLastFm(subject: string, slug: string): Promise<st
 
 // 3. Melon crawl: parse artist image from Melon search page HTML
 // Melon uses SSR for initial artist cards, so some data is in raw HTML
-async function fetchArtistImageMelonCrawl(subject: string, slug: string): Promise<string | undefined> {
+async function fetchArtistImageMelonCrawl(subject: string, slug: string, usedSourceUrls: Set<string>): Promise<string | undefined> {
   try {
     console.log(`  [Melon Crawl] Searching: "${subject}"`);
     const searchUrl = `https://www.melon.com/search/keyword/index.htm?q=${encodeURIComponent(subject)}`;
@@ -1003,8 +1018,13 @@ async function fetchArtistImageMelonCrawl(subject: string, slug: string): Promis
       $('li.artist .thumb img').first().attr('src');
 
     if (imgUrl && imgUrl.startsWith('http')) {
-      console.log(`  [Melon Crawl] Found artist image`);
-      return downloadImageFromUrl(imgUrl, slug);
+      if (usedSourceUrls.has(imgUrl)) {
+        console.log(`  [Melon Crawl] Skipping duplicate artist image`);
+      } else {
+        console.log(`  [Melon Crawl] Found artist image`);
+        usedSourceUrls.add(imgUrl);
+        return downloadImageFromUrl(imgUrl, slug);
+      }
     }
 
     // Extract artistId from page JS/HTML and construct Melon CDN URL
@@ -1012,9 +1032,12 @@ async function fetchArtistImageMelonCrawl(subject: string, slug: string): Promis
     if (artistIdMatch) {
       const artistId = artistIdMatch[1];
       const cdnUrl = `https://cdnimg.melon.co.kr/cm/artist/images/${artistId}/${artistId}.jpg`;
-      console.log(`  [Melon Crawl] Trying CDN for artistId=${artistId}`);
-      const result = await downloadImageFromUrl(cdnUrl, slug);
-      if (result) return result;
+      if (!usedSourceUrls.has(cdnUrl)) {
+        console.log(`  [Melon Crawl] Trying CDN for artistId=${artistId}`);
+        usedSourceUrls.add(cdnUrl);
+        const result = await downloadImageFromUrl(cdnUrl, slug);
+        if (result) return result;
+      }
     }
 
     console.log(`  [Melon Crawl] No image for "${subject}"`);
@@ -1026,7 +1049,7 @@ async function fetchArtistImageMelonCrawl(subject: string, slug: string): Promis
 }
 
 // 4. Melon API: find artistId via AJAX, then fetch from Melon CDN / artist info API
-async function fetchArtistImageMelonApi(subject: string, slug: string): Promise<string | undefined> {
+async function fetchArtistImageMelonApi(subject: string, slug: string, usedSourceUrls: Set<string>): Promise<string | undefined> {
   try {
     console.log(`  [Melon API] Searching: "${subject}"`);
 
@@ -1074,14 +1097,24 @@ async function fetchArtistImageMelonApi(subject: string, slug: string): Promise<
       };
       const imgPath = data?.artistInfo?.artistImgPath;
       if (imgPath && imgPath.startsWith('http')) {
-        console.log(`  [Melon API] Found artist image via API`);
-        return downloadImageFromUrl(imgPath, slug);
+        if (usedSourceUrls.has(imgPath)) {
+          console.log(`  [Melon API] Skipping duplicate API image`);
+        } else {
+          console.log(`  [Melon API] Found artist image via API`);
+          usedSourceUrls.add(imgPath);
+          return downloadImageFromUrl(imgPath, slug);
+        }
       }
     }
 
     // Final fallback: construct CDN URL from artistId
     const cdnUrl = `https://cdnimg.melon.co.kr/cm/artist/images/${artistId}/${artistId}.jpg`;
+    if (usedSourceUrls.has(cdnUrl)) {
+      console.log(`  [Melon API] Skipping duplicate CDN URL`);
+      return undefined;
+    }
     console.log(`  [Melon API] Trying CDN URL for artistId=${artistId}`);
+    usedSourceUrls.add(cdnUrl);
     return downloadImageFromUrl(cdnUrl, slug);
   } catch (error) {
     console.error('  [Melon API] Error:', error);
@@ -1922,6 +1955,8 @@ async function main(): Promise<void> {
 
   console.log(`Processing ${itemsToProcess.length} articles`);
   let processedCount = 0;
+  // Track source image URLs used in this batch to avoid identical idol photos across articles
+  const usedSourceUrls = new Set<string>();
 
   for (const item of itemsToProcess) {
     if (!item.title || !item.link) continue;
@@ -1962,25 +1997,25 @@ async function main(): Promise<void> {
 
       // 1) Wikipedia: official artist/group page photo
       if (subject) {
-        thumbnail = await fetchArtistImageWikipedia(subject, slug);
+        thumbnail = await fetchArtistImageWikipedia(subject, slug, usedSourceUrls);
         if (thumbnail) console.log(`  Thumbnail: Wikipedia`);
       }
 
       // 2) Last.fm: official artist photo (scraped from artist page)
       if (!thumbnail && subject) {
-        thumbnail = await fetchArtistImageLastFm(subject, slug);
+        thumbnail = await fetchArtistImageLastFm(subject, slug, usedSourceUrls);
         if (thumbnail) console.log(`  Thumbnail: Last.fm`);
       }
 
       // 3) Melon crawl: artist image from Melon search HTML
       if (!thumbnail && subject) {
-        thumbnail = await fetchArtistImageMelonCrawl(subject, slug);
+        thumbnail = await fetchArtistImageMelonCrawl(subject, slug, usedSourceUrls);
         if (thumbnail) console.log(`  Thumbnail: Melon crawl`);
       }
 
       // 4) Melon API: artist image via Melon CDN/API
       if (!thumbnail && subject) {
-        thumbnail = await fetchArtistImageMelonApi(subject, slug);
+        thumbnail = await fetchArtistImageMelonApi(subject, slug, usedSourceUrls);
         if (thumbnail) console.log(`  Thumbnail: Melon API`);
       }
 

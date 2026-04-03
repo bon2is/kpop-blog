@@ -61,18 +61,40 @@ function cleanArtist(text: string): string {
 // Global charts (Spotify/YouTube via kworb) use English romanizations while
 // Circle Chart returns Korean names for domestic indie/solo artists.
 const ARTIST_ALIASES: Record<string, string> = {
-  '한로로':  'hanroro',
-  '카더가든': 'carthegarden',
-  '이찬혁':  'leechanhyuk',
-  '다비치':  'davichi',
-  '임영웅':  'limyoungwoong',
-  '아이유':  'iu',
-  '박재범':  'jaypark',
-  '헤이즈':  'heize',
-  '적재':    'jukjae',
-  '이무진':  'leemujin',
-  '폴킴':    'paulkim',
-  '멜로망스': 'melodymance',
+  '한로로':   'hanroro',
+  '카더가든':  'carthegarden',
+  '이찬혁':   'leechanhyuk',
+  '다비치':   'davichi',
+  '임영웅':   'limyoungwoong',
+  '아이유':   'iu',
+  '박재범':   'jaypark',
+  '헤이즈':   'heize',
+  '적재':     'jukjae',
+  '이무진':   'leemujin',
+  '폴킴':     'paulkim',
+  '멜로망스':  'melodymance',
+  // Major K-pop groups: Circle Chart uses Korean names, global charts use English
+  '방탄소년단': 'bts',
+  '블랙핑크':  'blackpink',
+  '트와이스':  'twice',
+  '엑소':     'exo',
+  '빅뱅':     'bigbang',
+  '소녀시대':  'girlsgeneration',
+  '세븐틴':   'seventeen',
+  '스트레이키즈': 'straykids',
+  '아이브':   'ive',
+  '뉴진스':   'newjeans',
+  '에스파':   'aespa',
+  '르세라핌':  'lesserafim',
+  '있지':     'itzy',
+  '엔시티':   'nct',
+  '샤이니':   'shinee',
+  '인피니트':  'infinite',
+  '성시경':   'sungsikyung',
+  '로이킴':   'roykim',
+  '이창섭':   'leechungsub',
+  '김하온':   'haon',
+  '조째즈':   'jojazz',
   // English variant → canonical (handles spacing/punctuation differences)
   'car the garden': 'carthegarden',
   'lee chanhyuk':   'leechanhyuk',
@@ -91,7 +113,10 @@ function normalizeKey(title: string, artist: string): string {
       .replace(/\(prod\..*?\)/gi, '')
       .replace(/[^a-z0-9가-힣]/g, '');
 
-  const normalizedArtist = normalizeStr(artist);
+  // For multi-artist collaborations (e.g. "김하온 (HAON), Nosun, ..."),
+  // use only the first artist to improve cross-chart matching
+  const primaryArtist = artist.split(',')[0].trim();
+  const normalizedArtist = normalizeStr(primaryArtist);
   const canonicalArtist = ARTIST_ALIASES[normalizedArtist] ?? normalizedArtist;
 
   return `${canonicalArtist}_${normalizeStr(title)}`;
