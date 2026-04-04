@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lee-ki-taek-sparks-drama/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T10:43:42.000Z</news:publication_date>
+      <news:title>Lee Ki Taek Sparks Drama</news:title>
+      <news:keywords>K-Drama, Lee Ki Taek, The Practical Guide to Love, Rom-Com</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T08:29:53.000Z</news:publication_date>
+      <news:title>Ha Jung Woo Shocks Fans</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Mad Concrete Dreams, Thriller, tvN</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/dayoung-reveals-shiloh-jolie/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T07:17:26.000Z</news:publication_date>
+      <news:title>Dayoung Reveals Shiloh Jolie</news:title>
+      <news:keywords>Comeback, Debut, MV, Dayoung, Shiloh Jolie</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/han-ji-min-sparks-drama/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T06:18:49.000Z</news:publication_date>
+      <news:title>Han Ji Min Sparks Drama</news:title>
+      <news:keywords>K-Drama, Han Ji Min, Park Sung Hoon, Rom-Com</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ncts-chenle-speaks-out/</loc>
     <news:news>
       <news:publication>
@@ -263,66 +311,6 @@
       <news:publication_date>2026-04-02T18:09:44.000Z</news:publication_date>
       <news:title>KATSEYE&apos;s Manon Shocks Fans</news:title>
       <news:keywords>KATSEYE, Manon, Departure, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-v-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T09:45:04.000Z</news:publication_date>
-      <news:title>BTS V Shocks Fans</news:title>
-      <news:keywords>BTS, V, Transformation, K-Pop, ARMY</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/krystal-marries/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T09:17:25.000Z</news:publication_date>
-      <news:title>Krystal Marries</news:title>
-      <news:keywords>K-Drama, Krystal, Mad Concrete Dreams, Wedding</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T08:50:37.000Z</news:publication_date>
-      <news:title>BTS Sparks Debate</news:title>
-      <news:keywords>BTS, Interview, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/go-woori-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T07:12:28.000Z</news:publication_date>
-      <news:title>Go Woori Reveals</news:title>
-      <news:keywords>Debut, Rainbow, Go Woori, Pregnancy, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jun-ji-hyun-sparks-romance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T06:41:20.000Z</news:publication_date>
-      <news:title>Jun Ji Hyun Sparks Romance</news:title>
-      <news:keywords>K-Drama, Jun Ji Hyun, Ji Chang Wook, Fantasy Rom-Com</news:keywords>
     </news:news>
   </url>
 </urlset>
