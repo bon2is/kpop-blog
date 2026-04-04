@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 03:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 05:52:15 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -80,6 +80,21 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-sparks-debate.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-sparks-debate.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-sparks-debate.webp" />
+    </item>
+    <item>
+      <title>BTS Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/bts-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-shocks-fans/</guid>
+      <description>BTS drops surprise album!</description>
+      <pubDate>Fri, 03 Apr 2026 23:17:18 GMT</pubDate>
+      <category>comeback</category>
+      <category>BTS</category>
+      <category>MV</category>
+      <category>Comeback</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" />
     </item>
     <item>
       <title>HYBE Speaks Out on KATSEYE&apos;s Manon</title>
@@ -625,23 +640,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-stuns-in-oldboy-inspired-mv.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-stuns-in-oldboy-inspired-mv.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-stuns-in-oldboy-inspired-mv.webp" />
-    </item>
-    <item>
-      <title>BTS Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/bts-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-shocks-fans/</guid>
-      <description>Rare 2013 photos surface!</description>
-      <pubDate>Wed, 01 Apr 2026 14:05:04 GMT</pubDate>
-      <category>audition</category>
-      <category>BTS</category>
-      <category>Debut</category>
-      <category>Jungkook</category>
-      <category>V</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" />
     </item>
     <item>
       <title>IU&apos;s Drama Sparks Debate</title>
