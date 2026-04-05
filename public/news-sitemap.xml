@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lgbtq-group-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T04:48:17.000Z</news:publication_date>
+      <news:title>LGBTQ+ Group Sparks Debate</news:title>
+      <news:keywords>Debut, LGBTQ+, K-Pop, Inclusivity</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
     <news:news>
       <news:publication>
