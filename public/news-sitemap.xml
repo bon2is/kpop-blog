@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/seventeen-renews-contract/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T13:26:19.000Z</news:publication_date>
+      <news:title>SEVENTEEN Renews Contract</news:title>
+      <news:keywords>SEVENTEEN, Contract Renewal, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seventeen-renews-contracts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T13:04:53.000Z</news:publication_date>
+      <news:title>SEVENTEEN Renews Contracts</news:title>
+      <news:keywords>SEVENTEEN, Concert, Tour, Contract Renewal, PLEDIS Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -71,6 +95,18 @@
       <news:publication_date>2026-04-05T04:48:17.000Z</news:publication_date>
       <news:title>LGBTQ+ Group Sparks Debate</news:title>
       <news:keywords>Debut, LGBTQ+, K-Pop, Inclusivity</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-fans-rejoice/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T02:00:00.000Z</news:publication_date>
+      <news:title>BTS Fans Rejoice</news:title>
+      <news:keywords>BTS, K-Pop, Festival, Quiz</news:keywords>
     </news:news>
   </url>
   <url>
@@ -251,42 +287,6 @@
       <news:publication_date>2026-04-03T22:46:09.000Z</news:publication_date>
       <news:title>HYBE Speaks Out on KATSEYE&apos;s Manon</news:title>
       <news:keywords>HYBE, KATSEYE, Manon, K-Pop Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-doyoung-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T14:05:55.000Z</news:publication_date>
-      <news:title>NCT Doyoung Breaks Silence</news:title>
-      <news:keywords>NCT, Comeback, Doyoung, Mark, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jennie-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T12:29:20.000Z</news:publication_date>
-      <news:title>Jennie Shocks Fans</news:title>
-      <news:keywords>BLACKPINK, Jennie, Bikini Photoshoot, K-Pop, Fashion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-sung-kyung-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T12:15:39.000Z</news:publication_date>
-      <news:title>Lee Sung Kyung Shocks Fans</news:title>
-      <news:keywords>K-Drama, Lee Sung Kyung, In Your Radiant Season, Finale, Romance</news:keywords>
     </news:news>
   </url>
 </urlset>

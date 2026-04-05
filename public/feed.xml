@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 11:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 14:35:38 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,39 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>SEVENTEEN Renews Contract</title>
+      <link>https://kpop.andxo.com/article/seventeen-renews-contract/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/seventeen-renews-contract/</guid>
+      <description>SEVENTEEN signs 2nd full group contract renewal!</description>
+      <pubDate>Sun, 05 Apr 2026 13:26:19 GMT</pubDate>
+      <category>news</category>
+      <category>SEVENTEEN</category>
+      <category>Contract Renewal</category>
+      <category>K-Pop</category>
+      <category>Comeback</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seventeen-renews-contract.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seventeen-renews-contract.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seventeen-renews-contract.webp" />
+    </item>
+    <item>
+      <title>SEVENTEEN Renews Contracts</title>
+      <link>https://kpop.andxo.com/article/seventeen-renews-contracts/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/seventeen-renews-contracts/</guid>
+      <description>SEVENTEEN renews contracts with PLEDIS!</description>
+      <pubDate>Sun, 05 Apr 2026 13:04:53 GMT</pubDate>
+      <category>tour</category>
+      <category>SEVENTEEN</category>
+      <category>Concert</category>
+      <category>Tour</category>
+      <category>Contract Renewal</category>
+      <category>PLEDIS Entertainment</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seventeen-renews-contracts.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seventeen-renews-contracts.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seventeen-renews-contracts.webp" />
+    </item>
     <item>
       <title>Ha Jung Woo Shocks Fans</title>
       <link>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</link>
@@ -112,6 +145,22 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lgbtq-group-sparks-debate.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lgbtq-group-sparks-debate.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lgbtq-group-sparks-debate.webp" />
+    </item>
+    <item>
+      <title>BTS Fans Rejoice</title>
+      <link>https://kpop.andxo.com/article/bts-fans-rejoice/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-fans-rejoice/</guid>
+      <description>Create your dream K-Pop fest lineup!</description>
+      <pubDate>Sun, 05 Apr 2026 02:00:00 GMT</pubDate>
+      <category>fashion</category>
+      <category>BTS</category>
+      <category>K-Pop</category>
+      <category>Festival</category>
+      <category>Quiz</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" />
     </item>
     <item>
       <title>BTS Makes History</title>
@@ -1601,56 +1650,6 @@
       <enclosure url="https://kpop.andxo.com/images/posts/actor-sparks-debate.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.com/images/posts/actor-sparks-debate.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.com/images/posts/actor-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>BTS&apos;s V Reveals Shocking Career Doubt</title>
-      <link>https://kpop.andxo.com/article/btss-v-reveals-shocking-career-doubt/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/btss-v-reveals-shocking-career-doubt/</guid>
-      <description>BTS&apos;s V considered quitting over an actor&apos;s face?</description>
-      <pubDate>Mon, 30 Mar 2026 02:10:37 GMT</pubDate>
-      <category>news</category>
-      <category>BTS</category>
-      <category>V</category>
-      <category>K-Pop</category>
-      <category>Career</category>
-      <category>Beauty Standards</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/btss-v-reveals-shocking-career-doubt.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/btss-v-reveals-shocking-career-doubt.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/btss-v-reveals-shocking-career-doubt.webp" />
-    </item>
-    <item>
-      <title>Mingyu Sparks Debate</title>
-      <link>https://kpop.andxo.com/article/mingyu-sparks-debate/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/mingyu-sparks-debate/</guid>
-      <description>SEVENTEEN&apos;s Mingyu under fire for cultural appropriation</description>
-      <pubDate>Mon, 30 Mar 2026 01:42:09 GMT</pubDate>
-      <category>news</category>
-      <category>SEVENTEEN</category>
-      <category>Mingyu</category>
-      <category>Cultural Appropriation</category>
-      <category>K-Pop</category>
-      <category>Controversy</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/mingyu-sparks-debate.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/mingyu-sparks-debate.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/mingyu-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>SEVENTEEN Takes Stand</title>
-      <link>https://kpop.andxo.com/article/seventeen-takes-stand/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/seventeen-takes-stand/</guid>
-      <description>SEVENTEEN fights back against malicious posts</description>
-      <pubDate>Mon, 30 Mar 2026 01:23:37 GMT</pubDate>
-      <category>news</category>
-      <category>SEVENTEEN</category>
-      <category>PLEDIS Entertainment</category>
-      <category>Legal Action</category>
-      <category>Artists&apos; Rights</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.com/images/posts/seventeen-takes-stand.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.com/images/posts/seventeen-takes-stand.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.com/images/posts/seventeen-takes-stand.webp" />
     </item>
   </channel>
 </rss>
