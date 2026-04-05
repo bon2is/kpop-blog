@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T23:58:30.000Z</news:publication_date>
+      <news:title>BTS Makes History</news:title>
+      <news:keywords>BTS, Red Velvet, IVE, Kep1er, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/idol-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T22:33:06.000Z</news:publication_date>
+      <news:title>Idol Shocks Fans</news:title>
+      <news:keywords>K-Pop, Career Switch, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/actress-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T19:42:00.000Z</news:publication_date>
+      <news:title>Actress Shocks Fans</news:title>
+      <news:keywords>Debut, K-Pop, Bang Si Hyuk, Acting, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jisoo-seo-in-guk-shock-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T18:30:12.000Z</news:publication_date>
+      <news:title>Jisoo &amp; Seo In Guk Shock Fans</news:title>
+      <news:keywords>BLACKPINK, Jisoo, Seo In Guk, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/stray-kids-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -263,78 +311,6 @@
       <news:publication_date>2026-04-03T06:23:05.000Z</news:publication_date>
       <news:title>Mark Leaves NCT</news:title>
       <news:keywords>NCT, Mark, SM Entertainment, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-han-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T03:32:42.000Z</news:publication_date>
-      <news:title>Stray Kids&apos; Han Sparks Debate</news:title>
-      <news:keywords>Stray Kids, Dating Rumors, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/eunhyuk-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T02:14:03.000Z</news:publication_date>
-      <news:title>Eunhyuk Shocks Fans</news:title>
-      <news:keywords>Super Junior, Eunhyuk, Donation, Philanthropy, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-reveals-surprise-track/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T00:13:34.000Z</news:publication_date>
-      <news:title>BTS Reveals Surprise Track</news:title>
-      <news:keywords>BTS, Album, Comeback, ARIRANG</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/haon-wins-smtm-12/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T23:07:32.000Z</news:publication_date>
-      <news:title>HAON Wins SMTM 12</news:title>
-      <news:keywords>HAON, Show Me The Money 12, Zico, Jay Park, Rap Survival Show</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkook-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T21:14:33.000Z</news:publication_date>
-      <news:title>BTS Jungkook Sparks Debate</news:title>
-      <news:keywords>BTS, Jungkook, K-Pop Controversy, Social Media, Idol Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseyes-manon-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T18:09:44.000Z</news:publication_date>
-      <news:title>KATSEYE&apos;s Manon Shocks Fans</news:title>
-      <news:keywords>KATSEYE, Manon, Departure, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
