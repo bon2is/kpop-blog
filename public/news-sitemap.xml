@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T10:01:32.000Z</news:publication_date>
+      <news:title>Ha Jung Woo Shocks Fans</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Mad Concrete Dreams, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T08:07:43.000Z</news:publication_date>
+      <news:title>BLACKPINK&apos;s Jennie Reveals</news:title>
+      <news:keywords>BLACKPINK, Jennie, K-Pop, University</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/han-ji-min-sparks-wedding-rumors/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T07:45:44.000Z</news:publication_date>
+      <news:title>Han Ji Min Sparks Wedding Rumors</news:title>
+      <news:keywords>K-Drama, Han Ji Min, The Practical Guide to Love, Rom-Com, JTBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-in-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T06:38:12.000Z</news:publication_date>
+      <news:title>Stray Kids&apos; I.N Breaks Silence</news:title>
+      <news:keywords>Stray Kids, I.N, Fan Interaction, K-Pop Idols</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T06:14:00.000Z</news:publication_date>
+      <news:title>KATSEYE Shocks Fans</news:title>
+      <news:keywords>KATSEYE, Poll, Stage Presence, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lgbtq-group-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -95,18 +155,6 @@
       <news:publication_date>2026-04-04T10:43:42.000Z</news:publication_date>
       <news:title>Lee Ki Taek Sparks Drama</news:title>
       <news:keywords>K-Drama, Lee Ki Taek, The Practical Guide to Love, Rom-Com</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T08:29:53.000Z</news:publication_date>
-      <news:title>Ha Jung Woo Shocks Fans</news:title>
-      <news:keywords>K-Drama, Ha Jung Woo, Mad Concrete Dreams, Thriller, tvN</news:keywords>
     </news:news>
   </url>
   <url>
@@ -239,90 +287,6 @@
       <news:publication_date>2026-04-03T12:15:39.000Z</news:publication_date>
       <news:title>Lee Sung Kyung Shocks Fans</news:title>
       <news:keywords>K-Drama, Lee Sung Kyung, In Your Radiant Season, Finale, Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jinyoung-sparks-tears/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T10:49:29.000Z</news:publication_date>
-      <news:title>Jinyoung Sparks Tears</news:title>
-      <news:keywords>GOT7, K-Drama, Jinyoung, Still Shining, Finale</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-dream-vs-enhypen-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T08:55:53.000Z</news:publication_date>
-      <news:title>NCT DREAM vs ENHYPEN Sparks Debate</news:title>
-      <news:keywords>NCT, ENHYPEN, NCT DREAM, K-Pop, Group Dynamics</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-bo-young-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T08:41:54.000Z</news:publication_date>
-      <news:title>Park Bo Young Shocks Fans</news:title>
-      <news:keywords>K-Drama, Park Bo Young, Lee Kwang Soo, Variety Show, Guest Appearance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T08:24:23.000Z</news:publication_date>
-      <news:title>NCT Mark Sparks Debate</news:title>
-      <news:keywords>NCT, Comeback, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-fans-reel/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T08:23:54.000Z</news:publication_date>
-      <news:title>NCT Fans Reel</news:title>
-      <news:keywords>NCT, Comeback, Member Exit, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kwak-sun-young-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T07:38:09.000Z</news:publication_date>
-      <news:title>Kwak Sun Young Makes History</news:title>
-      <news:keywords>K-Drama, Kwak Sun Young, Park Hae Soo, The Scarecrow, New Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mark-leaves-nct/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T06:23:05.000Z</news:publication_date>
-      <news:title>Mark Leaves NCT</news:title>
-      <news:keywords>NCT, Mark, SM Entertainment, K-Pop, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
