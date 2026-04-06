@@ -1,37 +1,29 @@
 ---
 title: "Mark Sparks Debate"
-excerpt: "Mark's message backfires!"
-summary: "Mark recently received heavy backlash from fans after sharing a message that did not sit well with them. The message sparked a wave of disappointment and criticism. Many fans expressed their discontent and disappointment online."
-commentary: "Mark's message has ignited a heated debate among fans, with many feeling let down by his words. \n\n The K-Pop industry is known for its highly engaged fanbase, and artists' messages can greatly impact their relationship with fans. Mark's situation highlights the importance of considering the potential impact of one's words on fans. \n\n This backlash may affect Mark's career and public image, as fans' perceptions of him have shifted. \n\n Moving forward, Mark will need to reassess his approach to communicating with fans to regain their trust and support."
-originalTitle: "Mark Receives Heavy Backlash After Recent Message To Fans"
+excerpt: "Vote now on Mark's NCT return!"
+summary: "A recent poll asks fans if Mark should return to NCT. The question has sparked a debate among fans, with some arguing that his return would bolster the group's lineup and others believing that his focus should remain on his solo activities. The outcome of the poll is uncertain, reflecting the divided opinions within the fanbase."
+commentary: "The debate surrounding Mark's potential return to NCT highlights the complexities of idol group dynamics and fan expectations. \n\n Mark's career trajectory, including his solo pursuits and activities outside of NCT, has contributed to the discussion about his role within the group. \n\n For fans, the possibility of Mark rejoining NCT raises questions about the group's future releases and performances, as well as the potential impact on the lineup and overall sound. \n\n Ultimately, the decision for Mark to return to NCT would depend on various factors, including his personal goals, the group's schedule, and the plans of their management team."
+originalTitle: "POLL: Should Mark Return To NCT? Vote now!"
 category: "celebrity"
-tags: ["Mark","Backlash","K-Pop","Fan Engagement"]
-publishedAt: "2026-04-06T06:12:19.000Z"
-updatedAt: "2026-04-06T06:26:36.800Z"
+tags: ["NCT","Mark","K-Pop","Poll","Comeback"]
+publishedAt: "2026-04-06T13:15:48.000Z"
+updatedAt: "2026-04-06T14:46:38.974Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/mark-receives-hate-bubble-message-nct/"
+sourceUrl: "https://www.koreaboo.com/polls/mark-leaves-nct-return-member-kpop-poll-vote/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/mark-sparks-debate.webp"
-isAIGenerated: true
+isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-Mark recently received heavy backlash from fans after sharing a message that did not sit well with them. The message sparked a wave of disappointment and criticism. Many fans expressed their discontent and disappointment online.
+A recent poll asks fans if Mark should return to NCT. The question has sparked a debate among fans, with some arguing that his return would bolster the group's lineup and others believing that his focus should remain on his solo activities. The outcome of the poll is uncertain, reflecting the divided opinions within the fanbase.
 ---
 
 ## Our Take
 
-Mark's message has ignited a heated debate among fans, with many feeling let down by his words. 
+The debate surrounding Mark's potential return to NCT highlights the complexities of idol group dynamics and fan expectations. 
 
- The K-Pop industry is known for its highly engaged fanbase, and artists' messages can greatly impact their relationship with fans. Mark's situation highlights the importance of considering the potential impact of one's words on fans. 
+ Mark's career trajectory, including his solo pursuits and activities outside of NCT, has contributed to the discussion about his role within the group. 
 
- This backlash may affect Mark's career and public image, as fans' perceptions of him have shifted. 
+ For fans, the possibility of Mark rejoining NCT raises questions about the group's future releases and performances, as well as the potential impact on the lineup and overall sound. 
 
- Moving forward, Mark will need to reassess his approach to communicating with fans to regain their trust and support.
-
----
-
-### Related Links
-
-- [pic.twitter.com/Vljr3qFaUQ](https://t.co/Vljr3qFaUQ)
-- [https://t.co/i0y4wH6bxJ](https://t.co/i0y4wH6bxJ)
-- [https://t.co/pZMOS4nDgU](https://t.co/pZMOS4nDgU)
+ Ultimately, the decision for Mark to return to NCT would depend on various factors, including his personal goals, the group's schedule, and the plans of their management team.

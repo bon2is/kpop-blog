@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-suga-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T14:17:18.000Z</news:publication_date>
+      <news:title>BTS Suga Breaks Silence</news:title>
+      <news:keywords>BTS, Suga, Confession, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/le-sserafim-yunjin-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T13:47:53.000Z</news:publication_date>
+      <news:title>LE SSERAFIM Yunjin Sparks Debate</news:title>
+      <news:keywords>LE SSERAFIM, Yunjin, Livestream, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/mark-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T13:15:48.000Z</news:publication_date>
+      <news:title>Mark Sparks Debate</news:title>
+      <news:keywords>NCT, Mark, K-Pop, Poll, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heeseung-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T11:30:05.000Z</news:publication_date>
+      <news:title>Heeseung Breaks Silence</news:title>
+      <news:keywords>ENHYPEN, Comeback, Heeseung</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-ceo-loses-15b/</loc>
     <news:news>
       <news:publication>
@@ -38,6 +86,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/nct-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T08:06:41.000Z</news:publication_date>
+      <news:title>NCT Sparks Debate</news:title>
+      <news:keywords>NCT, WayV, Contract Expiration, K-Pop Careers, Fan Engagement</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -59,18 +119,6 @@
       <news:publication_date>2026-04-06T06:36:21.000Z</news:publication_date>
       <news:title>Lee Seung Gi Breaks Free</news:title>
       <news:keywords>Lee Seung Gi, Contract Termination, Big Planet Made, K-Pop, Agency</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mark-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T06:12:19.000Z</news:publication_date>
-      <news:title>Mark Sparks Debate</news:title>
-      <news:keywords>Mark, Backlash, K-Pop, Fan Engagement</news:keywords>
     </news:news>
   </url>
   <url>
@@ -299,18 +347,6 @@
       <news:publication_date>2026-04-04T18:30:12.000Z</news:publication_date>
       <news:title>Jisoo &amp; Seo In Guk Shock Fans</news:title>
       <news:keywords>BLACKPINK, Jisoo, Seo In Guk, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T12:52:46.000Z</news:publication_date>
-      <news:title>Stray Kids Sparks Debate</news:title>
-      <news:keywords>Stray Kids, Backlash, K-Pop, Social Responsibility, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
