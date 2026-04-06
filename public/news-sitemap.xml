@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-ceo-loses-15b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T10:35:56.000Z</news:publication_date>
+      <news:title>HYBE CEO Loses $1.5B</news:title>
+      <news:keywords>BTS, HYBE, Bang Si Hyuk, Net Worth, K-Pop Industry</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ros-sparks-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T09:57:37.000Z</news:publication_date>
+      <news:title>Rosé Sparks Fury</news:title>
+      <news:keywords>BLACKPINK, Rosé, K-Pop, Backlash, Scandal</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T08:43:56.000Z</news:publication_date>
+      <news:title>Ju Ji Hoon Shocks Fans</news:title>
+      <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Climax</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T07:14:17.000Z</news:publication_date>
+      <news:title>Ha Jung Woo Shocks Fans</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Mad Concrete Dreams, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lee-seung-gi-breaks-free/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T06:36:21.000Z</news:publication_date>
+      <news:title>Lee Seung Gi Breaks Free</news:title>
+      <news:keywords>Lee Seung Gi, Contract Termination, Big Planet Made, K-Pop, Agency</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/mark-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -134,18 +194,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T10:01:32.000Z</news:publication_date>
-      <news:title>Ha Jung Woo Shocks Fans</news:title>
-      <news:keywords>K-Drama, Ha Jung Woo, Mad Concrete Dreams, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://kpop.andxo.com/article/blackpinks-jennie-reveals/</loc>
     <news:news>
       <news:publication>
@@ -263,42 +311,6 @@
       <news:publication_date>2026-04-04T12:52:46.000Z</news:publication_date>
       <news:title>Stray Kids Sparks Debate</news:title>
       <news:keywords>Stray Kids, Backlash, K-Pop, Social Responsibility, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-backtracks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T11:26:22.000Z</news:publication_date>
-      <news:title>HYBE Backtracks</news:title>
-      <news:keywords>HYBE, KATSEYE Manon, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-ki-taek-sparks-drama/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T10:43:42.000Z</news:publication_date>
-      <news:title>Lee Ki Taek Sparks Drama</news:title>
-      <news:keywords>K-Drama, Lee Ki Taek, The Practical Guide to Love, Rom-Com</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/dayoung-reveals-shiloh-jolie/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T07:17:26.000Z</news:publication_date>
-      <news:title>Dayoung Reveals Shiloh Jolie</news:title>
-      <news:keywords>Comeback, Debut, MV, Dayoung, Shiloh Jolie</news:keywords>
     </news:news>
   </url>
 </urlset>
