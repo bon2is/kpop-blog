@@ -8,9 +8,57 @@
         <news:name>KPOP Daily</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-06T14:17:18.000Z</news:publication_date>
+      <news:publication_date>2026-04-07T03:35:06.000Z</news:publication_date>
       <news:title>BTS Suga Breaks Silence</news:title>
-      <news:keywords>BTS, Suga, Confession, K-Pop</news:keywords>
+      <news:keywords>BTS, Suga, Stage Name</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jype-idol-sparks-romance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T22:53:32.000Z</news:publication_date>
+      <news:title>JYPE Idol Sparks Romance</news:title>
+      <news:keywords>JYP Entertainment, K-Pop Romance, YouTube</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkook-reveals-flirting-secret/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T20:19:38.000Z</news:publication_date>
+      <news:title>BTS Jungkook Reveals Flirting Secret</news:title>
+      <news:keywords>BTS, Jungkook, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/teen-idols-shocking-wedding/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T17:26:40.000Z</news:publication_date>
+      <news:title>Teen Idol&apos;s Shocking Wedding</news:title>
+      <news:keywords>K-Pop, Marriage, Idol Life, Comeback, Scandals</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-star-scammed-gov-steps-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-06T17:09:00.000Z</news:publication_date>
+      <news:title>BTS Star Scammed: Gov Steps In</news:title>
+      <news:keywords>BTS, HYBE, Scam, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -299,54 +347,6 @@
       <news:publication_date>2026-04-05T04:48:17.000Z</news:publication_date>
       <news:title>LGBTQ+ Group Sparks Debate</news:title>
       <news:keywords>Debut, LGBTQ+, K-Pop, Inclusivity</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-fans-rejoice/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T02:00:00.000Z</news:publication_date>
-      <news:title>BTS Fans Rejoice</news:title>
-      <news:keywords>BTS, K-Pop, Festival, Quiz</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T22:33:06.000Z</news:publication_date>
-      <news:title>Idol Shocks Fans</news:title>
-      <news:keywords>K-Pop, Career Switch, Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actress-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T19:42:00.000Z</news:publication_date>
-      <news:title>Actress Shocks Fans</news:title>
-      <news:keywords>Debut, K-Pop, Bang Si Hyuk, Acting, Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jisoo-seo-in-guk-shock-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T18:30:12.000Z</news:publication_date>
-      <news:title>Jisoo &amp; Seo In Guk Shock Fans</news:title>
-      <news:keywords>BLACKPINK, Jisoo, Seo In Guk, K-Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
