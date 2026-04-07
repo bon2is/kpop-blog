@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespas-giselle-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T13:49:52.000Z</news:publication_date>
+      <news:title>aespa&apos;s Giselle Sparks Debate</news:title>
+      <news:keywords>aespa, Giselle, Live Stream, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-members-shock-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T13:45:41.000Z</news:publication_date>
+      <news:title>IVE Members Shock Fans</news:title>
+      <news:keywords>IVE, Pregnancy, Maternity Leave, K-Pop, Girl Group</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hyeri-sparks-excitement/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +35,18 @@
       <news:publication_date>2026-04-07T09:29:26.000Z</news:publication_date>
       <news:title>Hyeri Sparks Excitement</news:title>
       <news:keywords>K-Drama, Hyeri, Na In Woo, Remake</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/young-posse-makes-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T09:29:04.000Z</news:publication_date>
+      <news:title>YOUNG POSSE Makes Comeback</news:title>
+      <news:keywords>Comeback, MV, YOUNG POSSE, Digicore, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -47,6 +83,30 @@
       <news:publication_date>2026-04-07T08:42:50.000Z</news:publication_date>
       <news:title>BLACKPINK Sparks Debate</news:title>
       <news:keywords>BLACKPINK, Protest, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ha-ji-won-nana-reunite/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T08:29:56.000Z</news:publication_date>
+      <news:title>Ha Ji Won, Nana Reunite</news:title>
+      <news:keywords>K-Drama, Ha Ji Won, Nana, Climax, Reunion</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-stuns-in-royal-romance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T06:52:11.000Z</news:publication_date>
+      <news:title>IU Stuns in Royal Romance</news:title>
+      <news:keywords>IU, K-Drama, Byeon Woo Seok, Perfect Crown, Romance</news:keywords>
     </news:news>
   </url>
   <url>
@@ -347,42 +407,6 @@
       <news:publication_date>2026-04-05T22:56:05.000Z</news:publication_date>
       <news:title>Hwasa &amp; Young K Sparks Laughter</news:title>
       <news:keywords>MAMAMOO, DAY6, Running Man, Variety Show, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T14:52:17.000Z</news:publication_date>
-      <news:title>BTS Makes History</news:title>
-      <news:keywords>BTS, Red Velvet, IVE, SWIM, Inkigayo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeen-renews-contract/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T13:26:19.000Z</news:publication_date>
-      <news:title>SEVENTEEN Renews Contract</news:title>
-      <news:keywords>SEVENTEEN, Contract Renewal, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeen-renews-contracts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T13:04:53.000Z</news:publication_date>
-      <news:title>SEVENTEEN Renews Contracts</news:title>
-      <news:keywords>SEVENTEEN, Concert, Tour, Contract Renewal, PLEDIS Entertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
