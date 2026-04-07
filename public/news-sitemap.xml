@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hyeri-sparks-excitement/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T09:29:26.000Z</news:publication_date>
+      <news:title>Hyeri Sparks Excitement</news:title>
+      <news:keywords>K-Drama, Hyeri, Na In Woo, Remake</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/donghae-drops-solo-track/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T09:26:07.000Z</news:publication_date>
+      <news:title>Donghae Drops Solo Track</news:title>
+      <news:keywords>Super Junior, Album, MV, Donghae, Solo Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/roy-kim-joins-heart-signal-5-panel/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T09:09:54.000Z</news:publication_date>
+      <news:title>Roy Kim Joins &apos;Heart Signal 5&apos; Panel</news:title>
+      <news:keywords>K-Drama, Heart Signal 5, Roy Kim, Korean Dating Show, Yoon Jong Shin</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T08:42:50.000Z</news:publication_date>
+      <news:title>BLACKPINK Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Protest, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-hyang-gi-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T06:29:37.000Z</news:publication_date>
+      <news:title>Kim Hyang Gi Shocks Fans</news:title>
+      <news:keywords>K-Drama, Kim Hyang Gi, Romance, Coupang Play, Cha Hak Yeon</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -323,42 +383,6 @@
       <news:publication_date>2026-04-05T13:04:53.000Z</news:publication_date>
       <news:title>SEVENTEEN Renews Contracts</news:title>
       <news:keywords>SEVENTEEN, Concert, Tour, Contract Renewal, PLEDIS Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jennie-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T08:07:43.000Z</news:publication_date>
-      <news:title>BLACKPINK&apos;s Jennie Reveals</news:title>
-      <news:keywords>BLACKPINK, Jennie, K-Pop, University</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/han-ji-min-sparks-wedding-rumors/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T07:45:44.000Z</news:publication_date>
-      <news:title>Han Ji Min Sparks Wedding Rumors</news:title>
-      <news:keywords>K-Drama, Han Ji Min, The Practical Guide to Love, Rom-Com, JTBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-in-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T06:38:12.000Z</news:publication_date>
-      <news:title>Stray Kids&apos; I.N Breaks Silence</news:title>
-      <news:keywords>Stray Kids, I.N, Fan Interaction, K-Pop Idols</news:keywords>
     </news:news>
   </url>
 </urlset>
