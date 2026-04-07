@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T06:11:50.000Z</news:publication_date>
+      <news:title>NCT Mark Sparks Debate</news:title>
+      <news:keywords>NCT, Mark, Mental Health, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-jnjm-reveals-tour/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T05:23:24.000Z</news:publication_date>
+      <news:title>NCT JNJM Reveals Tour</news:title>
+      <news:keywords>NCT, Tour, NCT JNJM, Fan Meeting Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-suga-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -242,6 +266,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/lee-chae-yeon-makes-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T23:36:17.000Z</news:publication_date>
+      <news:title>Lee Chae Yeon Makes Comeback</news:title>
+      <news:keywords>Comeback, Lee Chae Yeon, DOD, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hwasa-young-k-sparks-laughter/</loc>
     <news:news>
       <news:publication>
@@ -323,30 +359,6 @@
       <news:publication_date>2026-04-05T06:38:12.000Z</news:publication_date>
       <news:title>Stray Kids&apos; I.N Breaks Silence</news:title>
       <news:keywords>Stray Kids, I.N, Fan Interaction, K-Pop Idols</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T06:14:00.000Z</news:publication_date>
-      <news:title>KATSEYE Shocks Fans</news:title>
-      <news:keywords>KATSEYE, Poll, Stage Presence, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lgbtq-group-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T04:48:17.000Z</news:publication_date>
-      <news:title>LGBTQ+ Group Sparks Debate</news:title>
-      <news:keywords>Debut, LGBTQ+, K-Pop, Inclusivity</news:keywords>
     </news:news>
   </url>
 </urlset>
