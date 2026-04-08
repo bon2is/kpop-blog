@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jungkook-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T13:48:51.000Z</news:publication_date>
+      <news:title>Jungkook Sparks Debate</news:title>
+      <news:keywords>BTS, Jungkook, K-Pop, Fan Culture, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/mingyu-sparks-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T11:35:25.000Z</news:publication_date>
+      <news:title>Mingyu Sparks Concern</news:title>
+      <news:keywords>SEVENTEEN, Mingyu, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heeseung-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T10:18:36.000Z</news:publication_date>
+      <news:title>Heeseung Breaks Silence</news:title>
+      <news:keywords>ENHYPEN, Heeseung, Instagram, Solo Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-reveals-studio54-mv/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +47,18 @@
       <news:publication_date>2026-04-08T10:03:54.000Z</news:publication_date>
       <news:title>T.O.P Reveals &apos;Studio54&apos; MV</news:title>
       <news:keywords>Album, MV, T.O.P, Studio54, ANOTHER DIMENSION</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-jae-joongs-keyvitup-debuts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T09:42:25.000Z</news:publication_date>
+      <news:title>Kim Jae Joong&apos;s KEYVITUP Debuts</news:title>
+      <news:keywords>Debut, Album, MV, Kim Jae Joong, KEYVITUP</news:keywords>
     </news:news>
   </url>
   <url>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-04-08T07:40:15.000Z</news:publication_date>
       <news:title>Zepa Shocks Fans</news:title>
       <news:keywords>Zepa, YouTuber, Passing, Japanese Influencer, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T06:31:49.000Z</news:publication_date>
+      <news:title>IU Shocks Fans</news:title>
+      <news:keywords>IU, K-Drama, Byeon Woo Seok, Perfect Crown, Romance</news:keywords>
     </news:news>
   </url>
   <url>
@@ -335,30 +395,6 @@
       <news:publication_date>2026-04-06T17:09:00.000Z</news:publication_date>
       <news:title>BTS Star Scammed: Gov Steps In</news:title>
       <news:keywords>BTS, HYBE, Scam, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafim-yunjin-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T13:47:53.000Z</news:publication_date>
-      <news:title>LE SSERAFIM Yunjin Sparks Debate</news:title>
-      <news:keywords>LE SSERAFIM, Yunjin, Livestream, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mark-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T13:15:48.000Z</news:publication_date>
-      <news:title>Mark Sparks Debate</news:title>
-      <news:keywords>NCT, Mark, K-Pop, Poll, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
