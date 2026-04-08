@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/gyuvin-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T03:52:57.000Z</news:publication_date>
+      <news:title>Gyuvin Shocks Fans</news:title>
+      <news:keywords>ZEROBASEONE, Gyuvin, K-Pop, Fans, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseye-reveals/</loc>
     <news:news>
       <news:publication>
@@ -371,54 +383,6 @@
       <news:publication_date>2026-04-06T06:36:21.000Z</news:publication_date>
       <news:title>Lee Seung Gi Breaks Free</news:title>
       <news:keywords>Lee Seung Gi, Contract Termination, Big Planet Made, K-Pop, Agency</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ncts-mark-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T06:10:22.000Z</news:publication_date>
-      <news:title>NCT&apos;s Mark Sparks Debate</news:title>
-      <news:keywords>NCT, Mark, K-Pop, Comeback, Idol Management</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ncts-ten-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T05:56:55.000Z</news:publication_date>
-      <news:title>NCT&apos;s Ten Breaks Silence</news:title>
-      <news:keywords>NCT, Ten, SM Entertainment, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ncts-ten-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T05:10:06.000Z</news:publication_date>
-      <news:title>NCT&apos;s Ten Shocks Fans</news:title>
-      <news:keywords>NCT, Ten, SM Entertainment, WayV, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jang-wonyoungs-sister-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T03:59:35.000Z</news:publication_date>
-      <news:title>Jang Wonyoung&apos;s Sister Shocks Fans</news:title>
-      <news:keywords>IVE, Debut, Jang Wonyoung, Viral</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 03:47:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 06:17:10 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Gyuvin Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/gyuvin-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/gyuvin-shocks-fans/</guid>
+      <description>Gyuvin breaks rules for fans!</description>
+      <pubDate>Wed, 08 Apr 2026 03:52:57 GMT</pubDate>
+      <category>news</category>
+      <category>ZEROBASEONE</category>
+      <category>Gyuvin</category>
+      <category>K-Pop</category>
+      <category>Fans</category>
+      <category>Idol</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/gyuvin-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/gyuvin-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/gyuvin-shocks-fans.webp" />
+    </item>
     <item>
       <title>KATSEYE Reveals</title>
       <link>https://kpop.andxo.com/article/katseye-reveals/</link>
@@ -1639,23 +1656,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-security-guards-female-idol.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-security-guards-female-idol.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-security-guards-female-idol.webp" />
-    </item>
-    <item>
-      <title>IVE Sparks Backlash</title>
-      <link>https://kpop.andxo.com/article/ive-sparks-backlash/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/ive-sparks-backlash/</guid>
-      <description>IVE fansite leak sparks outrage!</description>
-      <pubDate>Wed, 01 Apr 2026 05:29:39 GMT</pubDate>
-      <category>audition</category>
-      <category>IVE</category>
-      <category>Debut</category>
-      <category>Fansite</category>
-      <category>K-Pop</category>
-      <category>Privacy</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-sparks-backlash.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-sparks-backlash.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-sparks-backlash.webp" />
     </item>
   </channel>
 </rss>
