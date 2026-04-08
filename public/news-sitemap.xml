@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-reveals-studio54-mv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T10:03:54.000Z</news:publication_date>
+      <news:title>T.O.P Reveals &apos;Studio54&apos; MV</news:title>
+      <news:keywords>Album, MV, T.O.P, Studio54, ANOTHER DIMENSION</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/viviz-breaks-free/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T09:20:08.000Z</news:publication_date>
+      <news:title>VIVIZ Breaks Free</news:title>
+      <news:keywords>VIVIZ, Contract Dispute, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T08:40:10.000Z</news:publication_date>
+      <news:title>BTS Shocks Fans</news:title>
+      <news:keywords>BTS, K-Drama, Park Hae Soo, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/yumis-cells-3-cast-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T08:08:28.000Z</news:publication_date>
+      <news:title>Yumi&apos;s Cells 3 Cast Reveals</news:title>
+      <news:keywords>Yumi&apos;s Cells 3, K-Drama, Choi Daniel, Kim Go Eun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/zepa-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T07:40:15.000Z</news:publication_date>
+      <news:title>Zepa Shocks Fans</news:title>
+      <news:keywords>Zepa, YouTuber, Passing, Japanese Influencer, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/gyuvin-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -299,90 +359,6 @@
       <news:publication_date>2026-04-06T13:15:48.000Z</news:publication_date>
       <news:title>Mark Sparks Debate</news:title>
       <news:keywords>NCT, Mark, K-Pop, Poll, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heeseung-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T11:30:05.000Z</news:publication_date>
-      <news:title>Heeseung Breaks Silence</news:title>
-      <news:keywords>ENHYPEN, Comeback, Heeseung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-ceo-loses-15b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T10:35:56.000Z</news:publication_date>
-      <news:title>HYBE CEO Loses $1.5B</news:title>
-      <news:keywords>BTS, HYBE, Bang Si Hyuk, Net Worth, K-Pop Industry</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ros-sparks-fury/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T09:57:37.000Z</news:publication_date>
-      <news:title>Rosé Sparks Fury</news:title>
-      <news:keywords>BLACKPINK, Rosé, K-Pop, Backlash, Scandal</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ju-ji-hoon-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T08:43:56.000Z</news:publication_date>
-      <news:title>Ju Ji Hoon Shocks Fans</news:title>
-      <news:keywords>K-Drama, Ju Ji Hoon, Ha Ji Won, Climax</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T08:06:41.000Z</news:publication_date>
-      <news:title>NCT Sparks Debate</news:title>
-      <news:keywords>NCT, WayV, Contract Expiration, K-Pop Careers, Fan Engagement</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T07:14:17.000Z</news:publication_date>
-      <news:title>Ha Jung Woo Shocks Fans</news:title>
-      <news:keywords>K-Drama, Ha Jung Woo, Im Soo Jung, Mad Concrete Dreams, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-seung-gi-breaks-free/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T06:36:21.000Z</news:publication_date>
-      <news:title>Lee Seung Gi Breaks Free</news:title>
-      <news:keywords>Lee Seung Gi, Contract Termination, Big Planet Made, K-Pop, Agency</news:keywords>
     </news:news>
   </url>
 </urlset>
