@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/xdinary-heroes-invades-europe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T09:17:21.000Z</news:publication_date>
+      <news:title>Xdinary Heroes Invades Europe</news:title>
+      <news:keywords>Tour, Xdinary Heroes, The New Xcene, European Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T06:32:32.000Z</news:publication_date>
+      <news:title>NCT Sparks Debate</news:title>
+      <news:keywords>NCT, K-Pop, Fandom, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/2016-c-dramas-shine/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +59,18 @@
       <news:publication_date>2026-04-09T04:55:11.000Z</news:publication_date>
       <news:title>Lovely Runner Turns 2</news:title>
       <news:keywords>K-Drama, Lovely Runner, Kim Hye Yoon, Byeon Woo Seok, Anniversary</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T04:31:04.000Z</news:publication_date>
+      <news:title>BTS Shocks Fans</news:title>
+      <news:keywords>BTS, AI, Advertising, K-Pop, Scandal</news:keywords>
     </news:news>
   </url>
   <url>
@@ -170,18 +206,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T08:40:10.000Z</news:publication_date>
-      <news:title>BTS Shocks Fans</news:title>
-      <news:keywords>BTS, K-Drama, Park Hae Soo, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://kpop.andxo.com/article/yumis-cells-3-cast-reveals/</loc>
     <news:news>
       <news:publication>
@@ -311,102 +335,6 @@
       <news:publication_date>2026-04-07T13:45:41.000Z</news:publication_date>
       <news:title>IVE Members Shock Fans</news:title>
       <news:keywords>IVE, Pregnancy, Maternity Leave, K-Pop, Girl Group</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hyeri-sparks-excitement/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T09:29:26.000Z</news:publication_date>
-      <news:title>Hyeri Sparks Excitement</news:title>
-      <news:keywords>K-Drama, Hyeri, Na In Woo, Remake</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/young-posse-makes-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T09:29:04.000Z</news:publication_date>
-      <news:title>YOUNG POSSE Makes Comeback</news:title>
-      <news:keywords>Comeback, MV, YOUNG POSSE, Digicore, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/donghae-drops-solo-track/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T09:26:07.000Z</news:publication_date>
-      <news:title>Donghae Drops Solo Track</news:title>
-      <news:keywords>Super Junior, Album, MV, Donghae, Solo Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/roy-kim-joins-heart-signal-5-panel/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T09:09:54.000Z</news:publication_date>
-      <news:title>Roy Kim Joins &apos;Heart Signal 5&apos; Panel</news:title>
-      <news:keywords>K-Drama, Heart Signal 5, Roy Kim, Korean Dating Show, Yoon Jong Shin</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T08:42:50.000Z</news:publication_date>
-      <news:title>BLACKPINK Sparks Debate</news:title>
-      <news:keywords>BLACKPINK, Protest, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ha-ji-won-nana-reunite/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T08:29:56.000Z</news:publication_date>
-      <news:title>Ha Ji Won, Nana Reunite</news:title>
-      <news:keywords>K-Drama, Ha Ji Won, Nana, Climax, Reunion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-stuns-in-royal-romance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T06:52:11.000Z</news:publication_date>
-      <news:title>IU Stuns in Royal Romance</news:title>
-      <news:keywords>IU, K-Drama, Byeon Woo Seok, Perfect Crown, Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-hyang-gi-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T06:29:37.000Z</news:publication_date>
-      <news:title>Kim Hyang Gi Shocks Fans</news:title>
-      <news:keywords>K-Drama, Kim Hyang Gi, Romance, Coupang Play, Cha Hak Yeon</news:keywords>
     </news:news>
   </url>
 </urlset>

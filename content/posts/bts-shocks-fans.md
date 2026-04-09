@@ -1,39 +1,38 @@
 ---
 title: "BTS Shocks Fans"
-excerpt: "New thriller alert!"
-summary: "The upcoming drama 'The Scarecrow' has released a new poster, featuring Park Hae Soo, Lee Hee Joon, and Kwak Sun Young. The story follows a detective investigating a series of murders who is forced into an unlikely partnership. The drama is set between 1988 and 2019 and tracks two men bound by misfortune and hatred as they chase a serial killer."
-commentary: "The new poster for 'The Scarecrow' has generated significant buzz among K-Drama fans, who are eager to see Park Hae Soo and Lee Hee Joon take on complex characters. \n\n The drama's unique premise, which spans multiple decades, promises to deliver a thrilling and suspenseful story that explores the darker side of human nature. \n\n The partnership between the detective and his unlikely ally is likely to be a key aspect of the drama, adding an extra layer of tension and intrigue to the story. \n\n With its talented cast and gripping storyline, 'The Scarecrow' is shaping up to be one of the most anticipated dramas of the year, and fans are eagerly awaiting its release."
-originalTitle: "Park Hae Soo, Lee Hee Joon, Kwak Sun Young, And More Get Caught Up In A Serial Killer Case In New Drama “The Scarecrow” Poster"
-category: "drama"
-tags: ["BTS","K-Drama","Park Hae Soo","Thriller"]
-publishedAt: "2026-04-08T08:40:10.000Z"
-updatedAt: "2026-04-08T11:43:17.018Z"
-source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1831474wpp/park-hae-soo-lee-hee-joon-kwak-sun-young-and-more-get-caught-up-in-a-serial-killer-case-in-new-drama-the-scarecrow-poster"
+excerpt: "AI face scandal sparks outrage!"
+summary: "A coffee shop recently apologized for using a popular idol's face in an AI-generated ad, but the apology has triggered even more backlash. The incident has raised concerns about the use of AI in advertising and the rights of celebrities. The coffee shop's actions have been widely criticized by fans and netizens."
+commentary: "The use of AI-generated ads featuring celebrities without their consent is a growing concern in the K-Pop industry. \n\n This incident highlights the need for clearer regulations and guidelines on the use of AI in advertising, particularly when it comes to using celebrities' likenesses. \n\n The backlash against the coffee shop is a testament to the power and dedication of K-Pop fans, who will not hesitate to speak out against injustices perpetrated against their favorite artists. \n\n As the use of AI in advertising continues to evolve, it is essential for companies to prioritize transparency, consent, and respect for celebrities' rights and likenesses."
+originalTitle: "Coffee Shop’s Apology For Using Popular Idol’s Face In AI Triggers Even More Backlash"
+category: "news"
+tags: ["BTS","AI","Advertising","K-Pop","Scandal"]
+publishedAt: "2026-04-09T04:31:04.000Z"
+updatedAt: "2026-04-09T11:42:07.906Z"
+source: "Koreaboo"
+sourceUrl: "https://www.koreaboo.com/news/cafes-apology-letter-using-ai-nct-jaehyun-triggers-even-backlash/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp"
 isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-The upcoming drama 'The Scarecrow' has released a new poster, featuring Park Hae Soo, Lee Hee Joon, and Kwak Sun Young. The story follows a detective investigating a series of murders who is forced into an unlikely partnership. The drama is set between 1988 and 2019 and tracks two men bound by misfortune and hatred as they chase a serial killer.
+A coffee shop recently apologized for using a popular idol's face in an AI-generated ad, but the apology has triggered even more backlash. The incident has raised concerns about the use of AI in advertising and the rights of celebrities. The coffee shop's actions have been widely criticized by fans and netizens.
 ---
 
 ## Our Take
 
-The new poster for 'The Scarecrow' has generated significant buzz among K-Drama fans, who are eager to see Park Hae Soo and Lee Hee Joon take on complex characters. 
+The use of AI-generated ads featuring celebrities without their consent is a growing concern in the K-Pop industry. 
 
- The drama's unique premise, which spans multiple decades, promises to deliver a thrilling and suspenseful story that explores the darker side of human nature. 
+ This incident highlights the need for clearer regulations and guidelines on the use of AI in advertising, particularly when it comes to using celebrities' likenesses. 
 
- The partnership between the detective and his unlikely ally is likely to be a key aspect of the drama, adding an extra layer of tension and intrigue to the story. 
+ The backlash against the coffee shop is a testament to the power and dedication of K-Pop fans, who will not hesitate to speak out against injustices perpetrated against their favorite artists. 
 
- With its talented cast and gripping storyline, 'The Scarecrow' is shaping up to be one of the most anticipated dramas of the year, and fans are eagerly awaiting its release.
+ As the use of AI in advertising continues to evolve, it is essential for companies to prioritize transparency, consent, and respect for celebrities' rights and likenesses.
 
 ---
 
 ### Related Links
 
-- [Park Hae Soo](https://www.viki.com/celebrities/14787pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=park-hae-soo-lee-hee-joon-kwak-sun-young-and-more-get-caught-up-in-a-serial-killer-case-in-new-drama-the-scarecrow-poster&utm_content_id=1831474wpp)
-- [Lee Hee Joon](https://www.viki.com/celebrities/14676pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=park-hae-soo-lee-hee-joon-kwak-sun-young-and-more-get-caught-up-in-a-serial-killer-case-in-new-drama-the-scarecrow-poster&utm_content_id=1831474wpp)
-- [Kwak Sun Young](https://www.viki.com/celebrities/24220pr-kwak-sun-young?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=park-hae-soo-lee-hee-joon-kwak-sun-young-and-more-get-caught-up-in-a-serial-killer-case-in-new-drama-the-scarecrow-poster&utm_content_id=1831474wpp)
-- [Song Geon Hee](https://www.viki.com/celebrities/23265pr-song-geon-hee?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=park-hae-soo-lee-hee-joon-kwak-sun-young-and-more-get-caught-up-in-a-serial-killer-case-in-new-drama-the-scarecrow-poster&utm_content_id=1831474wpp)
-- [Jung Moon Sung](https://www.viki.com/celebrities/15533pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=park-hae-soo-lee-hee-joon-kwak-sun-young-and-more-get-caught-up-in-a-serial-killer-case-in-new-drama-the-scarecrow-poster&utm_content_id=1831474wpp)
+- [https://t.co/m8QZq0VXUa](https://t.co/m8QZq0VXUa)
+- [https://t.co/l2nqlZ8eq5](https://t.co/l2nqlZ8eq5)
+- [https://t.co/QOFZd8sJPH](https://t.co/QOFZd8sJPH)
+- [instiz](https://www.instiz.net/name_enter/99177269?page=1&category=2&srt=3&k=&srd=2)

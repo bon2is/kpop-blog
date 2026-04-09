@@ -1,35 +1,35 @@
 ---
 title: "NCT Sparks Debate"
-excerpt: "NCT's Mark and Ten speak out!"
-summary: "NCT's Mark and WayV's Ten have shared messages with fans after their contract expiration, sparking a divided response. The messages have been interpreted in different ways, with some fans showing support and others expressing concern. The situation highlights the complexities of K-Pop contracts and fan relationships."
-commentary: "The news of NCT's Mark and Ten's contract expiration has sent shockwaves through the K-Pop community, with fans eagerly awaiting updates on their future plans. \n\n The fact that Mark and Ten have chosen to address their fans directly suggests a desire to maintain transparency and control over their careers, which is significant in an industry where contracts can be restrictive. \n\n This development also underscores the evolving nature of K-Pop, where artists are increasingly taking charge of their own narratives and engaging with fans in more personal ways. \n\n As the situation unfolds, fans will be watching closely to see how Mark and Ten's careers evolve, and what this might mean for the future of NCT and WayV."
-originalTitle: "NCT’s Mark and WayV Ten’s Messages To Fans Following Contract Expiration Triggers Divided Response"
+excerpt: "NCT in hot water over fandom name mention!"
+summary: "Mark of NCT has faced criticism for mentioning the group's fandom name. The incident has sparked a debate among fans and observers. The reaction to Mark's comment has been largely negative, with many expressing disappointment and frustration."
+commentary: "The controversy surrounding Mark's comment highlights the complexities of K-Pop fandom culture. \n\n The mention of the fandom name has been perceived as insensitive by some, and it has raised questions about the artist's awareness of fan sentiments. \n\n This incident may have implications for NCT's public image and fan relations, underscoring the importance of thoughtful communication in the K-Pop industry. \n\n As the situation unfolds, it will be interesting to see how Mark and NCT address the criticism and work to repair their relationship with fans."
+originalTitle: "Mark Hit With Scathing Criticism For Mentioning NCT Fandom Name"
 category: "celebrity"
-tags: ["NCT","WayV","Contract Expiration","K-Pop Careers","Fan Engagement"]
-publishedAt: "2026-04-06T08:06:41.000Z"
-updatedAt: "2026-04-06T14:46:51.292Z"
+tags: ["NCT","K-Pop","Fandom","Controversy"]
+publishedAt: "2026-04-09T06:32:32.000Z"
+updatedAt: "2026-04-09T11:42:03.694Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/netizens-compare-nct-mark-wayv-ten-letters-following-contract-expiration/"
+sourceUrl: "https://www.koreaboo.com/news/mark-hit-fierce-backlash-fans-mentioning-nctzens-after-withdrawal/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nct-sparks-debate.webp"
-isAIGenerated: true
+isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-NCT's Mark and WayV's Ten have shared messages with fans after their contract expiration, sparking a divided response. The messages have been interpreted in different ways, with some fans showing support and others expressing concern. The situation highlights the complexities of K-Pop contracts and fan relationships.
+Mark of NCT has faced criticism for mentioning the group's fandom name. The incident has sparked a debate among fans and observers. The reaction to Mark's comment has been largely negative, with many expressing disappointment and frustration.
 ---
 
 ## Our Take
 
-The news of NCT's Mark and Ten's contract expiration has sent shockwaves through the K-Pop community, with fans eagerly awaiting updates on their future plans. 
+The controversy surrounding Mark's comment highlights the complexities of K-Pop fandom culture. 
 
- The fact that Mark and Ten have chosen to address their fans directly suggests a desire to maintain transparency and control over their careers, which is significant in an industry where contracts can be restrictive. 
+ The mention of the fandom name has been perceived as insensitive by some, and it has raised questions about the artist's awareness of fan sentiments. 
 
- This development also underscores the evolving nature of K-Pop, where artists are increasingly taking charge of their own narratives and engaging with fans in more personal ways. 
+ This incident may have implications for NCT's public image and fan relations, underscoring the importance of thoughtful communication in the K-Pop industry. 
 
- As the situation unfolds, fans will be watching closely to see how Mark and Ten's careers evolve, and what this might mean for the future of NCT and WayV.
+ As the situation unfolds, it will be interesting to see how Mark and NCT address the criticism and work to repair their relationship with fans.
 
 ---
 
 ### Related Links
 
-- [pic.twitter.com/61BOgcMAcQ](https://t.co/61BOgcMAcQ)
+- [instiz](https://www.instiz.net/name_enter/99184748)
