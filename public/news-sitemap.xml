@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/2016-c-dramas-shine/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T05:31:55.000Z</news:publication_date>
+      <news:title>2016 C-Dramas Shine</news:title>
+      <news:keywords>K-Drama, C-Dramas, Chinese Dramas, 2016 Dramas, Nostalgia</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-boyz-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T05:23:10.000Z</news:publication_date>
+      <news:title>THE BOYZ Breaks Silence</news:title>
+      <news:keywords>THE BOYZ, Concert, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lovely-runner-turns-2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T04:55:11.000Z</news:publication_date>
+      <news:title>Lovely Runner Turns 2</news:title>
+      <news:keywords>K-Drama, Lovely Runner, Kim Hye Yoon, Byeon Woo Seok, Anniversary</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-mark-goes-solo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T04:01:42.000Z</news:publication_date>
+      <news:title>NCT Mark Goes Solo</news:title>
+      <news:keywords>NCT, Mark, Solo Career, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T03:02:14.000Z</news:publication_date>
+      <news:title>K-Pop Idol Sparks Concern</news:title>
+      <news:keywords>K-Pop, Body Image, Mental Health, Idol Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-makes-history/</loc>
     <news:news>
       <news:publication>
@@ -347,30 +407,6 @@
       <news:publication_date>2026-04-07T06:29:37.000Z</news:publication_date>
       <news:title>Kim Hyang Gi Shocks Fans</news:title>
       <news:keywords>K-Drama, Kim Hyang Gi, Romance, Coupang Play, Cha Hak Yeon</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T06:11:50.000Z</news:publication_date>
-      <news:title>NCT Mark Sparks Debate</news:title>
-      <news:keywords>NCT, Mark, Mental Health, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-jnjm-reveals-tour/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T05:23:24.000Z</news:publication_date>
-      <news:title>NCT JNJM Reveals Tour</news:title>
-      <news:keywords>NCT, Tour, NCT JNJM, Fan Meeting Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
