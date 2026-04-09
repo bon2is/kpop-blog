@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T14:04:11.000Z</news:publication_date>
+      <news:title>HYBE Breaks Silence</news:title>
+      <news:keywords>HYBE, Manon, KATSEYE, Coachella, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T12:45:44.000Z</news:publication_date>
+      <news:title>BTS Makes History</news:title>
+      <news:keywords>BTS, Kep1er, MAMAMOO, M Countdown, SWIM</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T12:36:05.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/xdinary-heroes-invades-europe/</loc>
     <news:news>
       <news:publication>
@@ -311,30 +347,6 @@
       <news:publication_date>2026-04-07T15:28:48.000Z</news:publication_date>
       <news:title>BTS Drops &apos;Hooligan&apos; MV</news:title>
       <news:keywords>BTS, Album, MV, Comeback, Music Video</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-giselle-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T13:49:52.000Z</news:publication_date>
-      <news:title>aespa&apos;s Giselle Sparks Debate</news:title>
-      <news:keywords>aespa, Giselle, Live Stream, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-members-shock-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T13:45:41.000Z</news:publication_date>
-      <news:title>IVE Members Shock Fans</news:title>
-      <news:keywords>IVE, Pregnancy, Maternity Leave, K-Pop, Girl Group</news:keywords>
     </news:news>
   </url>
 </urlset>
