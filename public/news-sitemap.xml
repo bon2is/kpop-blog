@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T00:03:34.000Z</news:publication_date>
+      <news:title>BLACKPINK Makes History</news:title>
+      <news:keywords>BLACKPINK, MV, YouTube, K-Pop, Music Video</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hwasa-reveals-truth/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T22:26:35.000Z</news:publication_date>
+      <news:title>Hwasa Reveals Truth</news:title>
+      <news:keywords>MAMAMOO, Awards, Hwasa, Blue Dragon Film Awards, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T20:22:43.000Z</news:publication_date>
+      <news:title>BTS Breaks Silence</news:title>
+      <news:keywords>BTS, Idol-Actor, Marriage, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jungkook-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -335,66 +371,6 @@
       <news:publication_date>2026-04-07T05:23:24.000Z</news:publication_date>
       <news:title>NCT JNJM Reveals Tour</news:title>
       <news:keywords>NCT, Tour, NCT JNJM, Fan Meeting Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-suga-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T03:35:06.000Z</news:publication_date>
-      <news:title>BTS Suga Breaks Silence</news:title>
-      <news:keywords>BTS, Suga, Stage Name</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jype-idol-sparks-romance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T22:53:32.000Z</news:publication_date>
-      <news:title>JYPE Idol Sparks Romance</news:title>
-      <news:keywords>JYP Entertainment, K-Pop Romance, YouTube</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkook-reveals-flirting-secret/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T20:19:38.000Z</news:publication_date>
-      <news:title>BTS Jungkook Reveals Flirting Secret</news:title>
-      <news:keywords>BTS, Jungkook, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/teen-idols-shocking-wedding/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T17:26:40.000Z</news:publication_date>
-      <news:title>Teen Idol&apos;s Shocking Wedding</news:title>
-      <news:keywords>K-Pop, Marriage, Idol Life, Comeback, Scandals</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-star-scammed-gov-steps-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T17:09:00.000Z</news:publication_date>
-      <news:title>BTS Star Scammed: Gov Steps In</news:title>
-      <news:keywords>BTS, HYBE, Scam, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
