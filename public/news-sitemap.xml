@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jungkook-breaks-record/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T13:19:10.000Z</news:publication_date>
+      <news:title>Jungkook Breaks Record</news:title>
+      <news:keywords>BTS, Debut, MV, Jungkook, Seven</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T13:19:02.000Z</news:publication_date>
+      <news:title>KATSEYE Sparks Debate</news:title>
+      <news:keywords>Debut, KATSEYE, Coachella, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/gi-dle-reveals-tour-dates/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T11:49:31.000Z</news:publication_date>
+      <news:title>(G)I-DLE Reveals Tour Dates</news:title>
+      <news:keywords>(G)I-DLE, Concert, Tour, World Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kang-dong-won-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T11:37:48.000Z</news:publication_date>
+      <news:title>Kang Dong Won Shocks Fans</news:title>
+      <news:keywords>Comeback, K-Drama, Kang Dong Won, Park Ji Hyun, Um Tae Goo</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ive-wonyoung-stuns-with-meryl-streep/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-04-10T07:30:39.000Z</news:publication_date>
       <news:title>EXO-CBX Shocks Fans</news:title>
       <news:keywords>EXO, EXO-CBX, Contract Termination, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/txt-breaks-hearts-in-new-babysitting-show/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T07:11:36.000Z</news:publication_date>
+      <news:title>TXT Breaks Hearts in New Babysitting Show</news:title>
+      <news:keywords>TXT, Babysitting Reality Show, K-Pop Variety, Wavve</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,18 +347,6 @@
       <news:publication_date>2026-04-08T20:22:43.000Z</news:publication_date>
       <news:title>BTS Breaks Silence</news:title>
       <news:keywords>BTS, Idol-Actor, Marriage, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jungkook-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T13:48:51.000Z</news:publication_date>
-      <news:title>Jungkook Sparks Debate</news:title>
-      <news:keywords>BTS, Jungkook, K-Pop, Fan Culture, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
