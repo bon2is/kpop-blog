@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ab6ix-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T06:04:23.000Z</news:publication_date>
+      <news:title>AB6IX Breaks Silence</news:title>
+      <news:keywords>Comeback, Debut, AB6IX, Hiatus, Contract Renewals</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T05:56:29.000Z</news:publication_date>
+      <news:title>IU Makes History</news:title>
+      <news:keywords>IU, K-Drama, Romance, Byeon Woo Seok, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-reveals-true-heights/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T04:21:17.000Z</news:publication_date>
+      <news:title>Stray Kids Reveals True Heights</news:title>
+      <news:keywords>Stray Kids, K-Pop, Body Positivity</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
     <news:news>
       <news:publication>
