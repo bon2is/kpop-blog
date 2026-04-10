@@ -1,38 +1,38 @@
 ---
 title: "BTS Shocks Fans"
-excerpt: "AI face scandal sparks outrage!"
-summary: "A coffee shop recently apologized for using a popular idol's face in an AI-generated ad, but the apology has triggered even more backlash. The incident has raised concerns about the use of AI in advertising and the rights of celebrities. The coffee shop's actions have been widely criticized by fans and netizens."
-commentary: "The use of AI-generated ads featuring celebrities without their consent is a growing concern in the K-Pop industry. \n\n This incident highlights the need for clearer regulations and guidelines on the use of AI in advertising, particularly when it comes to using celebrities' likenesses. \n\n The backlash against the coffee shop is a testament to the power and dedication of K-Pop fans, who will not hesitate to speak out against injustices perpetrated against their favorite artists. \n\n As the use of AI in advertising continues to evolve, it is essential for companies to prioritize transparency, consent, and respect for celebrities' rights and likenesses."
-originalTitle: "Coffee Shop’s Apology For Using Popular Idol’s Face In AI Triggers Even More Backlash"
-category: "news"
-tags: ["BTS","AI","Advertising","K-Pop","Scandal"]
-publishedAt: "2026-04-09T04:31:04.000Z"
-updatedAt: "2026-04-09T11:42:07.906Z"
+excerpt: "BTS's private schedule interfered with by Bang Si Hyuk"
+summary: "Bang Si Hyuk, the founder of HYBE, has admitted to interfering with BTS's private schedule for an appearance on 'ARIRANG'. This revelation has sparked outrage among fans, who feel that the group's personal time is being disrespected. The incident has raised questions about the boundaries between work and personal life in the K-Pop industry."
+commentary: "The admission by Bang Si Hyuk has significant implications for the K-Pop industry, highlighting the often-blurred lines between an artist's work and personal life. \n\n The interference with BTS's private schedule is particularly notable given the group's immense global popularity and the resulting pressure to constantly perform and produce content. \n\n This incident may lead to a re-evaluation of the industry's expectations and protocols regarding artist scheduling and personal time, potentially paving the way for healthier work-life balances for K-Pop idols. \n\n For BTS fans, this news is a reminder of the human side of their idols and the importance of respecting their boundaries, even as they continue to support and admire the group's music and performances."
+originalTitle: "Fans Infuriated After Bang Si Hyuk Admits To Major Interference With BTS’s Private Schedule For “ARIRANG”"
+category: "celebrity"
+tags: ["BTS","Bang Si Hyuk","K-Pop","Scheduling Controversy"]
+publishedAt: "2026-04-10T10:35:30.000Z"
+updatedAt: "2026-04-10T11:37:49.573Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/cafes-apology-letter-using-ai-nct-jaehyun-triggers-even-backlash/"
+sourceUrl: "https://www.koreaboo.com/news/bang-si-hyuk-admits-major-interference-bts-private-schedule-arirang/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp"
 isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-A coffee shop recently apologized for using a popular idol's face in an AI-generated ad, but the apology has triggered even more backlash. The incident has raised concerns about the use of AI in advertising and the rights of celebrities. The coffee shop's actions have been widely criticized by fans and netizens.
+Bang Si Hyuk, the founder of HYBE, has admitted to interfering with BTS's private schedule for an appearance on 'ARIRANG'. This revelation has sparked outrage among fans, who feel that the group's personal time is being disrespected. The incident has raised questions about the boundaries between work and personal life in the K-Pop industry.
 ---
 
 ## Our Take
 
-The use of AI-generated ads featuring celebrities without their consent is a growing concern in the K-Pop industry. 
+The admission by Bang Si Hyuk has significant implications for the K-Pop industry, highlighting the often-blurred lines between an artist's work and personal life. 
 
- This incident highlights the need for clearer regulations and guidelines on the use of AI in advertising, particularly when it comes to using celebrities' likenesses. 
+ The interference with BTS's private schedule is particularly notable given the group's immense global popularity and the resulting pressure to constantly perform and produce content. 
 
- The backlash against the coffee shop is a testament to the power and dedication of K-Pop fans, who will not hesitate to speak out against injustices perpetrated against their favorite artists. 
+ This incident may lead to a re-evaluation of the industry's expectations and protocols regarding artist scheduling and personal time, potentially paving the way for healthier work-life balances for K-Pop idols. 
 
- As the use of AI in advertising continues to evolve, it is essential for companies to prioritize transparency, consent, and respect for celebrities' rights and likenesses.
+ For BTS fans, this news is a reminder of the human side of their idols and the importance of respecting their boundaries, even as they continue to support and admire the group's music and performances.
 
 ---
 
 ### Related Links
 
-- [https://t.co/m8QZq0VXUa](https://t.co/m8QZq0VXUa)
-- [https://t.co/l2nqlZ8eq5](https://t.co/l2nqlZ8eq5)
-- [https://t.co/QOFZd8sJPH](https://t.co/QOFZd8sJPH)
-- [instiz](https://www.instiz.net/name_enter/99177269?page=1&category=2&srt=3&k=&srd=2)
+- [https://t.co/PWY9i6Arof](https://t.co/PWY9i6Arof)
+- [https://t.co/ZvaatwzLrx](https://t.co/ZvaatwzLrx)
+- [https://t.co/CVeo9X3rSj](https://t.co/CVeo9X3rSj)
+- [https://t.co/zEUlrlN2m3](https://t.co/zEUlrlN2m3)

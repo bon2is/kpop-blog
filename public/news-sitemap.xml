@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-wonyoung-stuns-with-meryl-streep/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T10:45:49.000Z</news:publication_date>
+      <news:title>IVE Wonyoung Stuns With Meryl Streep</news:title>
+      <news:keywords>IVE, Wonyoung, K-Pop, Hollywood, Devil Wears Prada 2</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T10:35:30.000Z</news:publication_date>
+      <news:title>BTS Shocks Fans</news:title>
+      <news:keywords>BTS, Bang Si Hyuk, K-Pop, Scheduling Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/tao-sparks-health-concerns/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T09:25:42.000Z</news:publication_date>
+      <news:title>Tao Sparks Health Concerns</news:title>
+      <news:keywords>EXO, Tao, Health Concerns, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exo-members-break-free/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T08:56:13.000Z</news:publication_date>
+      <news:title>EXO Members Break Free</news:title>
+      <news:keywords>EXO, Contract Termination, K-Pop Industry, Artist Rights</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exo-cbx-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T07:30:39.000Z</news:publication_date>
+      <news:title>EXO-CBX Shocks Fans</news:title>
+      <news:keywords>EXO, EXO-CBX, Contract Termination, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ab6ix-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -170,18 +230,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T04:31:04.000Z</news:publication_date>
-      <news:title>BTS Shocks Fans</news:title>
-      <news:keywords>BTS, AI, Advertising, K-Pop, Scandal</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://kpop.andxo.com/article/nct-mark-goes-solo/</loc>
     <news:news>
       <news:publication>
@@ -251,102 +299,6 @@
       <news:publication_date>2026-04-08T13:48:51.000Z</news:publication_date>
       <news:title>Jungkook Sparks Debate</news:title>
       <news:keywords>BTS, Jungkook, K-Pop, Fan Culture, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mingyu-sparks-concern/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T11:35:25.000Z</news:publication_date>
-      <news:title>Mingyu Sparks Concern</news:title>
-      <news:keywords>SEVENTEEN, Mingyu, K-Pop, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heeseung-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T10:18:36.000Z</news:publication_date>
-      <news:title>Heeseung Breaks Silence</news:title>
-      <news:keywords>ENHYPEN, Heeseung, Instagram, Solo Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-reveals-studio54-mv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T10:03:54.000Z</news:publication_date>
-      <news:title>T.O.P Reveals &apos;Studio54&apos; MV</news:title>
-      <news:keywords>Album, MV, T.O.P, Studio54, ANOTHER DIMENSION</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-jae-joongs-keyvitup-debuts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T09:42:25.000Z</news:publication_date>
-      <news:title>Kim Jae Joong&apos;s KEYVITUP Debuts</news:title>
-      <news:keywords>Debut, Album, MV, Kim Jae Joong, KEYVITUP</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/viviz-breaks-free/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T09:20:08.000Z</news:publication_date>
-      <news:title>VIVIZ Breaks Free</news:title>
-      <news:keywords>VIVIZ, Contract Dispute, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yumis-cells-3-cast-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T08:08:28.000Z</news:publication_date>
-      <news:title>Yumi&apos;s Cells 3 Cast Reveals</news:title>
-      <news:keywords>Yumi&apos;s Cells 3, K-Drama, Choi Daniel, Kim Go Eun</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/zepa-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T07:40:15.000Z</news:publication_date>
-      <news:title>Zepa Shocks Fans</news:title>
-      <news:keywords>Zepa, YouTuber, Passing, Japanese Influencer, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T06:31:49.000Z</news:publication_date>
-      <news:title>IU Shocks Fans</news:title>
-      <news:keywords>IU, K-Drama, Byeon Woo Seok, Perfect Crown, Romance</news:keywords>
     </news:news>
   </url>
 </urlset>
