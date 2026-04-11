@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-bangchan-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T14:20:45.000Z</news:publication_date>
+      <news:title>Stray Kids&apos; Bangchan Reveals</news:title>
+      <news:keywords>Stray Kids, Bangchan, K-Pop Industry, Trainee Life, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseyes-manon-shines-at-coachella/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T12:45:37.000Z</news:publication_date>
+      <news:title>KATSEYE&apos;s Manon Shines at Coachella</news:title>
+      <news:keywords>Debut, KATSEYE, Manon, Coachella, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseyes-daniela-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -287,42 +311,6 @@
       <news:publication_date>2026-04-09T23:23:09.000Z</news:publication_date>
       <news:title>Cabbage Your Life Sparks Hope</news:title>
       <news:keywords>K-Drama, Ratings, Cabbage Your Life, KBS 2TV, Sung Tae</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T14:04:11.000Z</news:publication_date>
-      <news:title>HYBE Breaks Silence</news:title>
-      <news:keywords>HYBE, Manon, KATSEYE, Coachella, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T12:45:44.000Z</news:publication_date>
-      <news:title>BTS Makes History</news:title>
-      <news:keywords>BTS, Kep1er, MAMAMOO, M Countdown, SWIM</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T12:36:05.000Z</news:publication_date>
-      <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, Comeback, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
