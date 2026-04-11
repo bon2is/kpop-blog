@@ -1,44 +1,39 @@
 ---
 title: "KATSEYE Sparks Debate"
-excerpt: "Singer's lyrics spark huge reactions!"
-summary: "A famous American singer made a comment about KATSEYE's song lyrics, sparking a huge reaction. The comment was perceived as 'shady' and has caused a stir among fans. The controversy surrounds the singer's interpretation of KATSEYE's lyrics."
-commentary: "The news matters as it highlights the global attention KATSEYE is receiving, with international artists taking notice of their work. \n\n The K-Pop industry is known for its highly engaged fanbase, and this controversy is a prime example of how quickly reactions can spread. \n\n For KATSEYE, this could be an opportunity to gain more exposure and potentially attract a new audience. \n\n The incident also raises questions about cultural differences in interpreting lyrics and the potential for miscommunication."
-originalTitle: "Famous American Singer’s “Shady” Comment About KATSEYE Sparks Huge Reactions"
+excerpt: "KATSEYE's behavior at Coachella sparks outrage!"
+summary: "KATSEYE's recent performance at Coachella has been marred by controversy due to a viral clip showcasing questionable behavior. The incident has been met with scathing criticism from fans and critics alike. The group's actions have raised questions about their professionalism and public image."
+commentary: "KATSEYE's behavior at Coachella has significant implications for their career, as it may damage their reputation and alienate fans. \n\n The K-Pop industry is known for its high standards of professionalism and etiquette, making KATSEYE's actions particularly noteworthy. \n\n This incident may serve as a wake-up call for the group, prompting them to reevaluate their public image and behavior. \n\n Ultimately, the controversy surrounding KATSEYE's performance at Coachella highlights the importance of maintaining a positive and respectful public image in the entertainment industry."
+originalTitle: "KATSEYE’s “Disgusting” Behavior During “Coachella” Hit With Scathing Criticism"
 category: "news"
-tags: ["KATSEYE","Comeback","Charts","Controversy"]
-publishedAt: "2026-04-10T22:56:59.000Z"
-updatedAt: "2026-04-11T05:55:26.889Z"
+tags: ["KATSEYE","Coachella","Controversy","K-Pop","Scandal"]
+publishedAt: "2026-04-11T08:59:39.000Z"
+updatedAt: "2026-04-11T11:19:34.255Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/famous-american-singers-shady-comment-katseye-sparks-huge-reactions-pussycat-dolls/"
+sourceUrl: "https://www.koreaboo.com/news/katseye-disgusting-behavior-coachella-hit-scathing-criticism/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-sparks-debate.webp"
-isAIGenerated: false
+isAIGenerated: true
 author: "KPOP Daily"
 ---
 
-A famous American singer made a comment about KATSEYE's song lyrics, sparking a huge reaction. The comment was perceived as 'shady' and has caused a stir among fans. The controversy surrounds the singer's interpretation of KATSEYE's lyrics.
-
----
-
-https://www.youtube.com/watch?v=tc8JerUJOuQ
-
+KATSEYE's recent performance at Coachella has been marred by controversy due to a viral clip showcasing questionable behavior. The incident has been met with scathing criticism from fans and critics alike. The group's actions have raised questions about their professionalism and public image.
 ---
 
 ## Our Take
 
-The news matters as it highlights the global attention KATSEYE is receiving, with international artists taking notice of their work. 
+KATSEYE's behavior at Coachella has significant implications for their career, as it may damage their reputation and alienate fans. 
 
- The K-Pop industry is known for its highly engaged fanbase, and this controversy is a prime example of how quickly reactions can spread. 
+ The K-Pop industry is known for its high standards of professionalism and etiquette, making KATSEYE's actions particularly noteworthy. 
 
- For KATSEYE, this could be an opportunity to gain more exposure and potentially attract a new audience. 
+ This incident may serve as a wake-up call for the group, prompting them to reevaluate their public image and behavior. 
 
- The incident also raises questions about cultural differences in interpreting lyrics and the potential for miscommunication.
+ Ultimately, the controversy surrounding KATSEYE's performance at Coachella highlights the importance of maintaining a positive and respectful public image in the entertainment industry.
 
 ---
 
 ### Related Links
 
-- [pic.twitter.com/na6WD2eR4R](https://t.co/na6WD2eR4R)
-- [https://t.co/D0kuPDcyK4](https://t.co/D0kuPDcyK4)
-- [https://t.co/wpYET0lqsJ](https://t.co/wpYET0lqsJ)
-- [pic.twitter.com/X4LXO9Wuq9](https://t.co/X4LXO9Wuq9)
-- [pic.twitter.com/m7niuWaXOf](https://t.co/m7niuWaXOf)
+- [pic.twitter.com/Al2ScmiSut](https://t.co/Al2ScmiSut)
+- [pic.twitter.com/h5Q04014XO](https://t.co/h5Q04014XO)
+- [pic.twitter.com/erTAEffjLs](https://t.co/erTAEffjLs)
+- [https://t.co/WiFvUK861H](https://t.co/WiFvUK861H)
+- [pic.twitter.com/OapWYzzOS6](https://t.co/OapWYzzOS6)

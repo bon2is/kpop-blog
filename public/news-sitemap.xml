@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/katseyes-daniela-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T10:16:22.000Z</news:publication_date>
+      <news:title>KATSEYE&apos;s Daniela Shocks Fans</news:title>
+      <news:keywords>KATSEYE, Coachella, Live Vocals, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T08:59:39.000Z</news:publication_date>
+      <news:title>KATSEYE Sparks Debate</news:title>
+      <news:keywords>KATSEYE, Coachella, Controversy, K-Pop, Scandal</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/newjeans-danielle-hacked/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T08:32:05.000Z</news:publication_date>
+      <news:title>NewJeans&apos; Danielle Hacked</news:title>
+      <news:keywords>NewJeans, Hacking Incident, K-Pop Idols, Cybersecurity</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/iu-makes-history/</loc>
     <news:news>
       <news:publication>
@@ -35,18 +71,6 @@
       <news:publication_date>2026-04-11T03:20:47.000Z</news:publication_date>
       <news:title>IU&apos;s Drama Makes History</news:title>
       <news:keywords>IU, K-Drama, Perfect Crown, MBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T22:56:59.000Z</news:publication_date>
-      <news:title>KATSEYE Sparks Debate</news:title>
-      <news:keywords>KATSEYE, Comeback, Charts, Controversy</news:keywords>
     </news:news>
   </url>
   <url>
@@ -299,30 +323,6 @@
       <news:publication_date>2026-04-09T12:36:05.000Z</news:publication_date>
       <news:title>IVE Sparks Debate</news:title>
       <news:keywords>IVE, Comeback, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/xdinary-heroes-invades-europe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T09:17:21.000Z</news:publication_date>
-      <news:title>Xdinary Heroes Invades Europe</news:title>
-      <news:keywords>Tour, Xdinary Heroes, The New Xcene, European Tour, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T06:32:32.000Z</news:publication_date>
-      <news:title>NCT Sparks Debate</news:title>
-      <news:keywords>NCT, K-Pop, Fandom, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
