@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/iu-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T05:28:56.000Z</news:publication_date>
+      <news:title>IU Makes History</news:title>
+      <news:keywords>IU, K-Drama, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-lisa-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T04:30:38.000Z</news:publication_date>
+      <news:title>BLACKPINK Lisa Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Lisa, K-Pop, Celebrity News</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ius-drama-makes-history/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +35,18 @@
       <news:publication_date>2026-04-11T03:20:47.000Z</news:publication_date>
       <news:title>IU&apos;s Drama Makes History</news:title>
       <news:keywords>IU, K-Drama, Perfect Crown, MBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T22:56:59.000Z</news:publication_date>
+      <news:title>KATSEYE Sparks Debate</news:title>
+      <news:keywords>KATSEYE, Comeback, Charts, Controversy</news:keywords>
     </news:news>
   </url>
   <url>
@@ -71,18 +107,6 @@
       <news:publication_date>2026-04-10T13:19:10.000Z</news:publication_date>
       <news:title>Jungkook Breaks Record</news:title>
       <news:keywords>BTS, Debut, MV, Jungkook, Seven</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T13:19:02.000Z</news:publication_date>
-      <news:title>KATSEYE Sparks Debate</news:title>
-      <news:keywords>Debut, KATSEYE, Coachella, Comeback</news:keywords>
     </news:news>
   </url>
   <url>
@@ -194,18 +218,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/iu-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T05:56:29.000Z</news:publication_date>
-      <news:title>IU Makes History</news:title>
-      <news:keywords>IU, K-Drama, Romance, Byeon Woo Seok, Perfect Crown</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://kpop.andxo.com/article/stray-kids-reveals-true-heights/</loc>
     <news:news>
       <news:publication>
@@ -311,54 +323,6 @@
       <news:publication_date>2026-04-09T06:32:32.000Z</news:publication_date>
       <news:title>NCT Sparks Debate</news:title>
       <news:keywords>NCT, K-Pop, Fandom, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/2016-c-dramas-shine/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T05:31:55.000Z</news:publication_date>
-      <news:title>2016 C-Dramas Shine</news:title>
-      <news:keywords>K-Drama, C-Dramas, Chinese Dramas, 2016 Dramas, Nostalgia</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyz-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T05:23:10.000Z</news:publication_date>
-      <news:title>THE BOYZ Breaks Silence</news:title>
-      <news:keywords>THE BOYZ, Concert, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lovely-runner-turns-2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T04:55:11.000Z</news:publication_date>
-      <news:title>Lovely Runner Turns 2</news:title>
-      <news:keywords>K-Drama, Lovely Runner, Kim Hye Yoon, Byeon Woo Seok, Anniversary</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-mark-goes-solo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T04:01:42.000Z</news:publication_date>
-      <news:title>NCT Mark Goes Solo</news:title>
-      <news:keywords>NCT, Mark, Solo Career, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
