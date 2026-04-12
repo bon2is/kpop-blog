@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/riize-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T06:15:03.000Z</news:publication_date>
+      <news:title>RIIZE Sparks Debate</news:title>
+      <news:keywords>RIIZE, Backlash, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/rookie-idol-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +47,18 @@
       <news:publication_date>2026-04-12T02:32:52.000Z</news:publication_date>
       <news:title>The Rose Breaks Silence</news:title>
       <news:keywords>Album, Tour, The Rose, Break, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-vanishes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T01:59:37.000Z</news:publication_date>
+      <news:title>K-Pop Idol Vanishes</news:title>
+      <news:keywords>K-Pop, Comeback, Career Change</news:keywords>
     </news:news>
   </url>
   <url>
@@ -311,30 +335,6 @@
       <news:publication_date>2026-04-10T07:11:36.000Z</news:publication_date>
       <news:title>TXT Breaks Hearts in New Babysitting Show</news:title>
       <news:keywords>TXT, Babysitting Reality Show, K-Pop Variety, Wavve</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ab6ix-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T06:04:23.000Z</news:publication_date>
-      <news:title>AB6IX Breaks Silence</news:title>
-      <news:keywords>Comeback, Debut, AB6IX, Hiatus, Contract Renewals</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-reveals-true-heights/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T04:21:17.000Z</news:publication_date>
-      <news:title>Stray Kids Reveals True Heights</news:title>
-      <news:keywords>Stray Kids, K-Pop, Body Positivity</news:keywords>
     </news:news>
   </url>
 </urlset>

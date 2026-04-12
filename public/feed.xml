@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 03:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:21:20 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,22 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>RIIZE Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/riize-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/riize-sparks-debate/</guid>
+      <description>RIIZE&apos;s performance sparks outrage!</description>
+      <pubDate>Sun, 12 Apr 2026 06:15:03 GMT</pubDate>
+      <category>celebrity</category>
+      <category>RIIZE</category>
+      <category>Backlash</category>
+      <category>K-Pop</category>
+      <category>Controversy</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/riize-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/riize-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/riize-sparks-debate.webp" />
+    </item>
     <item>
       <title>Rookie Idol Sparks Debate</title>
       <link>https://kpop.andxo.com/article/rookie-idol-sparks-debate/</link>
@@ -63,6 +79,21 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-rose-breaks-silence.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-rose-breaks-silence.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-rose-breaks-silence.webp" />
+    </item>
+    <item>
+      <title>K-Pop Idol Vanishes</title>
+      <link>https://kpop.andxo.com/article/k-pop-idol-vanishes/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-idol-vanishes/</guid>
+      <description>Idol seeks new career</description>
+      <pubDate>Sun, 12 Apr 2026 01:59:37 GMT</pubDate>
+      <category>news</category>
+      <category>K-Pop</category>
+      <category>Comeback</category>
+      <category>Career Change</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-idol-vanishes.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-idol-vanishes.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-idol-vanishes.webp" />
     </item>
     <item>
       <title>Irene Shocks Fans</title>
@@ -1624,38 +1655,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" />
-    </item>
-    <item>
-      <title>Idol Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/idol-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/idol-shocks-fans/</guid>
-      <description>Idol&apos;s surprising career switch!</description>
-      <pubDate>Sat, 04 Apr 2026 22:33:06 GMT</pubDate>
-      <category>news</category>
-      <category>K-Pop</category>
-      <category>Career Switch</category>
-      <category>Idol</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/idol-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/idol-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/idol-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>Actress Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/actress-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/actress-shocks-fans/</guid>
-      <description>Actress reveals K-Pop agency offers!</description>
-      <pubDate>Sat, 04 Apr 2026 19:42:00 GMT</pubDate>
-      <category>audition</category>
-      <category>Debut</category>
-      <category>K-Pop</category>
-      <category>Bang Si Hyuk</category>
-      <category>Acting</category>
-      <category>Idol</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/actress-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/actress-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/actress-shocks-fans.webp" />
     </item>
   </channel>
 </rss>
