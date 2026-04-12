@@ -1,29 +1,29 @@
 ---
 title: "KATSEYE Shocks Fans"
-excerpt: "Cast your vote now!"
-summary: "Koreaboo has launched a poll to determine which KATSEYE member has the strongest stage presence. Fans can vote for their favorite member, sparking excitement and debate within the community. The poll allows fans to engage with the group and share their opinions on the members' performances."
-commentary: "The launch of this poll highlights the growing interest in KATSEYE and their unique performances. \n\n The poll's focus on stage presence emphasizes the importance of charismatic performances in K-Pop, where fans often look for members who can command the stage and deliver memorable shows. \n\n For KATSEYE, this poll can help increase their visibility and attract new fans who are drawn to their energetic performances. \n\n By encouraging fan participation, KATSEYE can foster a sense of community and loyalty among their supporters, which is essential for a group's long-term success in the competitive K-Pop industry."
-originalTitle: "Which KATSEYE Member Has The Strongest Stage Presence? Vote Now!"
+excerpt: "Will Manon leave KATSEYE?"
+summary: "A new K-Pop poll asks if Manon should leave KATSEYE, sparking debate among fans. The poll allows fans to share their opinions on the matter. The results may indicate the group's future dynamics and fan preferences."
+commentary: "The decision to leave a K-Pop group can significantly impact both the artist's career and the group's dynamics. \n\n KATSEYE's fanbase is likely divided on the issue, with some fans supporting Manon's potential solo endeavors and others preferring the group to stay intact. \n\n The outcome of this poll may influence future lineup changes or career paths for K-Pop idols, highlighting the importance of fan engagement in the industry. \n\n Ultimately, the poll's results will provide insight into the preferences and values of KATSEYE's fanbase, which can inform the group's future decisions and strategies."
+originalTitle: "POLL: Should Manon Leave KATSEYE? Vote Now!"
 category: "news"
-tags: ["KATSEYE","Poll","Stage Presence","K-Pop","Comeback"]
-publishedAt: "2026-04-05T06:14:00.000Z"
-updatedAt: "2026-04-05T11:19:12.015Z"
+tags: ["KATSEYE","Manon","Poll","K-Pop"]
+publishedAt: "2026-04-12T10:12:36.000Z"
+updatedAt: "2026-04-12T11:24:03.873Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/polls/katseye-members-best-strongest-stage-presence-charisma-poll-vote-ranked/"
+sourceUrl: "https://www.koreaboo.com/polls/katseye-manon-leave-group-hiatus-kpop-poll/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-shocks-fans.webp"
-isAIGenerated: false
+isAIGenerated: true
 author: "KPOP Daily"
 ---
 
-Koreaboo has launched a poll to determine which KATSEYE member has the strongest stage presence. Fans can vote for their favorite member, sparking excitement and debate within the community. The poll allows fans to engage with the group and share their opinions on the members' performances.
+A new K-Pop poll asks if Manon should leave KATSEYE, sparking debate among fans. The poll allows fans to share their opinions on the matter. The results may indicate the group's future dynamics and fan preferences.
 ---
 
 ## Our Take
 
-The launch of this poll highlights the growing interest in KATSEYE and their unique performances. 
+The decision to leave a K-Pop group can significantly impact both the artist's career and the group's dynamics. 
 
- The poll's focus on stage presence emphasizes the importance of charismatic performances in K-Pop, where fans often look for members who can command the stage and deliver memorable shows. 
+ KATSEYE's fanbase is likely divided on the issue, with some fans supporting Manon's potential solo endeavors and others preferring the group to stay intact. 
 
- For KATSEYE, this poll can help increase their visibility and attract new fans who are drawn to their energetic performances. 
+ The outcome of this poll may influence future lineup changes or career paths for K-Pop idols, highlighting the importance of fan engagement in the industry. 
 
- By encouraging fan participation, KATSEYE can foster a sense of community and loyalty among their supporters, which is essential for a group's long-term success in the competitive K-Pop industry.
+ Ultimately, the poll's results will provide insight into the preferences and values of KATSEYE's fanbase, which can inform the group's future decisions and strategies.

@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 06:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 11:24:30 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,55 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>KATSEYE Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/katseye-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/katseye-shocks-fans/</guid>
+      <description>Will Manon leave KATSEYE?</description>
+      <pubDate>Sun, 12 Apr 2026 10:12:36 GMT</pubDate>
+      <category>news</category>
+      <category>KATSEYE</category>
+      <category>Manon</category>
+      <category>Poll</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-shocks-fans.webp" />
+    </item>
+    <item>
+      <title>Krystal Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/krystal-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/krystal-shocks-fans/</guid>
+      <description>Krystal&apos;s sanity unravels in a fire emergency!</description>
+      <pubDate>Sun, 12 Apr 2026 07:29:10 GMT</pubDate>
+      <category>drama</category>
+      <category>K-Drama</category>
+      <category>Krystal</category>
+      <category>Ha Jung Woo</category>
+      <category>Mad Concrete Dreams</category>
+      <category>Thriller</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/krystal-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/krystal-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/krystal-shocks-fans.webp" />
+    </item>
+    <item>
+      <title>BTS Jungkook Gains New Fan</title>
+      <link>https://kpop.andxo.com/article/bts-jungkook-gains-new-fan/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-jungkook-gains-new-fan/</guid>
+      <description>Fifth-gen idol obsessed with Jungkook!</description>
+      <pubDate>Sun, 12 Apr 2026 07:16:56 GMT</pubDate>
+      <category>news</category>
+      <category>BTS</category>
+      <category>Jungkook</category>
+      <category>Fandom</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-jungkook-gains-new-fan.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-jungkook-gains-new-fan.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-jungkook-gains-new-fan.webp" />
+    </item>
     <item>
       <title>RIIZE Sparks Debate</title>
       <link>https://kpop.andxo.com/article/riize-sparks-debate/</link>
@@ -1606,55 +1655,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/stray-kids-in-breaks-silence.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/stray-kids-in-breaks-silence.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/stray-kids-in-breaks-silence.webp" />
-    </item>
-    <item>
-      <title>KATSEYE Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/katseye-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/katseye-shocks-fans/</guid>
-      <description>Cast your vote now!</description>
-      <pubDate>Sun, 05 Apr 2026 06:14:00 GMT</pubDate>
-      <category>news</category>
-      <category>KATSEYE</category>
-      <category>Poll</category>
-      <category>Stage Presence</category>
-      <category>K-Pop</category>
-      <category>Comeback</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>LGBTQ+ Group Sparks Debate</title>
-      <link>https://kpop.andxo.com/article/lgbtq-group-sparks-debate/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/lgbtq-group-sparks-debate/</guid>
-      <description>K-Pop&apos;s pioneering LGBTQ+ boy group vanishes</description>
-      <pubDate>Sun, 05 Apr 2026 04:48:17 GMT</pubDate>
-      <category>audition</category>
-      <category>Debut</category>
-      <category>LGBTQ+</category>
-      <category>K-Pop</category>
-      <category>Inclusivity</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lgbtq-group-sparks-debate.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lgbtq-group-sparks-debate.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lgbtq-group-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>BTS Fans Rejoice</title>
-      <link>https://kpop.andxo.com/article/bts-fans-rejoice/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-fans-rejoice/</guid>
-      <description>Create your dream K-Pop fest lineup!</description>
-      <pubDate>Sun, 05 Apr 2026 02:00:00 GMT</pubDate>
-      <category>fashion</category>
-      <category>BTS</category>
-      <category>K-Pop</category>
-      <category>Festival</category>
-      <category>Quiz</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fans-rejoice.webp" />
     </item>
   </channel>
 </rss>

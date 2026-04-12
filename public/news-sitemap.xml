@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/katseye-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T10:12:36.000Z</news:publication_date>
+      <news:title>KATSEYE Shocks Fans</news:title>
+      <news:keywords>KATSEYE, Manon, Poll, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/krystal-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T07:29:10.000Z</news:publication_date>
+      <news:title>Krystal Shocks Fans</news:title>
+      <news:keywords>K-Drama, Krystal, Ha Jung Woo, Mad Concrete Dreams, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkook-gains-new-fan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T07:16:56.000Z</news:publication_date>
+      <news:title>BTS Jungkook Gains New Fan</news:title>
+      <news:keywords>BTS, Jungkook, Fandom, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/riize-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -263,78 +299,6 @@
       <news:publication_date>2026-04-10T11:37:48.000Z</news:publication_date>
       <news:title>Kang Dong Won Shocks Fans</news:title>
       <news:keywords>Comeback, K-Drama, Kang Dong Won, Park Ji Hyun, Um Tae Goo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-wonyoung-stuns-with-meryl-streep/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T10:45:49.000Z</news:publication_date>
-      <news:title>IVE Wonyoung Stuns With Meryl Streep</news:title>
-      <news:keywords>IVE, Wonyoung, K-Pop, Hollywood, Devil Wears Prada 2</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T10:35:30.000Z</news:publication_date>
-      <news:title>BTS Shocks Fans</news:title>
-      <news:keywords>BTS, Bang Si Hyuk, K-Pop, Scheduling Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/tao-sparks-health-concerns/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T09:25:42.000Z</news:publication_date>
-      <news:title>Tao Sparks Health Concerns</news:title>
-      <news:keywords>EXO, Tao, Health Concerns, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exo-members-break-free/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T08:56:13.000Z</news:publication_date>
-      <news:title>EXO Members Break Free</news:title>
-      <news:keywords>EXO, Contract Termination, K-Pop Industry, Artist Rights</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exo-cbx-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T07:30:39.000Z</news:publication_date>
-      <news:title>EXO-CBX Shocks Fans</news:title>
-      <news:keywords>EXO, EXO-CBX, Contract Termination, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txt-breaks-hearts-in-new-babysitting-show/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T07:11:36.000Z</news:publication_date>
-      <news:title>TXT Breaks Hearts in New Babysitting Show</news:title>
-      <news:keywords>TXT, Babysitting Reality Show, K-Pop Variety, Wavve</news:keywords>
     </news:news>
   </url>
 </urlset>
