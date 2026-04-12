@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/rookie-idol-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T03:13:28.000Z</news:publication_date>
+      <news:title>Rookie Idol Sparks Debate</news:title>
+      <news:keywords>K-Pop, Dating Rumors, Mental Health, Idol Life, Scandals</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/siwon-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T02:37:00.000Z</news:publication_date>
+      <news:title>Siwon Sparks Debate</news:title>
+      <news:keywords>Super Junior, Siwon, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-rose-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T02:32:52.000Z</news:publication_date>
+      <news:title>The Rose Breaks Silence</news:title>
+      <news:keywords>Album, Tour, The Rose, Break, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/irene-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T23:04:04.000Z</news:publication_date>
+      <news:title>Irene Shocks Fans</news:title>
+      <news:keywords>Red Velvet, Irene, Comeback, Performance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/4th-gen-idol-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T21:24:34.000Z</news:publication_date>
+      <news:title>4th Gen Idol Sparks Debate</news:title>
+      <news:keywords>4th Gen, K-Pop, Solo Debut, Idol Criticism</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/stray-kids-bangchan-reveals/</loc>
     <news:news>
       <news:publication>
@@ -275,42 +335,6 @@
       <news:publication_date>2026-04-10T04:21:17.000Z</news:publication_date>
       <news:title>Stray Kids Reveals True Heights</news:title>
       <news:keywords>Stray Kids, K-Pop, Body Positivity</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T03:15:07.000Z</news:publication_date>
-      <news:title>NCT Mark Sparks Debate</news:title>
-      <news:keywords>NCT, Mark, K-Pop, Comeback, Departure</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-sparks-chemistry/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T01:24:31.000Z</news:publication_date>
-      <news:title>IU Sparks Chemistry</news:title>
-      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cabbage-your-life-sparks-hope/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T23:23:09.000Z</news:publication_date>
-      <news:title>Cabbage Your Life Sparks Hope</news:title>
-      <news:keywords>K-Drama, Ratings, Cabbage Your Life, KBS 2TV, Sung Tae</news:keywords>
     </news:news>
   </url>
 </urlset>
