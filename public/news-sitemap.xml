@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/newjeans-spotted-in-copenhagen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T14:36:19.000Z</news:publication_date>
+      <news:title>NewJeans Spotted In Copenhagen</news:title>
+      <news:keywords>NewJeans, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T11:19:46.000Z</news:publication_date>
+      <news:title>K-Pop Idol Sparks Debate</news:title>
+      <news:keywords>K-Pop, Comeback, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseye-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -263,42 +287,6 @@
       <news:publication_date>2026-04-10T16:58:02.000Z</news:publication_date>
       <news:title>NCT&apos;s Haechan Sparks Fury</news:title>
       <news:keywords>NCT, Haechan, Relationship Rumors, K-Pop Scandals, Sasaeng Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jungkook-breaks-record/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T13:19:10.000Z</news:publication_date>
-      <news:title>Jungkook Breaks Record</news:title>
-      <news:keywords>BTS, Debut, MV, Jungkook, Seven</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gi-dle-reveals-tour-dates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T11:49:31.000Z</news:publication_date>
-      <news:title>(G)I-DLE Reveals Tour Dates</news:title>
-      <news:keywords>(G)I-DLE, Concert, Tour, World Tour, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kang-dong-won-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T11:37:48.000Z</news:publication_date>
-      <news:title>Kang Dong Won Shocks Fans</news:title>
-      <news:keywords>Comeback, K-Drama, Kang Dong Won, Park Ji Hyun, Um Tae Goo</news:keywords>
     </news:news>
   </url>
 </urlset>
