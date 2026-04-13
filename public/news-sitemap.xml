@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-fanboy-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T02:54:16.000Z</news:publication_date>
+      <news:title>BTS Fanboy Makes History</news:title>
+      <news:keywords>BTS, K-Pop Fandom, Idol Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ji-ye-eun-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T02:02:56.000Z</news:publication_date>
+      <news:title>Ji Ye Eun Reveals</news:title>
+      <news:keywords>Ji Ye Eun, Vata, Dating, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heechul-reveals-babys-name/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T01:39:09.000Z</news:publication_date>
+      <news:title>Heechul Reveals Baby&apos;s Name</news:title>
+      <news:keywords>Super Junior, Kim Heechul, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T19:39:28.000Z</news:publication_date>
+      <news:title>BTS Makes History</news:title>
+      <news:keywords>BTS, Charts, Album, Billboard 200, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/taeyong-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T16:00:39.000Z</news:publication_date>
+      <news:title>Taeyong Makes History</news:title>
+      <news:keywords>NCT, Taeyong, Collaboration, Anderson .Paak, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/newjeans-spotted-in-copenhagen/</loc>
     <news:news>
       <news:publication>
@@ -227,66 +287,6 @@
       <news:publication_date>2026-04-11T04:30:38.000Z</news:publication_date>
       <news:title>BLACKPINK Lisa Sparks Debate</news:title>
       <news:keywords>BLACKPINK, Lisa, K-Pop, Celebrity News</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ius-drama-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-11T03:20:47.000Z</news:publication_date>
-      <news:title>IU&apos;s Drama Makes History</news:title>
-      <news:keywords>IU, K-Drama, Perfect Crown, MBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actor-wins-over-k-pop-idol-10-yrs-younger/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T22:22:16.000Z</news:publication_date>
-      <news:title>Actor Wins Over K-Pop Idol 10 Yrs Younger</news:title>
-      <news:keywords>K-Pop, Comeback, Relationships</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/byeon-woo-seok-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T21:55:56.000Z</news:publication_date>
-      <news:title>Byeon Woo Seok Reveals</news:title>
-      <news:keywords>K-Drama, Byeon Woo Seok, Personality</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-loses-to-12-year-idol/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T19:21:28.000Z</news:publication_date>
-      <news:title>BTS Loses to 12-Year Idol</news:title>
-      <news:keywords>BTS, BLACKPINK, Awards, Charts, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ncts-haechan-sparks-fury/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T16:58:02.000Z</news:publication_date>
-      <news:title>NCT&apos;s Haechan Sparks Fury</news:title>
-      <news:keywords>NCT, Haechan, Relationship Rumors, K-Pop Scandals, Sasaeng Culture</news:keywords>
     </news:news>
   </url>
 </urlset>
