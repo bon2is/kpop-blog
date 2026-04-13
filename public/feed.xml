@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 15:15:47 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,22 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Jungkook Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/jungkook-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/jungkook-sparks-debate/</guid>
+      <description>Jungkook calls out fans&apos; behavior</description>
+      <pubDate>Mon, 13 Apr 2026 14:26:29 GMT</pubDate>
+      <category>tour</category>
+      <category>Concert</category>
+      <category>Jungkook</category>
+      <category>BTS</category>
+      <category>Fan Behavior</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jungkook-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jungkook-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jungkook-sparks-debate.webp" />
+    </item>
     <item>
       <title>Jung Woo Reveals</title>
       <link>https://kpop.andxo.com/article/jung-woo-reveals/</link>
@@ -30,6 +46,22 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jung-woo-reveals.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jung-woo-reveals.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jung-woo-reveals.webp" />
+    </item>
+    <item>
+      <title>KATSEYE Breaks Silence</title>
+      <link>https://kpop.andxo.com/article/katseye-breaks-silence/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/katseye-breaks-silence/</guid>
+      <description>KATSEYE&apos;s emotional new clip revealed</description>
+      <pubDate>Mon, 13 Apr 2026 10:52:46 GMT</pubDate>
+      <category>comeback</category>
+      <category>KATSEYE</category>
+      <category>Manon</category>
+      <category>Comeback</category>
+      <category>Emotional Clip</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-breaks-silence.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-breaks-silence.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-breaks-silence.webp" />
     </item>
     <item>
       <title>Taemin Sparks Debate</title>
@@ -1040,23 +1072,6 @@
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp" />
     </item>
     <item>
-      <title>Jungkook Sparks Debate</title>
-      <link>https://kpop.andxo.com/article/jungkook-sparks-debate/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/jungkook-sparks-debate/</guid>
-      <description>BTS star under fire from fans!</description>
-      <pubDate>Wed, 08 Apr 2026 13:48:51 GMT</pubDate>
-      <category>celebrity</category>
-      <category>BTS</category>
-      <category>Jungkook</category>
-      <category>K-Pop</category>
-      <category>Fan Culture</category>
-      <category>Controversy</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jungkook-sparks-debate.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jungkook-sparks-debate.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jungkook-sparks-debate.webp" />
-    </item>
-    <item>
       <title>Mingyu Sparks Concern</title>
       <link>https://kpop.andxo.com/article/mingyu-sparks-concern/</link>
       <guid isPermaLink="true">https://kpop.andxo.com/article/mingyu-sparks-concern/</guid>
@@ -1631,23 +1646,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ju-ji-hoon-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>Ha Jung Woo Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/ha-jung-woo-shocks-fans/</guid>
-      <description>Ha Jung Woo&apos;s darkest role yet!</description>
-      <pubDate>Mon, 06 Apr 2026 07:14:17 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Drama</category>
-      <category>Ha Jung Woo</category>
-      <category>Im Soo Jung</category>
-      <category>Mad Concrete Dreams</category>
-      <category>Thriller</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ha-jung-woo-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ha-jung-woo-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ha-jung-woo-shocks-fans.webp" />
     </item>
   </channel>
 </rss>

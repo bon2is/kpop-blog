@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jungkook-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T14:26:29.000Z</news:publication_date>
+      <news:title>Jungkook Sparks Debate</news:title>
+      <news:keywords>Concert, Jungkook, BTS, Fan Behavior</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jung-woo-reveals/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-04-13T10:56:22.000Z</news:publication_date>
       <news:title>Jung Woo Reveals</news:title>
       <news:keywords>K-Drama, Jung Woo, Audition 109, Film</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T10:52:46.000Z</news:publication_date>
+      <news:title>KATSEYE Breaks Silence</news:title>
+      <news:keywords>KATSEYE, Manon, Comeback, Emotional Clip</news:keywords>
     </news:news>
   </url>
   <url>
@@ -311,30 +335,6 @@
       <news:publication_date>2026-04-11T21:24:34.000Z</news:publication_date>
       <news:title>4th Gen Idol Sparks Debate</news:title>
       <news:keywords>4th Gen, K-Pop, Solo Debut, Idol Criticism</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-bangchan-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-11T14:20:45.000Z</news:publication_date>
-      <news:title>Stray Kids&apos; Bangchan Reveals</news:title>
-      <news:keywords>Stray Kids, Bangchan, K-Pop Industry, Trainee Life, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseyes-manon-shines-at-coachella/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-11T12:45:37.000Z</news:publication_date>
-      <news:title>KATSEYE&apos;s Manon Shines at Coachella</news:title>
-      <news:keywords>Debut, KATSEYE, Manon, Coachella, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
