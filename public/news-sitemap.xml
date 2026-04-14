@@ -14,6 +14,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/aespas-giselle-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T11:18:57.000Z</news:publication_date>
+      <news:title>aespa&apos;s Giselle Sparks Debate</news:title>
+      <news:keywords>aespa, K-Pop, Dance</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/wanna-one-reveals/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +35,18 @@
       <news:publication_date>2026-04-14T10:44:24.000Z</news:publication_date>
       <news:title>Wanna One Reveals</news:title>
       <news:keywords>Wanna One, Reunion, Variety Show, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kwon-eunbi-stuns/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T09:51:35.000Z</news:publication_date>
+      <news:title>Kwon Eunbi Stuns</news:title>
+      <news:keywords>Kwon Eunbi, Fitness, Workout, Comeback</news:keywords>
     </news:news>
   </url>
   <url>
@@ -59,6 +83,18 @@
       <news:publication_date>2026-04-14T07:26:04.000Z</news:publication_date>
       <news:title>Zuu Leaves SECRET NUMBER</news:title>
       <news:keywords>SECRET NUMBER, Zuu, K-Pop, Comeback, Group Changes</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-revives-spring/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T06:49:04.000Z</news:publication_date>
+      <news:title>K-Pop Revives Spring</news:title>
+      <news:keywords>BTS, NCT, IVE, ATEEZ, ILLIT</news:keywords>
     </news:news>
   </url>
   <url>
@@ -335,30 +371,6 @@
       <news:publication_date>2026-04-12T16:00:39.000Z</news:publication_date>
       <news:title>Taeyong Makes History</news:title>
       <news:keywords>NCT, Taeyong, Collaboration, Anderson .Paak, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T14:38:36.000Z</news:publication_date>
-      <news:title>BTS Makes History</news:title>
-      <news:keywords>BTS, Red Velvet, IVE, Comeback, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-spotted-in-copenhagen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T14:36:19.000Z</news:publication_date>
-      <news:title>NewJeans Spotted In Copenhagen</news:title>
-      <news:keywords>NewJeans, Comeback, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
