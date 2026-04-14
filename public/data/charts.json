@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T06:27:44.644Z",
+  "updatedAt": "2026-04-14T11:46:57.345Z",
   "unified": [
     {
       "rank": 1,
@@ -421,17 +421,6 @@
     },
     {
       "rank": 36,
-      "title": "GAME OVER ?",
-      "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20GAME%20OVER%20%3F%20MV%20official",
-      "score": 42.4,
-      "chartRanks": {
-        "spotify": 31,
-        "youtube": 34
-      }
-    },
-    {
-      "rank": 37,
       "title": "DESPERADO",
       "artist": "T.O.P",
       "youtubeUrl": "https://www.youtube.com/results?search_query=T.O.P%20DESPERADO%20MV%20official",
@@ -441,7 +430,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "그대 작은 나의 세상이 되어",
       "artist": "카더가든",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260209_34AF0A9BF8DA530A8E4D43849EF399A3.jpg",
@@ -452,7 +441,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "Like Animals",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Like%20Animals%20MV%20official",
@@ -462,7 +451,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "Seven",
       "artist": "Jung Kook",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official",
@@ -472,7 +461,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "타임캡슐",
       "artist": "다비치",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251019_CA292B27E21430AA736AD38A60D84E59.jpg",
@@ -483,7 +472,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Golden",
       "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20250625_ECFE2571549F5CD2C9211F7155E24CBD.jpg",
@@ -495,7 +484,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "Let Me Love My Youth",
       "artist": "HANRORO",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official",
@@ -505,7 +494,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "AE",
       "artist": "Park Hyo Shin",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Park%20Hyo%20Shin%20AE%20MV%20official",
@@ -515,7 +504,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "they don’t know ’bout us",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20they%20don%E2%80%99t%20know%20%E2%80%99bout%20us%20MV%20official",
@@ -525,7 +514,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "AIZO",
       "artist": "King Gnu",
       "youtubeUrl": "https://www.youtube.com/results?search_query=King%20Gnu%20AIZO%20MV%20official",
@@ -535,7 +524,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "청춘만화",
       "artist": "이무진",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20241011_1F9B83EBBC196A51BBA3C8961F7F9593.jpg",
@@ -547,7 +536,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "Catch Catch",
       "artist": "YENA",
       "youtubeUrl": "https://www.youtube.com/results?search_query=YENA%20Catch%20Catch%20MV%20official",
@@ -557,7 +546,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "Merry Go Round",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Merry%20Go%20Round%20MV%20official",
@@ -567,13 +556,24 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "Into the Sun",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Into%20the%20Sun%20MV%20official",
       "score": 30.800000000000004,
       "chartRanks": {
         "spotify": 23
+      }
+    },
+    {
+      "rank": 50,
+      "title": "1111",
+      "artist": "HANRORO",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%201111%20MV%20official",
+      "score": 29.9,
+      "chartRanks": {
+        "spotify": 38,
+        "youtube": 38
       }
     }
   ],
@@ -1432,9 +1432,9 @@
     },
     {
       "rank": 34,
-      "title": "GAME OVER ?",
+      "title": "게임 오버 ?",
       "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20GAME%20OVER%20%3F%20MV%20official"
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20%EA%B2%8C%EC%9E%84%20%EC%98%A4%EB%B2%84%20%3F%20MV%20official"
     },
     {
       "rank": 35,
