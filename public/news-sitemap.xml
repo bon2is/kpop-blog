@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkook-misses-opportunity/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T06:19:31.000Z</news:publication_date>
+      <news:title>BTS Jungkook Misses Opportunity</news:title>
+      <news:keywords>BTS, Jungkook, HYBE, K-Pop Management</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-j-hope-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T05:45:47.000Z</news:publication_date>
+      <news:title>BTS J-Hope Sparks Debate</news:title>
+      <news:keywords>BTS, J-Hope, Fan Cam, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-ditches-makeup-step/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T04:15:34.000Z</news:publication_date>
+      <news:title>aespa Ditches Makeup Step</news:title>
+      <news:keywords>aespa, AI Concept, K-Pop Beauty</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nmixx-reveals-comeback/</loc>
     <news:news>
       <news:publication>
@@ -311,18 +347,6 @@
       <news:publication_date>2026-04-12T07:16:56.000Z</news:publication_date>
       <news:title>BTS Jungkook Gains New Fan</news:title>
       <news:keywords>BTS, Jungkook, Fandom, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/riize-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T06:15:03.000Z</news:publication_date>
-      <news:title>RIIZE Sparks Debate</news:title>
-      <news:keywords>RIIZE, Backlash, K-Pop, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
