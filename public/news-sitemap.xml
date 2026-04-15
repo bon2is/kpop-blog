@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ju-ji-hoon-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T03:31:08.000Z</news:publication_date>
+      <news:title>Ju Ji Hoon Breaks Silence</news:title>
+      <news:keywords>K-Drama, Ju Ji Hoon, Racism, Inclusivity, Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-giselle-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T23:13:14.000Z</news:publication_date>
+      <news:title>aespa Giselle Shocks Fans</news:title>
+      <news:keywords>aespa, Giselle, K-Pop, Visual Transformation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/txt-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T21:14:34.000Z</news:publication_date>
+      <news:title>TXT Shocks Fans</news:title>
+      <news:keywords>TXT, Comeback, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-shocks-amas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T19:14:34.000Z</news:publication_date>
+      <news:title>K-Pop Shocks AMAs</news:title>
+      <news:keywords>BTS, BLACKPINK, ENHYPEN, ATEEZ, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-reveals-choreo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T16:01:15.000Z</news:publication_date>
+      <news:title>BTS Reveals Choreo</news:title>
+      <news:keywords>BTS, Album, Dance Practice, ARIRANG</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/5th-gen-idol-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -311,66 +371,6 @@
       <news:publication_date>2026-04-13T04:25:49.000Z</news:publication_date>
       <news:title>IVE Reveals Fandom Name</news:title>
       <news:keywords>IVE, Fandom Name, K-Pop, Girl Group</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-fanboy-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T02:54:16.000Z</news:publication_date>
-      <news:title>BTS Fanboy Makes History</news:title>
-      <news:keywords>BTS, K-Pop Fandom, Idol Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ji-ye-eun-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T02:02:56.000Z</news:publication_date>
-      <news:title>Ji Ye Eun Reveals</news:title>
-      <news:keywords>Ji Ye Eun, Vata, Dating, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heechul-reveals-babys-name/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T01:39:09.000Z</news:publication_date>
-      <news:title>Heechul Reveals Baby&apos;s Name</news:title>
-      <news:keywords>Super Junior, Kim Heechul, Comeback, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kickflip-breaks-record/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T17:47:23.000Z</news:publication_date>
-      <news:title>KickFlip Breaks Record</news:title>
-      <news:keywords>Comeback, Charts, Album, KickFlip, JYP Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/taeyong-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T16:00:39.000Z</news:publication_date>
-      <news:title>Taeyong Makes History</news:title>
-      <news:keywords>NCT, Taeyong, Collaboration, Anderson .Paak, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
