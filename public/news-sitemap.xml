@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/katseye-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T10:29:08.000Z</news:publication_date>
+      <news:title>KATSEYE Breaks Silence</news:title>
+      <news:keywords>KATSEYE, Hiatus, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/uhm-hyun-kyung-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T10:19:06.000Z</news:publication_date>
+      <news:title>Uhm Hyun Kyung Shocks Fans</news:title>
+      <news:keywords>K-Drama, Uhm Hyun Kyung, Our Happy Days, Yoon Da Young</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/song-geon-hee-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T09:17:21.000Z</news:publication_date>
+      <news:title>Song Geon Hee Shocks Fans</news:title>
+      <news:keywords>K-Drama, The Scarecrow, Song Geon Hee, Seo Ji Hye, Jung Moon Sung</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/shin-ha-kyun-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T08:25:57.000Z</news:publication_date>
+      <news:title>Shin Ha Kyun Makes History</news:title>
+      <news:keywords>K-Drama, Shin Ha Kyun, MBC, Fifties Professionals, Action-Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-breaks-record/</loc>
     <news:news>
       <news:publication>
@@ -287,78 +335,6 @@
       <news:publication_date>2026-04-13T14:26:29.000Z</news:publication_date>
       <news:title>Jungkook Sparks Debate</news:title>
       <news:keywords>Concert, Jungkook, BTS, Fan Behavior</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jung-woo-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T10:56:22.000Z</news:publication_date>
-      <news:title>Jung Woo Reveals</news:title>
-      <news:keywords>K-Drama, Jung Woo, Audition 109, Film</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T10:52:46.000Z</news:publication_date>
-      <news:title>KATSEYE Breaks Silence</news:title>
-      <news:keywords>KATSEYE, Manon, Comeback, Emotional Clip</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/taemin-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T09:18:35.000Z</news:publication_date>
-      <news:title>Taemin Sparks Debate</news:title>
-      <news:keywords>SHINee, Taemin, Justin Bieber, Backlash, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbang-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T08:49:38.000Z</news:publication_date>
-      <news:title>BIGBANG Shocks Fans</news:title>
-      <news:keywords>BIGBANG, Coachella, K-Pop, Comeback, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T07:55:39.000Z</news:publication_date>
-      <news:title>BTS Shocks Fans</news:title>
-      <news:keywords>BTS, K-Pop, Viral Clip</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/shin-ha-kyun-sparks-laughs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T06:36:19.000Z</news:publication_date>
-      <news:title>Shin Ha Kyun Sparks Laughs</news:title>
-      <news:keywords>K-Drama, Shin Ha Kyun, Action Comedy</news:keywords>
     </news:news>
   </url>
 </urlset>
