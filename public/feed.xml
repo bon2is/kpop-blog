@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 11:44:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 15:05:35 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Jennie Makes History</title>
+      <link>https://kpop.andxo.com/article/jennie-makes-history/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/jennie-makes-history/</guid>
+      <description>Jennie named most influential!</description>
+      <pubDate>Wed, 15 Apr 2026 14:45:55 GMT</pubDate>
+      <category>fashion</category>
+      <category>BLACKPINK</category>
+      <category>Jennie</category>
+      <category>TIME100</category>
+      <category>K-Pop</category>
+      <category>Influential People</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-makes-history.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-makes-history.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-makes-history.webp" />
+    </item>
     <item>
       <title>KATSEYE Breaks Silence</title>
       <link>https://kpop.andxo.com/article/katseye-breaks-silence/</link>
@@ -1622,23 +1639,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-shocks-fans.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-shocks-fans.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>Gyuvin Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/gyuvin-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/gyuvin-shocks-fans/</guid>
-      <description>Gyuvin breaks rules for fans!</description>
-      <pubDate>Wed, 08 Apr 2026 03:52:57 GMT</pubDate>
-      <category>news</category>
-      <category>ZEROBASEONE</category>
-      <category>Gyuvin</category>
-      <category>K-Pop</category>
-      <category>Fans</category>
-      <category>Idol</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/gyuvin-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/gyuvin-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/gyuvin-shocks-fans.webp" />
     </item>
   </channel>
 </rss>

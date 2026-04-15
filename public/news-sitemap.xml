@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jennie-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T14:45:55.000Z</news:publication_date>
+      <news:title>Jennie Makes History</news:title>
+      <news:keywords>BLACKPINK, Jennie, TIME100, K-Pop, Influential People</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseye-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -323,18 +335,6 @@
       <news:publication_date>2026-04-13T18:28:07.000Z</news:publication_date>
       <news:title>BTS RM Reveals</news:title>
       <news:keywords>BTS, RM, Relationship</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jungkook-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T14:26:29.000Z</news:publication_date>
-      <news:title>Jungkook Sparks Debate</news:title>
-      <news:keywords>Concert, Jungkook, BTS, Fan Behavior</news:keywords>
     </news:news>
   </url>
 </urlset>
