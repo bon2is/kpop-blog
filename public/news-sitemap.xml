@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-breaks-record/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T05:11:21.000Z</news:publication_date>
+      <news:title>BTS Breaks Record</news:title>
+      <news:keywords>BTS, MV, K-Pop, YouTube Records, Music Video</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ju-ji-hoon-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-04-15T03:31:08.000Z</news:publication_date>
       <news:title>Ju Ji Hoon Breaks Silence</news:title>
       <news:keywords>K-Drama, Ju Ji Hoon, Racism, Inclusivity, Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-choreographer-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T00:10:22.000Z</news:publication_date>
+      <news:title>K-Pop Choreographer Sparks Debate</news:title>
+      <news:keywords>K-Pop, Choreographer, Dating Scandal, Korean Entertainment</news:keywords>
     </news:news>
   </url>
   <url>
@@ -335,42 +359,6 @@
       <news:publication_date>2026-04-13T06:36:19.000Z</news:publication_date>
       <news:title>Shin Ha Kyun Sparks Laughs</news:title>
       <news:keywords>K-Drama, Shin Ha Kyun, Action Comedy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-star-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T05:36:34.000Z</news:publication_date>
-      <news:title>K-Pop Star Sparks Debate</news:title>
-      <news:keywords>K-Pop, Backlash, Sustainability, Celebrities, Scandal</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-star-welcomes-baby/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T05:23:56.000Z</news:publication_date>
-      <news:title>K-Star Welcomes Baby</news:title>
-      <news:keywords>K-Drama, K-Star, Baby, Motherhood, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-reveals-fandom-name/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T04:25:49.000Z</news:publication_date>
-      <news:title>IVE Reveals Fandom Name</news:title>
-      <news:keywords>IVE, Fandom Name, K-Pop, Girl Group</news:keywords>
     </news:news>
   </url>
 </urlset>
