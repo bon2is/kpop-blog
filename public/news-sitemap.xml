@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/snsd-trainee-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T06:00:32.000Z</news:publication_date>
+      <news:title>SNSD Trainee Reveals</news:title>
+      <news:keywords>Girls Generation, SNSD, Debut, Girls&apos; Generation, Trainee</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-giants-unite/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T05:06:55.000Z</news:publication_date>
+      <news:title>K-Pop Giants Unite</news:title>
+      <news:keywords>HYBE, SM, JYP, YG, Collaboration</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
     <news:news>
       <news:publication>
         <news:name>KPOP Daily</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-15T22:50:49.000Z</news:publication_date>
+      <news:publication_date>2026-04-16T04:40:10.000Z</news:publication_date>
       <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, Relationship, K-Pop Idols</news:keywords>
+      <news:keywords>IVE, K-Pop, Body Image</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,42 +311,6 @@
       <news:publication_date>2026-04-14T06:49:04.000Z</news:publication_date>
       <news:title>K-Pop Revives Spring</news:title>
       <news:keywords>BTS, NCT, IVE, ATEEZ, ILLIT</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkook-misses-opportunity/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T06:19:31.000Z</news:publication_date>
-      <news:title>BTS Jungkook Misses Opportunity</news:title>
-      <news:keywords>BTS, Jungkook, HYBE, K-Pop Management</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-j-hope-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T05:45:47.000Z</news:publication_date>
-      <news:title>BTS J-Hope Sparks Debate</news:title>
-      <news:keywords>BTS, J-Hope, Fan Cam, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-ditches-makeup-step/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T04:15:34.000Z</news:publication_date>
-      <news:title>aespa Ditches Makeup Step</news:title>
-      <news:keywords>aespa, AI Concept, K-Pop Beauty</news:keywords>
     </news:news>
   </url>
 </urlset>
