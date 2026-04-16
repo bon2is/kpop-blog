@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T22:50:49.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, Relationship, K-Pop Idols</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/cortis-breaks-record/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T18:29:19.000Z</news:publication_date>
+      <news:title>CORTIS Breaks Record</news:title>
+      <news:keywords>ZEROBASEONE, Comeback, CORTIS, BIGHIT MUSIC, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/apink-reveals-anniversary-single/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T16:10:11.000Z</news:publication_date>
+      <news:title>Apink Reveals Anniversary Single</news:title>
+      <news:keywords>Debut, Apink, Comeback, Anniversary, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-drops-stunning-new-photos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T16:01:47.000Z</news:publication_date>
+      <news:title>ENHYPEN Drops Stunning New Photos</news:title>
+      <news:keywords>ENHYPEN, Tour, Profile Photos, World Tour, BLOOD SAGA</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jennie-makes-history/</loc>
     <news:news>
       <news:publication>
@@ -275,66 +323,6 @@
       <news:publication_date>2026-04-14T04:15:34.000Z</news:publication_date>
       <news:title>aespa Ditches Makeup Step</news:title>
       <news:keywords>aespa, AI Concept, K-Pop Beauty</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nmixx-reveals-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T03:07:45.000Z</news:publication_date>
-      <news:title>NMIXX Reveals Comeback</news:title>
-      <news:keywords>NMIXX, Comeback, Album, MV, EP</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T02:24:32.000Z</news:publication_date>
-      <news:title>NewJeans Sparks Debate</news:title>
-      <news:keywords>NewJeans, ADOR, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-v-hiring-now/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T19:54:27.000Z</news:publication_date>
-      <news:title>BTS V Hiring Now</news:title>
-      <news:keywords>BTS, V, Hiring, Solo Project</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-speaks-out/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T19:01:40.000Z</news:publication_date>
-      <news:title>K-Pop Idol Speaks Out</news:title>
-      <news:keywords>K-Pop, Idol, Industry Norms, 3rd Generation, Authenticity</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-rm-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T18:28:07.000Z</news:publication_date>
-      <news:title>BTS RM Reveals</news:title>
-      <news:keywords>BTS, RM, Relationship</news:keywords>
     </news:news>
   </url>
 </urlset>
