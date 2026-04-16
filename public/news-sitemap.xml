@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-rm-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T15:02:47.000Z</news:publication_date>
+      <news:title>BTS RM Breaks Silence</news:title>
+      <news:keywords>BTS, Concert, Tour, RM, Injury</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jay-park-claps-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T13:47:04.000Z</news:publication_date>
+      <news:title>Jay Park Claps Back</news:title>
+      <news:keywords>Jay Park, 5th Gen Idols, K-Pop, Idol Etiquette, Fan Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kiss-of-life-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T12:21:59.000Z</news:publication_date>
+      <news:title>KISS OF LIFE Shocks Fans</news:title>
+      <news:keywords>TXT, KISS OF LIFE, M Countdown, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-member-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T11:48:18.000Z</news:publication_date>
+      <news:title>BTS Member Reveals</news:title>
+      <news:keywords>BTS, K-Pop, Pregnancy Announcement</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-hae-soo-investigates/</loc>
     <news:news>
       <news:publication>
