@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-investigates/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T09:24:10.000Z</news:publication_date>
+      <news:title>Park Hae Soo Investigates</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, The Scarecrow, Crime Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jin-reveals-acting-plans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T07:12:11.000Z</news:publication_date>
+      <news:title>BTS Jin Reveals Acting Plans</news:title>
+      <news:keywords>BTS, Jin, Acting, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/snsd-trainee-reveals/</loc>
     <news:news>
       <news:publication>
@@ -215,102 +239,6 @@
       <news:publication_date>2026-04-14T16:01:15.000Z</news:publication_date>
       <news:title>BTS Reveals Choreo</news:title>
       <news:keywords>BTS, Album, Dance Practice, ARIRANG</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5th-gen-idol-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T11:37:06.000Z</news:publication_date>
-      <news:title>5th Gen Idol Shocks Fans</news:title>
-      <news:keywords>5th Gen, K-Pop, Livestream, Safety</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-giselle-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T11:18:57.000Z</news:publication_date>
-      <news:title>aespa&apos;s Giselle Sparks Debate</news:title>
-      <news:keywords>aespa, K-Pop, Dance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/wanna-one-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T10:44:24.000Z</news:publication_date>
-      <news:title>Wanna One Reveals</news:title>
-      <news:keywords>Wanna One, Reunion, Variety Show, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kwon-eunbi-stuns/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T09:51:35.000Z</news:publication_date>
-      <news:title>Kwon Eunbi Stuns</news:title>
-      <news:keywords>Kwon Eunbi, Fitness, Workout, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yeri-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T09:19:20.000Z</news:publication_date>
-      <news:title>Yeri Breaks Silence</news:title>
-      <news:keywords>Red Velvet, K-Drama, Yeri, Azure Spring</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exos-suho-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T08:55:49.000Z</news:publication_date>
-      <news:title>EXO&apos;s Suho Sparks Debate</news:title>
-      <news:keywords>EXO, Suho, K-Pop Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/zuu-leaves-secret-number/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T07:26:04.000Z</news:publication_date>
-      <news:title>Zuu Leaves SECRET NUMBER</news:title>
-      <news:keywords>SECRET NUMBER, Zuu, K-Pop, Comeback, Group Changes</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-revives-spring/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T06:49:04.000Z</news:publication_date>
-      <news:title>K-Pop Revives Spring</news:title>
-      <news:keywords>BTS, NCT, IVE, ATEEZ, ILLIT</news:keywords>
     </news:news>
   </url>
 </urlset>
