@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/babymonster-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T01:42:49.000Z</news:publication_date>
+      <news:title>BABYMONSTER Shocks Fans</news:title>
+      <news:keywords>BABYMONSTER, MV, SHEESH, YouTube, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kwak-dong-yeon-joins-park-bo-gum/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T00:56:14.000Z</news:publication_date>
+      <news:title>Kwak Dong Yeon Joins Park Bo Gum</news:title>
+      <news:keywords>BIGBANG, Kwak Dong Yeon, Park Bo Gum, THEBLACKLABEL, Agency Signing</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T18:02:05.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, K-Pop, Luxury Brands</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-rm-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -95,18 +131,6 @@
       <news:publication_date>2026-04-16T05:06:55.000Z</news:publication_date>
       <news:title>K-Pop Giants Unite</news:title>
       <news:keywords>HYBE, SM, JYP, YG, Collaboration</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T04:40:10.000Z</news:publication_date>
-      <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, K-Pop, Body Image</news:keywords>
     </news:news>
   </url>
   <url>
@@ -215,78 +239,6 @@
       <news:publication_date>2026-04-15T05:11:21.000Z</news:publication_date>
       <news:title>BTS Breaks Record</news:title>
       <news:keywords>BTS, MV, K-Pop, YouTube Records, Music Video</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ju-ji-hoon-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T03:31:08.000Z</news:publication_date>
-      <news:title>Ju Ji Hoon Breaks Silence</news:title>
-      <news:keywords>K-Drama, Ju Ji Hoon, Racism, Inclusivity, Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-choreographer-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T00:10:22.000Z</news:publication_date>
-      <news:title>K-Pop Choreographer Sparks Debate</news:title>
-      <news:keywords>K-Pop, Choreographer, Dating Scandal, Korean Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-giselle-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T23:13:14.000Z</news:publication_date>
-      <news:title>aespa Giselle Shocks Fans</news:title>
-      <news:keywords>aespa, Giselle, K-Pop, Visual Transformation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txt-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T21:14:34.000Z</news:publication_date>
-      <news:title>TXT Shocks Fans</news:title>
-      <news:keywords>TXT, Comeback, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-shocks-amas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T19:14:34.000Z</news:publication_date>
-      <news:title>K-Pop Shocks AMAs</news:title>
-      <news:keywords>BTS, BLACKPINK, ENHYPEN, ATEEZ, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-reveals-choreo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T16:01:15.000Z</news:publication_date>
-      <news:title>BTS Reveals Choreo</news:title>
-      <news:keywords>BTS, Album, Dance Practice, ARIRANG</news:keywords>
     </news:news>
   </url>
 </urlset>
