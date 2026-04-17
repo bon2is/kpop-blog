@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-j-hope-loses-beloved-grandmother/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T12:26:02.000Z</news:publication_date>
+      <news:title>BTS J-Hope Loses Beloved Grandmother</news:title>
+      <news:keywords>BTS, J-Hope, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/wendy-reveals-new-role/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T12:00:57.000Z</news:publication_date>
+      <news:title>Wendy Reveals New Role</news:title>
+      <news:keywords>Red Velvet, Wendy, The Scout, Audition Show, Kim Jae Joong</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/dara-stuns-at-43/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +59,18 @@
       <news:publication_date>2026-04-17T09:55:58.000Z</news:publication_date>
       <news:title>NewJeans Collab Shelved</news:title>
       <news:keywords>NewJeans, Collaboration, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-wonyoung-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T08:08:06.000Z</news:publication_date>
+      <news:title>IVE&apos;s Wonyoung Shocks Fans</news:title>
+      <news:keywords>IVE, Wonyoung, K-Fashion, Fourth-Gen Idols</news:keywords>
     </news:news>
   </url>
   <url>
