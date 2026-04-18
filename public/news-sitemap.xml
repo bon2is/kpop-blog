@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespa-winter-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T10:44:52.000Z</news:publication_date>
+      <news:title>aespa Winter Sparks Debate</news:title>
+      <news:keywords>aespa, Winter, Plastic Surgery, K-Pop, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T07:34:56.000Z</news:publication_date>
+      <news:title>IVE Shocks Fans</news:title>
+      <news:keywords>IVE, K-Pop, 5th Gen Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-suga-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T06:57:04.000Z</news:publication_date>
+      <news:title>BTS Suga Breaks Silence</news:title>
+      <news:keywords>BTS, Suga, Interview</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-jihan-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T06:18:13.000Z</news:publication_date>
+      <news:title>IVE&apos;s Jihan Sparks Debate</news:title>
+      <news:keywords>IVE, Jihan, K-Pop, Beauty Standards, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/iu-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -287,30 +335,6 @@
       <news:publication_date>2026-04-16T11:48:18.000Z</news:publication_date>
       <news:title>BTS Member Reveals</news:title>
       <news:keywords>BTS, K-Pop, Pregnancy Announcement</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-hae-soo-investigates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T09:24:10.000Z</news:publication_date>
-      <news:title>Park Hae Soo Investigates</news:title>
-      <news:keywords>K-Drama, Park Hae Soo, The Scarecrow, Crime Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jin-reveals-acting-plans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T07:12:11.000Z</news:publication_date>
-      <news:title>BTS Jin Reveals Acting Plans</news:title>
-      <news:keywords>BTS, Jin, Acting, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>

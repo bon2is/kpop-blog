@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T06:08:50.617Z",
+  "updatedAt": "2026-04-18T11:25:27.477Z",
   "unified": [
     {
       "rank": 1,
@@ -94,13 +94,12 @@
     },
     {
       "rank": 8,
-      "title": "소문의 낙원",
+      "title": "Paradise of Rumors",
       "artist": "AKMU",
-      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260410_3D0E63A6670F58695E5C23A54D1D7F7B.jpg",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EC%86%8C%EB%AC%B8%EC%9D%98%20%EB%82%99%EC%9B%90%20MV%20official",
-      "score": 105,
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official",
+      "score": 108.4,
       "chartRanks": {
-        "circle": 6,
+        "spotify": 7,
         "youtube": 1
       }
     },
@@ -368,16 +367,6 @@
     },
     {
       "rank": 31,
-      "title": "Paradise of Rumors",
-      "artist": "AKMU",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official",
-      "score": 48.400000000000006,
-      "chartRanks": {
-        "spotify": 7
-      }
-    },
-    {
-      "rank": 32,
       "title": "FOCUS",
       "artist": "Hearts2Hearts",
       "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20251023_8B360FC5A25EC39586ED7B321C1A6902.jpg",
@@ -389,13 +378,24 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "Joy, Sorrow, A Beautiful Heart",
       "artist": "AKMU",
       "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Joy%2C%20Sorrow%2C%20A%20Beautiful%20Heart%20MV%20official",
       "score": 47.300000000000004,
       "chartRanks": {
         "spotify": 8
+      }
+    },
+    {
+      "rank": 33,
+      "title": "소문의 낙원",
+      "artist": "AKMU",
+      "thumbnail": "https://circlechart.kr/uploadDir/albumImg/thumb/20260410_3D0E63A6670F58695E5C23A54D1D7F7B.jpg",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EC%86%8C%EB%AC%B8%EC%9D%98%20%EB%82%99%EC%9B%90%20MV%20official",
+      "score": 45,
+      "chartRanks": {
+        "circle": 6
       }
     },
     {
@@ -1237,9 +1237,9 @@
   "youtube": [
     {
       "rank": 1,
-      "title": "소문의 낙원",
+      "title": "Paradise of Rumors",
       "artist": "AKMU",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EC%86%8C%EB%AC%B8%EC%9D%98%20%EB%82%99%EC%9B%90%20MV%20official"
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official"
     },
     {
       "rank": 2,
@@ -1471,9 +1471,9 @@
     },
     {
       "rank": 40,
-      "title": "TICK TOCK (Prod. by ZICO, Crush)",
+      "title": "TICK TOCK (feat. ZICO)",
       "artist": "HAON",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HAON%20TICK%20TOCK%20(Prod.%20by%20ZICO%2C%20Crush)%20MV%20official"
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HAON%20TICK%20TOCK%20(feat.%20ZICO)%20MV%20official"
     },
     {
       "rank": 41,
