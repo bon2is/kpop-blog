@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-queens-shine/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T18:51:49.000Z</news:publication_date>
+      <news:title>K-Pop Queens Shine</news:title>
+      <news:keywords>K-Pop, Female Idols, Fitness, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-v-shuts-down-shipper/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T18:50:32.000Z</news:publication_date>
+      <news:title>BTS&apos;s V Shuts Down Shipper</news:title>
+      <news:keywords>BTS, V, Jungkook, Shipping, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/actress-vanishes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T18:41:26.000Z</news:publication_date>
+      <news:title>Actress Vanishes</news:title>
+      <news:keywords>K-Drama, Korean Actress, Celebrity Marriage, Childbirth, Privacy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T18:37:32.000Z</news:publication_date>
+      <news:title>K-Pop Idol Shocks Fans</news:title>
+      <news:keywords>Debut, K-Pop, BIG 3, Comeback, Debt</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/got7s-jackson-wang-claps-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T15:54:41.000Z</news:publication_date>
+      <news:title>GOT7&apos;s Jackson Wang Claps Back</news:title>
+      <news:keywords>GOT7, Jackson Wang, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-j-hope-loses-beloved-grandmother/</loc>
     <news:news>
       <news:publication>
@@ -251,42 +311,6 @@
       <news:publication_date>2026-04-16T05:06:55.000Z</news:publication_date>
       <news:title>K-Pop Giants Unite</news:title>
       <news:keywords>HYBE, SM, JYP, YG, Collaboration</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cortis-breaks-record/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T18:29:19.000Z</news:publication_date>
-      <news:title>CORTIS Breaks Record</news:title>
-      <news:keywords>ZEROBASEONE, Comeback, CORTIS, BIGHIT MUSIC, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/apink-reveals-anniversary-single/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T16:10:11.000Z</news:publication_date>
-      <news:title>Apink Reveals Anniversary Single</news:title>
-      <news:keywords>Debut, Apink, Comeback, Anniversary, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-drops-stunning-new-photos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T16:01:47.000Z</news:publication_date>
-      <news:title>ENHYPEN Drops Stunning New Photos</news:title>
-      <news:keywords>ENHYPEN, Tour, Profile Photos, World Tour, BLOOD SAGA</news:keywords>
     </news:news>
   </url>
 </urlset>
