@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/iu-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T05:47:42.000Z</news:publication_date>
+      <news:title>IU Shocks Fans</news:title>
+      <news:keywords>IU, Byeon Woo Seok, K-Drama, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-reveals-shocking-exclusion/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T05:16:42.000Z</news:publication_date>
+      <news:title>KATSEYE Reveals Shocking Exclusion</news:title>
+      <news:keywords>Comeback, KATSEYE, Controversy, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/k-pop-queens-shine/</loc>
     <news:news>
       <news:publication>
@@ -287,30 +311,6 @@
       <news:publication_date>2026-04-16T07:12:11.000Z</news:publication_date>
       <news:title>BTS Jin Reveals Acting Plans</news:title>
       <news:keywords>BTS, Jin, Acting, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/snsd-trainee-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T06:00:32.000Z</news:publication_date>
-      <news:title>SNSD Trainee Reveals</news:title>
-      <news:keywords>Girls Generation, SNSD, Debut, Girls&apos; Generation, Trainee</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-giants-unite/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T05:06:55.000Z</news:publication_date>
-      <news:title>K-Pop Giants Unite</news:title>
-      <news:keywords>HYBE, SM, JYP, YG, Collaboration</news:keywords>
     </news:news>
   </url>
 </urlset>
