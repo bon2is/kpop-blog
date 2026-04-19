@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 04:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:26:00 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,22 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Haneul Breaks Silence</title>
+      <link>https://kpop.andxo.com/article/haneul-breaks-silence/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/haneul-breaks-silence/</guid>
+      <description>KISS OF LIFE&apos;s Haneul reschedules activities due to health</description>
+      <pubDate>Sun, 19 Apr 2026 06:10:39 GMT</pubDate>
+      <category>news</category>
+      <category>KISS OF LIFE</category>
+      <category>Haneul</category>
+      <category>Health</category>
+      <category>Schedule Changes</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/haneul-breaks-silence.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/haneul-breaks-silence.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/haneul-breaks-silence.webp" />
+    </item>
     <item>
       <title>BTS Makes History</title>
       <link>https://kpop.andxo.com/article/bts-makes-history/</link>
@@ -1620,22 +1636,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisa-sparks-debate.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisa-sparks-debate.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisa-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>IU&apos;s Drama Makes History</title>
-      <link>https://kpop.andxo.com/article/ius-drama-makes-history/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/ius-drama-makes-history/</guid>
-      <description>IU&apos;s new drama breaks records!</description>
-      <pubDate>Sat, 11 Apr 2026 03:20:47 GMT</pubDate>
-      <category>drama</category>
-      <category>IU</category>
-      <category>K-Drama</category>
-      <category>Perfect Crown</category>
-      <category>MBC</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ius-drama-makes-history.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ius-drama-makes-history.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ius-drama-makes-history.webp" />
     </item>
   </channel>
 </rss>

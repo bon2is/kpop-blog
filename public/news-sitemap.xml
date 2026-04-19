@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/haneul-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T06:10:39.000Z</news:publication_date>
+      <news:title>Haneul Breaks Silence</news:title>
+      <news:keywords>KISS OF LIFE, Haneul, Health, Schedule Changes</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
     <news:news>
       <news:publication>
@@ -299,30 +311,6 @@
       <news:publication_date>2026-04-17T06:56:01.000Z</news:publication_date>
       <news:title>BIGBANG Sparks Debate</news:title>
       <news:keywords>BIGBANG, Coachella, K-Pop, Comeback, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/oh-jung-se-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T05:59:17.000Z</news:publication_date>
-      <news:title>Oh Jung Se Shocks Fans</news:title>
-      <news:keywords>K-Drama, Oh Jung Se, Fifties Professionals, Action-Comedy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yves-reveals-nail/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T04:33:39.000Z</news:publication_date>
-      <news:title>Yves Reveals &apos;NAIL&apos;</news:title>
-      <news:keywords>Comeback, MV, Yves, EP, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
