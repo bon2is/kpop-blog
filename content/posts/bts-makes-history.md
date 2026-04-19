@@ -1,78 +1,80 @@
 ---
 title: "BTS Makes History"
-excerpt: "BTS wins 13th trophy for 'SWIM'!"
-summary: "BTS has taken their 13th music show win for 'SWIM' on SBS's 'Inkigayo' with a total of 8,590 points. This achievement marks the third time 'SWIM' has taken first place on the show. The win solidifies BTS's dominance in the K-Pop scene."
-commentary: "This news matters as it showcases BTS's continued impact on the K-Pop industry, with 'SWIM' being a fan favorite and critically acclaimed song. \n\n The context of this win is significant, given the strong competition from other talented groups like IVE and Hearts2Hearts, highlighting BTS's ability to consistently produce high-quality music. \n\n For fans, this win is a testament to BTS's hard work and dedication to their craft, and it will likely fuel their enthusiasm for the group's future projects. \n\n This achievement also solidifies BTS's position as one of the most successful K-Pop groups of all time, with a legacy that will continue to inspire and influence the industry for years to come."
-originalTitle: "Watch: BTS Takes 13th Win And Triple Crown For “SWIM” On “Inkigayo”; Performances By Irene, Hwasa, KISS OF LIFE, And More"
+excerpt: "BTS wins 14th trophy for 'SWIM'"
+summary: "BTS has taken home their 14th music show win and triple crown for their latest hit 'SWIM' on 'Music Core'. The group beat out competitors AKMU and Hearts2Hearts with a total of 5,723 points. This achievement solidifies BTS's position as a dominant force in K-Pop."
+commentary: "BTS's win is a testament to the group's enduring popularity and the strength of their latest release 'SWIM'. \n\n The K-Pop industry is highly competitive, with many talented groups vying for attention, but BTS continues to stand out with their unique sound and dedicated fan base. \n\n This win is significant for BTS's career, as it demonstrates their ability to consistently produce high-quality music that resonates with fans. \n\n The success of 'SWIM' also bodes well for BTS's future projects, as it shows that the group can still innovate and push boundaries in the K-Pop genre."
+originalTitle: "Watch: BTS Takes 14th Win And Triple Crown For “SWIM” On “Music Core”; Performances By TXT, PLAVE, And More"
 category: "news"
-tags: ["BTS","Red Velvet","IVE","Comeback","Awards"]
-publishedAt: "2026-04-12T14:38:36.000Z"
-updatedAt: "2026-04-13T07:10:30.721Z"
+tags: ["BTS","TXT","SWIM","Music Core","K-Pop"]
+publishedAt: "2026-04-18T23:34:57.000Z"
+updatedAt: "2026-04-19T04:10:05.083Z"
 source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1832328wpp/watch-bts-takes-13th-win-and-triple-crown-for-swim-on-inkigayo-performances-by-irene-hwasa-kiss-of-life-and-more"
+sourceUrl: "https://www.soompi.com/article/1834172wpp/watch-bts-takes-14th-win-and-triple-crown-for-swim-on-music-core-performances-by-txt-plave-and-more"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-makes-history.webp"
 isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-BTS has taken their 13th music show win for 'SWIM' on SBS's 'Inkigayo' with a total of 8,590 points. This achievement marks the third time 'SWIM' has taken first place on the show. The win solidifies BTS's dominance in the K-Pop scene.
+BTS has taken home their 14th music show win and triple crown for their latest hit 'SWIM' on 'Music Core'. The group beat out competitors AKMU and Hearts2Hearts with a total of 5,723 points. This achievement solidifies BTS's position as a dominant force in K-Pop.
 
 ---
 
-https://www.youtube.com/watch?v=8h5KycqSFOc
+https://www.youtube.com/watch?v=y3ebxA0iCoA
 
-https://www.youtube.com/watch?v=VYS7fa5sSTU
+https://www.youtube.com/watch?v=S36aQVqzkxo
 
-https://www.youtube.com/watch?v=3QLH8qrHih8
+https://www.youtube.com/watch?v=LR-1p5cVjE4
 
-https://www.youtube.com/watch?v=vpYBuAwAMIc
+https://www.youtube.com/watch?v=k9jia37B7Bk
 
-https://www.youtube.com/watch?v=n5HBlW8DPH8
+https://www.youtube.com/watch?v=Yy6r3Db-Zv0
 
-https://www.youtube.com/watch?v=jB_sl8aTGoQ
+https://www.youtube.com/watch?v=dORDqRBS4jo
 
-https://www.youtube.com/watch?v=tB3mP3S9coM
+https://www.youtube.com/watch?v=9DFAEAcHPa8
 
-https://www.youtube.com/watch?v=OAy3oYSGnfQ
+https://www.youtube.com/watch?v=1Q00Iw8eZSY
 
-https://www.youtube.com/watch?v=ouk7-WSsD_Y
+https://www.youtube.com/watch?v=FqwvU8o0WPo
 
-https://www.youtube.com/watch?v=NIL4fZ_6Rtg
+https://www.youtube.com/watch?v=TMaoNqyvhOY
 
-https://www.youtube.com/watch?v=L3HAEFXEBLs
+https://www.youtube.com/watch?v=rzEFmoqyHDE
 
-https://www.youtube.com/watch?v=IH7HiJWAm2c
+https://www.youtube.com/watch?v=0ttmdgZd39I
 
-https://www.youtube.com/watch?v=Cj1I9DEaOOY
+https://www.youtube.com/watch?v=jS37AjjvTVE
 
-https://www.youtube.com/watch?v=Tc9HFYWLpT4
+https://www.youtube.com/watch?v=Icr1eg74rLs
 
-https://www.youtube.com/watch?v=p9vm_ZB_rhI
+https://www.youtube.com/watch?v=YF6i1a18Gyo
 
-https://www.youtube.com/watch?v=4_caz92C3VA
+https://www.youtube.com/watch?v=sgOJYprVp6E
 
-https://www.youtube.com/watch?v=CKCbu8mk1lc
+https://www.youtube.com/watch?v=ckbcGaaJzHo
 
-https://www.youtube.com/watch?v=mLZg0oCe_-A
+https://www.youtube.com/watch?v=G4CZcWQr_GY
+
+https://www.youtube.com/watch?v=05gGEv0Aw3s
 
 ---
 
 ## Our Take
 
-This news matters as it showcases BTS's continued impact on the K-Pop industry, with 'SWIM' being a fan favorite and critically acclaimed song. 
+BTS's win is a testament to the group's enduring popularity and the strength of their latest release 'SWIM'. 
 
- The context of this win is significant, given the strong competition from other talented groups like IVE and Hearts2Hearts, highlighting BTS's ability to consistently produce high-quality music. 
+ The K-Pop industry is highly competitive, with many talented groups vying for attention, but BTS continues to stand out with their unique sound and dedicated fan base. 
 
- For fans, this win is a testament to BTS's hard work and dedication to their craft, and it will likely fuel their enthusiasm for the group's future projects. 
+ This win is significant for BTS's career, as it demonstrates their ability to consistently produce high-quality music that resonates with fans. 
 
- This achievement also solidifies BTS's position as one of the most successful K-Pop groups of all time, with a legacy that will continue to inspire and influence the industry for years to come.
+ The success of 'SWIM' also bodes well for BTS's future projects, as it shows that the group can still innovate and push boundaries in the K-Pop genre.
 
 ---
 
 ### Related Links
 
-- [BTS](https://www.viki.com/celebrities/22048pr-bts?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-13th-win-and-triple-crown-for-swim-on-inkigayo-performances-by-irene-hwasa-kiss-of-life-and-more&utm_content_id=1832328wpp)
-- [Inkigayo](https://www.viki.com/tv/21497c?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-13th-win-and-triple-crown-for-swim-on-inkigayo-performances-by-irene-hwasa-kiss-of-life-and-more&utm_content_id=1832328wpp)
-- [IVE’](https://www.viki.com/celebrities/26171pr-ive?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-13th-win-and-triple-crown-for-swim-on-inkigayo-performances-by-irene-hwasa-kiss-of-life-and-more&utm_content_id=1832328wpp)
-- [Red Velvet](https://www.viki.com/celebrities/22069pr-red-velvet?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-13th-win-and-triple-crown-for-swim-on-inkigayo-performances-by-irene-hwasa-kiss-of-life-and-more&utm_content_id=1832328wpp)
-- [Irene](https://www.viki.com/celebrities/22830pr-irene?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-13th-win-and-triple-crown-for-swim-on-inkigayo-performances-by-irene-hwasa-kiss-of-life-and-more&utm_content_id=1832328wpp)
+- [BTS](https://www.viki.com/celebrities/22048pr-bts?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-14th-win-and-triple-crown-for-swim-on-music-core-performances-by-txt-plave-and-more&utm_content_id=1834172wpp)
+- [Music Core](https://www.viki.com/tv/35548c-show-music-core?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-14th-win-and-triple-crown-for-swim-on-music-core-performances-by-txt-plave-and-more&utm_content_id=1834172wpp)
+- [AKMU](https://www.viki.com/celebrities/25676pr-akmu?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-14th-win-and-triple-crown-for-swim-on-music-core-performances-by-txt-plave-and-more&utm_content_id=1834172wpp)
+- [TXT](https://www.viki.com/celebrities/22554pr-tomorrow-x-together?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-14th-win-and-triple-crown-for-swim-on-music-core-performances-by-txt-plave-and-more&utm_content_id=1834172wpp)
+- [WJSN](https://www.viki.com/celebrities/22289pr-wjsn?utm_source=soompi&utm_medium=music&utm_campaign=watch-bts-takes-14th-win-and-triple-crown-for-swim-on-music-core-performances-by-txt-plave-and-more&utm_content_id=1834172wpp)

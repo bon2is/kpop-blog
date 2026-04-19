@@ -1,39 +1,39 @@
 ---
 title: "KATSEYE Sparks Debate"
-excerpt: "KATSEYE's behavior at Coachella sparks outrage!"
-summary: "KATSEYE's recent performance at Coachella has been marred by controversy due to a viral clip showcasing questionable behavior. The incident has been met with scathing criticism from fans and critics alike. The group's actions have raised questions about their professionalism and public image."
-commentary: "KATSEYE's behavior at Coachella has significant implications for their career, as it may damage their reputation and alienate fans. \n\n The K-Pop industry is known for its high standards of professionalism and etiquette, making KATSEYE's actions particularly noteworthy. \n\n This incident may serve as a wake-up call for the group, prompting them to reevaluate their public image and behavior. \n\n Ultimately, the controversy surrounding KATSEYE's performance at Coachella highlights the importance of maintaining a positive and respectful public image in the entertainment industry."
-originalTitle: "KATSEYE’s “Disgusting” Behavior During “Coachella” Hit With Scathing Criticism"
+excerpt: "Manon's exclusion sparks outrage!"
+summary: "Evidence has surfaced suggesting that Manon's exclusion from KATSEYE may be an inside job, triggering widespread outrage among fans. There has been no announced timeline for Manon's return to the group. This development has significant implications for KATSEYE's dynamics and fan perception."
+commentary: "The exclusion of Manon from KATSEYE has sent shockwaves through the K-Pop community, with many fans expressing their discontent and demanding answers. \n\n This situation highlights the often-cutthroat nature of the K-Pop industry, where internal conflicts and power struggles can have profound effects on an artist's career. \n\n For KATSEYE, this controversy could potentially damage their reputation and alienate fans, especially if the situation is not handled transparently and fairly. \n\n Meanwhile, fans of Manon are eagerly awaiting her return, hoping that the issue will be resolved soon and that she will be able to resume her activities with the group."
+originalTitle: "Evidence That Manon’s Exclusion From KATSEYE Is “An Inside Job” Surfaces, Triggering Outrage"
 category: "news"
-tags: ["KATSEYE","Coachella","Controversy","K-Pop","Scandal"]
-publishedAt: "2026-04-11T08:59:39.000Z"
-updatedAt: "2026-04-11T11:19:34.255Z"
+tags: ["KATSEYE","Manon","Comeback","Controversy"]
+publishedAt: "2026-04-18T21:02:39.000Z"
+updatedAt: "2026-04-19T04:11:04.226Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/katseye-disgusting-behavior-coachella-hit-scathing-criticism/"
+sourceUrl: "https://www.koreaboo.com/news/evidence-manon-exclusion-katseye-inside-job-surfaces-triggering-outrage-missy/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-sparks-debate.webp"
 isAIGenerated: true
 author: "KPOP Daily"
 ---
 
-KATSEYE's recent performance at Coachella has been marred by controversy due to a viral clip showcasing questionable behavior. The incident has been met with scathing criticism from fans and critics alike. The group's actions have raised questions about their professionalism and public image.
+Evidence has surfaced suggesting that Manon's exclusion from KATSEYE may be an inside job, triggering widespread outrage among fans. There has been no announced timeline for Manon's return to the group. This development has significant implications for KATSEYE's dynamics and fan perception.
 ---
 
 ## Our Take
 
-KATSEYE's behavior at Coachella has significant implications for their career, as it may damage their reputation and alienate fans. 
+The exclusion of Manon from KATSEYE has sent shockwaves through the K-Pop community, with many fans expressing their discontent and demanding answers. 
 
- The K-Pop industry is known for its high standards of professionalism and etiquette, making KATSEYE's actions particularly noteworthy. 
+ This situation highlights the often-cutthroat nature of the K-Pop industry, where internal conflicts and power struggles can have profound effects on an artist's career. 
 
- This incident may serve as a wake-up call for the group, prompting them to reevaluate their public image and behavior. 
+ For KATSEYE, this controversy could potentially damage their reputation and alienate fans, especially if the situation is not handled transparently and fairly. 
 
- Ultimately, the controversy surrounding KATSEYE's performance at Coachella highlights the importance of maintaining a positive and respectful public image in the entertainment industry.
+ Meanwhile, fans of Manon are eagerly awaiting her return, hoping that the issue will be resolved soon and that she will be able to resume her activities with the group.
 
 ---
 
 ### Related Links
 
-- [pic.twitter.com/Al2ScmiSut](https://t.co/Al2ScmiSut)
-- [pic.twitter.com/h5Q04014XO](https://t.co/h5Q04014XO)
-- [pic.twitter.com/erTAEffjLs](https://t.co/erTAEffjLs)
-- [https://t.co/WiFvUK861H](https://t.co/WiFvUK861H)
-- [pic.twitter.com/OapWYzzOS6](https://t.co/OapWYzzOS6)
+- [pic.twitter.com/Mn1i22qVj8](https://t.co/Mn1i22qVj8)
+- [pic.twitter.com/ZRfGumS8L6](https://t.co/ZRfGumS8L6)
+- [https://t.co/zz8FFJh306](https://t.co/zz8FFJh306)
+- [https://t.co/jOFmMmU3pE](https://t.co/jOFmMmU3pE)
+- [pic.twitter.com/TThyqaulrM](https://t.co/TThyqaulrM)

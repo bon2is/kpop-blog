@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T23:34:57.000Z</news:publication_date>
+      <news:title>BTS Makes History</news:title>
+      <news:keywords>BTS, TXT, SWIM, Music Core, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T22:14:54.000Z</news:publication_date>
+      <news:title>K-Pop Idol Makes History</news:title>
+      <news:keywords>K-Pop, LGBTQ+, Marriage, Idol, Inclusivity</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T21:02:39.000Z</news:publication_date>
+      <news:title>KATSEYE Sparks Debate</news:title>
+      <news:keywords>KATSEYE, Manon, Comeback, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-heeseung-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T19:51:19.000Z</news:publication_date>
+      <news:title>ENHYPEN Heeseung Breaks Silence</news:title>
+      <news:keywords>ENHYPEN, Heeseung, K-Pop Departure, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T18:58:17.000Z</news:publication_date>
+      <news:title>K-Pop Idol Sparks Debate</news:title>
+      <news:keywords>Debut, K-Pop, Acting Debut, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-j-hope-sparks-frenzy/</loc>
     <news:news>
       <news:publication>
@@ -263,54 +323,6 @@
       <news:publication_date>2026-04-17T04:33:39.000Z</news:publication_date>
       <news:title>Yves Reveals &apos;NAIL&apos;</news:title>
       <news:keywords>Comeback, MV, Yves, EP, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonster-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T01:42:49.000Z</news:publication_date>
-      <news:title>BABYMONSTER Shocks Fans</news:title>
-      <news:keywords>BABYMONSTER, MV, SHEESH, YouTube, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kwak-dong-yeon-joins-park-bo-gum/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T00:56:14.000Z</news:publication_date>
-      <news:title>Kwak Dong Yeon Joins Park Bo Gum</news:title>
-      <news:keywords>BIGBANG, Kwak Dong Yeon, Park Bo Gum, THEBLACKLABEL, Agency Signing</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T18:02:05.000Z</news:publication_date>
-      <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, K-Pop, Luxury Brands</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-rm-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T15:02:47.000Z</news:publication_date>
-      <news:title>BTS RM Breaks Silence</news:title>
-      <news:keywords>BTS, Concert, Tour, RM, Injury</news:keywords>
     </news:news>
   </url>
 </urlset>
