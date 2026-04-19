@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/yeri-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T10:15:42.000Z</news:publication_date>
+      <news:title>Yeri Breaks Silence</news:title>
+      <news:keywords>Red Velvet, K-Drama, Yeri</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ha-jung-woo-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T09:26:16.000Z</news:publication_date>
+      <news:title>Ha Jung Woo Breaks Silence</news:title>
+      <news:keywords>K-Drama, Ha Jung Woo, Mad Concrete Dreams, tvN, Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-lee-jooyeon-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T06:40:38.000Z</news:publication_date>
+      <news:title>IVE&apos;s Lee Jooyeon Shocks Fans</news:title>
+      <news:keywords>IVE, Lee Jooyeon, K-Pop Relationships</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/moon-sua-honors-moonbin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T06:37:08.000Z</news:publication_date>
+      <news:title>Moon Sua Honors Moonbin</news:title>
+      <news:keywords>Moon Sua, Moonbin, Billlie, ASTRO, Tribute</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/haneul-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -239,78 +287,6 @@
       <news:publication_date>2026-04-17T12:00:57.000Z</news:publication_date>
       <news:title>Wendy Reveals New Role</news:title>
       <news:keywords>Red Velvet, Wendy, The Scout, Audition Show, Kim Jae Joong</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/dara-stuns-at-43/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T11:17:42.000Z</news:publication_date>
-      <news:title>Dara Stuns at 43</news:title>
-      <news:keywords>2NE1, Dara, Fitness</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jennie-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T10:23:37.000Z</news:publication_date>
-      <news:title>Jennie Makes History</news:title>
-      <news:keywords>BLACKPINK, Jennie, Influential People, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-collab-shelved/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T09:55:58.000Z</news:publication_date>
-      <news:title>NewJeans Collab Shelved</news:title>
-      <news:keywords>NewJeans, Collaboration, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-wonyoung-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T08:08:06.000Z</news:publication_date>
-      <news:title>IVE&apos;s Wonyoung Shocks Fans</news:title>
-      <news:keywords>IVE, Wonyoung, K-Fashion, Fourth-Gen Idols</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-sparks-romance-amidst-drama/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T07:03:00.000Z</news:publication_date>
-      <news:title>IU Sparks Romance Amidst Drama</news:title>
-      <news:keywords>IU, K-Drama, Romance, Byeon Woo Seok, Perfect Crown</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbang-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T06:56:01.000Z</news:publication_date>
-      <news:title>BIGBANG Sparks Debate</news:title>
-      <news:keywords>BIGBANG, Coachella, K-Pop, Comeback, Concert</news:keywords>
     </news:news>
   </url>
 </urlset>

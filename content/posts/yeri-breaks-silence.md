@@ -1,37 +1,44 @@
 ---
 title: "Yeri Breaks Silence"
 excerpt: "Yeri stars in new drama!"
-summary: "Red Velvet's Yeri and Kang Sang Jun star in the new drama 'Azure Spring', a healing youth drama based on a webtoon. The story follows two characters who find refuge by the sea as divers. The drama explores themes of fear, growth, and healing."
-commentary: "Yeri's new drama 'Azure Spring' marks a significant milestone in her acting career, showcasing her versatility as an artist. \n\n The K-Pop industry has seen a surge in idol-actors, with many group members pursuing acting careers alongside their music. Yeri's role in 'Azure Spring' demonstrates her commitment to exploring different creative avenues. \n\n The drama's themes of self-discovery and healing are likely to resonate with fans, particularly during these uncertain times. As a member of Red Velvet, Yeri's involvement in 'Azure Spring' may also attract new fans to the group, expanding their reach and influence."
-originalTitle: "Red Velvet’s Yeri (Kim Ye Rim) And Kang Sang Jun Take Refuge By The Sea As Divers In “Azure Spring”"
+summary: "Red Velvet's Yeri and Kang Sang Jun star in the upcoming drama 'Azure Spring', a healing youth drama based on a webtoon. The drama follows Seo Anna, who overcomes her fears with the help of Yoon. A new teaser has been unveiled, showcasing the chemistry between the leads."
+commentary: "The upcoming drama 'Azure Spring' marks an exciting new project for Red Velvet's Yeri, showcasing her acting chops outside of music. \n\n The drama's focus on healing and youth will likely resonate with fans of the K-Pop group, who have grown up with Yeri's music. \n\n As a member of one of K-Pop's most popular girl groups, Yeri's foray into acting is a significant career milestone, and 'Azure Spring' could be a defining moment in her solo career. \n\n With the K-Pop industry expanding into various fields like acting and drama, Yeri's involvement in 'Azure Spring' highlights the growing trend of idols pursuing multiple passions and talents."
+originalTitle: "Watch: Red Velvet’s Kim Ye Rim (Yeri) And Kang Sang Jun Support Each Other Underwater In “Azure Spring” Teaser"
 category: "drama"
-tags: ["Red Velvet","K-Drama","Yeri","Azure Spring"]
-publishedAt: "2026-04-14T09:19:20.000Z"
-updatedAt: "2026-04-14T11:46:37.459Z"
+tags: ["Red Velvet","K-Drama","Yeri"]
+publishedAt: "2026-04-19T10:15:42.000Z"
+updatedAt: "2026-04-19T11:25:46.996Z"
 source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1832905wpp/red-velvets-yeri-kim-ye-rim-and-kang-sang-jun-take-refuge-by-the-sea-as-divers-in-azure-spring"
+sourceUrl: "https://www.soompi.com/article/1834242wpp/watch-red-velvets-kim-ye-rim-yeri-and-kang-sang-jun-support-each-other-underwater-in-azure-spring-teaser"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/yeri-breaks-silence.webp"
 isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-Red Velvet's Yeri and Kang Sang Jun star in the new drama 'Azure Spring', a healing youth drama based on a webtoon. The story follows two characters who find refuge by the sea as divers. The drama explores themes of fear, growth, and healing.
+Red Velvet's Yeri and Kang Sang Jun star in the upcoming drama 'Azure Spring', a healing youth drama based on a webtoon. The drama follows Seo Anna, who overcomes her fears with the help of Yoon. A new teaser has been unveiled, showcasing the chemistry between the leads.
+
+---
+
+https://www.youtube.com/watch?v=mDtVkOwt-g4
+
 ---
 
 ## Our Take
 
-Yeri's new drama 'Azure Spring' marks a significant milestone in her acting career, showcasing her versatility as an artist. 
+The upcoming drama 'Azure Spring' marks an exciting new project for Red Velvet's Yeri, showcasing her acting chops outside of music. 
 
- The K-Pop industry has seen a surge in idol-actors, with many group members pursuing acting careers alongside their music. Yeri's role in 'Azure Spring' demonstrates her commitment to exploring different creative avenues. 
+ The drama's focus on healing and youth will likely resonate with fans of the K-Pop group, who have grown up with Yeri's music. 
 
- The drama's themes of self-discovery and healing are likely to resonate with fans, particularly during these uncertain times. As a member of Red Velvet, Yeri's involvement in 'Azure Spring' may also attract new fans to the group, expanding their reach and influence.
+ As a member of one of K-Pop's most popular girl groups, Yeri's foray into acting is a significant career milestone, and 'Azure Spring' could be a defining moment in her solo career. 
+
+ With the K-Pop industry expanding into various fields like acting and drama, Yeri's involvement in 'Azure Spring' highlights the growing trend of idols pursuing multiple passions and talents.
 
 ---
 
 ### Related Links
 
-- [Red Velvet](https://www.viki.com/celebrities/22069pr-red-velvet?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=red-velvets-yeri-kim-ye-rim-and-kang-sang-jun-take-refuge-by-the-sea-as-divers-in-azure-spring&utm_content_id=1832905wpp)
-- [Yeri](https://www.viki.com/celebrities/23645pr-yeri?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=red-velvets-yeri-kim-ye-rim-and-kang-sang-jun-take-refuge-by-the-sea-as-divers-in-azure-spring&utm_content_id=1832905wpp)
-- [Kim Ye Rim](https://www.viki.com/celebrities/23645pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=red-velvets-yeri-kim-ye-rim-and-kang-sang-jun-take-refuge-by-the-sea-as-divers-in-azure-spring&utm_content_id=1832905wpp)
-- [Kang Sang Jun](https://www.viki.com/celebrities/26210pr-kang-sang-jun?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=red-velvets-yeri-kim-ye-rim-and-kang-sang-jun-take-refuge-by-the-sea-as-divers-in-azure-spring&utm_content_id=1832905wpp)
-- [BITCH X RICH 2](https://www.viki.com/tv/41092c-bitch-x-rich-2?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=red-velvets-yeri-kim-ye-rim-and-kang-sang-jun-take-refuge-by-the-sea-as-divers-in-azure-spring&utm_content_id=1832905wpp)
+- [Red Velvet](https://www.viki.com/celebrities/22069pr-red-velvet?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-red-velvets-kim-ye-rim-yeri-and-kang-sang-jun-support-each-other-underwater-in-azure-spring-teaser&utm_content_id=1834242wpp)
+- [Kim Ye Rim](https://www.viki.com/celebrities/23645pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-red-velvets-kim-ye-rim-yeri-and-kang-sang-jun-support-each-other-underwater-in-azure-spring-teaser&utm_content_id=1834242wpp)
+- [Kang Sang Jun](https://www.viki.com/celebrities/26210pr-kang-sang-jun?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-red-velvets-kim-ye-rim-yeri-and-kang-sang-jun-support-each-other-underwater-in-azure-spring-teaser&utm_content_id=1834242wpp)
+- [BITCH X RICH 2](https://www.viki.com/tv/41092c-bitch-x-rich-2?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-red-velvets-kim-ye-rim-yeri-and-kang-sang-jun-support-each-other-underwater-in-azure-spring-teaser&utm_content_id=1834242wpp#about)
+- [Watch Now](https://www.viki.com/tv/41092c-bitch-x-rich-2?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-red-velvets-kim-ye-rim-yeri-and-kang-sang-jun-support-each-other-underwater-in-azure-spring-teaser&utm_content_id=1834242wpp#about?utm_source=soompi&utm_medium=soompi_news&utm_campaign=watch-red-velvets-kim-ye-rim-yeri-and-kang-sang-jun-support-each-other-underwater-in-azure-spring-teaser&utm_content_id=1834242wpp)
