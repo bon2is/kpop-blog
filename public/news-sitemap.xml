@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ailee-reveals-ivf-struggle/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T14:36:00.000Z</news:publication_date>
+      <news:title>Ailee Reveals IVF Struggle</news:title>
+      <news:keywords>Ailee, IVF, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T12:44:20.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, Backlash, K-Pop Fashion</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/riizes-wonbin-fires-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T11:31:59.000Z</news:publication_date>
+      <news:title>RIIZE&apos;s Wonbin Fires Back</news:title>
+      <news:keywords>RIIZE, Wonbin, Body Shaming, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/newjeans-minji-lookalike-debuts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T10:43:37.000Z</news:publication_date>
+      <news:title>NewJeans&apos; Minji Lookalike Debuts</news:title>
+      <news:keywords>NewJeans, Debut, ADOR, K-Pop, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/yeri-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -263,30 +311,6 @@
       <news:publication_date>2026-04-17T15:54:41.000Z</news:publication_date>
       <news:title>GOT7&apos;s Jackson Wang Claps Back</news:title>
       <news:keywords>GOT7, Jackson Wang, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-j-hope-loses-beloved-grandmother/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T12:26:02.000Z</news:publication_date>
-      <news:title>BTS J-Hope Loses Beloved Grandmother</news:title>
-      <news:keywords>BTS, J-Hope, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/wendy-reveals-new-role/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T12:00:57.000Z</news:publication_date>
-      <news:title>Wendy Reveals New Role</news:title>
-      <news:keywords>Red Velvet, Wendy, The Scout, Audition Show, Kim Jae Joong</news:keywords>
     </news:news>
   </url>
 </urlset>
