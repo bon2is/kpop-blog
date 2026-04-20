@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-lisa-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T06:40:19.000Z</news:publication_date>
+      <news:title>BLACKPINK Lisa Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Lisa, Coachella, Backlash, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T06:38:51.000Z</news:publication_date>
+      <news:title>IVE Sparks Concern</news:title>
+      <news:keywords>IVE, K-Pop, Mental Health, Comeback, Idol Wellness</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bang-si-hyuk-investigation-update/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T05:49:37.000Z</news:publication_date>
+      <news:title>Bang Si Hyuk Investigation Update</news:title>
+      <news:keywords>BTS, Bang Si Hyuk, HYBE, Investigation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/astros-moonbin-remembered/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T03:22:40.000Z</news:publication_date>
+      <news:title>ASTRO&apos;s Moonbin Remembered</news:title>
+      <news:keywords>SEVENTEEN, ASTRO, Moonbin, K-Pop, Billlie</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/mark-lee-sparks-frenzy/</loc>
     <news:news>
       <news:publication>
@@ -251,54 +299,6 @@
       <news:publication_date>2026-04-18T10:44:52.000Z</news:publication_date>
       <news:title>aespa Winter Sparks Debate</news:title>
       <news:keywords>aespa, Winter, Plastic Surgery, K-Pop, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-suga-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T06:57:04.000Z</news:publication_date>
-      <news:title>BTS Suga Breaks Silence</news:title>
-      <news:keywords>BTS, Suga, Interview</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-jihan-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T06:18:13.000Z</news:publication_date>
-      <news:title>IVE&apos;s Jihan Sparks Debate</news:title>
-      <news:keywords>IVE, Jihan, K-Pop, Beauty Standards, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T05:47:42.000Z</news:publication_date>
-      <news:title>IU Shocks Fans</news:title>
-      <news:keywords>IU, Byeon Woo Seok, K-Drama, Perfect Crown</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-reveals-shocking-exclusion/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T05:16:42.000Z</news:publication_date>
-      <news:title>KATSEYE Reveals Shocking Exclusion</news:title>
-      <news:keywords>Comeback, KATSEYE, Controversy, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
