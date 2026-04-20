@@ -1,39 +1,29 @@
 ---
 title: "HYBE Shocks Fans"
-excerpt: "Scooter Braun divests from HYBE"
-summary: "Scooter Braun has reportedly divested from HYBE, the parent company of several prominent K-Pop groups. This move comes after he took on executive responsibilities, which he has now also retired from. The implications of this decision are still unfolding in the K-Pop industry."
-commentary: "This news matters because Scooter Braun's involvement with HYBE had been a subject of interest and sometimes controversy among fans and industry observers. \n\n His divestment could signal a shift in the strategic direction of HYBE, potentially impacting the careers of its artists. \n\n For fans, this change might mean a reevaluation of how their favorite groups are managed and promoted globally. \n\n The move also raises questions about the future collaborations and business strategies of HYBE, given Braun's significant influence in the global music industry."
-originalTitle: "Scooter Braun Reportedly Divests From HYBE"
-category: "news"
-tags: ["HYBE","Scooter Braun","K-Pop Industry","Business"]
-publishedAt: "2026-04-01T22:54:05.000Z"
-updatedAt: "2026-04-02T06:07:35.253Z"
+excerpt: "HYBE's new look sparks mockery"
+summary: "HYBE's transformation after Min Hee Jin's exit has been met with ridicule. The change is seen as a significant shift in the company's image. Min Hee Jin's influence on HYBE's visual identity is still evident, despite her departure."
+commentary: "The transformation of HYBE's image is significant, as it marks a new era for the company. \n\n Min Hee Jin's exit has left a void in the company's creative direction, and the new look has sparked a mixed reaction from fans. \n\n The mockery surrounding the change highlights the challenges of rebranding a company with such a strong visual identity. \n\n As HYBE moves forward, it will be interesting to see how the company balances its new image with the expectations of its fans, who have grown accustomed to Min Hee Jin's innovative style."
+originalTitle: "HYBE’s Unexpected Transformation After Min Hee Jin’s Exit Triggers Massive Mockery"
+category: "fashion"
+tags: ["HYBE","Min Hee Jin","K-Pop","Rebranding"]
+publishedAt: "2026-04-20T09:02:57.000Z"
+updatedAt: "2026-04-20T11:58:36.638Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/scooter-braun-divests-hybe/"
+sourceUrl: "https://www.koreaboo.com/news/hybe-unexpected-transformation-triggers-massive-mockery/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-shocks-fans.webp"
-isAIGenerated: false
+isAIGenerated: true
 author: "KPOP Daily"
 ---
 
-Scooter Braun has reportedly divested from HYBE, the parent company of several prominent K-Pop groups. This move comes after he took on executive responsibilities, which he has now also retired from. The implications of this decision are still unfolding in the K-Pop industry.
+HYBE's transformation after Min Hee Jin's exit has been met with ridicule. The change is seen as a significant shift in the company's image. Min Hee Jin's influence on HYBE's visual identity is still evident, despite her departure.
 ---
 
 ## Our Take
 
-This news matters because Scooter Braun's involvement with HYBE had been a subject of interest and sometimes controversy among fans and industry observers. 
+The transformation of HYBE's image is significant, as it marks a new era for the company. 
 
- His divestment could signal a shift in the strategic direction of HYBE, potentially impacting the careers of its artists. 
+ Min Hee Jin's exit has left a void in the company's creative direction, and the new look has sparked a mixed reaction from fans. 
 
- For fans, this change might mean a reevaluation of how their favorite groups are managed and promoted globally. 
+ The mockery surrounding the change highlights the challenges of rebranding a company with such a strong visual identity. 
 
- The move also raises questions about the future collaborations and business strategies of HYBE, given Braun's significant influence in the global music industry.
-
----
-
-### Related Links
-
-- [https://t.co/PbO2O2Q3tt](https://t.co/PbO2O2Q3tt)
-- [https://t.co/3zPT0q5M2k](https://t.co/3zPT0q5M2k)
-- [https://t.co/sbqDNJskSK](https://t.co/sbqDNJskSK)
-- [pic.twitter.com/tr4P4kjDz2](https://t.co/tr4P4kjDz2)
-- [https://t.co/WQm6k2kBPi](https://t.co/WQm6k2kBPi)
+ As HYBE moves forward, it will be interesting to see how the company balances its new image with the expectations of its fans, who have grown accustomed to Min Hee Jin's innovative style.
