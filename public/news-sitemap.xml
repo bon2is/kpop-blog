@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/enhypen-jay-fires-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T14:05:15.000Z</news:publication_date>
+      <news:title>ENHYPEN Jay Fires Back</news:title>
+      <news:keywords>ENHYPEN, Heeseung, K-Pop Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -26,6 +38,30 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/ives-wonyoung-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T09:00:10.000Z</news:publication_date>
+      <news:title>IVE&apos;s Wonyoung Sparks Debate</news:title>
+      <news:keywords>IVE, Wonyoung, K-Pop, Idol Culture, Fandom</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heo-sung-tae-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T08:46:17.000Z</news:publication_date>
+      <news:title>Heo Sung Tae Shocks Fans</news:title>
+      <news:keywords>K-Drama, Heo Sung Tae, Fifties Professionals, Action-Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-jungkook-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +83,18 @@
       <news:publication_date>2026-04-20T08:15:10.000Z</news:publication_date>
       <news:title>CORTIS Reveals</news:title>
       <news:keywords>Comeback, Album, CORTIS, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jung-moon-sung-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T07:25:27.000Z</news:publication_date>
+      <news:title>Jung Moon Sung Shocks Fans</news:title>
+      <news:keywords>K-Drama, Jung Moon Sung, The Scarecrow, Park Hae Soo, Kwak Sun Young</news:keywords>
     </news:news>
   </url>
   <url>
@@ -311,18 +359,6 @@
       <news:publication_date>2026-04-18T18:58:17.000Z</news:publication_date>
       <news:title>K-Pop Idol Sparks Debate</news:title>
       <news:keywords>Debut, K-Pop, Acting Debut, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-j-hope-sparks-frenzy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T13:53:26.000Z</news:publication_date>
-      <news:title>BTS J-Hope Sparks Frenzy</news:title>
-      <news:keywords>BTS, J-Hope, K-Pop Collaborations</news:keywords>
     </news:news>
   </url>
 </urlset>
