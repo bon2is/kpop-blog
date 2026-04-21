@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nct-wish-breaks-record/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T14:17:12.000Z</news:publication_date>
+      <news:title>NCT WISH Breaks Record</news:title>
+      <news:keywords>NCT, Comeback, Charts, Album, NCT WISH</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nana-speaks-out/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T13:51:34.000Z</news:publication_date>
+      <news:title>Nana Speaks Out</news:title>
+      <news:keywords>Nana, Court Case, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5th-gen-idol-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T12:27:33.000Z</news:publication_date>
+      <news:title>5th Gen Idol Shocks Fans</news:title>
+      <news:keywords>5th Gen Idol, K-Pop, Beauty Standards, Social Media</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kim-bum-sparks-romance/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +83,18 @@
       <news:publication_date>2026-04-21T08:27:42.000Z</news:publication_date>
       <news:title>BTS Breaks Silence</news:title>
       <news:keywords>BTS, K-Drama, MBC, Shin Ha Kyun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-boyz-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T07:36:18.000Z</news:publication_date>
+      <news:title>THE BOYZ Shocks Fans</news:title>
+      <news:keywords>THE BOYZ, Comeback, Contract Dispute, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -311,30 +359,6 @@
       <news:publication_date>2026-04-19T19:48:32.000Z</news:publication_date>
       <news:title>BXB Breaks Silence</news:title>
       <news:keywords>BXB, WOLFBURN, Comeback, Agency Change</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ailee-reveals-ivf-struggle/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T14:36:00.000Z</news:publication_date>
-      <news:title>Ailee Reveals IVF Struggle</news:title>
-      <news:keywords>Ailee, IVF, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T12:44:20.000Z</news:publication_date>
-      <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, Backlash, K-Pop Fashion</news:keywords>
     </news:news>
   </url>
 </urlset>
