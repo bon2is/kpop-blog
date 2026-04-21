@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-lures-serial-killer/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T06:47:32.000Z</news:publication_date>
+      <news:title>Park Hae Soo Lures Serial Killer</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, Kwak Sun Young, The Scarecrow, Suspense</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -323,42 +335,6 @@
       <news:publication_date>2026-04-19T09:26:16.000Z</news:publication_date>
       <news:title>Ha Jung Woo Breaks Silence</news:title>
       <news:keywords>K-Drama, Ha Jung Woo, Mad Concrete Dreams, tvN, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-lee-jooyeon-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T06:40:38.000Z</news:publication_date>
-      <news:title>IVE&apos;s Lee Jooyeon Shocks Fans</news:title>
-      <news:keywords>IVE, Lee Jooyeon, K-Pop Relationships</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/moon-sua-honors-moonbin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T06:37:08.000Z</news:publication_date>
-      <news:title>Moon Sua Honors Moonbin</news:title>
-      <news:keywords>Moon Sua, Moonbin, Billlie, ASTRO, Tribute</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/haneul-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T06:10:39.000Z</news:publication_date>
-      <news:title>Haneul Breaks Silence</news:title>
-      <news:keywords>KISS OF LIFE, Haneul, Health, Schedule Changes</news:keywords>
     </news:news>
   </url>
 </urlset>
