@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T03:56:18.000Z</news:publication_date>
+      <news:title>BLACKPINK Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T02:47:30.000Z</news:publication_date>
+      <news:title>Park Hae Soo Shocks Fans</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, The Scarecrow, Ratings</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T01:46:05.000Z</news:publication_date>
+      <news:title>BTS Breaks Silence</news:title>
+      <news:keywords>BTS, K-Pop, Dating Ban, Boy Group</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/illits-moka-halts-activities/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T16:50:07.000Z</news:publication_date>
+      <news:title>ILLIT&apos;s Moka Halts Activities</news:title>
+      <news:keywords>ILLIT, Comeback, Moka, K-Pop, Health Issues</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/enhypen-jay-fires-back/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +59,18 @@
       <news:publication_date>2026-04-20T14:05:15.000Z</news:publication_date>
       <news:title>ENHYPEN Jay Fires Back</news:title>
       <news:keywords>ENHYPEN, Heeseung, K-Pop Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/xikers-reveals-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T12:00:00.000Z</news:publication_date>
+      <news:title>xikers Reveals Comeback</news:title>
+      <news:keywords>Comeback, Album, xikers, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -299,66 +359,6 @@
       <news:publication_date>2026-04-19T06:10:39.000Z</news:publication_date>
       <news:title>Haneul Breaks Silence</news:title>
       <news:keywords>KISS OF LIFE, Haneul, Health, Schedule Changes</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T23:34:57.000Z</news:publication_date>
-      <news:title>BTS Makes History</news:title>
-      <news:keywords>BTS, TXT, SWIM, Music Core, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T22:14:54.000Z</news:publication_date>
-      <news:title>K-Pop Idol Makes History</news:title>
-      <news:keywords>K-Pop, LGBTQ+, Marriage, Idol, Inclusivity</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T21:02:39.000Z</news:publication_date>
-      <news:title>KATSEYE Sparks Debate</news:title>
-      <news:keywords>KATSEYE, Manon, Comeback, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-heeseung-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T19:51:19.000Z</news:publication_date>
-      <news:title>ENHYPEN Heeseung Breaks Silence</news:title>
-      <news:keywords>ENHYPEN, Heeseung, K-Pop Departure, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T18:58:17.000Z</news:publication_date>
-      <news:title>K-Pop Idol Sparks Debate</news:title>
-      <news:keywords>Debut, K-Pop, Acting Debut, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>

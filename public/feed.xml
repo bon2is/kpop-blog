@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:59:56 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,70 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BLACKPINK Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/blackpink-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpink-sparks-debate/</guid>
+      <description>Rare video clip resurfaces!</description>
+      <pubDate>Tue, 21 Apr 2026 03:56:18 GMT</pubDate>
+      <category>celebrity</category>
+      <category>BLACKPINK</category>
+      <category>Comeback</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-sparks-debate.webp" />
+    </item>
+    <item>
+      <title>Park Hae Soo Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/park-hae-soo-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/park-hae-soo-shocks-fans/</guid>
+      <description>New K-Drama hits #1 in ratings!</description>
+      <pubDate>Tue, 21 Apr 2026 02:47:30 GMT</pubDate>
+      <category>drama</category>
+      <category>K-Drama</category>
+      <category>Park Hae Soo</category>
+      <category>The Scarecrow</category>
+      <category>Ratings</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/park-hae-soo-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/park-hae-soo-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/park-hae-soo-shocks-fans.webp" />
+    </item>
+    <item>
+      <title>BTS Breaks Silence</title>
+      <link>https://kpop.andxo.com/article/bts-breaks-silence/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-breaks-silence/</guid>
+      <description>K-Pop star reveals shocking truth</description>
+      <pubDate>Tue, 21 Apr 2026 01:46:05 GMT</pubDate>
+      <category>celebrity</category>
+      <category>BTS</category>
+      <category>K-Pop</category>
+      <category>Dating Ban</category>
+      <category>Boy Group</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp" />
+    </item>
+    <item>
+      <title>ILLIT&apos;s Moka Halts Activities</title>
+      <link>https://kpop.andxo.com/article/illits-moka-halts-activities/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/illits-moka-halts-activities/</guid>
+      <description>ILLIT&apos;s Moka takes a break due to health issues</description>
+      <pubDate>Mon, 20 Apr 2026 16:50:07 GMT</pubDate>
+      <category>comeback</category>
+      <category>ILLIT</category>
+      <category>Comeback</category>
+      <category>Moka</category>
+      <category>K-Pop</category>
+      <category>Health Issues</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/illits-moka-halts-activities.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/illits-moka-halts-activities.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/illits-moka-halts-activities.webp" />
+    </item>
     <item>
       <title>ENHYPEN Jay Fires Back</title>
       <link>https://kpop.andxo.com/article/enhypen-jay-fires-back/</link>
@@ -29,6 +93,22 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/enhypen-jay-fires-back.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/enhypen-jay-fires-back.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/enhypen-jay-fires-back.webp" />
+    </item>
+    <item>
+      <title>xikers Reveals Comeback</title>
+      <link>https://kpop.andxo.com/article/xikers-reveals-comeback/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/xikers-reveals-comeback/</guid>
+      <description>xikers is back with new album!</description>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+      <category>comeback</category>
+      <category>Comeback</category>
+      <category>Album</category>
+      <category>xikers</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/xikers-reveals-comeback.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/xikers-reveals-comeback.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/xikers-reveals-comeback.webp" />
     </item>
     <item>
       <title>HYBE Shocks Fans</title>
@@ -1560,86 +1640,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>Shin Ha Kyun Sparks Laughs</title>
-      <link>https://kpop.andxo.com/article/shin-ha-kyun-sparks-laughs/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/shin-ha-kyun-sparks-laughs/</guid>
-      <description>New action comedy drama is coming!</description>
-      <pubDate>Mon, 13 Apr 2026 06:36:19 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Drama</category>
-      <category>Shin Ha Kyun</category>
-      <category>Action Comedy</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/shin-ha-kyun-sparks-laughs.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/shin-ha-kyun-sparks-laughs.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/shin-ha-kyun-sparks-laughs.webp" />
-    </item>
-    <item>
-      <title>K-Pop Star Sparks Debate</title>
-      <link>https://kpop.andxo.com/article/k-pop-star-sparks-debate/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-star-sparks-debate/</guid>
-      <description>Singer faces backlash over camping item</description>
-      <pubDate>Mon, 13 Apr 2026 05:36:34 GMT</pubDate>
-      <category>celebrity</category>
-      <category>K-Pop</category>
-      <category>Backlash</category>
-      <category>Sustainability</category>
-      <category>Celebrities</category>
-      <category>Scandal</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-star-sparks-debate.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-star-sparks-debate.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-star-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>K-Star Welcomes Baby</title>
-      <link>https://kpop.andxo.com/article/k-star-welcomes-baby/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/k-star-welcomes-baby/</guid>
-      <description>Korean star becomes a mom!</description>
-      <pubDate>Mon, 13 Apr 2026 05:23:56 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Drama</category>
-      <category>K-Star</category>
-      <category>Baby</category>
-      <category>Motherhood</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-star-welcomes-baby.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-star-welcomes-baby.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-star-welcomes-baby.webp" />
-    </item>
-    <item>
-      <title>IVE Reveals Fandom Name</title>
-      <link>https://kpop.andxo.com/article/ive-reveals-fandom-name/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/ive-reveals-fandom-name/</guid>
-      <description>IVE&apos;s fandom name is out!</description>
-      <pubDate>Mon, 13 Apr 2026 04:25:49 GMT</pubDate>
-      <category>news</category>
-      <category>IVE</category>
-      <category>Fandom Name</category>
-      <category>K-Pop</category>
-      <category>Girl Group</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-reveals-fandom-name.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-reveals-fandom-name.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ive-reveals-fandom-name.webp" />
-    </item>
-    <item>
-      <title>BTS Fanboy Makes History</title>
-      <link>https://kpop.andxo.com/article/bts-fanboy-makes-history/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-fanboy-makes-history/</guid>
-      <description>Idol breaks record as top BTS fan!</description>
-      <pubDate>Mon, 13 Apr 2026 02:54:16 GMT</pubDate>
-      <category>celebrity</category>
-      <category>BTS</category>
-      <category>K-Pop Fandom</category>
-      <category>Idol Culture</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fanboy-makes-history.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fanboy-makes-history.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-fanboy-makes-history.webp" />
     </item>
   </channel>
 </rss>
