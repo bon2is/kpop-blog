@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/kim-bum-sparks-romance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T10:19:01.000Z</news:publication_date>
+      <news:title>Kim Bum Sparks Romance</news:title>
+      <news:keywords>Kim Bum, Sold Out on You, Romantic Comedy, K-Drama, Chae Won Bin</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-plagiarism-scandal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T09:35:08.000Z</news:publication_date>
+      <news:title>BTS Plagiarism Scandal</news:title>
+      <news:keywords>BTS, SM Entertainment, Plagiarism</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespas-giselle-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T08:54:38.000Z</news:publication_date>
+      <news:title>aespa&apos;s Giselle Sparks Debate</news:title>
+      <news:keywords>aespa, Album, Giselle, K-Pop, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T08:27:42.000Z</news:publication_date>
+      <news:title>BTS Breaks Silence</news:title>
+      <news:keywords>BTS, K-Drama, MBC, Shin Ha Kyun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T07:15:14.000Z</news:publication_date>
+      <news:title>BTS Reveals</news:title>
+      <news:keywords>BTS, K-Drama, K-Pop, Thai Drama, Rom-Com</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-hae-soo-lures-serial-killer/</loc>
     <news:news>
       <news:publication>
@@ -35,18 +95,6 @@
       <news:publication_date>2026-04-21T02:47:30.000Z</news:publication_date>
       <news:title>Park Hae Soo Shocks Fans</news:title>
       <news:keywords>K-Drama, Park Hae Soo, The Scarecrow, Ratings</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T01:46:05.000Z</news:publication_date>
-      <news:title>BTS Breaks Silence</news:title>
-      <news:keywords>BTS, K-Pop, Dating Ban, Boy Group</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,54 +335,6 @@
       <news:publication_date>2026-04-19T12:44:20.000Z</news:publication_date>
       <news:title>IVE Sparks Debate</news:title>
       <news:keywords>IVE, Backlash, K-Pop Fashion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/riizes-wonbin-fires-back/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T11:31:59.000Z</news:publication_date>
-      <news:title>RIIZE&apos;s Wonbin Fires Back</news:title>
-      <news:keywords>RIIZE, Wonbin, Body Shaming, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-minji-lookalike-debuts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T10:43:37.000Z</news:publication_date>
-      <news:title>NewJeans&apos; Minji Lookalike Debuts</news:title>
-      <news:keywords>NewJeans, Debut, ADOR, K-Pop, Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yeri-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T10:15:42.000Z</news:publication_date>
-      <news:title>Yeri Breaks Silence</news:title>
-      <news:keywords>Red Velvet, K-Drama, Yeri</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ha-jung-woo-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T09:26:16.000Z</news:publication_date>
-      <news:title>Ha Jung Woo Breaks Silence</news:title>
-      <news:keywords>K-Drama, Ha Jung Woo, Mad Concrete Dreams, tvN, Thriller</news:keywords>
     </news:news>
   </url>
 </urlset>
