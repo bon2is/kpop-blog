@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/modysseys-hengyu-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T13:28:44.000Z</news:publication_date>
+      <news:title>MODYSSEY&apos;s Hengyu Breaks Silence</news:title>
+      <news:keywords>MODYSSEY, Hengyu, Health, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/taemin-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T13:13:15.000Z</news:publication_date>
+      <news:title>Taemin Shocks Fans</news:title>
+      <news:keywords>SHINee, Taemin, K-Pop, Fandom, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/evan-reacts-to-heeseung-mix-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T11:56:39.000Z</news:publication_date>
+      <news:title>Evan Reacts to Heeseung Mix-Up</news:title>
+      <news:keywords>ENHYPEN, Evan, Solo Debut, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespas-giselle-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T11:15:12.000Z</news:publication_date>
+      <news:title>aespa&apos;s Giselle Shocks Fans</news:title>
+      <news:keywords>aespa, Giselle, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/han-sun-hwa-fights-exam-ghost/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T10:59:51.000Z</news:publication_date>
+      <news:title>Han Sun Hwa Fights Exam Ghost</news:title>
+      <news:keywords>Han Sun Hwa, K-Movie, Comedy-Horror, School Ghost, Korean Film</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-rm-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -335,30 +395,6 @@
       <news:publication_date>2026-04-20T16:50:07.000Z</news:publication_date>
       <news:title>ILLIT&apos;s Moka Halts Activities</news:title>
       <news:keywords>ILLIT, Comeback, Moka, K-Pop, Health Issues</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-jay-fires-back/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T14:05:15.000Z</news:publication_date>
-      <news:title>ENHYPEN Jay Fires Back</news:title>
-      <news:keywords>ENHYPEN, Heeseung, K-Pop Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/xikers-reveals-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T12:00:00.000Z</news:publication_date>
-      <news:title>xikers Reveals Comeback</news:title>
-      <news:keywords>Comeback, Album, xikers, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
