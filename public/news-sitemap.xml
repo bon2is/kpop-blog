@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ong-seong-wu-joins-spellbound/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T03:15:10.000Z</news:publication_date>
+      <news:title>Ong Seong Wu Joins Spellbound</news:title>
+      <news:keywords>K-Drama, Ong Seong Wu, Park Eun Bin, Yang Se Jong, Occult Romance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-ji-hoon-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T01:54:13.000Z</news:publication_date>
+      <news:title>Park Ji Hoon Reveals</news:title>
+      <news:keywords>K-Drama, Park Ji Hoon, The King&apos;s Warden, Singles Korea, Singles Japan</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-boyz-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T01:10:48.000Z</news:publication_date>
+      <news:title>THE BOYZ Sparks Debate</news:title>
+      <news:keywords>THE BOYZ, ONE HUNDRED, Contract Dispute, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-reveals-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T00:16:52.000Z</news:publication_date>
+      <news:title>KATSEYE Reveals Comeback</news:title>
+      <news:keywords>Comeback, KATSEYE, PINKY UP, K-Pop, Music Shows</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lngshot-names-fans-shotties/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T18:09:17.000Z</news:publication_date>
+      <news:title>LNGSHOT Names Fans &apos;SHOTTIES&apos;</news:title>
+      <news:keywords>Awards, Album, LNGSHOT, Fan Club, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nct-wish-breaks-record/</loc>
     <news:news>
       <news:publication>
@@ -299,66 +359,6 @@
       <news:publication_date>2026-04-20T05:49:37.000Z</news:publication_date>
       <news:title>Bang Si Hyuk Investigation Update</news:title>
       <news:keywords>BTS, Bang Si Hyuk, HYBE, Investigation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/astros-moonbin-remembered/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T03:22:40.000Z</news:publication_date>
-      <news:title>ASTRO&apos;s Moonbin Remembered</news:title>
-      <news:keywords>SEVENTEEN, ASTRO, Moonbin, K-Pop, Billlie</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mark-lee-sparks-frenzy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T02:43:07.000Z</news:publication_date>
-      <news:title>Mark Lee Sparks Frenzy</news:title>
-      <news:keywords>Tour, Mark Lee, Justin Bieber, K-Pop, Collaboration</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/modyssey-breaks-records/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T23:41:21.000Z</news:publication_date>
-      <news:title>MODYSSEY Breaks Records</news:title>
-      <news:keywords>Debut, Charts, Album, MODYSSEY, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ncts-sion-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T22:41:05.000Z</news:publication_date>
-      <news:title>NCT&apos;s Sion Shocks Fans</news:title>
-      <news:keywords>NCT, TWS, Variety Show, K-Pop, Amazing Saturday</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bxb-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T19:48:32.000Z</news:publication_date>
-      <news:title>BXB Breaks Silence</news:title>
-      <news:keywords>BXB, WOLFBURN, Comeback, Agency Change</news:keywords>
     </news:news>
   </url>
 </urlset>
