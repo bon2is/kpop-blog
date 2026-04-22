@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/enhypen-heeseung-joins-kcon-la/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T06:36:55.000Z</news:publication_date>
+      <news:title>ENHYPEN Heeseung Joins KCON LA</news:title>
+      <news:keywords>ENHYPEN, Heeseung, KCON LA, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/baekhyun-taemin-reunite/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T06:05:28.000Z</news:publication_date>
+      <news:title>Baekhyun &amp; Taemin Reunite</news:title>
+      <news:keywords>EXO, SHINee, Taemin, Baekhyun, K-Pop Reunion</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T05:47:03.000Z</news:publication_date>
+      <news:title>IVE Sparks Debate</news:title>
+      <news:keywords>IVE, Controversy, K-Pop, Feminism, Social Issues</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/newjeans-hyein-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T05:46:21.000Z</news:publication_date>
+      <news:title>NewJeans Hyein Shocks Fans</news:title>
+      <news:keywords>NewJeans, Hyein, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T04:22:46.000Z</news:publication_date>
+      <news:title>BTS Sparks Debate</news:title>
+      <news:keywords>BTS, Light Stick, K-Pop, Fan Engagement, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ong-seong-wu-joins-spellbound/</loc>
     <news:news>
       <news:publication>
@@ -323,42 +383,6 @@
       <news:publication_date>2026-04-20T07:25:27.000Z</news:publication_date>
       <news:title>Jung Moon Sung Shocks Fans</news:title>
       <news:keywords>K-Drama, Jung Moon Sung, The Scarecrow, Park Hae Soo, Kwak Sun Young</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisa-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T06:40:19.000Z</news:publication_date>
-      <news:title>BLACKPINK Lisa Sparks Debate</news:title>
-      <news:keywords>BLACKPINK, Lisa, Coachella, Backlash, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-concern/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T06:38:51.000Z</news:publication_date>
-      <news:title>IVE Sparks Concern</news:title>
-      <news:keywords>IVE, K-Pop, Mental Health, Comeback, Idol Wellness</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bang-si-hyuk-investigation-update/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T05:49:37.000Z</news:publication_date>
-      <news:title>Bang Si Hyuk Investigation Update</news:title>
-      <news:keywords>BTS, Bang Si Hyuk, HYBE, Investigation</news:keywords>
     </news:news>
   </url>
 </urlset>
