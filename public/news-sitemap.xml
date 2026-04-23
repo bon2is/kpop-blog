@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T22:52:56.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Jennie, Backlash, K-Pop, Idol Management</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T20:41:47.000Z</news:publication_date>
+      <news:title>NCT Mark Sparks Debate</news:title>
+      <news:keywords>NCT, Mark Lee, K-Pop, Idol Relationships</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/rookie-group-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T19:45:39.000Z</news:publication_date>
+      <news:title>Rookie Group Sparks Debate</news:title>
+      <news:keywords>Rookie Group, Fan Controversy, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/modysseys-hengyu-breaks-silence/</loc>
     <news:news>
       <news:publication>
@@ -83,6 +119,30 @@
       <news:publication_date>2026-04-22T09:25:09.000Z</news:publication_date>
       <news:title>LE SSERAFIM Sparks Debate</news:title>
       <news:keywords>BLACKPINK, LE SSERAFIM, ILLIT, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-jae-hwan-returns/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T09:11:27.000Z</news:publication_date>
+      <news:title>Kim Jae Hwan Returns</news:title>
+      <news:keywords>Comeback, MV, Kim Jae Hwan, Digital Single, Rock Ballad</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-rei-rocks-j-pop-style/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T08:52:09.000Z</news:publication_date>
+      <news:title>IVE&apos;s Rei Rocks J-Pop Style</news:title>
+      <news:keywords>TWICE, LE SSERAFIM, IVE, ILLIT, J-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -359,42 +419,6 @@
       <news:publication_date>2026-04-21T06:47:32.000Z</news:publication_date>
       <news:title>Park Hae Soo Lures Serial Killer</news:title>
       <news:keywords>K-Drama, Park Hae Soo, Kwak Sun Young, The Scarecrow, Suspense</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T03:56:18.000Z</news:publication_date>
-      <news:title>BLACKPINK Sparks Debate</news:title>
-      <news:keywords>BLACKPINK, Comeback, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-hae-soo-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T02:47:30.000Z</news:publication_date>
-      <news:title>Park Hae Soo Shocks Fans</news:title>
-      <news:keywords>K-Drama, Park Hae Soo, The Scarecrow, Ratings</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/illits-moka-halts-activities/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T16:50:07.000Z</news:publication_date>
-      <news:title>ILLIT&apos;s Moka Halts Activities</news:title>
-      <news:keywords>ILLIT, Comeback, Moka, K-Pop, Health Issues</news:keywords>
     </news:news>
   </url>
 </urlset>
