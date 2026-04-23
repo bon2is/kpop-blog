@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T06:50:10.000Z</news:publication_date>
+      <news:title>BTS Reveals</news:title>
+      <news:keywords>BTS, Comeback, Apple</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/newjeans-sparks-comeback-rumors/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T04:04:07.000Z</news:publication_date>
+      <news:title>NewJeans Sparks Comeback Rumors</news:title>
+      <news:keywords>NewJeans, Comeback, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -395,30 +419,6 @@
       <news:publication_date>2026-04-21T07:36:18.000Z</news:publication_date>
       <news:title>THE BOYZ Shocks Fans</news:title>
       <news:keywords>THE BOYZ, Comeback, Contract Dispute, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T07:15:14.000Z</news:publication_date>
-      <news:title>BTS Reveals</news:title>
-      <news:keywords>BTS, K-Drama, K-Pop, Thai Drama, Rom-Com</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-hae-soo-lures-serial-killer/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T06:47:32.000Z</news:publication_date>
-      <news:title>Park Hae Soo Lures Serial Killer</news:title>
-      <news:keywords>K-Drama, Park Hae Soo, Kwak Sun Young, The Scarecrow, Suspense</news:keywords>
     </news:news>
   </url>
 </urlset>

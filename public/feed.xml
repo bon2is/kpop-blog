@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 04:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:57:37 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,36 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BTS Reveals</title>
+      <link>https://kpop.andxo.com/article/bts-reveals/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-reveals/</guid>
+      <description>K-Pop history made!</description>
+      <pubDate>Thu, 23 Apr 2026 06:50:10 GMT</pubDate>
+      <category>news</category>
+      <category>BTS</category>
+      <category>Comeback</category>
+      <category>Apple</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-reveals.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-reveals.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-reveals.webp" />
+    </item>
+    <item>
+      <title>NewJeans Sparks Comeback Rumors</title>
+      <link>https://kpop.andxo.com/article/newjeans-sparks-comeback-rumors/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/newjeans-sparks-comeback-rumors/</guid>
+      <description>NewJeans hints at comeback!</description>
+      <pubDate>Thu, 23 Apr 2026 04:04:07 GMT</pubDate>
+      <category>comeback</category>
+      <category>NewJeans</category>
+      <category>Comeback</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/newjeans-sparks-comeback-rumors.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/newjeans-sparks-comeback-rumors.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/newjeans-sparks-comeback-rumors.webp" />
+    </item>
     <item>
       <title>BLACKPINK Jennie Sparks Debate</title>
       <link>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</link>
@@ -552,23 +582,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-shocks-fans.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-shocks-fans.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>BTS Reveals</title>
-      <link>https://kpop.andxo.com/article/bts-reveals/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-reveals/</guid>
-      <description>K-Pop takes over Thai drama!</description>
-      <pubDate>Tue, 21 Apr 2026 07:15:14 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>K-Drama</category>
-      <category>K-Pop</category>
-      <category>Thai Drama</category>
-      <category>Rom-Com</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-reveals.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-reveals.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-reveals.webp" />
     </item>
     <item>
       <title>Park Hae Soo Lures Serial Killer</title>
@@ -1627,23 +1640,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/snsd-trainee-reveals.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/snsd-trainee-reveals.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/snsd-trainee-reveals.webp" />
-    </item>
-    <item>
-      <title>K-Pop Giants Unite</title>
-      <link>https://kpop.andxo.com/article/k-pop-giants-unite/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-giants-unite/</guid>
-      <description>A new project sparks debate!</description>
-      <pubDate>Thu, 16 Apr 2026 05:06:55 GMT</pubDate>
-      <category>news</category>
-      <category>HYBE</category>
-      <category>SM</category>
-      <category>JYP</category>
-      <category>YG</category>
-      <category>Collaboration</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-giants-unite.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-giants-unite.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-giants-unite.webp" />
     </item>
   </channel>
 </rss>

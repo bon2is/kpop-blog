@@ -1,39 +1,39 @@
 ---
 title: "BTS Reveals"
-excerpt: "K-Pop takes over Thai drama!"
-summary: "The Thai rom-com 'My Love In The Countryside' offers an over-the-top comedy experience with a heartfelt romance. This drama is perfect for viewers who enjoy loud and chaotic humor. It delivers a surprising romance despite its farcical tone."
-commentary: "The blend of comedy and romance in 'My Love In The Countryside' is a great example of how K-Pop influences have seeped into other forms of media. \n\n This drama's willingness to embrace its loud and chaotic tone is a reflection of the K-Pop industry's own tendency to push boundaries and defy expectations. \n\n For fans of K-Pop, 'My Love In The Countryside' offers a unique viewing experience that combines the best of both worlds. \n\n As K-Pop continues to grow in popularity, it will be interesting to see how its influence shapes the broader entertainment industry, including dramas like 'My Love In The Countryside'."
-originalTitle: "4 Reasons To Watch Thai Rom-Com “My Love In The Countryside”"
-category: "drama"
-tags: ["BTS","K-Drama","K-Pop","Thai Drama","Rom-Com"]
-publishedAt: "2026-04-21T07:15:14.000Z"
-updatedAt: "2026-04-21T11:51:21.035Z"
-source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1832246wpp/4-reasons-to-watch-thai-rom-com-my-love-in-the-countryside"
+excerpt: "K-Pop history made!"
+summary: "A new video has sparked massive speculation in the K-Pop community. The video, released by Apple, features a mysterious figure known as 'Neo' who seems to be watching over the group. This has led to widespread discussion among fans about the meaning and implications of the video."
+commentary: "The release of this video is significant because it highlights the growing intersection of technology and K-Pop. \n\n Apple's involvement in the K-Pop scene is a notable development, as it suggests that major tech companies are taking notice of the genre's global influence. \n\n This video may be a teaser for an upcoming collaboration or project, which could have major implications for the careers of the artists involved. \n\n As fans continue to speculate about the meaning of the video, it is clear that the K-Pop community is eager for new and innovative content."
+originalTitle: "Apple Drops New Video Proving “Neo Got My Back”, Sparking Massive Speculation"
+category: "news"
+tags: ["BTS","Comeback","Apple"]
+publishedAt: "2026-04-23T06:50:10.000Z"
+updatedAt: "2026-04-23T06:57:27.170Z"
+source: "Koreaboo"
+sourceUrl: "https://www.koreaboo.com/news/apple-gives-shoutout-nct-in-recent-video/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-reveals.webp"
-isAIGenerated: true
+isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-The Thai rom-com 'My Love In The Countryside' offers an over-the-top comedy experience with a heartfelt romance. This drama is perfect for viewers who enjoy loud and chaotic humor. It delivers a surprising romance despite its farcical tone.
+A new video has sparked massive speculation in the K-Pop community. The video, released by Apple, features a mysterious figure known as 'Neo' who seems to be watching over the group. This has led to widespread discussion among fans about the meaning and implications of the video.
 ---
 
 ## Our Take
 
-The blend of comedy and romance in 'My Love In The Countryside' is a great example of how K-Pop influences have seeped into other forms of media. 
+The release of this video is significant because it highlights the growing intersection of technology and K-Pop. 
 
- This drama's willingness to embrace its loud and chaotic tone is a reflection of the K-Pop industry's own tendency to push boundaries and defy expectations. 
+ Apple's involvement in the K-Pop scene is a notable development, as it suggests that major tech companies are taking notice of the genre's global influence. 
 
- For fans of K-Pop, 'My Love In The Countryside' offers a unique viewing experience that combines the best of both worlds. 
+ This video may be a teaser for an upcoming collaboration or project, which could have major implications for the careers of the artists involved. 
 
- As K-Pop continues to grow in popularity, it will be interesting to see how its influence shapes the broader entertainment industry, including dramas like 'My Love In The Countryside'.
+ As fans continue to speculate about the meaning of the video, it is clear that the K-Pop community is eager for new and innovative content.
 
 ---
 
 ### Related Links
 
-- [My Love in the Countryside](https://www.viki.com/tv/41132c-my-love-in-the-countryside?utm_source=soompi&utm_medium=drama&utm_campaign=4-reasons-to-watch-thai-rom-com-my-love-in-the-countryside&utm_content_id=1832246wpp)
-- [August Vachiravit Paisarnkulwong](https://www.viki.com/celebrities/26630pr-august-vachiravit-paisarnkulwong?utm_source=soompi&utm_medium=drama&utm_campaign=4-reasons-to-watch-thai-rom-com-my-love-in-the-countryside&utm_content_id=1832246wpp)
-- [Namfah Thunyaphat Phataraterachaijaroen](https://www.viki.com/celebrities/27185pr-namfah-thunyaphat-phataraterachaijaroen?utm_source=soompi&utm_medium=drama&utm_campaign=4-reasons-to-watch-thai-rom-com-my-love-in-the-countryside&utm_content_id=1832246wpp)
-- [Yumi’s Cells 3](https://www.viki.com/tv/41461c-yumis-cells-3?utm_source=soompi&utm_medium=drama&utm_campaign=4-reasons-to-watch-thai-rom-com-my-love-in-the-countryside&utm_content_id=1832246wpp)
-- [Tiktok](https://www.tiktok.com/@soompi)
+- [pic.twitter.com/XkEU9XtoxF](https://t.co/XkEU9XtoxF)
+- [pic.twitter.com/BOJrP46JUx](https://t.co/BOJrP46JUx)
+- [https://t.co/Ve56J7bF4u](https://t.co/Ve56J7bF4u)
+- [pic.twitter.com/TJZL7eAyyB](https://t.co/TJZL7eAyyB)
+- [https://t.co/B8O40Dez7X](https://t.co/B8O40Dez7X)
