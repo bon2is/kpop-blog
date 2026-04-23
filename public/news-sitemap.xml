@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ayaka-miyoshi-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T15:02:12.000Z</news:publication_date>
+      <news:title>Ayaka Miyoshi Sparks Debate</news:title>
+      <news:keywords>Ayaka Miyoshi, Tattoo, Backlash, Mukbang, Sung Si Kyung</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-exposed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T14:10:07.000Z</news:publication_date>
+      <news:title>K-Pop Exposed</news:title>
+      <news:keywords>K-Pop, Social Media, Scandal</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/rookie-idol-shoots-shot-at-g-dragon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T13:04:27.000Z</news:publication_date>
+      <news:title>Rookie Idol Shoots Shot At G-Dragon</news:title>
+      <news:keywords>G-Dragon, Rookie Idol, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/the-boyz-shocks-fans/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +47,18 @@
       <news:publication_date>2026-04-23T10:32:53.000Z</news:publication_date>
       <news:title>THE BOYZ Shocks Fans</news:title>
       <news:keywords>THE BOYZ, Contract Dispute, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-boyz-wins-contract-dispute/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T10:31:10.000Z</news:publication_date>
+      <news:title>THE BOYZ Wins Contract Dispute</news:title>
+      <news:keywords>THE BOYZ, Contract Dispute, K-Pop Law</news:keywords>
     </news:news>
   </url>
   <url>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-04-23T07:53:59.000Z</news:publication_date>
       <news:title>BTS Breaks Silence</news:title>
       <news:keywords>BTS, K-Drama, MBC, Shin Ha Kyun, Oh Jung Se</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/txt-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T07:35:04.000Z</news:publication_date>
+      <news:title>TXT Shocks Fans</news:title>
+      <news:keywords>TXT, Variety Show, Babysitting, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -383,42 +443,6 @@
       <news:publication_date>2026-04-21T18:09:17.000Z</news:publication_date>
       <news:title>LNGSHOT Names Fans &apos;SHOTTIES&apos;</news:title>
       <news:keywords>Awards, Album, LNGSHOT, Fan Club, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-wish-breaks-record/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T14:17:12.000Z</news:publication_date>
-      <news:title>NCT WISH Breaks Record</news:title>
-      <news:keywords>NCT, Comeback, Charts, Album, NCT WISH</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nana-speaks-out/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T13:51:34.000Z</news:publication_date>
-      <news:title>Nana Speaks Out</news:title>
-      <news:keywords>Nana, Court Case, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5th-gen-idol-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T12:27:33.000Z</news:publication_date>
-      <news:title>5th Gen Idol Shocks Fans</news:title>
-      <news:keywords>5th Gen Idol, K-Pop, Beauty Standards, Social Media</news:keywords>
     </news:news>
   </url>
 </urlset>

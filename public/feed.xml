@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 11:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 15:53:20 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,53 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Ayaka Miyoshi Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/ayaka-miyoshi-sparks-debate/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/ayaka-miyoshi-sparks-debate/</guid>
+      <description>Actress faces backlash over tattoo reveal!</description>
+      <pubDate>Thu, 23 Apr 2026 15:02:12 GMT</pubDate>
+      <category>news</category>
+      <category>Ayaka Miyoshi</category>
+      <category>Tattoo</category>
+      <category>Backlash</category>
+      <category>Mukbang</category>
+      <category>Sung Si Kyung</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ayaka-miyoshi-sparks-debate.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ayaka-miyoshi-sparks-debate.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ayaka-miyoshi-sparks-debate.webp" />
+    </item>
+    <item>
+      <title>K-Pop Exposed</title>
+      <link>https://kpop.andxo.com/article/k-pop-exposed/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-exposed/</guid>
+      <description>K-Pop companies caught red-handed!</description>
+      <pubDate>Thu, 23 Apr 2026 14:10:07 GMT</pubDate>
+      <category>news</category>
+      <category>K-Pop</category>
+      <category>Social Media</category>
+      <category>Scandal</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-exposed.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-exposed.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-exposed.webp" />
+    </item>
+    <item>
+      <title>Rookie Idol Shoots Shot At G-Dragon</title>
+      <link>https://kpop.andxo.com/article/rookie-idol-shoots-shot-at-g-dragon/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/rookie-idol-shoots-shot-at-g-dragon/</guid>
+      <description>Rookie idol tries to get G-Dragon&apos;s number!</description>
+      <pubDate>Thu, 23 Apr 2026 13:04:27 GMT</pubDate>
+      <category>news</category>
+      <category>G-Dragon</category>
+      <category>Rookie Idol</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/rookie-idol-shoots-shot-at-g-dragon.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/rookie-idol-shoots-shot-at-g-dragon.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/rookie-idol-shoots-shot-at-g-dragon.webp" />
+    </item>
     <item>
       <title>THE BOYZ Shocks Fans</title>
       <link>https://kpop.andxo.com/article/the-boyz-shocks-fans/</link>
@@ -29,6 +76,21 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-shocks-fans.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-shocks-fans.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-shocks-fans.webp" />
+    </item>
+    <item>
+      <title>THE BOYZ Wins Contract Dispute</title>
+      <link>https://kpop.andxo.com/article/the-boyz-wins-contract-dispute/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/the-boyz-wins-contract-dispute/</guid>
+      <description>THE BOYZ emerges victorious in lawsuit</description>
+      <pubDate>Thu, 23 Apr 2026 10:31:10 GMT</pubDate>
+      <category>news</category>
+      <category>THE BOYZ</category>
+      <category>Contract Dispute</category>
+      <category>K-Pop Law</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-wins-contract-dispute.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-wins-contract-dispute.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-boyz-wins-contract-dispute.webp" />
     </item>
     <item>
       <title>Jisoo Breaks Silence</title>
@@ -93,6 +155,22 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp" />
+    </item>
+    <item>
+      <title>TXT Shocks Fans</title>
+      <link>https://kpop.andxo.com/article/txt-shocks-fans/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/txt-shocks-fans/</guid>
+      <description>TXT tries babysitting!</description>
+      <pubDate>Thu, 23 Apr 2026 07:35:04 GMT</pubDate>
+      <category>variety</category>
+      <category>TXT</category>
+      <category>Variety Show</category>
+      <category>Babysitting</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/txt-shocks-fans.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/txt-shocks-fans.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/txt-shocks-fans.webp" />
     </item>
     <item>
       <title>BTS Reveals</title>
@@ -1556,88 +1634,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/babymonster-shocks-fans.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/babymonster-shocks-fans.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/babymonster-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>Kwak Dong Yeon Joins Park Bo Gum</title>
-      <link>https://kpop.andxo.com/article/kwak-dong-yeon-joins-park-bo-gum/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/kwak-dong-yeon-joins-park-bo-gum/</guid>
-      <description>Kwak Dong Yeon may join Park Bo Gum at THEBLACKLABEL!</description>
-      <pubDate>Fri, 17 Apr 2026 00:56:14 GMT</pubDate>
-      <category>drama</category>
-      <category>BIGBANG</category>
-      <category>Kwak Dong Yeon</category>
-      <category>Park Bo Gum</category>
-      <category>THEBLACKLABEL</category>
-      <category>Agency Signing</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kwak-dong-yeon-joins-park-bo-gum.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kwak-dong-yeon-joins-park-bo-gum.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kwak-dong-yeon-joins-park-bo-gum.webp" />
-    </item>
-    <item>
-      <title>BTS RM Breaks Silence</title>
-      <link>https://kpop.andxo.com/article/bts-rm-breaks-silence/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-rm-breaks-silence/</guid>
-      <description>BTS RM responds to fan&apos;s joke about leg injury</description>
-      <pubDate>Thu, 16 Apr 2026 15:02:47 GMT</pubDate>
-      <category>tour</category>
-      <category>BTS</category>
-      <category>Concert</category>
-      <category>Tour</category>
-      <category>RM</category>
-      <category>Injury</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-rm-breaks-silence.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-rm-breaks-silence.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-rm-breaks-silence.webp" />
-    </item>
-    <item>
-      <title>Jay Park Claps Back</title>
-      <link>https://kpop.andxo.com/article/jay-park-claps-back/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/jay-park-claps-back/</guid>
-      <description>Jay Park shuts down critic!</description>
-      <pubDate>Thu, 16 Apr 2026 13:47:04 GMT</pubDate>
-      <category>news</category>
-      <category>Jay Park</category>
-      <category>5th Gen Idols</category>
-      <category>K-Pop</category>
-      <category>Idol Etiquette</category>
-      <category>Fan Culture</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jay-park-claps-back.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jay-park-claps-back.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jay-park-claps-back.webp" />
-    </item>
-    <item>
-      <title>KISS OF LIFE Shocks Fans</title>
-      <link>https://kpop.andxo.com/article/kiss-of-life-shocks-fans/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/kiss-of-life-shocks-fans/</guid>
-      <description>KISS OF LIFE wins 1st music show trophy!</description>
-      <pubDate>Thu, 16 Apr 2026 12:21:59 GMT</pubDate>
-      <category>news</category>
-      <category>TXT</category>
-      <category>KISS OF LIFE</category>
-      <category>M Countdown</category>
-      <category>Comeback</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kiss-of-life-shocks-fans.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kiss-of-life-shocks-fans.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kiss-of-life-shocks-fans.webp" />
-    </item>
-    <item>
-      <title>BTS Member Reveals</title>
-      <link>https://kpop.andxo.com/article/bts-member-reveals/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-member-reveals/</guid>
-      <description>K-Pop star expecting a baby!</description>
-      <pubDate>Thu, 16 Apr 2026 11:48:18 GMT</pubDate>
-      <category>celebrity</category>
-      <category>BTS</category>
-      <category>K-Pop</category>
-      <category>Pregnancy Announcement</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-member-reveals.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-member-reveals.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-member-reveals.webp" />
     </item>
   </channel>
 </rss>

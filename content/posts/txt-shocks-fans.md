@@ -1,37 +1,43 @@
 ---
 title: "TXT Shocks Fans"
-excerpt: "TXT sells 1.5M albums in 2 days!"
-summary: "TXT's new mini album '7TH YEAR: A Moment Of Stillness In The Thorns' has surpassed 1.5 million sales in just two days, topping global charts with its title track 'Stick With You'. The album's success is a testament to the group's growing popularity. According to Hanteo Chart, the album's sales have broken records, solidifying TXT's position in the K-Pop industry."
-commentary: "TXT's latest comeback is a significant milestone in the group's career, marking a new era of musical growth and experimentation. \n\n The album's title track 'Stick With You' has resonated with fans worldwide, topping global charts and showcasing the group's ability to create catchy and meaningful songs. \n\n The success of '7TH YEAR: A Moment Of Stillness In The Thorns' is also a reflection of the group's dedicated fan base, who have been eagerly awaiting new music from the group. \n\n As TXT continues to break records and push boundaries in the K-Pop industry, fans can expect even more exciting things to come from the group in the future."
-originalTitle: "TXT Surpasses 1.5 Million Sales In 2 Days + Tops Global Charts With “7TH YEAR: A Moment Of Stillness In The Thorns”"
-category: "comeback"
-tags: ["TXT","Comeback","Charts","Album"]
-publishedAt: "2026-04-14T21:14:34.000Z"
-updatedAt: "2026-04-15T03:55:38.236Z"
+excerpt: "TXT tries babysitting!"
+summary: "Wavve's new variety show 'TXT's Parenting Diary' features the group taking care of a 14-month-old baby. The show highlights their distinct personalities as they experience childcare for the first time. The teaser showcases their unique approaches to babysitting."
+commentary: "This news matters because it showcases TXT's personalities and teamwork in a new and challenging context. \n\n The K-Pop industry has seen a rise in variety shows featuring idols taking on unusual challenges, and 'TXT's Parenting Diary' is an exciting addition to this trend. \n\n The show's concept allows fans to see a more vulnerable side of the group, which can help strengthen their bond with fans and humanize them beyond their stage personas. \n\n For TXT, this show can be a great opportunity to showcase their individuality and chemistry, potentially attracting new fans and increasing their popularity."
+originalTitle: "Watch: TXT Brings Different Ways Of Caring For Baby In New Babysitting Reality Show Teaser"
+category: "variety"
+tags: ["TXT","Variety Show","Babysitting","K-Pop"]
+publishedAt: "2026-04-23T07:35:04.000Z"
+updatedAt: "2026-04-23T15:52:48.567Z"
 source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1833091wpp/txt-surpasses-1-5-million-sales-in-2-days-tops-global-itunes-charts-with-7th-year-a-moment-of-stillness-in-the-thorns"
+sourceUrl: "https://www.soompi.com/article/1835442wpp/watch-txt-brings-different-ways-of-caring-for-baby-in-new-babysitting-reality-show-teaser"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/txt-shocks-fans.webp"
-isAIGenerated: true
+isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-TXT's new mini album '7TH YEAR: A Moment Of Stillness In The Thorns' has surpassed 1.5 million sales in just two days, topping global charts with its title track 'Stick With You'. The album's success is a testament to the group's growing popularity. According to Hanteo Chart, the album's sales have broken records, solidifying TXT's position in the K-Pop industry.
+Wavve's new variety show 'TXT's Parenting Diary' features the group taking care of a 14-month-old baby. The show highlights their distinct personalities as they experience childcare for the first time. The teaser showcases their unique approaches to babysitting.
+
+---
+
+https://www.youtube.com/watch?v=V-bPafBdOaQ
+
 ---
 
 ## Our Take
 
-TXT's latest comeback is a significant milestone in the group's career, marking a new era of musical growth and experimentation. 
+This news matters because it showcases TXT's personalities and teamwork in a new and challenging context. 
 
- The album's title track 'Stick With You' has resonated with fans worldwide, topping global charts and showcasing the group's ability to create catchy and meaningful songs. 
+ The K-Pop industry has seen a rise in variety shows featuring idols taking on unusual challenges, and 'TXT's Parenting Diary' is an exciting addition to this trend. 
 
- The success of '7TH YEAR: A Moment Of Stillness In The Thorns' is also a reflection of the group's dedicated fan base, who have been eagerly awaiting new music from the group. 
+ The show's concept allows fans to see a more vulnerable side of the group, which can help strengthen their bond with fans and humanize them beyond their stage personas. 
 
- As TXT continues to break records and push boundaries in the K-Pop industry, fans can expect even more exciting things to come from the group in the future.
+ For TXT, this show can be a great opportunity to showcase their individuality and chemistry, potentially attracting new fans and increasing their popularity.
 
 ---
 
 ### Related Links
 
-- [TXT](https://www.viki.com/celebrities/22554pr-tomorrow-x-together?utm_source=soompi&utm_medium=music&utm_campaign=txt-surpasses-1-5-million-sales-in-2-days-tops-global-itunes-charts-with-7th-year-a-moment-of-stillness-in-the-thorns&utm_content_id=1833091wpp)
-- [Idol Festa Attack](https://www.viki.com/tv/41219c-idol-festa-attack?utm_source=soompi&utm_medium=music&utm_campaign=txt-surpasses-1-5-million-sales-in-2-days-tops-global-itunes-charts-with-7th-year-a-moment-of-stillness-in-the-thorns&utm_content_id=1833091wpp)
+- [TXT](https://www.viki.com/celebrities/22554pr-tomorrow-x-together?utm_source=soompi&utm_medium=tvfilm&utm_campaign=watch-txt-brings-different-ways-of-caring-for-baby-in-new-babysitting-reality-show-teaser&utm_content_id=1835442wpp)
+- [Yeonjun](https://www.viki.com/celebrities/25018pr-yeonjun-txt?utm_source=soompi&utm_medium=tvfilm&utm_campaign=watch-txt-brings-different-ways-of-caring-for-baby-in-new-babysitting-reality-show-teaser&utm_content_id=1835442wpp)
+- [Idol Festa Attack](https://www.viki.com/tv/41219c-idol-festa-attack?utm_source=soompi&utm_medium=tvfilm&utm_campaign=watch-txt-brings-different-ways-of-caring-for-baby-in-new-babysitting-reality-show-teaser&utm_content_id=1835442wpp)
 - [Tiktok](https://www.tiktok.com/@soompi)
