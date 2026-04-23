@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/the-boyz-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T10:32:53.000Z</news:publication_date>
+      <news:title>THE BOYZ Shocks Fans</news:title>
+      <news:keywords>THE BOYZ, Contract Dispute, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jisoo-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T09:49:49.000Z</news:publication_date>
+      <news:title>Jisoo Breaks Silence</news:title>
+      <news:keywords>BLACKPINK, Jisoo, Family Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jisoo-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T09:25:24.000Z</news:publication_date>
+      <news:title>BLACKPINK Jisoo Breaks Silence</news:title>
+      <news:keywords>BLACKPINK, Jisoo, Family</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jin-young-makes-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T09:06:32.000Z</news:publication_date>
+      <news:title>Jin Young Makes History</news:title>
+      <news:keywords>Debut, Jin Young, Mr Shota’s Last Business Trip, Film, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T07:53:59.000Z</news:publication_date>
+      <news:title>BTS Breaks Silence</news:title>
+      <news:keywords>BTS, K-Drama, MBC, Shin Ha Kyun, Oh Jung Se</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-reveals/</loc>
     <news:news>
       <news:publication>
@@ -359,66 +419,6 @@
       <news:publication_date>2026-04-21T12:27:33.000Z</news:publication_date>
       <news:title>5th Gen Idol Shocks Fans</news:title>
       <news:keywords>5th Gen Idol, K-Pop, Beauty Standards, Social Media</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-bum-sparks-romance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T10:19:01.000Z</news:publication_date>
-      <news:title>Kim Bum Sparks Romance</news:title>
-      <news:keywords>Kim Bum, Sold Out on You, Romantic Comedy, K-Drama, Chae Won Bin</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-plagiarism-scandal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T09:35:08.000Z</news:publication_date>
-      <news:title>BTS Plagiarism Scandal</news:title>
-      <news:keywords>BTS, SM Entertainment, Plagiarism</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-giselle-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T08:54:38.000Z</news:publication_date>
-      <news:title>aespa&apos;s Giselle Sparks Debate</news:title>
-      <news:keywords>aespa, Album, Giselle, K-Pop, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T08:27:42.000Z</news:publication_date>
-      <news:title>BTS Breaks Silence</news:title>
-      <news:keywords>BTS, K-Drama, MBC, Shin Ha Kyun</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyz-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T07:36:18.000Z</news:publication_date>
-      <news:title>THE BOYZ Shocks Fans</news:title>
-      <news:keywords>THE BOYZ, Comeback, Contract Dispute, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>

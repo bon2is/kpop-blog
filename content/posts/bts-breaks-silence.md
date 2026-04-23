@@ -1,39 +1,44 @@
 ---
 title: "BTS Breaks Silence"
-excerpt: "K-Drama sparks debate!"
-summary: "MBC's upcoming drama “Fifties Professionals” has unveiled new posters featuring Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae. The action-comedy follows three middle-aged men who are brought back into action by destiny. The drama is set to air on MBC's Friday-Saturday slot."
-commentary: "The release of new posters for “Fifties Professionals” has generated significant buzz among K-Drama fans. \n\n The drama's unique blend of action and comedy is expected to resonate with viewers, particularly given the talented cast. \n\n Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae are all seasoned actors with a proven track record of delivering compelling performances. \n\n As the drama's premiere date approaches, fans are eagerly anticipating the opportunity to see these talented actors bring their characters to life on screen."
-originalTitle: "Shin Ha Kyun, Oh Jung Se, And Heo Sung Tae Look Up With Tense Gazes In New Drama “Fifties Professionals” Posters"
+excerpt: "K-Drama excitement builds!"
+summary: "MBC's new drama 'Fifties Professionals' has released its first teaser, featuring Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae. The action-comedy follows three middle-aged men who were once at the top of their fields but are now exiled to a remote island. The drama promises to bring back the glory days of its characters through action and comedy."
+commentary: "The release of 'Fifties Professionals' teaser has sparked excitement among K-Drama fans, who are eager to see the unique blend of action and comedy. \n\n The drama's premise, which revolves around three ordinary-looking but secretly dangerous men, offers a fresh take on the traditional action-comedy genre. \n\n The cast, including Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae, brings a wealth of experience and talent to the drama, which is expected to be a major factor in its success. \n\n As the K-Drama industry continues to grow in popularity worldwide, 'Fifties Professionals' is poised to capitalize on this trend and attract a large and dedicated fan base."
+originalTitle: "Watch: Shin Ha Kyun, Oh Jung Se, And Heo Sung Tae Get Back Up To Restore Their Past Glory In New Drama “Fifties Professionals” Teaser"
 category: "drama"
-tags: ["BTS","K-Drama","MBC","Shin Ha Kyun"]
-publishedAt: "2026-04-21T08:27:42.000Z"
-updatedAt: "2026-04-21T11:51:10.731Z"
+tags: ["BTS","K-Drama","MBC","Shin Ha Kyun","Oh Jung Se"]
+publishedAt: "2026-04-23T07:53:59.000Z"
+updatedAt: "2026-04-23T11:50:50.896Z"
 source: "Soompi"
-sourceUrl: "https://www.soompi.com/article/1834685wpp/shin-ha-kyun-oh-jung-se-and-heo-sung-tae-look-up-with-tense-gazes-in-new-drama-fifties-professionals-posters"
+sourceUrl: "https://www.soompi.com/article/1835409wpp/watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-get-back-up-to-restore-their-past-glory-in-new-drama-fifties-professionals-teaser"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-breaks-silence.webp"
-isAIGenerated: true
+isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-MBC's upcoming drama “Fifties Professionals” has unveiled new posters featuring Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae. The action-comedy follows three middle-aged men who are brought back into action by destiny. The drama is set to air on MBC's Friday-Saturday slot.
+MBC's new drama 'Fifties Professionals' has released its first teaser, featuring Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae. The action-comedy follows three middle-aged men who were once at the top of their fields but are now exiled to a remote island. The drama promises to bring back the glory days of its characters through action and comedy.
+
+---
+
+https://www.youtube.com/watch?v=Yo13F5g9nIQ
+
 ---
 
 ## Our Take
 
-The release of new posters for “Fifties Professionals” has generated significant buzz among K-Drama fans. 
+The release of 'Fifties Professionals' teaser has sparked excitement among K-Drama fans, who are eager to see the unique blend of action and comedy. 
 
- The drama's unique blend of action and comedy is expected to resonate with viewers, particularly given the talented cast. 
+ The drama's premise, which revolves around three ordinary-looking but secretly dangerous men, offers a fresh take on the traditional action-comedy genre. 
 
- Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae are all seasoned actors with a proven track record of delivering compelling performances. 
+ The cast, including Shin Ha Kyun, Oh Jung Se, and Heo Sung Tae, brings a wealth of experience and talent to the drama, which is expected to be a major factor in its success. 
 
- As the drama's premiere date approaches, fans are eagerly anticipating the opportunity to see these talented actors bring their characters to life on screen.
+ As the K-Drama industry continues to grow in popularity worldwide, 'Fifties Professionals' is poised to capitalize on this trend and attract a large and dedicated fan base.
 
 ---
 
 ### Related Links
 
-- [Shin Ha Kyun](https://www.viki.com/celebrities/15031pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=shin-ha-kyun-oh-jung-se-and-heo-sung-tae-look-up-with-tense-gazes-in-new-drama-fifties-professionals-posters&utm_content_id=1834685wpp)
-- [Oh Jung Se](https://www.viki.com/celebrities/15134pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=shin-ha-kyun-oh-jung-se-and-heo-sung-tae-look-up-with-tense-gazes-in-new-drama-fifties-professionals-posters&utm_content_id=1834685wpp)
-- [Heo Sung Tae](https://www.viki.com/celebrities/21477pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=shin-ha-kyun-oh-jung-se-and-heo-sung-tae-look-up-with-tense-gazes-in-new-drama-fifties-professionals-posters&utm_content_id=1834685wpp)
-- [The Auditors](https://www.viki.com/tv/40633c-the-auditors?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=shin-ha-kyun-oh-jung-se-and-heo-sung-tae-look-up-with-tense-gazes-in-new-drama-fifties-professionals-posters&utm_content_id=1834685wpp)
-- [Phantom Lawyer](https://www.viki.com/tv/41427c-phantom-lawyer?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=shin-ha-kyun-oh-jung-se-and-heo-sung-tae-look-up-with-tense-gazes-in-new-drama-fifties-professionals-posters&utm_content_id=1834685wpp)
+- [Shin Ha Kyun](https://www.viki.com/celebrities/15031pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-get-back-up-to-restore-their-past-glory-in-new-drama-fifties-professionals-teaser&utm_content_id=1835409wpp)
+- [Oh Jung Se](https://www.viki.com/celebrities/15134pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-get-back-up-to-restore-their-past-glory-in-new-drama-fifties-professionals-teaser&utm_content_id=1835409wpp)
+- [Heo Sung Tae](https://www.viki.com/celebrities/21477pr?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-get-back-up-to-restore-their-past-glory-in-new-drama-fifties-professionals-teaser&utm_content_id=1835409wpp)
+- [The Auditors](https://www.viki.com/tv/40633c-the-auditors?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-get-back-up-to-restore-their-past-glory-in-new-drama-fifties-professionals-teaser&utm_content_id=1835409wpp)
+- [Phantom Lawyer](https://www.viki.com/tv/41427c-phantom-lawyer?utm_source=soompi&utm_medium=preview-dramas&utm_campaign=watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-get-back-up-to-restore-their-past-glory-in-new-drama-fifties-professionals-teaser&utm_content_id=1835409wpp)
