@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-ji-hoon-sparks-laughter/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T03:35:12.000Z</news:publication_date>
+      <news:title>Park Ji Hoon Sparks Laughter</news:title>
+      <news:keywords>K-Drama, Park Ji Hoon, The Legend of Kitchen Soldier, Comedy, Fantasy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jennie-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T03:04:57.000Z</news:publication_date>
+      <news:title>Jennie Sparks Debate</news:title>
+      <news:keywords>BLACKPINK, Jennie, Fashion, Red Carpet</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-exec-sparks-manhunt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T02:12:18.000Z</news:publication_date>
+      <news:title>HYBE Exec Sparks Manhunt</news:title>
+      <news:keywords>BTS, HYBE, K-Pop, Interpol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-breaks-record/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T01:47:11.000Z</news:publication_date>
+      <news:title>BLACKPINK Breaks Record</news:title>
+      <news:keywords>BLACKPINK, MV, Shut Down, YouTube, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-member-opens-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T01:14:59.000Z</news:publication_date>
+      <news:title>NCT Member Opens Up</news:title>
+      <news:keywords>NCT, Mark, K-Pop Lineup Changes, Comeback, Group Dynamics</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ayaka-miyoshi-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -383,66 +443,6 @@
       <news:publication_date>2026-04-22T04:22:46.000Z</news:publication_date>
       <news:title>BTS Sparks Debate</news:title>
       <news:keywords>BTS, Light Stick, K-Pop, Fan Engagement, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ong-seong-wu-joins-spellbound/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T03:15:10.000Z</news:publication_date>
-      <news:title>Ong Seong Wu Joins Spellbound</news:title>
-      <news:keywords>K-Drama, Ong Seong Wu, Park Eun Bin, Yang Se Jong, Occult Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-ji-hoon-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T01:54:13.000Z</news:publication_date>
-      <news:title>Park Ji Hoon Reveals</news:title>
-      <news:keywords>K-Drama, Park Ji Hoon, The King&apos;s Warden, Singles Korea, Singles Japan</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyz-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T01:10:48.000Z</news:publication_date>
-      <news:title>THE BOYZ Sparks Debate</news:title>
-      <news:keywords>THE BOYZ, ONE HUNDRED, Contract Dispute, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-reveals-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T00:16:52.000Z</news:publication_date>
-      <news:title>KATSEYE Reveals Comeback</news:title>
-      <news:keywords>Comeback, KATSEYE, PINKY UP, K-Pop, Music Shows</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lngshot-names-fans-shotties/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-21T18:09:17.000Z</news:publication_date>
-      <news:title>LNGSHOT Names Fans &apos;SHOTTIES&apos;</news:title>
-      <news:keywords>Awards, Album, LNGSHOT, Fan Club, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
