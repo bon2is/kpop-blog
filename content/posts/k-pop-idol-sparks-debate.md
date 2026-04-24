@@ -1,36 +1,29 @@
 ---
 title: "K-Pop Idol Sparks Debate"
-excerpt: "Idol's shocking acting debut role!"
-summary: "A K-Pop idol has made his acting debut in a surprising role, sparking debate among fans. The idol's character is described as a 'MILF connoisseur', leaving many to question the choice. This move marks a significant departure from the idol's typical persona, generating considerable buzz in the K-Pop community."
-commentary: "The K-Pop idol's decision to take on this role is a bold move, especially given the potential backlash. \n\n This acting debut comes at a time when K-Pop idols are increasingly exploring acting careers, with some achieving significant success. \n\n The role's controversy may actually work in the idol's favor, generating more publicity and attention for the project. \n\n Ultimately, this debut will be a test of the idol's acting chops and ability to navigate complex, potentially divisive characters, which could make or break their acting career."
-originalTitle: "K-Pop Idol Makes His Acting Debut As A “MILF Connoisseur”"
-category: "audition"
-tags: ["Debut","K-Pop","Acting Debut","Comeback"]
-publishedAt: "2026-04-18T18:58:17.000Z"
-updatedAt: "2026-04-19T04:11:16.941Z"
+excerpt: "Idol caught with vape, faces backlash"
+summary: "A popular SM Entertainment male idol has been allegedly caught with a vape, inciting major criticism from fans. This incident has sparked a debate about the influence of idols on their fans. The idol's management team has not released a statement yet."
+commentary: "The news of the idol being caught with a vape has sent shockwaves through the K-Pop community, with many fans expressing their disappointment and frustration. \n\n This incident highlights the immense pressure idols face to maintain a perfect image, and the consequences they face when they are perceived to have failed. \n\n The backlash the idol is facing also underscores the significant influence K-Pop idols have on their fans, particularly younger ones, and the need for them to be mindful of their actions. \n\n As the incident continues to unfold, it will be interesting to see how the idol's management team responds and what measures they take to address the situation."
+originalTitle: "Popular SM Entertainment Male Idol Allegedly Caught With Vape — Inciting Major Backlash"
+category: "news"
+tags: ["SM Entertainment","K-Pop","Backlash","Idol","Vape"]
+publishedAt: "2026-04-24T09:10:30.000Z"
+updatedAt: "2026-04-24T15:08:20.421Z"
 source: "Koreaboo"
-sourceUrl: "https://www.koreaboo.com/news/kard-bm-acting-debut-kpop-idol-makes-acting-debut-milf-connoisseur/"
+sourceUrl: "https://www.koreaboo.com/news/popular-sm-entertainment-male-idol-riize-eunseok-vape-airport-criticism/"
 thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-idol-sparks-debate.webp"
 isAIGenerated: true
 author: "KPOP Daily"
 ---
 
-A K-Pop idol has made his acting debut in a surprising role, sparking debate among fans. The idol's character is described as a 'MILF connoisseur', leaving many to question the choice. This move marks a significant departure from the idol's typical persona, generating considerable buzz in the K-Pop community.
+A popular SM Entertainment male idol has been allegedly caught with a vape, inciting major criticism from fans. This incident has sparked a debate about the influence of idols on their fans. The idol's management team has not released a statement yet.
 ---
 
 ## Our Take
 
-The K-Pop idol's decision to take on this role is a bold move, especially given the potential backlash. 
+The news of the idol being caught with a vape has sent shockwaves through the K-Pop community, with many fans expressing their disappointment and frustration. 
 
- This acting debut comes at a time when K-Pop idols are increasingly exploring acting careers, with some achieving significant success. 
+ This incident highlights the immense pressure idols face to maintain a perfect image, and the consequences they face when they are perceived to have failed. 
 
- The role's controversy may actually work in the idol's favor, generating more publicity and attention for the project. 
+ The backlash the idol is facing also underscores the significant influence K-Pop idols have on their fans, particularly younger ones, and the need for them to be mindful of their actions. 
 
- Ultimately, this debut will be a test of the idol's acting chops and ability to navigate complex, potentially divisive characters, which could make or break their acting career.
-
----
-
-### Related Links
-
-- [pic.twitter.com/8SrT75Omuw](https://t.co/8SrT75Omuw)
-- [pic.twitter.com/eEQjurIdMW](https://t.co/eEQjurIdMW)
+ As the incident continues to unfold, it will be interesting to see how the idol's management team responds and what measures they take to address the situation.
