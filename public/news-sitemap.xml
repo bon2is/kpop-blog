@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jyp-in-jeopardy/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T06:54:42.000Z</news:publication_date>
+      <news:title>JYP In Jeopardy</news:title>
+      <news:keywords>TWICE, ITZY, JYP Entertainment, K-Pop, Office Building</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-sparks-drama/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T06:38:27.000Z</news:publication_date>
+      <news:title>IU Sparks Drama</news:title>
+      <news:keywords>IU, K-Drama, Byeon Woo Seok, Romance, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sm-idols-depart/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T05:26:03.000Z</news:publication_date>
+      <news:title>SM Idols Depart</news:title>
+      <news:keywords>SM Entertainment, Idol Departure, K-Pop Industry</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/close-your-eyes-ma-jingxiang-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T04:47:00.000Z</news:publication_date>
+      <news:title>CLOSE YOUR EYES&apos; Ma Jingxiang Breaks Silence</news:title>
+      <news:keywords>Comeback, CLOSE YOUR EYES, Ma Jingxiang, K-Pop, Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-ji-hoon-sparks-laughter/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-04-24T01:14:59.000Z</news:publication_date>
       <news:title>NCT Member Opens Up</news:title>
       <news:keywords>NCT, Mark, K-Pop Lineup Changes, Comeback, Group Dynamics</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/flare-u-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T16:07:27.000Z</news:publication_date>
+      <news:title>FLARE U Reveals</news:title>
+      <news:keywords>Debut, FLARE U, K-Pop Duo, BOYS II PLANET</news:keywords>
     </news:news>
   </url>
   <url>
@@ -383,66 +443,6 @@
       <news:publication_date>2026-04-22T07:06:14.000Z</news:publication_date>
       <news:title>Baekhyun Sparks Debate</news:title>
       <news:keywords>Baekhyun, Galaxy Corporation, K-Pop, Recruitment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-heeseung-joins-kcon-la/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T06:36:55.000Z</news:publication_date>
-      <news:title>ENHYPEN Heeseung Joins KCON LA</news:title>
-      <news:keywords>ENHYPEN, Heeseung, KCON LA, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/baekhyun-taemin-reunite/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T06:05:28.000Z</news:publication_date>
-      <news:title>Baekhyun &amp; Taemin Reunite</news:title>
-      <news:keywords>EXO, SHINee, Taemin, Baekhyun, K-Pop Reunion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T05:47:03.000Z</news:publication_date>
-      <news:title>IVE Sparks Debate</news:title>
-      <news:keywords>IVE, Controversy, K-Pop, Feminism, Social Issues</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-hyein-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T05:46:21.000Z</news:publication_date>
-      <news:title>NewJeans Hyein Shocks Fans</news:title>
-      <news:keywords>NewJeans, Hyein, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T04:22:46.000Z</news:publication_date>
-      <news:title>BTS Sparks Debate</news:title>
-      <news:keywords>BTS, Light Stick, K-Pop, Fan Engagement, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
