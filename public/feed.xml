@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 03:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 06:16:54 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,22 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>IU Stuns at Royal Ball</title>
+      <link>https://kpop.andxo.com/article/iu-stuns-at-royal-ball/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/iu-stuns-at-royal-ball/</guid>
+      <description>IU and Byeon Woo Seok&apos;s shocking entrance!</description>
+      <pubDate>Sat, 25 Apr 2026 05:54:14 GMT</pubDate>
+      <category>drama</category>
+      <category>IU</category>
+      <category>K-Drama</category>
+      <category>Perfect Crown</category>
+      <category>Byeon Woo Seok</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-stuns-at-royal-ball.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-stuns-at-royal-ball.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-stuns-at-royal-ball.webp" />
+    </item>
     <item>
       <title>K-Pop Idol Sparks Debate</title>
       <link>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</link>
@@ -1617,21 +1633,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespa-winter-sparks-debate.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespa-winter-sparks-debate.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespa-winter-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>BTS Suga Breaks Silence</title>
-      <link>https://kpop.andxo.com/article/bts-suga-breaks-silence/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-suga-breaks-silence/</guid>
-      <description>Suga opens up about harsh scrutiny</description>
-      <pubDate>Sat, 18 Apr 2026 06:57:04 GMT</pubDate>
-      <category>celebrity</category>
-      <category>BTS</category>
-      <category>Suga</category>
-      <category>Interview</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-suga-breaks-silence.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-suga-breaks-silence.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-suga-breaks-silence.webp" />
     </item>
   </channel>
 </rss>
