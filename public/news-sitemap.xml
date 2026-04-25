@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T01:05:52.000Z</news:publication_date>
+      <news:title>K-Pop Idol Sparks Debate</news:title>
+      <news:keywords>K-Pop, Idol Life, Marriage, Luxury Apartment, Career Priority</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-members-sister-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T18:10:50.000Z</news:publication_date>
+      <news:title>BTS Member&apos;s Sister Reveals</news:title>
+      <news:keywords>BTS, K-Pop Family, Actress</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-icon-reveals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T18:00:51.000Z</news:publication_date>
+      <news:title>K-Pop Icon Reveals</news:title>
+      <news:keywords>K-Pop, Fashion, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</loc>
     <news:news>
       <news:publication>
@@ -83,18 +119,6 @@
       <news:publication_date>2026-04-24T09:42:20.000Z</news:publication_date>
       <news:title>RIIZE Makes June Return</news:title>
       <news:keywords>RIIZE, Comeback, Album, SM Entertainment, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-24T09:10:30.000Z</news:publication_date>
-      <news:title>K-Pop Idol Sparks Debate</news:title>
-      <news:keywords>SM Entertainment, K-Pop, Backlash, Idol, Vape</news:keywords>
     </news:news>
   </url>
   <url>
@@ -383,30 +407,6 @@
       <news:publication_date>2026-04-23T04:04:07.000Z</news:publication_date>
       <news:title>NewJeans Sparks Comeback Rumors</news:title>
       <news:keywords>NewJeans, Comeback, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-mark-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T20:41:47.000Z</news:publication_date>
-      <news:title>NCT Mark Sparks Debate</news:title>
-      <news:keywords>NCT, Mark Lee, K-Pop, Idol Relationships</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/rookie-group-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T19:45:39.000Z</news:publication_date>
-      <news:title>Rookie Group Sparks Debate</news:title>
-      <news:keywords>Rookie Group, Fan Controversy, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
