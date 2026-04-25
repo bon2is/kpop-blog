@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-ros-breaks-silence/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T11:11:02.000Z</news:publication_date>
+      <news:title>BLACKPINK&apos;s Rosé Breaks Silence</news:title>
+      <news:keywords>BLACKPINK, Rosé, K-Pop, Contract, Signing Bonus</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hanbyeol-passes-away/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T10:57:06.000Z</news:publication_date>
+      <news:title>Hanbyeol Passes Away</news:title>
+      <news:keywords>Hanbyeol, K-Pop Star 6, YG Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-shocks-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T09:08:28.000Z</news:publication_date>
+      <news:title>K-Pop Idol Shocks Fans</news:title>
+      <news:keywords>MV, K-Pop, Berlin, Culture Shock, Music Video</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/soyou-exposes-mole/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T08:05:20.000Z</news:publication_date>
+      <news:title>Soyou Exposes Mole</news:title>
+      <news:keywords>Soyou, SISTAR, Celebrity Scandals, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/perth-santa-shine/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T07:15:00.000Z</news:publication_date>
+      <news:title>Perth &amp; Santa Shine</news:title>
+      <news:keywords>K-Drama, Perth, Santa, Thai BL, Love You Teacher</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/iu-stuns-at-royal-ball/</loc>
     <news:news>
       <news:publication>
@@ -311,102 +371,6 @@
       <news:publication_date>2026-04-23T13:04:27.000Z</news:publication_date>
       <news:title>Rookie Idol Shoots Shot At G-Dragon</news:title>
       <news:keywords>G-Dragon, Rookie Idol, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyz-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T10:32:53.000Z</news:publication_date>
-      <news:title>THE BOYZ Shocks Fans</news:title>
-      <news:keywords>THE BOYZ, Contract Dispute, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyz-wins-contract-dispute/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T10:31:10.000Z</news:publication_date>
-      <news:title>THE BOYZ Wins Contract Dispute</news:title>
-      <news:keywords>THE BOYZ, Contract Dispute, K-Pop Law</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jisoo-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T09:49:49.000Z</news:publication_date>
-      <news:title>Jisoo Breaks Silence</news:title>
-      <news:keywords>BLACKPINK, Jisoo, Family Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jisoo-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T09:25:24.000Z</news:publication_date>
-      <news:title>BLACKPINK Jisoo Breaks Silence</news:title>
-      <news:keywords>BLACKPINK, Jisoo, Family</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jin-young-makes-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T09:06:32.000Z</news:publication_date>
-      <news:title>Jin Young Makes History</news:title>
-      <news:keywords>Debut, Jin Young, Mr Shota’s Last Business Trip, Film, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T07:53:59.000Z</news:publication_date>
-      <news:title>BTS Breaks Silence</news:title>
-      <news:keywords>BTS, K-Drama, MBC, Shin Ha Kyun, Oh Jung Se</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txt-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T07:35:04.000Z</news:publication_date>
-      <news:title>TXT Shocks Fans</news:title>
-      <news:keywords>TXT, Variety Show, Babysitting, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-reveals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T06:50:10.000Z</news:publication_date>
-      <news:title>BTS Reveals</news:title>
-      <news:keywords>BTS, Comeback, Apple</news:keywords>
     </news:news>
   </url>
 </urlset>
