@@ -22,7 +22,7 @@ export interface UnifiedSong {
   youtubeUrl: string;
   score: number;
   chartRanks: {
-    circle?: number;
+    billboard?: number;
     spotify?: number;
     youtube?: number;
   };
@@ -31,7 +31,7 @@ export interface UnifiedSong {
 export interface ChartsData {
   updatedAt: string;
   unified: UnifiedSong[];
-  circle: ChartSong[];
+  billboard: ChartSong[];
   spotify: ChartSong[];
   youtube: ChartSong[];
 }
@@ -57,76 +57,25 @@ function cleanArtist(text: string): string {
   return englishWithKorean.replace(/\s+/g, ' ').trim();
 }
 
-// ── Artist alias map (Korean name → canonical English, for cross-chart matching) ──
-// Global charts (Spotify/YouTube via kworb) use English romanizations while
-// Circle Chart returns Korean names for domestic indie/solo artists.
-const ARTIST_ALIASES: Record<string, string> = {
-  '한로로':   'hanroro',
-  '카더가든':  'carthegarden',
-  '이찬혁':   'leechanhyuk',
-  '다비치':   'davichi',
-  '임영웅':   'limyoungwoong',
-  '아이유':   'iu',
-  '박재범':   'jaypark',
-  '헤이즈':   'heize',
-  '적재':     'jukjae',
-  '이무진':   'leemujin',
-  '폴킴':     'paulkim',
-  '멜로망스':  'melodymance',
-  // Major K-pop groups: Circle Chart uses Korean names, global charts use English
-  '방탄소년단': 'bts',
-  '블랙핑크':  'blackpink',
-  '트와이스':  'twice',
-  '엑소':     'exo',
-  '빅뱅':     'bigbang',
-  '소녀시대':  'girlsgeneration',
-  '세븐틴':   'seventeen',
-  '스트레이키즈': 'straykids',
-  '아이브':   'ive',
-  '뉴진스':   'newjeans',
-  '에스파':   'aespa',
-  '르세라핌':  'lesserafim',
-  '있지':     'itzy',
-  '엔시티':   'nct',
-  '샤이니':   'shinee',
-  '인피니트':  'infinite',
-  '성시경':   'sungsikyung',
-  '로이킴':   'roykim',
-  '이창섭':   'leechungsub',
-  '김하온':   'haon',
-  '조째즈':   'jojazz',
-  // English variant → canonical (handles spacing/punctuation differences)
-  'car the garden': 'carthegarden',
-  'lee chanhyuk':   'leechanhyuk',
-};
-
-/** Normalize key for cross-chart matching: lowercase, strip non-alphanumeric/Korean */
+/** Normalize key for cross-chart matching: lowercase, strip non-alphanumeric */
 function normalizeKey(title: string, artist: string): string {
   const normalizeStr = (s: string) =>
     s
-      // Strip ALL-CAPS English parentheticals BEFORE lowercasing
-      // e.g. "뛰어(JUMP)" → "뛰어", "뛰어 (JUMP VERSION)" → "뛰어"
-      // Keeps "404 (New Era)" intact (mixed case, not all-caps)
       .replace(/\s*\([A-Z][A-Z\s]+\)/g, '')
       .toLowerCase()
       .replace(/\(feat\..*?\)/gi, '')
       .replace(/\(prod\..*?\)/gi, '')
-      .replace(/[^a-z0-9가-힣]/g, '');
+      .replace(/[^a-z0-9]/g, '');
 
-  // For multi-artist collaborations (e.g. "김하온 (HAON), Nosun, ..."),
-  // use only the first artist to improve cross-chart matching
   const primaryArtist = artist.split(',')[0].trim();
-  const normalizedArtist = normalizeStr(primaryArtist);
-  const canonicalArtist = ARTIST_ALIASES[normalizedArtist] ?? normalizedArtist;
-
-  return `${canonicalArtist}_${normalizeStr(title)}`;
+  return `${normalizeStr(primaryArtist)}_${normalizeStr(title)}`;
 }
 
 // ── Chart weights (YouTube & Spotify weighted higher for global fan focus) ──
 const WEIGHTS: Record<string, number> = {
-  youtube: 1.2,
-  spotify: 1.1,
-  circle:  1.0,
+  youtube:   1.2,
+  spotify:   1.1,
+  billboard: 1.0,
 };
 
 /** Points formula: rank 1 → 50 pts, rank 50 → 1 pt */
@@ -136,7 +85,7 @@ function rankPoints(rank: number, total: number): number {
 
 // ── Build unified chart ───────────────────────────────────────────────────────
 function buildUnifiedChart(
-  circle: ChartSong[],
+  billboard: ChartSong[],
   spotify: ChartSong[],
   youtube: ChartSong[]
 ): UnifiedSong[] {
@@ -148,11 +97,11 @@ function buildUnifiedChart(
       thumbnail?: string;
       youtubeUrl: string;
       score: number;
-      chartRanks: { circle?: number; spotify?: number; youtube?: number };
+      chartRanks: { billboard?: number; spotify?: number; youtube?: number };
     }
   >();
 
-  const addChart = (songs: ChartSong[], chartName: 'circle' | 'spotify' | 'youtube') => {
+  const addChart = (songs: ChartSong[], chartName: 'billboard' | 'spotify' | 'youtube') => {
     if (songs.length === 0) return;
     const weight = WEIGHTS[chartName];
     songs.forEach((song) => {
@@ -162,7 +111,6 @@ function buildUnifiedChart(
       if (existing) {
         existing.score += pts;
         existing.chartRanks[chartName] = song.rank;
-        // prefer circle thumbnail (has album art), then others
         if (!existing.thumbnail && song.thumbnail) existing.thumbnail = song.thumbnail;
       } else {
         map.set(key, {
@@ -177,7 +125,7 @@ function buildUnifiedChart(
     });
   };
 
-  addChart(circle, 'circle');
+  addChart(billboard, 'billboard');
   addChart(spotify, 'spotify');
   addChart(youtube, 'youtube');
 
@@ -187,83 +135,42 @@ function buildUnifiedChart(
     .map((song, i) => ({ rank: i + 1, ...song }));
 }
 
-// ── Circle Chart (circlechart.kr) ─────────────────────────────────────────────
-async function fetchCircleChart(): Promise<ChartSong[]> {
+// ── Billboard K-Pop Hot 100 ───────────────────────────────────────────────────
+async function fetchBillboardKpopChart(): Promise<ChartSong[]> {
   try {
-    console.log('Fetching Circle Chart...');
-
-    const now = new Date();
-    const year = now.getFullYear();
-    const month = now.getMonth() + 1;
-    // targetTime = week of year (1-based)
-    const startOfYear = new Date(year, 0, 1);
-    const dayOfYear = Math.floor((now.getTime() - startOfYear.getTime()) / 86400000) + 1;
-    const weekOfYear = Math.ceil(dayOfYear / 7);
-
-    // Circle Chart publishes weekly data with a 1-week delay.
-    // Try current week first, fall back up to 2 weeks if not yet published.
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    let json: any = null;
-    for (let offset = 0; offset <= 2; offset++) {
-      const targetTime = weekOfYear - offset;
-      if (targetTime < 1) break;
-      const params = new URLSearchParams({
-        nationGbn: 'T',
-        serviceGbn: 'ALL',
-        termGbn: 'week',
-        hitYear: String(year),
-        targetTime: String(targetTime),
-        yearTime: String(month),
-        PageSize: '50',
-        curUrl: 'circlechart.kr',
-      });
-      const res = await fetch('https://circlechart.kr/data/api/chart/onoff', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/x-www-form-urlencoded',
-          'User-Agent':
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-          Referer: 'https://circlechart.kr/',
-          Origin: 'https://circlechart.kr',
-        },
-        body: params.toString(),
-        timeout: 20000,
-      });
-      if (!res.ok) { console.log(`  Circle Chart returned ${res.status}`); continue; }
-      const candidate = await res.json() as { ResultStatus: string; List?: Record<string, unknown> };
-      if (candidate.ResultStatus === 'OK' && candidate.List && Object.keys(candidate.List).length > 0) {
-        json = candidate;
-        console.log(`  Circle Chart: using week ${targetTime}`);
-        break;
-      }
-    }
-
-    if (!json) {
-      console.log('  Circle Chart: no data found for recent weeks');
-      return [];
-    }
-
-    const songs: ChartSong[] = [];
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    Object.values(json.List as Record<string, any>).forEach((item: any) => {
-      const rank = parseInt(item.SERVICE_RANKING);
-      if (!rank || rank > 50) return;
-      const title = cleanTitle(String(item.SONG_NAME || ''));
-      const artist = cleanArtist(String(item.ARTIST_NAME || ''));
-      const rawImg = String(item.ALBUMIMG || '');
-      const thumbnail = rawImg
-        ? (rawImg.startsWith('http') ? rawImg : `https://circlechart.kr${rawImg}`)
-        : undefined;
-
-      if (title && artist)
-        songs.push({ rank, title, artist, thumbnail, youtubeUrl: ytSearchUrl(artist, title) });
+    console.log('Fetching Billboard K-Pop Hot 100...');
+    const res = await fetch('https://www.billboard.com/charts/k-pop-hot-100/', {
+      headers: {
+        'User-Agent':
+          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+      timeout: 20000,
     });
 
-    songs.sort((a, b) => a.rank - b.rank);
-    console.log(`  Got ${songs.length} songs from Circle Chart`);
+    if (!res.ok) { console.log(`  Billboard returned ${res.status}`); return []; }
+
+    const html: string = await res.text();
+    const $ = cheerio.load(html);
+    const songs: ChartSong[] = [];
+
+    // Billboard renders chart entries as <li class="o-chart-results-list__item">
+    // with nested title and artist spans.
+    $('li.o-chart-results-list__item').each((i, el) => {
+      if (songs.length >= 50) return;
+      const titleEl = $(el).find('h3#title-of-a-story').first();
+      const artistEl = titleEl.next('span');
+      const title = cleanTitle(titleEl.text().trim());
+      const artist = cleanArtist(artistEl.text().trim());
+      if (!title || !artist) return;
+      songs.push({ rank: songs.length + 1, title, artist, youtubeUrl: ytSearchUrl(artist, title) });
+    });
+
+    console.log(`  Got ${songs.length} songs from Billboard K-Pop`);
     return songs;
   } catch (err: unknown) {
-    console.error('  Circle Chart fetch failed:', err instanceof Error ? err.message : err);
+    console.error('  Billboard fetch failed:', err instanceof Error ? err.message : err);
     return [];
   }
 }
@@ -359,20 +266,20 @@ async function fetchYoutubeChart(): Promise<ChartSong[]> {
 
 // ── Main ─────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log('\nFetching K-Pop charts (Circle · Spotify · YouTube)...');
+  console.log('\nFetching K-Pop charts (Billboard · Spotify · YouTube)...');
 
-  const [circle, spotify, youtube] = await Promise.all([
-    fetchCircleChart(),
+  const [billboard, spotify, youtube] = await Promise.all([
+    fetchBillboardKpopChart(),
     fetchSpotifyChart(),
     fetchYoutubeChart(),
   ]);
 
-  const unified = buildUnifiedChart(circle, spotify, youtube);
+  const unified = buildUnifiedChart(billboard, spotify, youtube);
 
   const data: ChartsData = {
     updatedAt: new Date().toISOString(),
     unified,
-    circle,
+    billboard,
     spotify,
     youtube,
   };
@@ -382,10 +289,10 @@ async function main() {
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
 
   console.log(`\nDone! Saved to public/data/charts.json`);
-  console.log(`  Circle:   ${circle.length} songs`);
-  console.log(`  Spotify:  ${spotify.length} songs`);
-  console.log(`  YouTube:  ${youtube.length} songs`);
-  console.log(`  Unified:  ${unified.length} songs`);
+  console.log(`  Billboard: ${billboard.length} songs`);
+  console.log(`  Spotify:   ${spotify.length} songs`);
+  console.log(`  YouTube:   ${youtube.length} songs`);
+  console.log(`  Unified:   ${unified.length} songs`);
   console.log(`  Updated at: ${data.updatedAt}`);
 }
 

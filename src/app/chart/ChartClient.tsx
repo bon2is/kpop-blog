@@ -15,7 +15,7 @@ interface ChartClientProps {
 }
 
 type ArticleTab = 'views' | 'likes' | 'recent';
-type MusicTab = 'unified' | 'circle' | 'spotify' | 'youtube';
+type MusicTab = 'unified' | 'billboard' | 'spotify' | 'youtube';
 
 interface ScoredArticle extends Article {
   views: number;
@@ -35,7 +35,7 @@ function RankBadge({ rank, size = 'md' }: { rank: number; size?: 'sm' | 'md' }) 
 // ── Chart rank badges shown on unified view ───────────────────────────────────
 function ChartBadges({ chartRanks }: { chartRanks: UnifiedSong['chartRanks'] }) {
   const labels: { key: keyof typeof chartRanks; label: string; color: string }[] = [
-    { key: 'circle',  label: 'C', color: '#FF6B9D' },
+    { key: 'billboard', label: 'B', color: '#1a1a1a' },
     { key: 'spotify', label: 'S', color: '#1DB954' },
     { key: 'youtube', label: 'Y', color: '#FF0000' },
   ];
@@ -147,7 +147,7 @@ function MusicCharts() {
     ? (
         [
           { key: 'unified' as MusicTab, label: 'Unified',      color: '#FF6B9D', count: data.unified.length },
-          { key: 'circle'  as MusicTab, label: 'Circle Chart', color: '#FF6B9D', count: data.circle.length },
+          { key: 'billboard' as MusicTab, label: 'Billboard', color: '#1a1a1a', count: data.billboard.length },
           { key: 'spotify' as MusicTab, label: 'Spotify',      color: '#1DB954', count: data.spotify.length },
           { key: 'youtube' as MusicTab, label: 'YouTube',      color: '#FF0000', count: data.youtube.length },
         ] as { key: MusicTab; label: string; color: string; count: number }[]
@@ -157,7 +157,7 @@ function MusicCharts() {
   const songs =
     !data ? [] :
     tab === 'unified' ? data.unified :
-    tab === 'circle'  ? data.circle  :
+    tab === 'billboard' ? data.billboard :
     tab === 'spotify' ? data.spotify :
     data.youtube;
 

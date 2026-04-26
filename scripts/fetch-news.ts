@@ -1554,36 +1554,35 @@ async function generateSafeContent(
   aiTags?: string[];
 } | null> {
   try {
-    const prompt = `You are a K-Pop news analyst writing for a blog. Create ORIGINAL content about this news story.
+    const prompt = `You are a K-Pop journalist writing full-length articles for kpop.andxo.com, an English K-Pop news blog.
 
-STRUCTURE YOUR RESPONSE WITH CLEAR PARAGRAPHS:
-0. title: Rewrite the headline to maximize clicks on Google Discover and social media.
-   RULES for title:
-   - Keep it under 70 characters
-   - Lead with the artist/group name if it's a major act (BTS, BLACKPINK, etc.)
-   - Use emotional or curiosity-driven language: "Shocks Fans", "Breaks Silence", "Reveals", "Makes History", "Sparks Debate", "You Won't Believe", etc.
-   - Be specific — include a key detail (album name, award, number) when relevant
-   - Do NOT use clickbait that misrepresents the story
-   - Example rewrites:
-     - "BTS Announces New Album" → "BTS Drops Surprise Album Announcement — Release Date Revealed"
-     - "BLACKPINK Jennie Attends Event" → "BLACKPINK Jennie Stuns at Paris Fashion Week in Rare Appearance"
-1. excerpt: One punchy sentence (under 160 chars) that makes someone want to click.
-2. summary: A factual summary of the news (2-3 sentences)
-3. commentary: Your ORIGINAL analysis split into 3-4 SHORT paragraphs (use "\\n\\n" to separate paragraphs). Each paragraph should be 2-3 sentences. Cover:
-   - Why this news matters
-   - Context in the K-Pop industry
-   - What this means for fans or the artist's career
-4. tags: An array of 3-5 relevant keyword tags for this article. Include:
-   - Artist/group names mentioned (e.g., "BTS", "BLACKPINK", "IVE")
-   - Topic keywords (e.g., "Comeback", "Concert", "Album", "Charts", "Awards", "Debut", "Tour", "K-Drama", "Fashion", "Variety")
-   - Only include tags that are genuinely relevant to the article content
+Write a DETAILED, INFORMATIVE article (700-1000 words) about this news story.
+Use "\\n\\n" to separate paragraphs. Use "## Heading" for section headers.
+
+RESPOND IN JSON with these exact keys:
+
+excerpt: A single compelling sentence (under 160 chars) that summarizes the story and hooks readers.
+
+summary: A 2-sentence factual summary for social media and meta description. Keep it concise.
+
+body: The full article in markdown format. Structure it as follows:
+  [Opening paragraph — hook the reader with the most interesting aspect. 2-3 sentences.]\\n\\n
+  ## Background\\n\\n
+  [Who are the artist(s)? Career highlights, recent releases, group history. 2-3 paragraphs. Be detailed — help readers who may not know them well.]\\n\\n
+  ## What Happened\\n\\n
+  [All the news facts: what was announced/released/happened, when, where, any quotes or details. 2-3 paragraphs. Be specific.]\\n\\n
+  ## Why This Matters\\n\\n
+  [Significance for the artist, the K-Pop industry, and fans. Industry context and comparisons. Career impact. 2-3 paragraphs.]\\n\\n
+  ## What Fans Can Expect\\n\\n
+  [What fans are excited about, upcoming releases or events, what to look forward to. 1-2 paragraphs.]
+
+tags: Array of 3-5 keyword tags. Include artist/group names (e.g., "BTS", "BLACKPINK") and topic keywords (e.g., "Comeback", "Concert", "Album", "Charts", "Awards", "K-Drama").
 
 Original Title: ${title}
-Original Content Snippet: ${content.slice(0, 500)}
+Source Content: ${content.slice(0, 800)}
 Source: ${source}
 
-Respond in JSON format with these exact keys: title, excerpt, summary, commentary, tags
-CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This makes the content readable.`;
+IMPORTANT: Write each section thoroughly. Target 700-1000 words total in the body field. Use "\\n\\n" between ALL paragraphs.`;
 
     let response;
     for (let attempt = 0; attempt < 3; attempt++) {
@@ -1594,12 +1593,12 @@ CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This
           messages: [
             {
               role: 'system',
-              content: 'You are a K-Pop industry analyst. Write engaging, well-structured content with multiple short paragraphs. Use "\\n\\n" in the commentary field to separate paragraphs. Respond with valid JSON only.',
+              content: 'You are a K-Pop journalist. Write detailed, engaging full-length articles. Always respond with valid JSON only. Use "\\n\\n" to separate paragraphs in the body field.',
             },
             { role: 'user', content: prompt },
           ],
-          temperature: 0.8,
-          max_tokens: 1200,
+          temperature: 0.7,
+          max_tokens: 2500,
           response_format: { type: 'json_object' },
         });
         break;
@@ -1624,47 +1623,31 @@ CRITICAL: In the commentary field, use "\\n\\n" to create paragraph breaks. This
     const parsed = safeJSONParse(jsonMatch[0]);
     if (!parsed) return null;
 
-    // Process commentary to ensure proper paragraph breaks
-    let commentary = parsed.commentary || '';
-    // Convert escaped newlines to actual newlines
-    commentary = commentary.replace(/\\n\\n/g, '\n\n').replace(/\\n/g, '\n');
+    // Parse the full article body
+    const body = (parsed.body || parsed.commentary || parsed.summary || '').replace(/\\n\\n/g, '\n\n').replace(/\\n/g, '\n');
 
-    // Build content sections
-    let contentParts: string[] = [];
+    // Build content: article body + YouTube embeds + external links
+    let contentParts: string[] = [body];
 
-    // Add summary
-    contentParts.push(parsed.summary);
-
-    // Add YouTube embeds if available
+    // Add YouTube embeds after article body
     if (extractedMedia?.youtubeLinks && extractedMedia.youtubeLinks.length > 0) {
-      contentParts.push('');
-      contentParts.push('---');
-      contentParts.push('');
+      contentParts.push('\n---\n');
       for (const ytLink of extractedMedia.youtubeLinks) {
         contentParts.push(ytLink);
         contentParts.push('');
       }
     }
 
-    contentParts.push('---');
-    contentParts.push('');
-    contentParts.push('## Our Take');
-    contentParts.push('');
-    contentParts.push(commentary);
-
     // Add external links if available
     if (extractedMedia?.externalLinks && extractedMedia.externalLinks.length > 0) {
-      contentParts.push('');
-      contentParts.push('---');
-      contentParts.push('');
-      contentParts.push('### Related Links');
-      contentParts.push('');
+      contentParts.push('\n---\n\n### Related Links\n');
       for (const link of extractedMedia.externalLinks.slice(0, 5)) {
         contentParts.push(`- [${link.text}](${link.url})`);
       }
     }
 
     const structuredContent = contentParts.join('\n');
+    const commentary = parsed.summary || '';
 
     // Extract AI-generated tags
     const aiTags: string[] = Array.isArray(parsed.tags)
@@ -1984,42 +1967,20 @@ async function main(): Promise<void> {
       }
 
       // Detect category
-      const category = detectCategory(safeContent.title, safeContent.content);
-      const slug = generateSlug(safeContent.title);
+      const category = detectCategory(item.title, safeContent.content);
+      const slug = generateSlug(item.title);
 
-      // --- Image strategy: Wikipedia → Last.fm → Melon crawl → Melon API → YouTube → AI ---
+      // --- Image strategy: og:image → YouTube → AI ---
       let thumbnail: string | undefined;
       let isAIGenerated = false;
 
-      // Extract the K-pop artist/group for official image search
-      const subject = extractKpopSubject(safeContent.title, safeContent.summary);
-      if (subject) console.log(`  Subject: ${subject}`);
-
-      // 1) Wikipedia: official artist/group page photo
-      if (subject) {
-        thumbnail = await fetchArtistImageWikipedia(subject, slug, usedSourceUrls);
-        if (thumbnail) console.log(`  Thumbnail: Wikipedia`);
+      // 1) og:image from original article (editorial/promotional photo)
+      if (extractedMedia.ogImage) {
+        thumbnail = await downloadImageFromUrl(extractedMedia.ogImage, slug);
+        if (thumbnail) console.log(`  Thumbnail: og:image`);
       }
 
-      // 2) Last.fm: official artist photo (scraped from artist page)
-      if (!thumbnail && subject) {
-        thumbnail = await fetchArtistImageLastFm(subject, slug, usedSourceUrls);
-        if (thumbnail) console.log(`  Thumbnail: Last.fm`);
-      }
-
-      // 3) Melon crawl: artist image from Melon search HTML
-      if (!thumbnail && subject) {
-        thumbnail = await fetchArtistImageMelonCrawl(subject, slug, usedSourceUrls);
-        if (thumbnail) console.log(`  Thumbnail: Melon crawl`);
-      }
-
-      // 4) Melon API: artist image via Melon CDN/API
-      if (!thumbnail && subject) {
-        thumbnail = await fetchArtistImageMelonApi(subject, slug, usedSourceUrls);
-        if (thumbnail) console.log(`  Thumbnail: Melon API`);
-      }
-
-      // 5) YouTube thumbnail from extracted article links
+      // 2) YouTube thumbnail from extracted article links
       if (!thumbnail && extractedMedia.youtubeLinks.length > 0) {
         const videoId = extractYouTubeId(extractedMedia.youtubeLinks[0]);
         if (videoId) {
@@ -2031,9 +1992,9 @@ async function main(): Promise<void> {
         }
       }
 
-      // 6) AI-generated fallback (last resort)
+      // 3) AI-generated fallback (last resort)
       if (!thumbnail) {
-        thumbnail = await generateAIImage(category, safeContent.title, safeContent.summary, slug);
+        thumbnail = await generateAIImage(category, item.title, safeContent.summary, slug);
         if (thumbnail) isAIGenerated = true;
         console.log(`  Thumbnail: ${thumbnail ? 'AI-generated (fallback)' : 'skipped'}`);
       }
@@ -2041,7 +2002,7 @@ async function main(): Promise<void> {
       // Create article with new structure
       const article: ProcessedArticle = {
         slug,
-        title: safeContent.title,
+        title: item.title,
         excerpt: safeContent.excerpt,
         content: safeContent.content,
         summary: safeContent.summary,
@@ -2049,7 +2010,7 @@ async function main(): Promise<void> {
         originalTitle: item.title,
         category,
         tags: mergeTags(
-          extractTags(safeContent.title, safeContent.content),
+          extractTags(item.title, safeContent.content),
           safeContent.aiTags || []
         ),
         publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
