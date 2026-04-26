@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/male-idol-bows-head-live-after-shocking-cultural-appropriati/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-26T13:24:11.000Z</news:publication_date>
+      <news:title>Male Idol Bows Head Live After Shocking Cultural Appropriation Video Triggers Scathing Backlash</news:title>
+      <news:keywords>K-Pop, Cultural Appropriation, Male Idol, Backlash, Apology</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-iu-byeon-woo-seok-and-more-realistically-portray-their/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-26T12:02:35.000Z</news:publication_date>
+      <news:title>Watch: IU, Byeon Woo Seok, And More Realistically Portray Their Characters On Set Of “Perfect Crown”</news:title>
+      <news:keywords>IU, Debut, K-Drama, Byeon Woo Seok, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-kim-hyang-gi-cha-hak-yeon-and-more-give-their-all-whil/</loc>
     <news:news>
       <news:publication>
@@ -251,42 +275,6 @@
       <news:publication_date>2026-04-24T18:00:51.000Z</news:publication_date>
       <news:title>K-Pop Icon Reveals</news:title>
       <news:keywords>K-Pop, Fashion, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennie-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-24T13:55:41.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie Sparks Debate</news:title>
-      <news:keywords>BLACKPINK, Jennie, Body Image, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafim-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-24T12:21:09.000Z</news:publication_date>
-      <news:title>LE SSERAFIM Sparks Debate</news:title>
-      <news:keywords>LE SSERAFIM, Comeback, K-Pop, Debate</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-idols-shocked/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-24T12:00:45.000Z</news:publication_date>
-      <news:title>HYBE Idols Shocked</news:title>
-      <news:keywords>HYBE, K-Pop, Gender Equality, Idol Culture</news:keywords>
     </news:news>
   </url>
 </urlset>
