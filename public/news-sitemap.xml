@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-got7s-park-jinyoung-announces-solo-comeback-date-with-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T15:42:54.000Z</news:publication_date>
+      <news:title>Watch: GOT7’s Park Jinyoung Announces Solo Comeback Date With “Said &amp; Done” Trailer</news:title>
+      <news:keywords>GOT7, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-member-embroiled-in-matchmaking-with-megan-thee-stallion/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T14:05:13.000Z</news:publication_date>
+      <news:title>BTS Member Embroiled In “Matchmaking” With Megan Thee Stallion — Female Idol Shockingly Mentioned</news:title>
+      <news:keywords>BTS, Awards, Charts, MV, Megan Thee Stallion</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/exo-baekhyuns-shocking-visuals-in-viral-photos-trigger-stron/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +35,18 @@
       <news:publication_date>2026-04-27T11:31:28.000Z</news:publication_date>
       <news:title>EXO Baekhyun’s Shocking Visuals In Viral Photos Trigger Strong Reactions</news:title>
       <news:keywords>EXO, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5th-gen-idols-viral-photo-together-sparks-dating-rumors-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T10:37:19.000Z</news:publication_date>
+      <news:title>5th Gen Idols’ Viral Photo Together Sparks Dating Rumors </news:title>
+      <news:keywords>Debut, Charts, 5th Gen Idols, Dating Rumors, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -83,6 +119,18 @@
       <news:publication_date>2026-04-26T22:41:09.000Z</news:publication_date>
       <news:title>Watch: Sung Han Bin, Lee Gikwang, Soyou, And Sandeul Feel A Generation Gap In “Knowing Bros” Preview</news:title>
       <news:keywords>ZEROBASEONE, Awards, K-Pop, Knowing Bros, Sung Han Bin</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/update-ncts-taeyong-gears-up-for-solo-comeback-with-schedule/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-26T15:29:26.000Z</news:publication_date>
+      <news:title>Update: NCT’s Taeyong Gears Up For Solo Comeback With Schedule Poster For “WYLD”</news:title>
+      <news:keywords>BTS, BLACKPINK, NCT, Comeback, Debut</news:keywords>
     </news:news>
   </url>
   <url>
@@ -239,30 +287,6 @@
       <news:publication_date>2026-04-25T22:58:24.000Z</news:publication_date>
       <news:title>Watch: TXT Takes 1st-Ever “Music Core” Win With “Stick With You”; Performances By LE SSERAFIM, NCT WISH, CORTIS, And More</news:title>
       <news:keywords>NCT, LE SSERAFIM, TXT, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-zerobaseone-gears-up-for-comeback-with-cinematic-a-fil/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T15:25:14.000Z</news:publication_date>
-      <news:title>Watch: ZEROBASEONE Gears Up For Comeback With Cinematic “A-Film”</news:title>
-      <news:keywords>ZEROBASEONE, Comeback, Debut, K-Pop, A-Film</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cortis-keonho-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T13:39:06.000Z</news:publication_date>
-      <news:title>CORTIS Keonho Shocks Fans</news:title>
-      <news:keywords>CORTIS, Keonho, Height Debate, K-Pop Idols, Body Image</news:keywords>
     </news:news>
   </url>
 </urlset>
