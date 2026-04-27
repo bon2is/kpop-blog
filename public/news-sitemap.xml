@@ -277,28 +277,4 @@
       <news:keywords>Soyou, SISTAR, Celebrity Scandals, K-Pop</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/perth-santa-shine/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T07:15:00.000Z</news:publication_date>
-      <news:title>Perth &amp; Santa Shine</news:title>
-      <news:keywords>K-Drama, Perth, Santa, Thai BL, Love You Teacher</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-stuns-at-royal-ball/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T05:54:14.000Z</news:publication_date>
-      <news:title>IU Stuns at Royal Ball</news:title>
-      <news:keywords>IU, K-Drama, Perfect Crown, Byeon Woo Seok</news:keywords>
-    </news:news>
-  </url>
 </urlset>
