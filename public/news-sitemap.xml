@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/exo-baekhyuns-shocking-visuals-in-viral-photos-trigger-stron/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T11:31:28.000Z</news:publication_date>
+      <news:title>EXO Baekhyun’s Shocking Visuals In Viral Photos Trigger Strong Reactions</news:title>
+      <news:keywords>EXO, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/shin-hae-sun-confirmed-to-appear-on-you-quiz-on-the-block/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T08:36:00.000Z</news:publication_date>
+      <news:title>Shin Hae Sun Confirmed To Appear On “You Quiz On The Block”</news:title>
+      <news:keywords>Awards, K-Drama, Shin Hae Sun, You Quiz On The Block, Variety Show</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-proposes-a-deal-that-lee-hee-joon-cant-refuse-i/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T07:46:27.000Z</news:publication_date>
+      <news:title>Park Hae Soo Proposes A Deal That Lee Hee Joon Can’t Refuse In “The Scarecrow”</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, Suspense Thriller</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/actress-appears-on-porn-channel-to-tackle-her-massive-debt/</loc>
     <news:news>
       <news:publication>
@@ -227,54 +263,6 @@
       <news:publication_date>2026-04-25T13:39:06.000Z</news:publication_date>
       <news:title>CORTIS Keonho Shocks Fans</news:title>
       <news:keywords>CORTIS, Keonho, Height Debate, K-Pop Idols, Body Image</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-ros-breaks-silence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T11:11:02.000Z</news:publication_date>
-      <news:title>BLACKPINK&apos;s Rosé Breaks Silence</news:title>
-      <news:keywords>BLACKPINK, Rosé, K-Pop, Contract, Signing Bonus</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hanbyeol-passes-away/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T10:57:06.000Z</news:publication_date>
-      <news:title>Hanbyeol Passes Away</news:title>
-      <news:keywords>Hanbyeol, K-Pop Star 6, YG Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-shocks-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T09:08:28.000Z</news:publication_date>
-      <news:title>K-Pop Idol Shocks Fans</news:title>
-      <news:keywords>MV, K-Pop, Berlin, Culture Shock, Music Video</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/soyou-exposes-mole/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T08:05:20.000Z</news:publication_date>
-      <news:title>Soyou Exposes Mole</news:title>
-      <news:keywords>Soyou, SISTAR, Celebrity Scandals, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
