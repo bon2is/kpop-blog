@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lim-ji-yeon-and-heo-nam-jun-refuse-to-give-an-inch-to-each-o/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T06:27:08.000Z</news:publication_date>
+      <news:title>Lim Ji Yeon And Heo Nam Jun Refuse To Give An Inch To Each Other In New Drama “My Royal Nemesis”</news:title>
+      <news:keywords>K-Drama, Lim Ji Yeon, Heo Nam Jun, My Royal Nemesis, Romantic Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-lee-jae-wook-and-shin-ye-euns-new-drama-doctor-on-the-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T04:52:39.000Z</news:publication_date>
+      <news:title>Watch: Lee Jae Wook And Shin Ye Eun’s New Drama “Doctor On The Edge” Announces Premiere Date With Sneak Peek Of Script Reading</news:title>
+      <news:keywords>K-Drama, Lee Jae Wook, Shin Ye Eun, Doctor on the Edge, ENA</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/former-top-k-pop-idol-admits-to-going-broke-struggling-with-/</loc>
     <news:news>
       <news:publication>
@@ -263,54 +287,6 @@
       <news:publication_date>2026-04-26T08:56:47.000Z</news:publication_date>
       <news:title>Fifth-Gen Idol’s Fan Sign Prop Goes Viral, Sparks Massive Reactions</news:title>
       <news:keywords>Debut, Awards, Charts, K-Pop, Fifth-Generation Idols</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-fifth-gen-idol-sends-a-public-warning-to-fans-during/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T07:18:26.000Z</news:publication_date>
-      <news:title>Popular Fifth-Gen Idol Sends A Public Warning To Fans During Live Broadcast</news:title>
-      <news:keywords>Charts, K-Pop, Fifth-Gen Idol, Fan Culture, Respectful Fandom</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-turned-actress-sparks-major-concern-with-recent-photos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T05:27:49.000Z</news:publication_date>
-      <news:title>Idol-Turned-Actress Sparks Major Concern With Recent Photos</news:title>
-      <news:keywords>Awards, K-Pop, Actress, Mental Health, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gong-myoungs-ace-instincts-return-while-investigating-with-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T05:04:42.000Z</news:publication_date>
-      <news:title>Gong Myoung’s Ace Instincts Return While Investigating With Shin Hae Sun In “Filing For Love”</news:title>
-      <news:keywords>K-Drama, Gong Myoung, Shin Hae Sun, Filing for Love, Romantic Comedy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/legendary-actresss-tipsy-and-flirty-behavior-triggers-massiv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T04:37:48.000Z</news:publication_date>
-      <news:title>Legendary Actress’s Tipsy And Flirty Behavior Triggers Massive Reactions</news:title>
-      <news:keywords>Awards, K-Drama, Korean Actress, Hallyu Wave, Korean Entertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
