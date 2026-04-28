@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-boy-groups-latest-tiktok-slammed-with-scathing-criticis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T11:02:54.000Z</news:publication_date>
+      <news:title>HYBE Boy Group’s Latest TikTok Slammed With Scathing Criticism</news:title>
+      <news:keywords>BTS, TXT, Charts, Album, HYBE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespas-ningning-and-riize-wonbins-relationship-proof-trigger/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T10:42:59.000Z</news:publication_date>
+      <news:title>aespa’s Ningning And RIIZE Wonbin’s Relationship “Proof” Triggers Scathing Reactions </news:title>
+      <news:keywords>aespa, RIIZE, Charts, Album, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-dramatic-change-in-visuals-becomes-target-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T09:05:22.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie’s Dramatic Change In Visuals Becomes Target Of Backlash</news:title>
+      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lim-ji-yeon-and-heo-nam-jun-refuse-to-give-an-inch-to-each-o/</loc>
     <news:news>
       <news:publication>
@@ -227,66 +263,6 @@
       <news:publication_date>2026-04-26T13:24:11.000Z</news:publication_date>
       <news:title>Male Idol Bows Head Live After Shocking Cultural Appropriation Video Triggers Scathing Backlash</news:title>
       <news:keywords>K-Pop, Cultural Appropriation, Male Idol, Backlash, Apology</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-iu-byeon-woo-seok-and-more-realistically-portray-their/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T12:02:35.000Z</news:publication_date>
-      <news:title>Watch: IU, Byeon Woo Seok, And More Realistically Portray Their Characters On Set Of “Perfect Crown”</news:title>
-      <news:keywords>IU, Debut, K-Drama, Byeon Woo Seok, Perfect Crown</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-kim-hyang-gi-cha-hak-yeon-and-more-give-their-all-whil/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T11:18:38.000Z</news:publication_date>
-      <news:title>Watch: Kim Hyang Gi, Cha Hak Yeon, And More Give Their All While Filming Comedic Scenes For “Absolute Value Of Romance”</news:title>
-      <news:keywords>Awards, K-Drama, Kim Hyang Gi, Cha Hak Yeon, Absolute Value Of Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-final-lineup-allegedly-exposed-by-shocking-leak-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T10:12:29.000Z</news:publication_date>
-      <news:title>NewJeans’ “Final” Lineup Allegedly Exposed By Shocking Leak </news:title>
-      <news:keywords>BTS, NewJeans, Debut, HYBE, ADOR</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-10th-anniversary-festa-2025-celebrations-begin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T09:00:00.000Z</news:publication_date>
-      <news:title>BTS 10th Anniversary FESTA 2025: Celebrations, Surprises, and What Fans Can Expect</news:title>
-      <news:keywords>BTS, FESTA, Anniversary, ARMY, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/fifth-gen-idols-fan-sign-prop-goes-viral-sparks-massive-reac/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T08:56:47.000Z</news:publication_date>
-      <news:title>Fifth-Gen Idol’s Fan Sign Prop Goes Viral, Sparks Massive Reactions</news:title>
-      <news:keywords>Debut, Awards, Charts, K-Pop, Fifth-Generation Idols</news:keywords>
     </news:news>
   </url>
 </urlset>
