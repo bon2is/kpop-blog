@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/former-top-k-pop-idol-admits-to-going-broke-struggling-with-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T23:50:00.000Z</news:publication_date>
+      <news:title>Former Top K-Pop Idol Admits To Going Broke, Struggling With Employment</news:title>
+      <news:keywords>Awards, K-Pop, Idol Struggles, Financial Instability, Employment Issues</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-saves-rookie-idol-from-potentially-awkward-int/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T23:34:10.000Z</news:publication_date>
+      <news:title>BTS’s Jungkook Saves Rookie Idol From Potentially Awkward Interaction With Another HYBE Boy Group</news:title>
+      <news:keywords>BTS, Debut, Awards, Album, Jungkook</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-and-husband-receive-shocking-hair-loss-diagnosis-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T21:57:01.000Z</news:publication_date>
+      <news:title>K-Pop Idol And Husband Receive Shocking Hair Loss Diagnosis Amid Pregnancy Journey</news:title>
+      <news:keywords>Girls Generation, Sooyoung, Girls&apos; Generation, K-Pop, Pregnancy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-icon-reveals-dramatic-post-birth-weight-drop-says-she-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T21:42:21.000Z</news:publication_date>
+      <news:title>K-Pop Icon Reveals Dramatic Post-Birth Weight Drop, Says She Is “The Skinniest She Has Ever Been”</news:title>
+      <news:keywords>Comeback, Charts, K-Pop, Weight Loss, Post-Birth</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-got7s-park-jinyoung-announces-solo-comeback-date-with-/</loc>
     <news:news>
       <news:publication>
@@ -263,30 +311,6 @@
       <news:publication_date>2026-04-26T04:37:48.000Z</news:publication_date>
       <news:title>Legendary Actress’s Tipsy And Flirty Behavior Triggers Massive Reactions</news:title>
       <news:keywords>Awards, K-Drama, Korean Actress, Hallyu Wave, Korean Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafims-new-ending-fairy-invites-ridicule/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T01:06:40.000Z</news:publication_date>
-      <news:title>LE SSERAFIM’s New Ending Fairy Invites Ridicule</news:title>
-      <news:keywords>LE SSERAFIM, Debut, K-Pop, Ending Fairy, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-txt-takes-1st-ever-music-core-win-with-stick-with-you-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T22:58:24.000Z</news:publication_date>
-      <news:title>Watch: TXT Takes 1st-Ever “Music Core” Win With “Stick With You”; Performances By LE SSERAFIM, NCT WISH, CORTIS, And More</news:title>
-      <news:keywords>NCT, LE SSERAFIM, TXT, Comeback, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
