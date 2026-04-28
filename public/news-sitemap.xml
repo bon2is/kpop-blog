@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/epex-announces-june-comeback-with-teaser-for-youth-epilogue/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T15:41:50.000Z</news:publication_date>
+      <news:title>EPEX Announces June Comeback With Teaser For “Youth : Epilogue”</news:title>
+      <news:keywords>Comeback, Debut, MV, EPEX, Youth: Epilogue</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nssigns-laurence-apologizes-for-recent-remarks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T14:14:32.000Z</news:publication_date>
+      <news:title>n.SSign’s Laurence Apologizes For Recent Remarks</news:title>
+      <news:keywords>n.SSign, Laurence, K-pop, Controversy, Apology</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-boy-groups-latest-tiktok-slammed-with-scathing-criticis/</loc>
     <news:news>
       <news:publication>
@@ -227,42 +251,6 @@
       <news:publication_date>2026-04-26T22:41:09.000Z</news:publication_date>
       <news:title>Watch: Sung Han Bin, Lee Gikwang, Soyou, And Sandeul Feel A Generation Gap In “Knowing Bros” Preview</news:title>
       <news:keywords>ZEROBASEONE, Awards, K-Pop, Knowing Bros, Sung Han Bin</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/update-ncts-taeyong-gears-up-for-solo-comeback-with-schedule/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T15:29:26.000Z</news:publication_date>
-      <news:title>Update: NCT’s Taeyong Gears Up For Solo Comeback With Schedule Poster For “WYLD”</news:title>
-      <news:keywords>BTS, BLACKPINK, NCT, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-txt-achieves-music-show-grand-slam-with-5th-win-for-st/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T14:55:14.000Z</news:publication_date>
-      <news:title>Watch: TXT Achieves Music Show Grand Slam With 5th Win For “Stick With You” On “Inkigayo”; Performances By LE SSERAFIM And More</news:title>
-      <news:keywords>BTS, BLACKPINK, NCT, NewJeans, LE SSERAFIM</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/male-idol-bows-head-live-after-shocking-cultural-appropriati/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T13:24:11.000Z</news:publication_date>
-      <news:title>Male Idol Bows Head Live After Shocking Cultural Appropriation Video Triggers Scathing Backlash</news:title>
-      <news:keywords>K-Pop, Cultural Appropriation, Male Idol, Backlash, Apology</news:keywords>
     </news:news>
   </url>
 </urlset>
