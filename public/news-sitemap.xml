@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-male-idol-shows-off-close-bond-with-blackpinks-jennie-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T11:05:17.000Z</news:publication_date>
+      <news:title>Top Male Idol Shows Off Close Bond With BLACKPINK’s Jennie In “Date” Video — Sparking Shock</news:title>
+      <news:keywords>BLACKPINK, Debut, Charts, Jennie, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-boyzs-q-lee-jin-hyuk-hwang-ji-ah-and-more-confirmed-for-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T09:19:13.000Z</news:publication_date>
+      <news:title>THE BOYZ’s Q, Lee Jin Hyuk, Hwang Ji Ah, And More Confirmed For New Idol Drama “My Idol, My Debut”</news:title>
+      <news:keywords>THE BOYZ, Debut, K-Drama, Q, Lee Jin Hyuk</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-aomgs-new-girl-crew-keyveatz-introduces-themselves-wit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T09:09:50.000Z</news:publication_date>
+      <news:title>Watch: AOMG’s New Girl Crew Keyveatz Introduces Themselves With MV For Pre-Release Single “Key Beats”</news:title>
+      <news:keywords>Debut, Album, MV, Keyveatz, AOMG</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/red-velvets-irene-clears-up-speculation-regarding-mark-on-he/</loc>
     <news:news>
       <news:publication>
@@ -239,54 +275,6 @@
       <news:publication_date>2026-04-27T14:05:13.000Z</news:publication_date>
       <news:title>BTS Member Embroiled In “Matchmaking” With Megan Thee Stallion — Female Idol Shockingly Mentioned</news:title>
       <news:keywords>BTS, Awards, Charts, MV, Megan Thee Stallion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exo-baekhyuns-shocking-visuals-in-viral-photos-trigger-stron/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T11:31:28.000Z</news:publication_date>
-      <news:title>EXO Baekhyun’s Shocking Visuals In Viral Photos Trigger Strong Reactions</news:title>
-      <news:keywords>EXO, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5th-gen-idols-viral-photo-together-sparks-dating-rumors-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T10:37:19.000Z</news:publication_date>
-      <news:title>5th Gen Idols’ Viral Photo Together Sparks Dating Rumors </news:title>
-      <news:keywords>Debut, Charts, 5th Gen Idols, Dating Rumors, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/shin-hae-sun-confirmed-to-appear-on-you-quiz-on-the-block/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T08:36:00.000Z</news:publication_date>
-      <news:title>Shin Hae Sun Confirmed To Appear On “You Quiz On The Block”</news:title>
-      <news:keywords>Awards, K-Drama, Shin Hae Sun, You Quiz On The Block, Variety Show</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-hae-soo-proposes-a-deal-that-lee-hee-joon-cant-refuse-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T07:46:27.000Z</news:publication_date>
-      <news:title>Park Hae Soo Proposes A Deal That Lee Hee Joon Can’t Refuse In “The Scarecrow”</news:title>
-      <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, Suspense Thriller</news:keywords>
     </news:news>
   </url>
 </urlset>
