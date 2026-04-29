@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/restaurant-allegedly-sells-cctv-footage-of-bts-sparks-major-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T03:06:12.000Z</news:publication_date>
+      <news:title>Restaurant Allegedly Sells CCTV Footage Of BTS, Sparks Major Backlash</news:title>
+      <news:keywords>BTS, Awards, Charts, Album, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nexz-takes-just-2-days-to-break-their-1st-week-sales-record-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T23:33:05.000Z</news:publication_date>
+      <news:title>NEXZ Takes Just 2 Days To Break Their 1st-Week Sales Record With “Mmchk”</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, NEXZ</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kang-mina-reveals-she-confided-in-seo-in-guk-about-her-conce/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T23:19:14.000Z</news:publication_date>
+      <news:title>Kang Mina Reveals She Confided In Seo In Guk About Her Concerns Over “If Wishes Could Kill”</news:title>
+      <news:keywords>Debut, Awards, K-Drama, Kang Mina, Seo In Guk</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hyun-bin-jung-woo-sung-and-woo-do-hwan-remain-locked-in-a-po/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T22:13:06.000Z</news:publication_date>
+      <news:title>Hyun Bin, Jung Woo Sung, And Woo Do Hwan Remain Locked In A Power Struggle In “Made In Korea 2”</news:title>
+      <news:keywords>K-Drama, Hyun Bin, Jung Woo Sung, Woo Do Hwan, Made in Korea 2</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/epex-announces-june-comeback-with-teaser-for-youth-epilogue/</loc>
     <news:news>
       <news:publication>
@@ -203,54 +251,6 @@
       <news:publication_date>2026-04-27T07:46:27.000Z</news:publication_date>
       <news:title>Park Hae Soo Proposes A Deal That Lee Hee Joon Can’t Refuse In “The Scarecrow”</news:title>
       <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, Suspense Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actress-appears-on-porn-channel-to-tackle-her-massive-debt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T02:06:16.000Z</news:publication_date>
-      <news:title>Actress Appears On Porn Channel To Tackle Her Massive Debt</news:title>
-      <news:keywords>Korean Actress, Debt, Adult Entertainment, Bodily Autonomy, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kpop-demon-hunters-actor-says-getting-rejected-by-jyp-became/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T00:24:58.000Z</news:publication_date>
-      <news:title>“KPop Demon Hunters” Actor Says Getting Rejected By JYP Became A “Stain” On His Life</news:title>
-      <news:keywords>TWICE, ITZY, K-Drama, KPop Demon Hunters, JYP Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idols-disrespect-towards-megan-thee-stallion-during-he/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T23:46:16.000Z</news:publication_date>
-      <news:title>K-Pop Idol’s “Disrespect” Towards Megan Thee Stallion During Her Break-Up Gains Attention</news:title>
-      <news:keywords>(G)I-DLE, Charts, K-Pop, Megan Thee Stallion, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-sung-han-bin-lee-gikwang-soyou-and-sandeul-feel-a-gene/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-26T22:41:09.000Z</news:publication_date>
-      <news:title>Watch: Sung Han Bin, Lee Gikwang, Soyou, And Sandeul Feel A Generation Gap In “Knowing Bros” Preview</news:title>
-      <news:keywords>ZEROBASEONE, Awards, K-Pop, Knowing Bros, Sung Han Bin</news:keywords>
     </news:news>
   </url>
 </urlset>
