@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-fan-gets-her-moment-with-jungkook-thanks-to-her-dad/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T15:22:28.000Z</news:publication_date>
+      <news:title>BTS Fan Gets Her Moment With Jungkook, Thanks To Her Dad</news:title>
+      <news:keywords>BTS, Awards, Jungkook, K-Pop, Fan Encounter</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/boy-group-make-ground-breaking-history-with-emotional-1st-mu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T15:12:43.000Z</news:publication_date>
+      <news:title>Boy Group Make Ground-Breaking History With Emotional 1st Music Show Win</news:title>
+      <news:keywords>Debut, Awards, Charts, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/txts-yeonjun-becomes-miu-mius-1st-official-friend-of-the-hou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T14:43:57.000Z</news:publication_date>
+      <news:title>TXT’s Yeonjun Becomes Miu Miu’s 1st Official “Friend Of The House”</news:title>
+      <news:keywords>BTS, BLACKPINK, TXT, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exo-chens-daughter-shocks-with-how-much-shes-grown-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T13:40:04.000Z</news:publication_date>
+      <news:title>EXO Chen’s Daughter Shocks With How Much She’s Grown Up</news:title>
+      <news:keywords>EXO, Debut, Chen, K-Pop, Family</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-le-sserafim-takes-headbanging-seriously-in-new-celebra/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T13:28:45.000Z</news:publication_date>
+      <news:title>Watch: LE SSERAFIM Takes Headbanging Seriously In New “CELEBRATION” Dance Practice Videos</news:title>
+      <news:keywords>LE SSERAFIM, Album, MV, K-Pop, Dance Practice</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-male-idol-shows-off-close-bond-with-blackpinks-jennie-in/</loc>
     <news:news>
       <news:publication>
@@ -251,30 +311,6 @@
       <news:publication_date>2026-04-27T21:42:21.000Z</news:publication_date>
       <news:title>K-Pop Icon Reveals Dramatic Post-Birth Weight Drop, Says She Is “The Skinniest She Has Ever Been”</news:title>
       <news:keywords>Comeback, Charts, K-Pop, Weight Loss, Post-Birth</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-got7s-park-jinyoung-announces-solo-comeback-date-with-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T15:42:54.000Z</news:publication_date>
-      <news:title>Watch: GOT7’s Park Jinyoung Announces Solo Comeback Date With “Said &amp; Done” Trailer</news:title>
-      <news:keywords>GOT7, Comeback, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-member-embroiled-in-matchmaking-with-megan-thee-stallion/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T14:05:13.000Z</news:publication_date>
-      <news:title>BTS Member Embroiled In “Matchmaking” With Megan Thee Stallion — Female Idol Shockingly Mentioned</news:title>
-      <news:keywords>BTS, Awards, Charts, MV, Megan Thee Stallion</news:keywords>
     </news:news>
   </url>
 </urlset>
