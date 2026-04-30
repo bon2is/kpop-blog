@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/beloved-actress-confesses-her-dating-history/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T11:54:41.000Z</news:publication_date>
+      <news:title>Beloved Actress Confesses Her Dating History</news:title>
+      <news:keywords>Awards, K-Drama, Ha Ji Won, Korean Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twices-jihyo-shows-off-glamorous-figure-in-gorgeous-underwea/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T11:08:46.000Z</news:publication_date>
+      <news:title>TWICE’s Jihyo Shows Off Glamorous Figure In Gorgeous Underwear Pictorial</news:title>
+      <news:keywords>TWICE, Debut, Awards, Album, Jihyo</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-leaves-female-artist-flustered-with-high-prais/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T10:44:14.000Z</news:publication_date>
+      <news:title>BTS’s Jungkook Leaves Female Artist “Flustered” With High Praises On Social Media</news:title>
+      <news:keywords>BTS, Awards, Album, Jungkook, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-jong-kook-unexpectedly-apologizes-to-bigbangs-daesung/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T09:45:07.000Z</news:publication_date>
+      <news:title>Kim Jong Kook Unexpectedly Apologizes To BIGBANG’s Daesung</news:title>
+      <news:keywords>BIGBANG, Charts, Kim Jong Kook, Daesung, Apology</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-kang-dong-won-park-ji-hyun-um-tae-goo-and-oh-jung-se-a/</loc>
     <news:news>
       <news:publication>
@@ -299,42 +347,6 @@
       <news:publication_date>2026-04-28T14:14:32.000Z</news:publication_date>
       <news:title>n.SSign’s Laurence Apologizes For Recent Remarks</news:title>
       <news:keywords>n.SSign, Laurence, K-pop, Controversy, Apology</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-boy-groups-latest-tiktok-slammed-with-scathing-criticis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T11:02:54.000Z</news:publication_date>
-      <news:title>HYBE Boy Group’s Latest TikTok Slammed With Scathing Criticism</news:title>
-      <news:keywords>BTS, TXT, Charts, Album, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-ningning-and-riize-wonbins-relationship-proof-trigger/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T10:42:59.000Z</news:publication_date>
-      <news:title>aespa’s Ningning And RIIZE Wonbin’s Relationship “Proof” Triggers Scathing Reactions </news:title>
-      <news:keywords>aespa, RIIZE, Charts, Album, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-dramatic-change-in-visuals-becomes-target-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T09:05:22.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie’s Dramatic Change In Visuals Becomes Target Of Backlash</news:title>
-      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
