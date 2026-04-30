@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-actor-confesses-he-is-best-friends-with-bts-vs-fathe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T03:38:48.000Z</news:publication_date>
+      <news:title>Popular Actor Confesses He Is Best Friends With BTS V’s Father</news:title>
+      <news:keywords>BTS, Charts, BTS V, K-Pop, Friendship</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-boy-group-member-shares-skincare-tips-after-being-praise/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T02:31:08.000Z</news:publication_date>
+      <news:title>Top Boy Group Member Shares Skincare Tips After Being Praised For Looking Youthful</news:title>
+      <news:keywords>Comeback, Debut, Charts, K-Pop, Skincare</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-lee-jae-wook-and-shin-ye-eun-discover-chaotic-island-l/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T02:09:02.000Z</news:publication_date>
+      <news:title>Watch: Lee Jae Wook And Shin Ye Eun Discover Chaotic Island Life In First Teasers For “Doctor On The Edge”</news:title>
+      <news:keywords>K-Drama, Lee Jae Wook, Shin Ye Eun, Romance, Island Life</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-male-idol-confesses-to-visiting-female-idol-so-often/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T22:19:52.000Z</news:publication_date>
+      <news:title>Popular Male Idol Confesses To Visiting Female Idol So Often He Knew Her House Passcode</news:title>
+      <news:keywords>Awards, Charts, Album, MV, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-fan-gets-her-moment-with-jungkook-thanks-to-her-dad/</loc>
     <news:news>
       <news:publication>
@@ -263,54 +311,6 @@
       <news:publication_date>2026-04-28T04:52:39.000Z</news:publication_date>
       <news:title>Watch: Lee Jae Wook And Shin Ye Eun’s New Drama “Doctor On The Edge” Announces Premiere Date With Sneak Peek Of Script Reading</news:title>
       <news:keywords>K-Drama, Lee Jae Wook, Shin Ye Eun, Doctor on the Edge, ENA</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/former-top-k-pop-idol-admits-to-going-broke-struggling-with-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T23:50:00.000Z</news:publication_date>
-      <news:title>Former Top K-Pop Idol Admits To Going Broke, Struggling With Employment</news:title>
-      <news:keywords>Awards, K-Pop, Idol Struggles, Financial Instability, Employment Issues</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-saves-rookie-idol-from-potentially-awkward-int/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T23:34:10.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook Saves Rookie Idol From Potentially Awkward Interaction With Another HYBE Boy Group</news:title>
-      <news:keywords>BTS, Debut, Awards, Album, Jungkook</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-and-husband-receive-shocking-hair-loss-diagnosis-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T21:57:01.000Z</news:publication_date>
-      <news:title>K-Pop Idol And Husband Receive Shocking Hair Loss Diagnosis Amid Pregnancy Journey</news:title>
-      <news:keywords>Girls Generation, Sooyoung, Girls&apos; Generation, K-Pop, Pregnancy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-icon-reveals-dramatic-post-birth-weight-drop-says-she-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T21:42:21.000Z</news:publication_date>
-      <news:title>K-Pop Icon Reveals Dramatic Post-Birth Weight Drop, Says She Is “The Skinniest She Has Ever Been”</news:title>
-      <news:keywords>Comeback, Charts, K-Pop, Weight Loss, Post-Birth</news:keywords>
     </news:news>
   </url>
 </urlset>
