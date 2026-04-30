@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-kang-dong-won-park-ji-hyun-um-tae-goo-and-oh-jung-se-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T06:46:33.000Z</news:publication_date>
+      <news:title>Watch: Kang Dong Won, Park Ji Hyun, Um Tae Goo, And Oh Jung Se Are Set To Make A Comeback In “Wild Sing” Poster And Teaser</news:title>
+      <news:keywords>Comeback, K-Drama, Kang Dong Won, Park Ji Hyun, Um Tae Goo</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-comments-on-post-about-fellow-97-liner-sparkin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T06:44:24.000Z</news:publication_date>
+      <news:title>BTS’s Jungkook Comments On Post About Fellow ’97-Liner, Sparking Major Reactions</news:title>
+      <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/beloved-female-idol-admits-to-getting-hair-transplant-under-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T05:26:28.000Z</news:publication_date>
+      <news:title>Beloved Female Idol Admits To Getting Hair Transplant Under The Weight Of Online Ridicule</news:title>
+      <news:keywords>Comeback, Awards, Charts, K-Pop, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-actor-confesses-he-is-best-friends-with-bts-vs-fathe/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +83,18 @@
       <news:publication_date>2026-04-29T22:19:52.000Z</news:publication_date>
       <news:title>Popular Male Idol Confesses To Visiting Female Idol So Often He Knew Her House Passcode</news:title>
       <news:keywords>Awards, Charts, Album, MV, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-aespas-ningning-named-global-ambassador-for-gucci/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T19:11:16.000Z</news:publication_date>
+      <news:title>Watch: aespa’s Ningning Named Global Ambassador For Gucci</news:title>
+      <news:keywords>aespa, Debut, Ningning, Gucci, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,30 +335,6 @@
       <news:publication_date>2026-04-28T09:05:22.000Z</news:publication_date>
       <news:title>BLACKPINK Jennie’s Dramatic Change In Visuals Becomes Target Of Backlash</news:title>
       <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lim-ji-yeon-and-heo-nam-jun-refuse-to-give-an-inch-to-each-o/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T06:27:08.000Z</news:publication_date>
-      <news:title>Lim Ji Yeon And Heo Nam Jun Refuse To Give An Inch To Each Other In New Drama “My Royal Nemesis”</news:title>
-      <news:keywords>K-Drama, Lim Ji Yeon, Heo Nam Jun, My Royal Nemesis, Romantic Comedy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-lee-jae-wook-and-shin-ye-euns-new-drama-doctor-on-the-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T04:52:39.000Z</news:publication_date>
-      <news:title>Watch: Lee Jae Wook And Shin Ye Eun’s New Drama “Doctor On The Edge” Announces Premiere Date With Sneak Peek Of Script Reading</news:title>
-      <news:keywords>K-Drama, Lee Jae Wook, Shin Ye Eun, Doctor on the Edge, ENA</news:keywords>
     </news:news>
   </url>
 </urlset>
