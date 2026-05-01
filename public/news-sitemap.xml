@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bigbang-g-dragons-latest-interaction-with-aespas-karina-draw/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T05:22:03.000Z</news:publication_date>
+      <news:title>BIGBANG G-Dragon’s Latest Interaction With aespa’s Karina Draws Attention</news:title>
+      <news:keywords>aespa, BIGBANG, Comeback, G-Dragon, Karina</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseye-cancels-music-bank-appearance-at-last-minute/</loc>
     <news:news>
       <news:publication>
@@ -50,6 +62,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/katseye-alarms-with-update-as-manons-activities-confirm-her-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T20:38:10.000Z</news:publication_date>
+      <news:title>KATSEYE Alarms With Update As Manon’s Activities “Confirm” Her Departure</news:title>
+      <news:keywords>Debut, Album, KATSEYE, Manon, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/talented-27-year-old-idol-essentially-quits-the-industry-in-/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +83,18 @@
       <news:publication_date>2026-04-30T19:36:31.000Z</news:publication_date>
       <news:title>Talented 27-Year-Old Idol Essentially Quits The Industry In Update — Breaking Hearts</news:title>
       <news:keywords>K-Pop, Idol, Departure, Mental Health, Sustainability</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exclusive-video-veriverys-kangmin-shares-insight-into-his-fa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T17:51:57.000Z</news:publication_date>
+      <news:title>Exclusive Video: VERIVERY’s Kangmin Shares Insight Into His Favorites, Daily Life, And More With Soompi’s 50 Questions</news:title>
+      <news:keywords>Debut, Album, VERIVERY, Kangmin, Soompi&apos;s 50 Questions</news:keywords>
     </news:news>
   </url>
   <url>
@@ -155,6 +191,30 @@
       <news:publication_date>2026-04-30T09:45:07.000Z</news:publication_date>
       <news:title>Kim Jong Kook Unexpectedly Apologizes To BIGBANG’s Daesung</news:title>
       <news:keywords>BIGBANG, Charts, Kim Jong Kook, Daesung, Apology</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/um-tae-goo-transforms-into-an-overly-passionate-rapper-in-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T09:15:37.000Z</news:publication_date>
+      <news:title>Um Tae Goo Transforms Into An Overly Passionate Rapper In Upcoming Film “Wild Sing”</news:title>
+      <news:keywords>Comeback, Debut, K-Drama, Um Tae Goo, Wild Sing</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kang-dong-won-transforms-into-the-leader-and-dance-machine-o/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T08:43:46.000Z</news:publication_date>
+      <news:title>Kang Dong Won Transforms Into The Leader And Dance Machine Of Co-Ed Group TRIANGLE In New Film “Wild Sing”</news:title>
+      <news:keywords>Comeback, Awards, K-Drama, Kang Dong Won, Wild Sing</news:keywords>
     </news:news>
   </url>
   <url>
@@ -347,18 +407,6 @@
       <news:publication_date>2026-04-29T09:09:50.000Z</news:publication_date>
       <news:title>Watch: AOMG’s New Girl Crew Keyveatz Introduces Themselves With MV For Pre-Release Single “Key Beats”</news:title>
       <news:keywords>Debut, Album, MV, Keyveatz, AOMG</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvets-irene-clears-up-speculation-regarding-mark-on-he/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T05:25:01.000Z</news:publication_date>
-      <news:title>Red Velvet’s Irene Clears Up Speculation Regarding Mark On Her Neck</news:title>
-      <news:keywords>Red Velvet, Comeback, Debut, Concert, Awards</news:keywords>
     </news:news>
   </url>
 </urlset>
