@@ -11,6 +11,7 @@
     "lint": "next lint",
     "fetch-news": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/fetch-news.ts",
     "post-threads": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-threads.ts",
+    "preview-threads": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-threads.ts --dry-run",
     "post-backlog": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-backlog.ts",
     "post-twitter": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-twitter.ts",
     "post-bluesky": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-bluesky.ts",
@@ -21,6 +22,7 @@
     "generate-and-post": "npm run fetch-news && npm run post-threads && npm run post-twitter && npm run post-bluesky && npm run post-pinterest && npm run post-discord && npm run post-reddit && npm run build"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.92.0",
     "@atproto/api": "^0.18.20",
     "@aws-sdk/client-s3": "^3.750.0",
     "@types/node": "^25.0.3",
