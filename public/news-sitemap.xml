@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/exclusive-plave-gets-candid-about-their-success-as-a-virtual/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T07:59:38.000Z</news:publication_date>
+      <news:title>Exclusive: PLAVE Gets Candid About Their Success As A Virtual Group, Member Strengths, ‘Caligo’ Series, And More</news:title>
+      <news:keywords>Comeback, Debut, Album, MV, PLAVE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/iu-and-byeon-woo-seok-don-traditional-wear-for-their-wedding/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T07:25:26.000Z</news:publication_date>
+      <news:title>IU And Byeon Woo Seok Don Traditional Wear For Their Wedding Ceremony In “Perfect Crown”</news:title>
+      <news:keywords>IU, Awards, K-Drama, Byeon Woo Seok, Perfect Crown</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bigbang-g-dragons-latest-interaction-with-aespas-karina-draw/</loc>
     <news:news>
       <news:publication>
@@ -371,42 +395,6 @@
       <news:publication_date>2026-04-29T13:28:45.000Z</news:publication_date>
       <news:title>Watch: LE SSERAFIM Takes Headbanging Seriously In New “CELEBRATION” Dance Practice Videos</news:title>
       <news:keywords>LE SSERAFIM, Album, MV, K-Pop, Dance Practice</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-male-idol-shows-off-close-bond-with-blackpinks-jennie-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T11:05:17.000Z</news:publication_date>
-      <news:title>Top Male Idol Shows Off Close Bond With BLACKPINK’s Jennie In “Date” Video — Sparking Shock</news:title>
-      <news:keywords>BLACKPINK, Debut, Charts, Jennie, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyzs-q-lee-jin-hyuk-hwang-ji-ah-and-more-confirmed-for-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T09:19:13.000Z</news:publication_date>
-      <news:title>THE BOYZ’s Q, Lee Jin Hyuk, Hwang Ji Ah, And More Confirmed For New Idol Drama “My Idol, My Debut”</news:title>
-      <news:keywords>THE BOYZ, Debut, K-Drama, Q, Lee Jin Hyuk</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-aomgs-new-girl-crew-keyveatz-introduces-themselves-wit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T09:09:50.000Z</news:publication_date>
-      <news:title>Watch: AOMG’s New Girl Crew Keyveatz Introduces Themselves With MV For Pre-Release Single “Key Beats”</news:title>
-      <news:keywords>Debut, Album, MV, Keyveatz, AOMG</news:keywords>
     </news:news>
   </url>
 </urlset>
