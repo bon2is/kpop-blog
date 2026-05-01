@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-actions-towards-jimin-in-new-video-hit-with-major-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T14:00:37.000Z</news:publication_date>
+      <news:title>BTS’s Actions Towards Jimin In New Video Hit With Major Fury</news:title>
+      <news:keywords>BTS, Comeback, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/exclusive-plave-gets-candid-about-their-success-as-a-virtual/</loc>
     <news:news>
       <news:publication>
@@ -359,42 +371,6 @@
       <news:publication_date>2026-04-29T15:12:43.000Z</news:publication_date>
       <news:title>Boy Group Make Ground-Breaking History With Emotional 1st Music Show Win</news:title>
       <news:keywords>Debut, Awards, Charts, Tour, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txts-yeonjun-becomes-miu-mius-1st-official-friend-of-the-hou/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T14:43:57.000Z</news:publication_date>
-      <news:title>TXT’s Yeonjun Becomes Miu Miu’s 1st Official “Friend Of The House”</news:title>
-      <news:keywords>BTS, BLACKPINK, TXT, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exo-chens-daughter-shocks-with-how-much-shes-grown-up/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T13:40:04.000Z</news:publication_date>
-      <news:title>EXO Chen’s Daughter Shocks With How Much She’s Grown Up</news:title>
-      <news:keywords>EXO, Debut, Chen, K-Pop, Family</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-le-sserafim-takes-headbanging-seriously-in-new-celebra/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T13:28:45.000Z</news:publication_date>
-      <news:title>Watch: LE SSERAFIM Takes Headbanging Seriously In New “CELEBRATION” Dance Practice Videos</news:title>
-      <news:keywords>LE SSERAFIM, Album, MV, K-Pop, Dance Practice</news:keywords>
     </news:news>
   </url>
 </urlset>

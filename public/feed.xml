@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 11:49:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 14:55:11 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BTS’s Actions Towards Jimin In New Video Hit With Major Fury</title>
+      <link>https://kpop.andxo.com/article/btss-actions-towards-jimin-in-new-video-hit-with-major-fury/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/btss-actions-towards-jimin-in-new-video-hit-with-major-fury/</guid>
+      <description>BTS&apos;s actions towards Jimin spark outrage among fans.</description>
+      <pubDate>Fri, 01 May 2026 14:00:37 GMT</pubDate>
+      <category>award</category>
+      <category>BTS</category>
+      <category>Comeback</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <category>Tour</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-actions-towards-jimin-in-new-video-hit-with-major-fury.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-actions-towards-jimin-in-new-video-hit-with-major-fury.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-actions-towards-jimin-in-new-video-hit-with-major-fury.webp" />
+    </item>
     <item>
       <title>Exclusive: PLAVE Gets Candid About Their Success As A Virtual Group, Member Strengths, ‘Caligo’ Series, And More</title>
       <link>https://kpop.andxo.com/article/exclusive-plave-gets-candid-about-their-success-as-a-virtual/</link>
@@ -1677,23 +1694,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twices-jeongyeon-stuns.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twices-jeongyeon-stuns.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twices-jeongyeon-stuns.webp" />
-    </item>
-    <item>
-      <title>JYP In Jeopardy</title>
-      <link>https://kpop.andxo.com/article/jyp-in-jeopardy/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/jyp-in-jeopardy/</guid>
-      <description>JYP&apos;s new office in danger</description>
-      <pubDate>Fri, 24 Apr 2026 06:54:42 GMT</pubDate>
-      <category>comeback</category>
-      <category>TWICE</category>
-      <category>ITZY</category>
-      <category>JYP Entertainment</category>
-      <category>K-Pop</category>
-      <category>Office Building</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-in-jeopardy.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-in-jeopardy.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-in-jeopardy.webp" />
     </item>
   </channel>
 </rss>
