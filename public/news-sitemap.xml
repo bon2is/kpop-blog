@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/female-idol-known-for-sculpted-body-shocks-with-sudden-gaunt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T14:11:42.000Z</news:publication_date>
+      <news:title>Female Idol Known For Sculpted Body Shocks With Sudden Gaunt Appearance</news:title>
+      <news:keywords>Awards, K-Pop, Weight Loss, Body Image, Idol Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/illit-shades-newjeans-in-new-album-content-deletes-it-abrupt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T13:54:42.000Z</news:publication_date>
+      <news:title>ILLIT “Shades” NewJeans In New Album Content, Deletes It Abruptly</news:title>
+      <news:keywords>NewJeans, ILLIT, Debut, Album, Plagiarism</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-idols-underwear-photo-with-explicit-message-sparks-mass/</loc>
     <news:news>
       <news:publication>
@@ -227,54 +251,6 @@
       <news:publication_date>2026-04-30T15:37:55.000Z</news:publication_date>
       <news:title>Active K-Pop Idol Spills On The Pregnancy Ban And How Her Fellow Member Broke The Clause</news:title>
       <news:keywords>K-Pop, Hyunyoung, Pregnancy Ban Clause, Female Idols, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/beloved-actor-breaks-down-in-tears-recounting-his-sons-horri/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T14:12:56.000Z</news:publication_date>
-      <news:title>Beloved Actor Breaks Down In Tears Recounting His Son’s Horrific School Violence, Reveals Bullies Went Unpunished</news:title>
-      <news:keywords>Awards, School Violence, Bullying, K-Drama, Korean Actor</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/new-hybe-girl-groups-appearance-at-major-billboard-event-sti/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T14:00:21.000Z</news:publication_date>
-      <news:title>New HYBE Girl Group’s Appearance At Major Billboard Event Stirs Up Brutal Backlash</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, LE SSERAFIM, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-karina-targeted-with-vulgar-sexually-harassing-photos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T12:36:09.000Z</news:publication_date>
-      <news:title>aespa’s Karina Targeted With Vulgar, Sexually Harassing Photos</news:title>
-      <news:keywords>aespa, Charts, Karina, Harassment, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/beloved-actress-confesses-her-dating-history/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T11:54:41.000Z</news:publication_date>
-      <news:title>Beloved Actress Confesses Her Dating History</news:title>
-      <news:keywords>Awards, K-Drama, Ha Ji Won, Korean Entertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
