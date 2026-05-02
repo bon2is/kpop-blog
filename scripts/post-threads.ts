@@ -2,13 +2,13 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import Anthropic from '@anthropic-ai/sdk';
+import OpenAI from 'openai';
 
 // Threads API Configuration
 const THREADS_USER_ID = process.env.THREADS_USER_ID;
 const THREADS_ACCESS_TOKEN = process.env.THREADS_ACCESS_TOKEN;
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://kpop.andxo.com';
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
 const CONTENT_DIR = path.join(process.cwd(), 'content/posts');
 const POSTED_FILE = path.join(process.cwd(), 'content/.threads-posted.json');
@@ -113,9 +113,11 @@ function generateHashtags(article: ArticleMetadata): string {
   return Array.from(hashtags).slice(0, 8).join(' ');
 }
 
-// ─── Strategy B + D: Claude API hook generation ────────────────────────────
+// ─── Strategy B + D: Groq LLM hook generation ─────────────────────────────
 
-const anthropic = ANTHROPIC_API_KEY ? new Anthropic({ apiKey: ANTHROPIC_API_KEY }) : null;
+const groq = GROQ_API_KEY
+  ? new OpenAI({ apiKey: GROQ_API_KEY, baseURL: 'https://api.groq.com/openai/v1' })
+  : null;
 
 const HOOK_SYSTEM_PROMPT = `You are a viral K-pop social media writer. Rewrite the given headline into a 2-line Threads hook that creates curiosity and emotion.
 
@@ -130,29 +132,29 @@ Rules:
 - Output ONLY the 2 lines, nothing else. No quotes, no labels.`;
 
 async function generateHook(article: ArticleMetadata): Promise<string> {
-  if (!anthropic) {
-    console.log('  [Hook] No ANTHROPIC_API_KEY — using title as fallback');
+  if (!groq) {
+    console.log('  [Hook] No GROQ_API_KEY — using title as fallback');
     return article.title;
   }
 
   try {
-    const userMessage = `Headline: "${article.title}"\nSummary: "${article.excerpt}"`;
-
-    const message = await anthropic.messages.create({
-      model: 'claude-sonnet-4-20250514',
+    const response = await groq.chat.completions.create({
+      model: 'llama-3.3-70b-versatile',
       max_tokens: 150,
-      system: HOOK_SYSTEM_PROMPT,
-      messages: [{ role: 'user', content: userMessage }],
+      messages: [
+        { role: 'system', content: HOOK_SYSTEM_PROMPT },
+        { role: 'user', content: `Headline: "${article.title}"\nSummary: "${article.excerpt}"` },
+      ],
     });
 
-    const text = message.content[0].type === 'text' ? message.content[0].text.trim() : '';
+    const text = response.choices[0]?.message?.content?.trim() ?? '';
 
     if (text) {
       console.log(`  [Hook] Generated: ${text.slice(0, 80)}...`);
       return text;
     }
   } catch (error) {
-    console.error('  [Hook] Claude API error:', error);
+    console.error('  [Hook] Groq API error:', error);
   }
 
   // Fallback: return the original title
@@ -530,7 +532,7 @@ async function main(): Promise<void> {
   console.log('Starting Threads auto-posting...');
   console.log(`Time: ${new Date().toISOString()}`);
   console.log(`Mode: ${isDryRun ? 'DRY RUN (preview only)' : 'LIVE'}`);
-  console.log(`Claude API: ${anthropic ? 'enabled' : 'disabled (no ANTHROPIC_API_KEY)'}`);
+  console.log(`Groq API: ${groq ? 'enabled' : 'disabled (no GROQ_API_KEY)'}`);
 
   if (!isDryRun && (!THREADS_USER_ID || !THREADS_ACCESS_TOKEN)) {
     console.log('\n⚠️  Threads credentials not configured.');

@@ -6,10 +6,10 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import Anthropic from '@anthropic-ai/sdk';
+import OpenAI from 'openai';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://kpop.andxo.com';
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const CONTENT_DIR = path.join(process.cwd(), 'content/posts');
 
 interface ArticleMetadata {
@@ -114,17 +114,19 @@ Rules:
 - Write for a global audience who may not follow K-pop
 - Output ONLY the 2 lines, nothing else. No quotes, no labels.`;
 
-async function generateHook(article: ArticleMetadata, client: Anthropic | null): Promise<string> {
+async function generateHook(article: ArticleMetadata, client: OpenAI | null): Promise<string> {
   if (!client) return `🔥 ${article.title}`;
 
   try {
-    const msg = await client.messages.create({
-      model: 'claude-sonnet-4-20250514',
+    const response = await client.chat.completions.create({
+      model: 'llama-3.3-70b-versatile',
       max_tokens: 150,
-      system: HOOK_SYSTEM_PROMPT,
-      messages: [{ role: 'user', content: `Headline: "${article.title}"\nSummary: "${article.excerpt}"` }],
+      messages: [
+        { role: 'system', content: HOOK_SYSTEM_PROMPT },
+        { role: 'user', content: `Headline: "${article.title}"\nSummary: "${article.excerpt}"` },
+      ],
     });
-    const text = msg.content[0].type === 'text' ? msg.content[0].text.trim() : '';
+    const text = response.choices[0]?.message?.content?.trim() ?? '';
     return text || `🔥 ${article.title}`;
   } catch {
     return `🔥 ${article.title}`;
@@ -136,7 +138,7 @@ type PostType = 'traffic' | 'conversion';
 async function newBuildPost(
   article: ArticleMetadata,
   postType: PostType,
-  client: Anthropic | null
+  client: OpenAI | null
 ): Promise<{ mainText: string; commentText: string | null }> {
   const hook = await generateHook(article, client);
   const hashtags = newGenerateHashtags(article);
@@ -189,8 +191,10 @@ async function main() {
     'jung-ga-ram-takes-on-unconventional-role-in-new-film-the-ult.md',
   ];
 
-  const client = ANTHROPIC_API_KEY ? new Anthropic({ apiKey: ANTHROPIC_API_KEY }) : null;
-  console.log(`\nClaude API: ${client ? 'ENABLED' : 'DISABLED (set ANTHROPIC_API_KEY to enable hooks)'}`);
+  const client = GROQ_API_KEY
+    ? new OpenAI({ apiKey: GROQ_API_KEY, baseURL: 'https://api.groq.com/openai/v1' })
+    : null;
+  console.log(`\nGroq API: ${client ? 'ENABLED' : 'DISABLED (set GROQ_API_KEY to enable hooks)'}`);
   console.log('='.repeat(70));
 
   const postTypes: PostType[] = ['traffic', 'traffic', 'traffic', 'traffic', 'traffic', 'traffic', 'traffic', 'conversion', 'conversion', 'conversion'];
