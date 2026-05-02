@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-05-02T06:58:51.741Z",
+  "updatedAt": "2026-05-02T11:34:44.819Z",
   "unified": [
     {
       "rank": 1,
+      "title": "기쁨, 슬픔, 아름다운 마음",
+      "artist": "AKMU",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EA%B8%B0%EC%81%A8%2C%20%EC%8A%AC%ED%94%94%2C%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EB%A7%88%EC%9D%8C%20MV%20official",
+      "score": 116.39999999999999,
+      "chartRanks": {
+        "youtube": 32
+      }
+    },
+    {
+      "rank": 2,
       "title": "Paradise of Rumors",
       "artist": "AKMU",
       "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official",
@@ -13,7 +23,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "RUDE!",
       "artist": "Hearts2Hearts",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20RUDE!%20MV%20official",
@@ -24,7 +34,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "0+0",
       "artist": "HANRORO",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%200%2B0%20MV%20official",
@@ -32,16 +42,6 @@
       "chartRanks": {
         "spotify": 4,
         "youtube": 8
-      }
-    },
-    {
-      "rank": 4,
-      "title": "기쁨, 슬픔, 아름다운 마음",
-      "artist": "AKMU",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EA%B8%B0%EC%81%A8%2C%20%EC%8A%AC%ED%94%94%2C%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EB%A7%88%EC%9D%8C%20MV%20official",
-      "score": 93.6,
-      "chartRanks": {
-        "youtube": 22
       }
     },
     {
@@ -1011,9 +1011,9 @@
     },
     {
       "rank": 32,
-      "title": "Spring Colors",
+      "title": "봄 색깔",
       "artist": "AKMU",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Spring%20Colors%20MV%20official"
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EB%B4%84%20%EC%83%89%EA%B9%94%20MV%20official"
     },
     {
       "rank": 33,

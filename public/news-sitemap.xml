@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-idols-underwear-photo-with-explicit-message-sparks-mass/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T11:33:22.000Z</news:publication_date>
+      <news:title>HYBE Idol’s Underwear Photo With Explicit Message Sparks Massive Shock</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/an-woo-yeon-begs-joo-se-bin-for-forgiveness-in-doctor-shin/</loc>
     <news:news>
       <news:publication>
@@ -263,66 +275,6 @@
       <news:publication_date>2026-04-30T11:54:41.000Z</news:publication_date>
       <news:title>Beloved Actress Confesses Her Dating History</news:title>
       <news:keywords>Awards, K-Drama, Ha Ji Won, Korean Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twices-jihyo-shows-off-glamorous-figure-in-gorgeous-underwea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T11:08:46.000Z</news:publication_date>
-      <news:title>TWICE’s Jihyo Shows Off Glamorous Figure In Gorgeous Underwear Pictorial</news:title>
-      <news:keywords>TWICE, Debut, Awards, Album, Jihyo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-leaves-female-artist-flustered-with-high-prais/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T10:44:14.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook Leaves Female Artist “Flustered” With High Praises On Social Media</news:title>
-      <news:keywords>BTS, Awards, Album, Jungkook, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-jong-kook-unexpectedly-apologizes-to-bigbangs-daesung/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T09:45:07.000Z</news:publication_date>
-      <news:title>Kim Jong Kook Unexpectedly Apologizes To BIGBANG’s Daesung</news:title>
-      <news:keywords>BIGBANG, Charts, Kim Jong Kook, Daesung, Apology</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/um-tae-goo-transforms-into-an-overly-passionate-rapper-in-up/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T09:15:37.000Z</news:publication_date>
-      <news:title>Um Tae Goo Transforms Into An Overly Passionate Rapper In Upcoming Film “Wild Sing”</news:title>
-      <news:keywords>Comeback, Debut, K-Drama, Um Tae Goo, Wild Sing</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kang-dong-won-transforms-into-the-leader-and-dance-machine-o/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T08:43:46.000Z</news:publication_date>
-      <news:title>Kang Dong Won Transforms Into The Leader And Dance Machine Of Co-Ed Group TRIANGLE In New Film “Wild Sing”</news:title>
-      <news:keywords>Comeback, Awards, K-Drama, Kang Dong Won, Wild Sing</news:keywords>
     </news:news>
   </url>
 </urlset>

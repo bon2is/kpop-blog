@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 06:58:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 11:34:46 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>HYBE Idol’s Underwear Photo With Explicit Message Sparks Massive Shock</title>
+      <link>https://kpop.andxo.com/article/hybe-idols-underwear-photo-with-explicit-message-sparks-mass/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/hybe-idols-underwear-photo-with-explicit-message-sparks-mass/</guid>
+      <description>HYBE idol sparks shock with explicit photo</description>
+      <pubDate>Sat, 02 May 2026 11:33:22 GMT</pubDate>
+      <category>award</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <category>Tour</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idols-underwear-photo-with-explicit-message-sparks-mass.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idols-underwear-photo-with-explicit-message-sparks-mass.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idols-underwear-photo-with-explicit-message-sparks-mass.webp" />
+    </item>
     <item>
       <title>An Woo Yeon Begs Joo Se Bin For Forgiveness In “Doctor Shin”</title>
       <link>https://kpop.andxo.com/article/an-woo-yeon-begs-joo-se-bin-for-forgiveness-in-doctor-shin/</link>
@@ -1683,22 +1700,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-sparks-debate.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-sparks-debate.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-sparks-debate.webp" />
-    </item>
-    <item>
-      <title>HYBE Idols Shocked</title>
-      <link>https://kpop.andxo.com/article/hybe-idols-shocked/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/hybe-idols-shocked/</guid>
-      <description>Idols &apos;disrespected&apos; in photo!</description>
-      <pubDate>Fri, 24 Apr 2026 12:00:45 GMT</pubDate>
-      <category>news</category>
-      <category>HYBE</category>
-      <category>K-Pop</category>
-      <category>Gender Equality</category>
-      <category>Idol Culture</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idols-shocked.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idols-shocked.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idols-shocked.webp" />
     </item>
   </channel>
 </rss>
