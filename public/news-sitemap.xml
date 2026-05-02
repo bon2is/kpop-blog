@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/an-woo-yeon-begs-joo-se-bin-for-forgiveness-in-doctor-shin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T05:18:08.000Z</news:publication_date>
+      <news:title>An Woo Yeon Begs Joo Se Bin For Forgiveness In “Doctor Shin”</news:title>
+      <news:keywords>K-Drama, Doctor Shin, An Woo Yeon, Joo Se Bin, TV Chosun</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/akmus-paradise-of-rumors-becomes-2nd-song-to-achieve-perfect/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +47,18 @@
       <news:publication_date>2026-05-01T20:09:30.000Z</news:publication_date>
       <news:title>Popular SM Boy Group’s “Trainwreck” Live Vocals Spark Massive Criticism</news:title>
       <news:keywords>Girls Generation, Super Junior, Charts, K-Pop, SM Boy Group</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-k-pop-idol-expresses-disappointment-over-current-gre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T15:43:08.000Z</news:publication_date>
+      <news:title>Popular K-Pop Idol Expresses Disappointment Over Current Greeting Culture In The Industry</news:title>
+      <news:keywords>Debut, Awards, Charts, K-Pop, Greeting Culture</news:keywords>
     </news:news>
   </url>
   <url>
@@ -299,42 +323,6 @@
       <news:publication_date>2026-04-30T08:43:46.000Z</news:publication_date>
       <news:title>Kang Dong Won Transforms Into The Leader And Dance Machine Of Co-Ed Group TRIANGLE In New Film “Wild Sing”</news:title>
       <news:keywords>Comeback, Awards, K-Drama, Kang Dong Won, Wild Sing</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-kang-dong-won-park-ji-hyun-um-tae-goo-and-oh-jung-se-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T06:46:33.000Z</news:publication_date>
-      <news:title>Watch: Kang Dong Won, Park Ji Hyun, Um Tae Goo, And Oh Jung Se Are Set To Make A Comeback In “Wild Sing” Poster And Teaser</news:title>
-      <news:keywords>Comeback, K-Drama, Kang Dong Won, Park Ji Hyun, Um Tae Goo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-comments-on-post-about-fellow-97-liner-sparkin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T06:44:24.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook Comments On Post About Fellow ’97-Liner, Sparking Major Reactions</news:title>
-      <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/beloved-female-idol-admits-to-getting-hair-transplant-under-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T05:26:28.000Z</news:publication_date>
-      <news:title>Beloved Female Idol Admits To Getting Hair Transplant Under The Weight Of Online Ridicule</news:title>
-      <news:keywords>Comeback, Awards, Charts, K-Pop, Beauty Standards</news:keywords>
     </news:news>
   </url>
 </urlset>
