@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-cortis-runs-from-a-mob-in-suspenseful-mv-teaser-for-tn/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03T14:32:44.000Z</news:publication_date>
+      <news:title>Watch: CORTIS Runs From A Mob In Suspenseful MV Teaser For “TNT”</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idols-confirmed-to-attend-2026-met-gala-spark-heated-d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03T13:13:46.000Z</news:publication_date>
+      <news:title>K-Pop Idols Confirmed To Attend “2026 Met Gala” Spark Heated Debate</news:title>
+      <news:keywords>BTS, BLACKPINK, (G)I-DLE, Debut, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpinks-jennie-slammed-for-shameless-actions-involving-to/</loc>
     <news:news>
       <news:publication>
@@ -215,30 +239,6 @@
       <news:publication_date>2026-05-01T15:43:08.000Z</news:publication_date>
       <news:title>Popular K-Pop Idol Expresses Disappointment Over Current Greeting Culture In The Industry</news:title>
       <news:keywords>Debut, Awards, Charts, K-Pop, Greeting Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-actions-towards-jimin-in-new-video-hit-with-major-fury/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T14:00:37.000Z</news:publication_date>
-      <news:title>BTS’s Actions Towards Jimin In New Video Hit With Major Fury</news:title>
-      <news:keywords>BTS, Comeback, Awards, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/disney-announces-2027-release-of-the-miracles-of-the-namiya-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T11:46:09.000Z</news:publication_date>
-      <news:title>Disney+ Announces 2027 Release of “The Miracles of the Namiya General Store” Live-Action Adaptation</news:title>
-      <news:keywords>K-Drama, Disney+, The Miracles of the Namiya General Store, Keigo Higashino, Live-Action Adaptation</news:keywords>
     </news:news>
   </url>
 </urlset>
