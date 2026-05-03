@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/moon-se-yoon-in-talks-to-sign-with-sm-cc-after-leaving-fnc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03T07:05:49.000Z</news:publication_date>
+      <news:title>Moon Se Yoon In Talks To Sign With SM C&amp;C After Leaving FNC</news:title>
+      <news:keywords>K-Drama, Moon Se Yoon, SM C&amp;C, FNC Entertainment, Korean Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/k-pop-trainee-goes-missing-ahead-of-debut-police-launch-inve/</loc>
     <news:news>
       <news:publication>
@@ -50,6 +62,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-fans-outraged-as-rookie-girl-group-is-sent-to-military/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T20:05:18.000Z</news:publication_date>
+      <news:title>K-Pop Fans Outraged As Rookie Girl Group Is Sent To Military Boot Camp And Maknae Shows Emotional Distress</news:title>
+      <news:keywords>Comeback, K-Pop, Military Boot Camp, Rookie Girl Group, Maknae</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/how-wanna-one-members-really-feel-about-park-jihoons-massive/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +83,18 @@
       <news:publication_date>2026-05-02T18:46:28.000Z</news:publication_date>
       <news:title>How Wanna One Members Really Feel About Park Jihoon’s Massive Post-Group Success</news:title>
       <news:keywords>Debut, K-Drama, Wanna One, Park Jihoon, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idols-biggest-hit-song-revealed-to-have-been-rejected-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T18:22:46.000Z</news:publication_date>
+      <news:title>K-Pop Idol’s Biggest Hit Song Revealed To Have Been Rejected By Another Group First</news:title>
+      <news:keywords>(G)I-DLE, Comeback, Charts, Album, Lovelyz</news:keywords>
     </news:news>
   </url>
   <url>
@@ -203,18 +239,6 @@
       <news:publication_date>2026-05-01T07:25:26.000Z</news:publication_date>
       <news:title>IU And Byeon Woo Seok Don Traditional Wear For Their Wedding Ceremony In “Perfect Crown”</news:title>
       <news:keywords>IU, Awards, K-Drama, Byeon Woo Seok, Perfect Crown</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbang-g-dragons-latest-interaction-with-aespas-karina-draw/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T05:22:03.000Z</news:publication_date>
-      <news:title>BIGBANG G-Dragon’s Latest Interaction With aespa’s Karina Draws Attention</news:title>
-      <news:keywords>aespa, BIGBANG, Comeback, G-Dragon, Karina</news:keywords>
     </news:news>
   </url>
 </urlset>
