@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-slammed-for-shameless-actions-involving-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03T10:30:48.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Jennie Slammed For “Shameless” Actions Involving Top Male Star</news:title>
+      <news:keywords>BLACKPINK, Debut, Awards, Jennie, K-Pop Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-strive-to-pro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03T08:57:18.000Z</news:publication_date>
+      <news:title>Watch: Shin Ha Kyun, Oh Jung Se, And Heo Sung Tae Strive To Prove They Still Have Potential In “Fifties Professionals” Teaser</news:title>
+      <news:keywords>K-Drama, Shin Ha Kyun, Oh Jung Se, Heo Sung Tae, Action-Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/moon-se-yoon-in-talks-to-sign-with-sm-cc-after-leaving-fnc/</loc>
     <news:news>
       <news:publication>
@@ -215,30 +239,6 @@
       <news:publication_date>2026-05-01T11:46:09.000Z</news:publication_date>
       <news:title>Disney+ Announces 2027 Release of “The Miracles of the Namiya General Store” Live-Action Adaptation</news:title>
       <news:keywords>K-Drama, Disney+, The Miracles of the Namiya General Store, Keigo Higashino, Live-Action Adaptation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exclusive-plave-gets-candid-about-their-success-as-a-virtual/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T07:59:38.000Z</news:publication_date>
-      <news:title>Exclusive: PLAVE Gets Candid About Their Success As A Virtual Group, Member Strengths, ‘Caligo’ Series, And More</news:title>
-      <news:keywords>Comeback, Debut, Album, MV, PLAVE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-and-byeon-woo-seok-don-traditional-wear-for-their-wedding/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T07:25:26.000Z</news:publication_date>
-      <news:title>IU And Byeon Woo Seok Don Traditional Wear For Their Wedding Ceremony In “Perfect Crown”</news:title>
-      <news:keywords>IU, Awards, K-Drama, Byeon Woo Seok, Perfect Crown</news:keywords>
     </news:news>
   </url>
 </urlset>
