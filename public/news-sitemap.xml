@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/female-k-pop-idol-feels-like-shes-no-longer-a-celebrity-afte/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T06:58:02.000Z</news:publication_date>
+      <news:title>Female K-Pop Idol Feels Like She’s No Longer A Celebrity After Hitting 68kg</news:title>
+      <news:keywords>Charts, K-Pop, Body Image, Dieting, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-idol-actor-suddenly-retires-from-singing-career/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T05:21:09.000Z</news:publication_date>
+      <news:title>Popular Idol-Actor Suddenly Retires From Singing Career</news:title>
+      <news:keywords>K-Drama, K-Pop, Retirement, Idol-Actor, Enlistment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heo-sung-tae-and-lee-hak-joos-relationship-begins-to-fractur/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T05:08:43.000Z</news:publication_date>
+      <news:title>Heo Sung Tae And Lee Hak Joo’s Relationship Begins To Fracture Between Loyalty And Reality In New Drama “Fifties Professionals”</news:title>
+      <news:keywords>K-Drama, Heo Sung Tae, Lee Hak Joo, Fifties Professionals, Action-Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/which-ioi-member-was-behind-the-groups-long-awaited-reunion/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T00:42:59.000Z</news:publication_date>
+      <news:title>Which I.O.I Member Was Behind The Group’s Long-Awaited Reunion?</news:title>
+      <news:keywords>Comeback, Debut, I.O.I, K-Pop, Reunion</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-male-idols-father-publicly-disowns-him-over-alleged-fami/</loc>
     <news:news>
       <news:publication>
@@ -227,18 +275,6 @@
       <news:publication_date>2026-05-02T11:33:22.000Z</news:publication_date>
       <news:title>HYBE Idol’s Underwear Photo With Explicit Message Sparks Massive Shock</news:title>
       <news:keywords>Comeback, Debut, Awards, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/an-woo-yeon-begs-joo-se-bin-for-forgiveness-in-doctor-shin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T05:18:08.000Z</news:publication_date>
-      <news:title>An Woo Yeon Begs Joo Se Bin For Forgiveness In “Doctor Shin”</news:title>
-      <news:keywords>K-Drama, Doctor Shin, An Woo Yeon, Joo Se Bin, TV Chosun</news:keywords>
     </news:news>
   </url>
 </urlset>
