@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/manons-actions-during-new-live-stream-confirm-she-is-leaving/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T09:34:28.000Z</news:publication_date>
+      <news:title>Manon’s Actions During New Live Stream “Confirm” She Is Leaving KATSEYE</news:title>
+      <news:keywords>Charts, Manon, KATSEYE, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-seo-ji-hye-kwak-sun-young-and-more-face-chaos-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T08:48:48.000Z</news:publication_date>
+      <news:title>Park Hae Soo, Seo Ji Hye, Kwak Sun Young, And More Face Chaos As Song Geon Hee Is Named Murder Suspect In “The Scarecrow”</news:title>
+      <news:keywords>K-Drama, The Scarecrow, Park Hae Soo, Seo Ji Hye, Kwak Sun Young</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/fifty-fifty-announces-summer-comeback-hana-unable-to-partici/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T08:22:44.000Z</news:publication_date>
+      <news:title>FIFTY FIFTY Announces Summer Comeback + Hana Unable To Participate Due To Health</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, FIFTY FIFTY</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/love-class-3-announces-premiere-date-with-new-posters/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T07:47:42.000Z</news:publication_date>
+      <news:title>“Love Class 3” Announces Premiere Date With New Posters</news:title>
+      <news:keywords>K-Drama, Love Class 3, BL Drama, K-Pop, LGBTQ+</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/female-k-pop-idol-feels-like-shes-no-longer-a-celebrity-afte/</loc>
     <news:news>
       <news:publication>
@@ -263,18 +311,6 @@
       <news:publication_date>2026-05-02T12:37:26.000Z</news:publication_date>
       <news:title>ENHYPEN Unleashes ‘Blood Saga’ with Spellbinding Kickoff as Six-Member Unit</news:title>
       <news:keywords>BTS, BLACKPINK, ENHYPEN, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-idols-underwear-photo-with-explicit-message-sparks-mass/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T11:33:22.000Z</news:publication_date>
-      <news:title>HYBE Idol’s Underwear Photo With Explicit Message Sparks Massive Shock</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
