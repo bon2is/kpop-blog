@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/enhypens-sunoo-bashed-because-of-heeseung-evan-sparking-outr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T15:26:43.000Z</news:publication_date>
+      <news:title>ENHYPEN’s Sunoo Bashed Because Of Heeseung (EVAN), Sparking Outrage</news:title>
+      <news:keywords>BTS, BLACKPINK, ENHYPEN, Debut, Sunoo</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-jaehyuns-dramatic-body-transformation-after-military-dis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T10:09:57.000Z</news:publication_date>
+      <news:title>NCT Jaehyun’s Dramatic Body Transformation After Military Discharge Goes Viral</news:title>
+      <news:keywords>NCT, Comeback, Awards, Charts, Jaehyun</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/manons-actions-during-new-live-stream-confirm-she-is-leaving/</loc>
     <news:news>
       <news:publication>
@@ -275,42 +299,6 @@
       <news:publication_date>2026-05-02T18:22:46.000Z</news:publication_date>
       <news:title>K-Pop Idol’s Biggest Hit Song Revealed To Have Been Rejected By Another Group First</news:title>
       <news:keywords>(G)I-DLE, Comeback, Charts, Album, Lovelyz</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-idol-known-for-sculpted-body-shocks-with-sudden-gaunt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T14:11:42.000Z</news:publication_date>
-      <news:title>Female Idol Known For Sculpted Body Shocks With Sudden Gaunt Appearance</news:title>
-      <news:keywords>Awards, K-Pop, Weight Loss, Body Image, Idol Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/illit-shades-newjeans-in-new-album-content-deletes-it-abrupt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T13:54:42.000Z</news:publication_date>
-      <news:title>ILLIT “Shades” NewJeans In New Album Content, Deletes It Abruptly</news:title>
-      <news:keywords>NewJeans, ILLIT, Debut, Album, Plagiarism</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-unleashes-blood-saga-with-spellbinding-kickoff-as-si/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T12:37:26.000Z</news:publication_date>
-      <news:title>ENHYPEN Unleashes ‘Blood Saga’ with Spellbinding Kickoff as Six-Member Unit</news:title>
-      <news:keywords>BTS, BLACKPINK, ENHYPEN, Debut, Concert</news:keywords>
     </news:news>
   </url>
 </urlset>
