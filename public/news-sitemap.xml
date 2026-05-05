@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/enhypens-sunghoon-hit-with-malicious-bodyshaming-after-muscl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T09:35:32.000Z</news:publication_date>
+      <news:title>ENHYPEN’s Sunghoon Hit With Malicious Bodyshaming After Muscle Bulk Up During Concert</news:title>
+      <news:keywords>ENHYPEN, Comeback, Debut, Concert, Sunghoon</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lisas-director-under-fire-for-shading-blackpink-members-in-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T09:00:26.000Z</news:publication_date>
+      <news:title>Lisa’s Director Under Fire For “Shading” BLACKPINK Members In Scathing Post</news:title>
+      <news:keywords>BLACKPINK, Debut, K-Drama, Lisa, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-seemingly-mocked-by-crowd-ahead-of-2026-me/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T09:00:17.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Jennie Seemingly Mocked By Crowd Ahead Of “2026 Met Gala”</news:title>
+      <news:keywords>BLACKPINK, Debut, Awards, Album, Jennie</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-shocking-2026-met-gala-group-photos-spark-strong-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T08:43:25.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Shocking “2026 Met Gala” Group Photos Spark Strong Reactions </news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/aespa-karinas-unedited-visuals-in-getty-images-spark-hot-rea/</loc>
     <news:news>
       <news:publication>
@@ -275,30 +323,6 @@
       <news:publication_date>2026-05-03T13:13:46.000Z</news:publication_date>
       <news:title>K-Pop Idols Confirmed To Attend “2026 Met Gala” Spark Heated Debate</news:title>
       <news:keywords>BTS, BLACKPINK, (G)I-DLE, Debut, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jennie-slammed-for-shameless-actions-involving-to/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T10:30:48.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Jennie Slammed For “Shameless” Actions Involving Top Male Star</news:title>
-      <news:keywords>BLACKPINK, Debut, Awards, Jennie, K-Pop Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-shin-ha-kyun-oh-jung-se-and-heo-sung-tae-strive-to-pro/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:57:18.000Z</news:publication_date>
-      <news:title>Watch: Shin Ha Kyun, Oh Jung Se, And Heo Sung Tae Strive To Prove They Still Have Potential In “Fifties Professionals” Teaser</news:title>
-      <news:keywords>K-Drama, Shin Ha Kyun, Oh Jung Se, Heo Sung Tae, Action-Comedy</news:keywords>
     </news:news>
   </url>
 </urlset>
