@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-male-idol-breaks-down-on-stage-amid-messy-family-conflic/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T13:42:12.000Z</news:publication_date>
+      <news:title>Top Male Idol Breaks Down On Stage Amid Messy Family Conflict</news:title>
+      <news:keywords>Concert, Awards, Charts, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/babymonster-disappointment-sparks-accusations-that-yg-strugg/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T11:40:20.000Z</news:publication_date>
+      <news:title>BABYMONSTER Disappointment Sparks Accusations That YG Struggles Without Teddy</news:title>
+      <news:keywords>BLACKPINK, BIGBANG, 2NE1, BABYMONSTER, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-exposed-for-being-terrible-at-sex-by-alleged-ex-g/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T10:08:52.000Z</news:publication_date>
+      <news:title>K-Pop Idol Exposed For Being “Terrible” At Sex By Alleged Ex-Girlfriend </news:title>
+      <news:keywords>Album, K-Pop, Scandal, Idol, Relationships</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-karinas-brutal-treatment-by-photographers-at-2026-met-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T09:55:26.000Z</news:publication_date>
+      <news:title>aespa Karina’s Brutal Treatment By Photographers At “2026 Met Gala” Sparks Major Reactions</news:title>
+      <news:keywords>aespa, Debut, Charts, Album, Karina</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/minji-finally-breaks-silence-and-drops-huge-newjeans-hint/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T09:43:13.000Z</news:publication_date>
+      <news:title>Minji Finally Breaks Silence And Drops Huge NewJeans “Hint”</news:title>
+      <news:keywords>NewJeans, Comeback, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/enhypens-sunghoon-hit-with-malicious-bodyshaming-after-muscl/</loc>
     <news:news>
       <news:publication>
@@ -299,30 +359,6 @@
       <news:publication_date>2026-05-03T18:31:01.000Z</news:publication_date>
       <news:title>Well-Known Actress Near Signing With Porn Studio After Risqué Live Stream</news:title>
       <news:keywords>BTS, BLACKPINK, K-Drama, K-Pop, Actress</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-cortis-runs-from-a-mob-in-suspenseful-mv-teaser-for-tn/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T14:32:44.000Z</news:publication_date>
-      <news:title>Watch: CORTIS Runs From A Mob In Suspenseful MV Teaser For “TNT”</news:title>
-      <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idols-confirmed-to-attend-2026-met-gala-spark-heated-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T13:13:46.000Z</news:publication_date>
-      <news:title>K-Pop Idols Confirmed To Attend “2026 Met Gala” Spark Heated Debate</news:title>
-      <news:keywords>BTS, BLACKPINK, (G)I-DLE, Debut, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
