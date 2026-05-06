@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/iois-doyeon-reveals-back-story-of-kissing-jeon-somi-triggers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T03:34:51.000Z</news:publication_date>
+      <news:title>I.O.I’s Doyeon Reveals Back Story Of Kissing Jeon Somi, Triggers Massive Response</news:title>
+      <news:keywords>Awards, MV, I.O.I, Doyeon, Jeon Somi</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/two-high-profile-trainees-rumored-to-debut-in-new-girl-group/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T01:51:32.000Z</news:publication_date>
+      <news:title>Two High-Profile Trainees Rumored To Debut In New Girl Group—But K-Pop Fans Are Already Furious</news:title>
+      <news:keywords>TWICE, Debut, K-Pop, Girl Group, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/two-k-pop-idols-dominate-2026-baeksang-awards-with-massive-v/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T00:20:33.000Z</news:publication_date>
+      <news:title>Two K-Pop Idols Dominate 2026 Baeksang Awards With Massive Vote Gaps</news:title>
+      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-male-idol-breaks-down-on-stage-amid-messy-family-conflic/</loc>
     <news:news>
       <news:publication>
@@ -311,54 +347,6 @@
       <news:publication_date>2026-05-04T05:08:43.000Z</news:publication_date>
       <news:title>Heo Sung Tae And Lee Hak Joo’s Relationship Begins To Fracture Between Loyalty And Reality In New Drama “Fifties Professionals”</news:title>
       <news:keywords>K-Drama, Heo Sung Tae, Lee Hak Joo, Fifties Professionals, Action-Comedy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/which-ioi-member-was-behind-the-groups-long-awaited-reunion/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T00:42:59.000Z</news:publication_date>
-      <news:title>Which I.O.I Member Was Behind The Group’s Long-Awaited Reunion?</news:title>
-      <news:keywords>Comeback, Debut, I.O.I, K-Pop, Reunion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-male-idols-father-publicly-disowns-him-over-alleged-fami/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T00:41:50.000Z</news:publication_date>
-      <news:title>Top Male Idol’s Father Publicly Disowns Him Over Alleged Family Issues</news:title>
-      <news:keywords>Charts, K-Pop, Family Feud, Mental Health, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-arirang-remains-in-top-5-of-billboard-200-for-record-br/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T21:33:43.000Z</news:publication_date>
-      <news:title>BTS’s “ARIRANG” Remains In Top 5 Of Billboard 200 For Record-Breaking 6th Week</news:title>
-      <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/well-known-actress-near-signing-with-porn-studio-after-risqu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T18:31:01.000Z</news:publication_date>
-      <news:title>Well-Known Actress Near Signing With Porn Studio After Risqué Live Stream</news:title>
-      <news:keywords>BTS, BLACKPINK, K-Drama, K-Pop, Actress</news:keywords>
     </news:news>
   </url>
 </urlset>
