@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nct-127s-recent-actions-at-airport-faces-backlash-related-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T14:00:39.000Z</news:publication_date>
+      <news:title>NCT 127’s Recent Actions At Airport Faces Backlash Related To Former Member Mark</news:title>
+      <news:keywords>NCT, Awards, NCT 127, Mark, SM Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-flees-from-his-nemesis-at-mexicos-national-pal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T13:52:05.000Z</news:publication_date>
+      <news:title>BTS’s Jungkook Flees From His Nemesis At Mexico’s National Palace</news:title>
+      <news:keywords>BTS, Awards, Jungkook, K-Pop, Mexico</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-actions-at-club-for-after-party-hit-with-e/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T12:45:08.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie’s Actions At Club For After-Party Hit With Extreme Backlash</news:title>
+      <news:keywords>BLACKPINK, Debut, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-nct-member-gets-called-out-for-alleged-attitude-prob/</loc>
     <news:news>
       <news:publication>
@@ -263,18 +299,6 @@
       <news:publication_date>2026-05-06T00:20:33.000Z</news:publication_date>
       <news:title>Two K-Pop Idols Dominate 2026 Baeksang Awards With Massive Vote Gaps</news:title>
       <news:keywords>BTS, BLACKPINK, Comeback, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-male-idol-breaks-down-on-stage-amid-messy-family-conflic/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-05T13:42:12.000Z</news:publication_date>
-      <news:title>Top Male Idol Breaks Down On Stage Amid Messy Family Conflict</news:title>
-      <news:keywords>Concert, Awards, Charts, Tour, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
