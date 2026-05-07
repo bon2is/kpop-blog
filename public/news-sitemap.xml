@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-to-be-the-first-and-only-korean-to-appear-in-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T04:55:16.000Z</news:publication_date>
+      <news:title>BTS’s Jungkook To Be The First And Only Korean To Appear In Popular Book Series</news:title>
+      <news:keywords>BTS, Comeback, Debut, Jungkook, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ador-breaks-silence-on-minjis-situation-with-newjeans-throug/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T04:32:51.000Z</news:publication_date>
+      <news:title>ADOR Breaks Silence On Minji’s Situation With NewJeans Through New Statement</news:title>
+      <news:keywords>NewJeans, Debut, Awards, Charts, Minji</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/4-li-yun-rui-c-dramas-to-watch-if-you-loved-rebirth/</loc>
     <news:news>
       <news:publication>
@@ -119,6 +143,18 @@
       <news:publication_date>2026-05-06T08:39:20.000Z</news:publication_date>
       <news:title>Kim Shin Rok Transforms Into A Prosecutor  Determined To Uphold Justice In New Drama “Fifties Professionals”</news:title>
       <news:keywords>Awards, K-Drama, Kim Shin Rok, Fifties Professionals, Action-Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/oh-jung-se-is-a-once-promising-ballad-singer-in-new-film-wil/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T08:24:27.000Z</news:publication_date>
+      <news:title>Oh Jung Se Is A Once-Promising Ballad Singer In New Film “Wild Sing”</news:title>
+      <news:keywords>Comeback, Oh Jung Se, K-Pop, Wild Sing, Film</news:keywords>
     </news:news>
   </url>
   <url>
