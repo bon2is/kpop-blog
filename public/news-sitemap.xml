@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/babymonsters-brand-collaboration-faces-major-ridicule-for-al/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-08T14:10:13.000Z</news:publication_date>
+      <news:title>BABYMONSTER’s Brand Collaboration Faces Major Ridicule For Allegedly Showcasing “Eating Disorder”</news:title>
+      <news:keywords>BLACKPINK, BIGBANG, 2NE1, BABYMONSTER, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseyes-lara-faces-major-backlash-for-recent-comments-in-ne/</loc>
     <news:news>
       <news:publication>
@@ -275,42 +287,6 @@
       <news:publication_date>2026-05-06T15:38:34.000Z</news:publication_date>
       <news:title>MAMAMOO Drops 1st Teaser For Full-Group Comeback With “4WARD”</news:title>
       <news:keywords>MAMAMOO, Comeback, Debut, Awards, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-treasure-teases-hip-hop-comeback-with-trailer-for-new-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-06T15:18:28.000Z</news:publication_date>
-      <news:title>Watch: TREASURE Teases Hip Hop Comeback With Trailer For “NEW WAV”</news:title>
-      <news:keywords>TREASURE, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/uspeers-yeowon-to-leave-the-group/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-06T14:35:23.000Z</news:publication_date>
-      <news:title>USPEER’s Yeowon To Leave The Group</news:title>
-      <news:keywords>Debut, USPEER, Yeowon, K-Pop, Departure</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-nexz-takes-tearful-1st-ever-win-on-show-champion-with-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-06T14:00:22.000Z</news:publication_date>
-      <news:title>Watch: NEXZ Takes Tearful 1st-Ever Win On “Show Champion” With “Mmchk”; Performances By TWS, CRAVITY, And More</news:title>
-      <news:keywords>TXT, MAMAMOO, TWS, Debut, NEXZ</news:keywords>
     </news:news>
   </url>
 </urlset>

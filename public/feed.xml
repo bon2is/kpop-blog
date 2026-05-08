@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 12:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:22:27 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BABYMONSTER’s Brand Collaboration Faces Major Ridicule For Allegedly Showcasing “Eating Disorder”</title>
+      <link>https://kpop.andxo.com/article/babymonsters-brand-collaboration-faces-major-ridicule-for-al/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/babymonsters-brand-collaboration-faces-major-ridicule-for-al/</guid>
+      <description>BABYMONSTER&apos;s brand collaboration sparks outrage</description>
+      <pubDate>Fri, 08 May 2026 14:10:13 GMT</pubDate>
+      <category>audition</category>
+      <category>BLACKPINK</category>
+      <category>BIGBANG</category>
+      <category>2NE1</category>
+      <category>BABYMONSTER</category>
+      <category>Debut</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/babymonsters-brand-collaboration-faces-major-ridicule-for-al.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/babymonsters-brand-collaboration-faces-major-ridicule-for-al.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/babymonsters-brand-collaboration-faces-major-ridicule-for-al.webp" />
+    </item>
     <item>
       <title>KATSEYE’s Lara Faces Major Backlash For Recent Comments In New Interview</title>
       <link>https://kpop.andxo.com/article/katseyes-lara-faces-major-backlash-for-recent-comments-in-ne/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/beloved-actor-breaks-down-in-tears-recounting-his-sons-horri.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/beloved-actor-breaks-down-in-tears-recounting-his-sons-horri.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/beloved-actor-breaks-down-in-tears-recounting-his-sons-horri.webp" />
-    </item>
-    <item>
-      <title>New HYBE Girl Group’s Appearance At Major Billboard Event Stirs Up Brutal Backlash</title>
-      <link>https://kpop.andxo.com/article/new-hybe-girl-groups-appearance-at-major-billboard-event-sti/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/new-hybe-girl-groups-appearance-at-major-billboard-event-sti/</guid>
-      <description>New HYBE girl group sparks outrage at Billboard event.</description>
-      <pubDate>Thu, 30 Apr 2026 14:00:21 GMT</pubDate>
-      <category>tour</category>
-      <category>BTS</category>
-      <category>BLACKPINK</category>
-      <category>EXO</category>
-      <category>LE SSERAFIM</category>
-      <category>Debut</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/new-hybe-girl-groups-appearance-at-major-billboard-event-sti.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/new-hybe-girl-groups-appearance-at-major-billboard-event-sti.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/new-hybe-girl-groups-appearance-at-major-billboard-event-sti.webp" />
     </item>
   </channel>
 </rss>
