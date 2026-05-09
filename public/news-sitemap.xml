@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/39-year-old-k-pop-idol-turns-to-matchmaking-agency-to-find-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-09T07:25:11.000Z</news:publication_date>
+      <news:title>39-Year-Old K-Pop Idol Turns To Matchmaking Agency To Find A Wife</news:title>
+      <news:keywords>Album, K-Pop, Matchmaking Agency, 39-Year-Old Idol, Marriage</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-vs-past-behavior-with-women-resurfaces/</loc>
     <news:news>
       <news:publication>
@@ -191,54 +203,6 @@
       <news:publication_date>2026-05-07T12:45:08.000Z</news:publication_date>
       <news:title>BLACKPINK Jennie’s Actions At Club For After-Party Hit With Extreme Backlash</news:title>
       <news:keywords>BLACKPINK, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-nct-member-gets-called-out-for-alleged-attitude-prob/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T11:36:29.000Z</news:publication_date>
-      <news:title>Popular NCT Member Gets Called Out For Alleged Attitude Problems</news:title>
-      <news:keywords>BTS, BLACKPINK, NCT, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-pleads-for-help-for-his-sick-puppy/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T11:27:28.000Z</news:publication_date>
-      <news:title>K-Pop Idol Pleads For Help For His Sick Puppy</news:title>
-      <news:keywords>Charts, Album, Tour, K-Pop, Animal Welfare</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-bmy-boyz-group-yuhz-is-ready-to-rush-rush-to-your-hear/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T09:12:37.000Z</news:publication_date>
-      <news:title>Watch: “B:MY BOYZ” Group YUHZ Is Ready To “Rush Rush” To Your Heart In Bubbly Debut MV</news:title>
-      <news:keywords>Debut, MV, YUHZ, K-Pop, B:MY BOYZ</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/riizes-shotaro-to-participate-in-limited-capacity-in-upcomin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T07:49:12.000Z</news:publication_date>
-      <news:title>RIIZE’s Shotaro To Participate In Limited Capacity In Upcoming Activities Due To Injury</news:title>
-      <news:keywords>RIIZE, Debut, MV, Shotaro, Injury</news:keywords>
     </news:news>
   </url>
 </urlset>

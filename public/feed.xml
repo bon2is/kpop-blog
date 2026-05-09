@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 07:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:39:00 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>39-Year-Old K-Pop Idol Turns To Matchmaking Agency To Find A Wife</title>
+      <link>https://kpop.andxo.com/article/39-year-old-k-pop-idol-turns-to-matchmaking-agency-to-find-a/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/39-year-old-k-pop-idol-turns-to-matchmaking-agency-to-find-a/</guid>
+      <description>39-year-old K-Pop idol seeks wife through matchmaking agency</description>
+      <pubDate>Sat, 09 May 2026 07:25:11 GMT</pubDate>
+      <category>audition</category>
+      <category>Album</category>
+      <category>K-Pop</category>
+      <category>Matchmaking Agency</category>
+      <category>39-Year-Old Idol</category>
+      <category>Marriage</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/39-year-old-k-pop-idol-turns-to-matchmaking-agency-to-find-a.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/39-year-old-k-pop-idol-turns-to-matchmaking-agency-to-find-a.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/39-year-old-k-pop-idol-turns-to-matchmaking-agency-to-find-a.webp" />
+    </item>
     <item>
       <title>BTS V’s Past Behavior With Women Resurfaces</title>
       <link>https://kpop.andxo.com/article/bts-vs-past-behavior-with-women-resurfaces/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-alarms-with-update-as-manons-activities-confirm-her-.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-alarms-with-update-as-manons-activities-confirm-her-.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-alarms-with-update-as-manons-activities-confirm-her-.webp" />
-    </item>
-    <item>
-      <title>Talented 27-Year-Old Idol Essentially Quits The Industry In Update — Breaking Hearts</title>
-      <link>https://kpop.andxo.com/article/talented-27-year-old-idol-essentially-quits-the-industry-in-/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/talented-27-year-old-idol-essentially-quits-the-industry-in-/</guid>
-      <description>27-year-old K-Pop idol quits the industry, breaking hearts</description>
-      <pubDate>Thu, 30 Apr 2026 19:36:31 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Pop</category>
-      <category>Idol</category>
-      <category>Departure</category>
-      <category>Mental Health</category>
-      <category>Sustainability</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/talented-27-year-old-idol-essentially-quits-the-industry-in-.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/talented-27-year-old-idol-essentially-quits-the-industry-in-.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/talented-27-year-old-idol-essentially-quits-the-industry-in-.webp" />
     </item>
   </channel>
 </rss>
