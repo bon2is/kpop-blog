@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-vs-past-behavior-with-women-resurfaces/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-09T06:12:31.000Z</news:publication_date>
+      <news:title>BTS V’s Past Behavior With Women Resurfaces</news:title>
+      <news:keywords>BTS, Debut, Awards, K-Drama, V</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-lisas-latest-news-hit-with-backlash-from-non-k-pop/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-08T21:33:30.000Z</news:publication_date>
+      <news:title>BLACKPINK Lisa’s Latest News Hit With Backlash From Non-K-Pop Fans And More</news:title>
+      <news:keywords>BLACKPINK, Debut, Charts, Album, Lisa</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/visuals-of-new-yg-entertainment-boy-group-rumored-members-be/</loc>
     <news:news>
       <news:publication>
@@ -215,42 +239,6 @@
       <news:publication_date>2026-05-07T07:49:12.000Z</news:publication_date>
       <news:title>RIIZE’s Shotaro To Participate In Limited Capacity In Upcoming Activities Due To Injury</news:title>
       <news:keywords>RIIZE, Debut, MV, Shotaro, Injury</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-to-be-the-first-and-only-korean-to-appear-in-p/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T04:55:16.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook To Be The First And Only Korean To Appear In Popular Book Series</news:title>
-      <news:keywords>BTS, Comeback, Debut, Jungkook, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ador-breaks-silence-on-minjis-situation-with-newjeans-throug/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T04:32:51.000Z</news:publication_date>
-      <news:title>ADOR Breaks Silence On Minji’s Situation With NewJeans Through New Statement</news:title>
-      <news:keywords>NewJeans, Debut, Awards, Charts, Minji</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4-li-yun-rui-c-dramas-to-watch-if-you-loved-rebirth/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T04:23:07.000Z</news:publication_date>
-      <news:title>4 Li Yun Rui C-Dramas To Watch If You Loved “Rebirth”</news:title>
-      <news:keywords>K-Drama, Li Yun Rui, C-Drama, Rebirth, Blossom</news:keywords>
     </news:news>
   </url>
 </urlset>
