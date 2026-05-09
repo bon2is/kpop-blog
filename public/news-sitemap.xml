@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-idol-goes-viral-for-green-flag-comment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-09T13:35:57.000Z</news:publication_date>
+      <news:title>HYBE Idol Goes Viral For “Green Flag” Comment</news:title>
+      <news:keywords>BTS, LE SSERAFIM, Debut, HYBE, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/big-4-idol-slammed-as-unrecognizable-after-alleged-nose-plas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-09T11:44:12.000Z</news:publication_date>
+      <news:title>“Big 4” Idol Slammed As “Unrecognizable” After Alleged Nose Plastic Surgery</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Red Velvet, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/39-year-old-k-pop-idol-turns-to-matchmaking-agency-to-find-a/</loc>
     <news:news>
       <news:publication>
@@ -167,42 +191,6 @@
       <news:publication_date>2026-05-07T16:33:43.000Z</news:publication_date>
       <news:title>MEOVV Hints At Comeback With Mysterious Teasers</news:title>
       <news:keywords>Comeback, Charts, Album, MEOVV, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-127s-recent-actions-at-airport-faces-backlash-related-to/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T14:00:39.000Z</news:publication_date>
-      <news:title>NCT 127’s Recent Actions At Airport Faces Backlash Related To Former Member Mark</news:title>
-      <news:keywords>NCT, Awards, NCT 127, Mark, SM Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-flees-from-his-nemesis-at-mexicos-national-pal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T13:52:05.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook Flees From His Nemesis At Mexico’s National Palace</news:title>
-      <news:keywords>BTS, Awards, Jungkook, K-Pop, Mexico</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-actions-at-club-for-after-party-hit-with-e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T12:45:08.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie’s Actions At Club For After-Party Hit With Extreme Backlash</news:title>
-      <news:keywords>BLACKPINK, Debut, Charts, Album, MV</news:keywords>
     </news:news>
   </url>
 </urlset>
