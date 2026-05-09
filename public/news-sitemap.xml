@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/visuals-of-new-yg-entertainment-boy-group-rumored-members-be/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-08T19:55:10.000Z</news:publication_date>
+      <news:title>Visuals Of New YG Entertainment Boy Group Rumored Members Become A Hot Topic</news:title>
+      <news:keywords>BLACKPINK, BIGBANG, 2NE1, Debut, YG Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/babymonsters-brand-collaboration-faces-major-ridicule-for-al/</loc>
     <news:news>
       <news:publication>
@@ -239,54 +251,6 @@
       <news:publication_date>2026-05-07T04:23:07.000Z</news:publication_date>
       <news:title>4 Li Yun Rui C-Dramas To Watch If You Loved “Rebirth”</news:title>
       <news:keywords>K-Drama, Li Yun Rui, C-Drama, Rebirth, Blossom</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/adors-recent-post-about-minji-spark-speculation-on-her-retur/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T03:18:04.000Z</news:publication_date>
-      <news:title>ADOR’s Recent Post About Minji Spark Speculation On Her Return To NewJeans</news:title>
-      <news:keywords>NewJeans, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ador-briefly-comments-on-rumors-of-newjeans-minjis-return/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T02:58:02.000Z</news:publication_date>
-      <news:title>ADOR Briefly Comments On Rumors Of NewJeans’ Minji’s Return</news:title>
-      <news:keywords>NewJeans, Comeback, Debut, Minji, ADOR</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-2026-met-gala-makeup-look-met-with-surpris/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-06T19:10:05.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie’s “2026 Met Gala” Makeup Look Met With Surprising Reactions From K-Netz</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mamamoo-drops-1st-teaser-for-full-group-comeback-with-4ward/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-06T15:38:34.000Z</news:publication_date>
-      <news:title>MAMAMOO Drops 1st Teaser For Full-Group Comeback With “4WARD”</news:title>
-      <news:keywords>MAMAMOO, Comeback, Debut, Awards, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
