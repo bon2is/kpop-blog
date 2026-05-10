@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-lisa-sparks-boob-job-rumors-after-viral-bralette-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T10:35:54.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Lisa Sparks “Boob Job” Rumors After Viral “Bralette” Photo</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/fired-idol-who-allegedly-dated-and-cheated-on-a-fan-re-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T09:16:31.000Z</news:publication_date>
+      <news:title>Fired Idol Who Allegedly Dated And Cheated On A Fan Re-debuts In A New Girl Group</news:title>
+      <news:keywords>Debut, K-Pop Scandal, Girl Group, Comeback, Accountability</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-nmixxs-haewon-and-bae-le-sserafims-chaewon-and-kazuha-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T03:40:15.000Z</news:publication_date>
+      <news:title>Watch: NMIXX’s Haewon And Bae + LE SSERAFIM’s Chaewon And Kazuha Come Together In “Amazing Saturday” Preview</news:title>
+      <news:keywords>LE SSERAFIM, NMIXX, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-akmu-takes-1st-win-for-paradise-of-rumors-on-music-cor/</loc>
     <news:news>
       <news:publication>
@@ -131,30 +167,6 @@
       <news:publication_date>2026-05-08T14:10:13.000Z</news:publication_date>
       <news:title>BABYMONSTER’s Brand Collaboration Faces Major Ridicule For Allegedly Showcasing “Eating Disorder”</news:title>
       <news:keywords>BLACKPINK, BIGBANG, 2NE1, BABYMONSTER, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseyes-lara-faces-major-backlash-for-recent-comments-in-ne/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T11:10:09.000Z</news:publication_date>
-      <news:title>KATSEYE’s Lara Faces Major Backlash For Recent Comments In New Interview</news:title>
-      <news:keywords>Debut, KATSEYE, Lara, Backlash, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twices-jihyo-dazzles-with-slim-waist-and-lean-muscles/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T07:58:11.000Z</news:publication_date>
-      <news:title>TWICE’s Jihyo Dazzles With Slim Waist And Lean Muscles</news:title>
-      <news:keywords>TWICE, Jihyo, K-Pop, Fitness, Body Positivity</news:keywords>
     </news:news>
   </url>
 </urlset>
