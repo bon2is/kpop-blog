@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/red-velvets-irene-gets-rid-of-huge-pimple-in-real-time-and-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T13:21:20.000Z</news:publication_date>
+      <news:title>Red Velvet’s Irene Gets Rid Of Huge Pimple In Real Time… And Shows It All On Cam!</news:title>
+      <news:keywords>Red Velvet, Comeback, Album, Irene, Skincare</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpinks-lisa-sparks-boob-job-rumors-after-viral-bralette-/</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       <news:publication_date>2026-05-08T19:55:10.000Z</news:publication_date>
       <news:title>Visuals Of New YG Entertainment Boy Group Rumored Members Become A Hot Topic</news:title>
       <news:keywords>BLACKPINK, BIGBANG, 2NE1, Debut, YG Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonsters-brand-collaboration-faces-major-ridicule-for-al/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T14:10:13.000Z</news:publication_date>
-      <news:title>BABYMONSTER’s Brand Collaboration Faces Major Ridicule For Allegedly Showcasing “Eating Disorder”</news:title>
-      <news:keywords>BLACKPINK, BIGBANG, 2NE1, BABYMONSTER, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
