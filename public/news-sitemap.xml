@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/byeon-woo-seok-named-new-ambassador-for-bvlgari/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T04:39:32.000Z</news:publication_date>
+      <news:title>Byeon Woo Seok Named New Ambassador For BVLGARI</news:title>
+      <news:keywords>Debut, K-Drama, Byeon Woo Seok, BVLGARI, Luxury Brand</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/han-ji-eun-hyun-bong-sik-kim-sang-ho-and-more-get-entangled-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T03:23:46.000Z</news:publication_date>
+      <news:title>Han Ji Eun, Hyun Bong Sik, Kim Sang Ho, And More Get Entangled Within Different Power Groups In “Fifties Professionals”</news:title>
+      <news:keywords>K-Drama, MBC, Fifties Professionals, Action-Comedy, Han Ji Eun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heeseungs-agency-confirms-plans-for-his-solo-debut-as-evan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T01:53:37.000Z</news:publication_date>
+      <news:title>Heeseung’s Agency Confirms Plans For His Solo Debut As EVAN</news:title>
+      <news:keywords>BTS, BLACKPINK, ENHYPEN, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-red-velvets-joy-reveals-shes-studying-for-a-pet-groomi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T21:41:31.000Z</news:publication_date>
+      <news:title>Watch: Red Velvet’s Joy Reveals She’s Studying For A Pet Grooming Certification In “Home Alone” Preview</news:title>
+      <news:keywords>Red Velvet, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/cortis-becomes-boy-group-with-6th-highest-1st-week-sales-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T18:39:38.000Z</news:publication_date>
+      <news:title>CORTIS Becomes Boy Group With 6th Highest 1st-Week Sales In Hanteo History</news:title>
+      <news:keywords>BTS, BLACKPINK, NCT, SEVENTEEN, Stray Kids</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/red-velvets-irene-gets-rid-of-huge-pimple-in-real-time-and-s/</loc>
     <news:news>
       <news:publication>
@@ -143,30 +203,6 @@
       <news:publication_date>2026-05-09T05:47:52.000Z</news:publication_date>
       <news:title>BLACKPINK’s Lisa To Headline FIFA World Cup 2026 Opening Ceremony</news:title>
       <news:keywords>BLACKPINK, Debut, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisas-latest-news-hit-with-backlash-from-non-k-pop/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T21:33:30.000Z</news:publication_date>
-      <news:title>BLACKPINK Lisa’s Latest News Hit With Backlash From Non-K-Pop Fans And More</news:title>
-      <news:keywords>BLACKPINK, Debut, Charts, Album, Lisa</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/visuals-of-new-yg-entertainment-boy-group-rumored-members-be/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T19:55:10.000Z</news:publication_date>
-      <news:title>Visuals Of New YG Entertainment Boy Group Rumored Members Become A Hot Topic</news:title>
-      <news:keywords>BLACKPINK, BIGBANG, 2NE1, Debut, YG Entertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
