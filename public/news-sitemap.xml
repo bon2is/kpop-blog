@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/beloved-idol-suddenly-announces-her-exit-from-girl-group/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T14:39:39.000Z</news:publication_date>
+      <news:title>Beloved Idol Suddenly Announces Her Exit From Girl Group</news:title>
+      <news:keywords>Debut, Charts, Album, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-agency-shares-update-on-legal-action-against-malicious-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T11:48:14.000Z</news:publication_date>
+      <news:title>IVE’s Agency Shares Update On Legal Action Against Malicious Posts And Deepfake Content</news:title>
+      <news:keywords>IVE, Debut, Awards, Charts, STARSHIP Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/alpha-drive-one-previews-official-light-stick/</loc>
     <news:news>
       <news:publication>
@@ -143,6 +167,18 @@
       <news:publication_date>2026-05-10T18:39:38.000Z</news:publication_date>
       <news:title>CORTIS Becomes Boy Group With 6th Highest 1st-Week Sales In Hanteo History</news:title>
       <news:keywords>BTS, BLACKPINK, NCT, SEVENTEEN, Stray Kids</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/update-fifty-fifty-releases-scheduler-for-upcoming-album-imp/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T16:53:10.000Z</news:publication_date>
+      <news:title>Update: FIFTY FIFTY Releases Scheduler For Upcoming Album “Imperfect-I’mperfect”</news:title>
+      <news:keywords>Comeback, Debut, Album, MV, FIFTY FIFTY</news:keywords>
     </news:news>
   </url>
   <url>
