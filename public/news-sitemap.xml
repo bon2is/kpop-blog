@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/alpha-drive-one-previews-official-light-stick/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T09:35:51.000Z</news:publication_date>
+      <news:title>ALPHA DRIVE ONE Previews Official Light Stick</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-jay-park-lngshot-team-up-to-showcase-fun-and-lively-en/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T09:16:38.000Z</news:publication_date>
+      <news:title>Watch: Jay Park &amp; LNGSHOT Team Up To Showcase Fun And Lively Energy In “4SHO 4SHO” MV For New Mixtape</news:title>
+      <news:keywords>Debut, MV, Jay Park, LNGSHOT, 4SHOBOIZ</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-hae-soo-and-lee-hee-joon-pursue-different-suspects-in-t/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +83,18 @@
       <news:publication_date>2026-05-11T03:23:46.000Z</news:publication_date>
       <news:title>Han Ji Eun, Hyun Bong Sik, Kim Sang Ho, And More Get Entangled Within Different Power Groups In “Fifties Professionals”</news:title>
       <news:keywords>K-Drama, MBC, Fifties Professionals, Action-Comedy, Han Ji Eun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exclusive-interview-guess-whos-back-dia-lola-and-u_chae-on-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T03:01:50.000Z</news:publication_date>
+      <news:title>[Exclusive Interview] Guess Who’s Back: DIA, LOLA, and U_Chae On Their New Chapter as AWU</news:title>
+      <news:keywords>Debut, Album, AWU, K-Pop, PIXY</news:keywords>
     </news:news>
   </url>
   <url>
@@ -203,30 +239,6 @@
       <news:publication_date>2026-05-09T17:30:12.000Z</news:publication_date>
       <news:title>Imagine A K-Pop Idol Watching Your Street Dance Cover Live And In-Person — And It’s Not Even Their Song</news:title>
       <news:keywords>TWICE, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-idol-goes-viral-for-green-flag-comment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T13:35:57.000Z</news:publication_date>
-      <news:title>HYBE Idol Goes Viral For “Green Flag” Comment</news:title>
-      <news:keywords>BTS, LE SSERAFIM, Debut, HYBE, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/big-4-idol-slammed-as-unrecognizable-after-alleged-nose-plas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T11:44:12.000Z</news:publication_date>
-      <news:title>“Big 4” Idol Slammed As “Unrecognizable” After Alleged Nose Plastic Surgery</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Red Velvet, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
