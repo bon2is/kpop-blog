@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 07:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 12:32:20 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>LE SSERAFIM Sakura’s Heartbreaking Messages Trigger Backlash Towards HYBE</title>
+      <link>https://kpop.andxo.com/article/le-sserafim-sakuras-heartbreaking-messages-trigger-backlash-/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/le-sserafim-sakuras-heartbreaking-messages-trigger-backlash-/</guid>
+      <description>LE SSERAFIM Sakura&apos;s messages spark backlash towards HYBE</description>
+      <pubDate>Tue, 12 May 2026 11:05:23 GMT</pubDate>
+      <category>audition</category>
+      <category>LE SSERAFIM</category>
+      <category>Debut</category>
+      <category>Sakura</category>
+      <category>HYBE</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-sakuras-heartbreaking-messages-trigger-backlash-.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-sakuras-heartbreaking-messages-trigger-backlash-.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-sakuras-heartbreaking-messages-trigger-backlash-.webp" />
+    </item>
     <item>
       <title>Top Girl Group Members Confess Their Feelings About Having Limited Singing Parts</title>
       <link>https://kpop.andxo.com/article/top-girl-group-members-confess-their-feelings-about-having-l/</link>
@@ -1696,23 +1713,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/which-ioi-member-was-behind-the-groups-long-awaited-reunion.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/which-ioi-member-was-behind-the-groups-long-awaited-reunion.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/which-ioi-member-was-behind-the-groups-long-awaited-reunion.webp" />
-    </item>
-    <item>
-      <title>Top Male Idol’s Father Publicly Disowns Him Over Alleged Family Issues</title>
-      <link>https://kpop.andxo.com/article/top-male-idols-father-publicly-disowns-him-over-alleged-fami/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/top-male-idols-father-publicly-disowns-him-over-alleged-fami/</guid>
-      <description>Top male idol&apos;s father publicly disowns him over alleged family issues.</description>
-      <pubDate>Mon, 04 May 2026 00:41:50 GMT</pubDate>
-      <category>drama</category>
-      <category>Charts</category>
-      <category>K-Pop</category>
-      <category>Family Feud</category>
-      <category>Mental Health</category>
-      <category>Comeback</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-male-idols-father-publicly-disowns-him-over-alleged-fami.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-male-idols-father-publicly-disowns-him-over-alleged-fami.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-male-idols-father-publicly-disowns-him-over-alleged-fami.webp" />
     </item>
   </channel>
 </rss>

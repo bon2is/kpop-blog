@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/le-sserafim-sakuras-heartbreaking-messages-trigger-backlash-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T11:05:23.000Z</news:publication_date>
+      <news:title>LE SSERAFIM Sakura’s Heartbreaking Messages Trigger Backlash Towards HYBE</news:title>
+      <news:keywords>LE SSERAFIM, Debut, Sakura, HYBE, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-girl-group-members-confess-their-feelings-about-having-l/</loc>
     <news:news>
       <news:publication>
@@ -287,30 +299,6 @@
       <news:publication_date>2026-05-10T13:21:20.000Z</news:publication_date>
       <news:title>Red Velvet’s Irene Gets Rid Of Huge Pimple In Real Time… And Shows It All On Cam!</news:title>
       <news:keywords>Red Velvet, Comeback, Album, Irene, Skincare</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-lisa-sparks-boob-job-rumors-after-viral-bralette-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T10:35:54.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Lisa Sparks “Boob Job” Rumors After Viral “Bralette” Photo</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/fired-idol-who-allegedly-dated-and-cheated-on-a-fan-re-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T09:16:31.000Z</news:publication_date>
-      <news:title>Fired Idol Who Allegedly Dated And Cheated On A Fan Re-debuts In A New Girl Group</news:title>
-      <news:keywords>Debut, K-Pop Scandal, Girl Group, Comeback, Accountability</news:keywords>
     </news:news>
   </url>
 </urlset>
