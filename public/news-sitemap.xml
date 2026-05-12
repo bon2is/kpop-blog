@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-girl-group-members-confess-their-feelings-about-having-l/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T07:10:28.000Z</news:publication_date>
+      <news:title>Top Girl Group Members Confess Their Feelings About Having Limited Singing Parts</news:title>
+      <news:keywords>Girls Generation, SNSD, Debut, Girls&apos; Generation, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/girl-group-member-accuses-male-idol-of-starting-dating-rumor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T06:41:24.000Z</news:publication_date>
+      <news:title>Girl Group Member Accuses Male Idol Of Starting Dating Rumors With Action On Stage</news:title>
+      <news:keywords>Charts, K-Pop, Dating Rumors, Girl Group, Male Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/babymonster-declines-numerous-brand-deals-due-to-yang-hyun-s/</loc>
     <news:news>
       <news:publication>
