@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/le-sserafim-hit-with-red-velvet-plagiarism-accusations-again/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T12:27:55.000Z</news:publication_date>
+      <news:title>LE SSERAFIM Hit With Red Velvet Plagiarism Accusations… Again </news:title>
+      <news:keywords>Red Velvet, LE SSERAFIM, Debut, MV, Plagiarism</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-wonyoung-shocks-with-exposed-cleavage-look-in-sexy-dres/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T11:13:52.000Z</news:publication_date>
+      <news:title>IVE’s Wonyoung Shocks With “Exposed Cleavage” Look In Sexy Dress</news:title>
+      <news:keywords>IVE, MONSTA X, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/le-sserafim-sakuras-heartbreaking-messages-trigger-backlash-/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +35,30 @@
       <news:publication_date>2026-05-12T11:05:23.000Z</news:publication_date>
       <news:title>LE SSERAFIM Sakura’s Heartbreaking Messages Trigger Backlash Towards HYBE</news:title>
       <news:keywords>LE SSERAFIM, Debut, Sakura, HYBE, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jimins-visuals-subject-to-malicious-criticism-in-new-pho/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T11:00:08.000Z</news:publication_date>
+      <news:title>BTS Jimin’s Visuals Subject To Malicious Criticism In New Photo From Scathing Post</news:title>
+      <news:keywords>BTS, Awards, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kang-dong-won-shows-off-powerful-dance-moves-as-an-idol-grou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T08:57:41.000Z</news:publication_date>
+      <news:title>Kang Dong Won Shows Off Powerful Dance Moves As An Idol Group’s Dance Machine In “Wild Sing”</news:title>
+      <news:keywords>Comeback, Awards, K-Drama, Kang Dong Won, Wild Sing</news:keywords>
     </news:news>
   </url>
   <url>
@@ -275,30 +323,6 @@
       <news:publication_date>2026-05-10T16:53:10.000Z</news:publication_date>
       <news:title>Update: FIFTY FIFTY Releases Scheduler For Upcoming Album “Imperfect-I’mperfect”</news:title>
       <news:keywords>Comeback, Debut, Album, MV, FIFTY FIFTY</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-boynextdoor-surprises-with-mv-for-pre-release-single-k/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T15:22:06.000Z</news:publication_date>
-      <news:title>Watch: BOYNEXTDOOR Surprises With MV For Pre-Release Single “Knock Knock”</news:title>
-      <news:keywords>BOYNEXTDOOR, Comeback, Debut, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvets-irene-gets-rid-of-huge-pimple-in-real-time-and-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T13:21:20.000Z</news:publication_date>
-      <news:title>Red Velvet’s Irene Gets Rid Of Huge Pimple In Real Time… And Shows It All On Cam!</news:title>
-      <news:keywords>Red Velvet, Comeback, Album, Irene, Skincare</news:keywords>
     </news:news>
   </url>
 </urlset>
