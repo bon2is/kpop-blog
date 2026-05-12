@@ -6,7 +6,7 @@ import { getAllArticles, getArticleBySlug, getRelatedArticles, getAdjacentArticl
 import { getArtistByTag } from '@/lib/artists';
 import { formatDate, estimateReadingTime, extractHeadings } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
-import AdBanner, { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
+import { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
 import AuditionPromoCard from '@/components/AuditionPromoCard';
 import AuditionSidebarWidget from '@/components/AuditionSidebarWidget';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
@@ -233,9 +233,6 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       )}
 
-      {/* Ad before content */}
-      <AdBanner className="mb-8" />
-
       {/* Article Content with enhanced markdown rendering */}
       <div className="article-content max-w-none mb-8">
         <MarkdownRenderer content={article.content} />
@@ -354,9 +351,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         />
       </div>
 
-          {/* Ad after content */}
-          <AdBanner className="mb-12" />
-        </article>
+            </article>
 
         {/* Sidebar - Desktop Only */}
         <aside className="hidden xl:block w-72 flex-shrink-0 space-y-6">
