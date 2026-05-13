@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/iois-long-awaited-comeback-song-hit-with-criticism-after-pre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T12:53:34.000Z</news:publication_date>
+      <news:title>I.O.I’s Long-Awaited Comeback Song Hit With Criticism After Preview</news:title>
+      <news:keywords>Comeback, Debut, Concert, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-actress-boasts-receiving-a-personal-gift-from-bts-jungko/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T12:14:50.000Z</news:publication_date>
+      <news:title>Top Actress Boasts Receiving A Personal Gift From BTS Jungkook’s Mother</news:title>
+      <news:keywords>BTS, Awards, Charts, Jungkook, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-krystal-announces-new-solo-single-pwlt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T10:23:58.000Z</news:publication_date>
+      <news:title>Watch: Krystal Announces New Solo Single “PWLT”</news:title>
+      <news:keywords>Album, Krystal, f(x), Solo Album, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-flare-u-finds-their-way-2-u-in-lovable-and-youthful-de/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T09:13:42.000Z</news:publication_date>
+      <news:title>Watch: FLARE U Finds Their “WAY 2 U” In Lovable And Youthful Debut MV</news:title>
+      <news:keywords>Debut, Album, MV, FLARE U, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/boynextdoor-announces-stops-for-2026-27-tour-knock-on-vol2/</loc>
     <news:news>
       <news:publication>
@@ -239,54 +287,6 @@
       <news:publication_date>2026-05-11T14:39:39.000Z</news:publication_date>
       <news:title>Beloved Idol Suddenly Announces Her Exit From Girl Group</news:title>
       <news:keywords>Debut, Charts, Album, Tour, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-agency-shares-update-on-legal-action-against-malicious-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T11:48:14.000Z</news:publication_date>
-      <news:title>IVE’s Agency Shares Update On Legal Action Against Malicious Posts And Deepfake Content</news:title>
-      <news:keywords>IVE, Debut, Awards, Charts, STARSHIP Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sbs-k-expo-inkigayo-in-paris-unveils-first-artist-lineup/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T10:20:48.000Z</news:publication_date>
-      <news:title>SBS “K-EXPO Inkigayo In Paris” Unveils First Artist Lineup</news:title>
-      <news:keywords>NCT, SHINee, Taemin, Charts, K-EXPO Inkigayo in Paris</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/alpha-drive-one-previews-official-light-stick/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T09:35:51.000Z</news:publication_date>
-      <news:title>ALPHA DRIVE ONE Previews Official Light Stick</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-jay-park-lngshot-team-up-to-showcase-fun-and-lively-en/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T09:16:38.000Z</news:publication_date>
-      <news:title>Watch: Jay Park &amp; LNGSHOT Team Up To Showcase Fun And Lively Energy In “4SHO 4SHO” MV For New Mixtape</news:title>
-      <news:keywords>Debut, MV, Jay Park, LNGSHOT, 4SHOBOIZ</news:keywords>
     </news:news>
   </url>
 </urlset>
