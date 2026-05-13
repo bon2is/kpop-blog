@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-groups-announcement-sparks-disgust-anger-and-outrage/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T16:04:45.000Z</news:publication_date>
+      <news:title>HYBE Group’s Announcement Sparks Disgust, Anger And Outrage</news:title>
+      <news:keywords>BTS, SEVENTEEN, NewJeans, LE SSERAFIM, HYBE Group</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-announces-stops-for-2026-tour-the-wildworld-tour/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T13:57:06.000Z</news:publication_date>
+      <news:title>KATSEYE Announces Stops For 2026 Tour “THE WILDWORLD TOUR”</news:title>
+      <news:keywords>Debut, Album, Tour, KATSEYE, THE WILDWORLD TOUR</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/le-sserafims-new-song-hit-with-vulgarity-ban-from-kbs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T13:24:21.000Z</news:publication_date>
+      <news:title>LE SSERAFIM’s New Song Hit With “Vulgarity” Ban From KBS</news:title>
+      <news:keywords>LE SSERAFIM, Comeback, Debut, Charts, KBS</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/iois-long-awaited-comeback-song-hit-with-criticism-after-pre/</loc>
     <news:news>
       <news:publication>
@@ -263,30 +299,6 @@
       <news:publication_date>2026-05-11T18:09:25.000Z</news:publication_date>
       <news:title>Unfair Or Common Practice? Fans Fiercely Divided After Alleged JYP Trainee’s “Soft Launch” In NMIXX’s New MV</news:title>
       <news:keywords>TWICE, ITZY, NMIXX, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/update-idid-reveals-comeback-schedule-for-fly/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T14:41:55.000Z</news:publication_date>
-      <news:title>Update: IDID Reveals Comeback Schedule For “FLY!”</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/beloved-idol-suddenly-announces-her-exit-from-girl-group/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T14:39:39.000Z</news:publication_date>
-      <news:title>Beloved Idol Suddenly Announces Her Exit From Girl Group</news:title>
-      <news:keywords>Debut, Charts, Album, Tour, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
