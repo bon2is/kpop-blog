@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/twice-jeongyeons-current-appearance-sparks-shock-photo-goes-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T13:28:14.000Z</news:publication_date>
+      <news:title>TWICE Jeongyeon’s Current Appearance Sparks Shock, Photo Goes Viral</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-cortis-takes-4th-win-and-triple-crown-for-redred-on-m-/</loc>
     <news:news>
       <news:publication>
@@ -287,18 +299,6 @@
       <news:publication_date>2026-05-12T17:11:32.000Z</news:publication_date>
       <news:title>ILLIT’s “MAMIHLAPINATAPAI” Becomes Their 1st Album To Enter Top 26 Of Billboard 200</news:title>
       <news:keywords>ILLIT, Comeback, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafim-hit-with-red-velvet-plagiarism-accusations-again/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T12:27:55.000Z</news:publication_date>
-      <news:title>LE SSERAFIM Hit With Red Velvet Plagiarism Accusations… Again </news:title>
-      <news:keywords>Red Velvet, LE SSERAFIM, Debut, MV, Plagiarism</news:keywords>
     </news:news>
   </url>
 </urlset>

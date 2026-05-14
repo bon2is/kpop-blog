@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 12:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 16:10:01 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>TWICE Jeongyeon’s Current Appearance Sparks Shock, Photo Goes Viral</title>
+      <link>https://kpop.andxo.com/article/twice-jeongyeons-current-appearance-sparks-shock-photo-goes-/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/twice-jeongyeons-current-appearance-sparks-shock-photo-goes-/</guid>
+      <description>TWICE Jeongyeon sparks shock with her current appearance</description>
+      <pubDate>Thu, 14 May 2026 13:28:14 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>TWICE</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twice-jeongyeons-current-appearance-sparks-shock-photo-goes-.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twice-jeongyeons-current-appearance-sparks-shock-photo-goes-.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twice-jeongyeons-current-appearance-sparks-shock-photo-goes-.webp" />
+    </item>
     <item>
       <title>Watch: CORTIS Takes 4th Win And Triple Crown For “REDRED” On “M Countdown”; Performances By aespa, NMIXX, And More</title>
       <link>https://kpop.andxo.com/article/watch-cortis-takes-4th-win-and-triple-crown-for-redred-on-m-/</link>
@@ -1696,23 +1713,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-and-her-family-share-a-rare-heartwarming-moment-at-her-we.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-and-her-family-share-a-rare-heartwarming-moment-at-her-we.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/iu-and-her-family-share-a-rare-heartwarming-moment-at-her-we.webp" />
-    </item>
-    <item>
-      <title>Lee Byung Hun Confirmed To Star In New  Historical Action Film</title>
-      <link>https://kpop.andxo.com/article/lee-byung-hun-confirmed-to-star-in-new-historical-action-fil/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/lee-byung-hun-confirmed-to-star-in-new-historical-action-fil/</guid>
-      <description>Lee Byung Hun to star in new historical action film &apos;Nambeol&apos;!</description>
-      <pubDate>Wed, 06 May 2026 07:18:23 GMT</pubDate>
-      <category>drama</category>
-      <category>Awards</category>
-      <category>K-Drama</category>
-      <category>Lee Byung Hun</category>
-      <category>Nambeol</category>
-      <category>Historical Action Film</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-byung-hun-confirmed-to-star-in-new-historical-action-fil.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-byung-hun-confirmed-to-star-in-new-historical-action-fil.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-byung-hun-confirmed-to-star-in-new-historical-action-fil.webp" />
     </item>
   </channel>
 </rss>
