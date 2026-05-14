@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/shin-ha-kyun-oh-jung-se-and-heo-sung-tae-lead-both-ordinary-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T22:19:53.000Z</news:publication_date>
+      <news:title>Shin Ha Kyun, Oh Jung Se, And Heo Sung Tae Lead Both Ordinary And Dangerous Lives In “Fifties Professionals”</news:title>
+      <news:keywords>K-Drama, Shin Ha Kyun, Oh Jung Se, Heo Sung Tae, Fifties Professionals</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/shockingly-sexy-fan-leaves-twices-momo-and-mina-speechless/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T20:35:33.000Z</news:publication_date>
+      <news:title>Shockingly Sexy Fan Leaves TWICE’s Momo And Mina Speechless</news:title>
+      <news:keywords>TWICE, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-aespa-drops-fierce-dance-practice-video-for-wda-whole-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T19:23:43.000Z</news:publication_date>
+      <news:title>Watch: aespa Drops Fierce Dance Practice Video For “WDA (Whole Different Animal)”</news:title>
+      <news:keywords>aespa, BIGBANG, Comeback, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-groups-announcement-sparks-disgust-anger-and-outrage/</loc>
     <news:news>
       <news:publication>
@@ -263,42 +299,6 @@
       <news:publication_date>2026-05-12T06:41:24.000Z</news:publication_date>
       <news:title>Girl Group Member Accuses Male Idol Of Starting Dating Rumors With Action On Stage</news:title>
       <news:keywords>Charts, K-Pop, Dating Rumors, Girl Group, Male Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonster-declines-numerous-brand-deals-due-to-yang-hyun-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T04:25:35.000Z</news:publication_date>
-      <news:title>BABYMONSTER Declines Numerous Brand Deals Due To Yang Hyun Suk</news:title>
-      <news:keywords>BTS, BLACKPINK, BIGBANG, 2NE1, BABYMONSTER</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girl-group-idols-bra-slips-off-during-concert/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T03:18:23.000Z</news:publication_date>
-      <news:title>Girl Group Idol’s Bra Slips Off During Concert</news:title>
-      <news:keywords>Concert, K-Pop, Wardrobe Malfunction, Girl Group</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/unfair-or-common-practice-fans-fiercely-divided-after-allege/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T18:09:25.000Z</news:publication_date>
-      <news:title>Unfair Or Common Practice? Fans Fiercely Divided After Alleged JYP Trainee’s “Soft Launch” In NMIXX’s New MV</news:title>
-      <news:keywords>TWICE, ITZY, NMIXX, Comeback, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
