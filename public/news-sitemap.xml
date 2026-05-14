@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/5-zhang-ling-he-c-dramas-to-watch-if-you-cant-get-enough/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T07:37:00.000Z</news:publication_date>
+      <news:title>5 Zhang Ling He C-Dramas To Watch If You Can’t Get Enough</news:title>
+      <news:keywords>Debut, Awards, K-Drama, Zhang Ling He, C-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-confirmed-to-headline-world-cup-final-halftime-show-alon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T05:22:07.000Z</news:publication_date>
+      <news:title>BTS Confirmed To Headline World Cup Final Halftime Show Along With Madonna And Shakira</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/upcoming-k-pop-bl-drama-sparks-rumors-of-being-based-on-real/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T22:20:03.000Z</news:publication_date>
+      <news:title>Upcoming K-Pop BL Drama Sparks “Rumors” Of Being Based On Real-Life Idols’ Love Story </news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, K-Drama, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/shin-ha-kyun-oh-jung-se-and-heo-sung-tae-lead-both-ordinary-/</loc>
     <news:news>
       <news:publication>
@@ -275,30 +311,6 @@
       <news:publication_date>2026-05-12T08:36:23.000Z</news:publication_date>
       <news:title>Park Hae Soo Grabs Lee Hee Joon By The Collar In Explosive Confrontation In “The Scarecrow”</news:title>
       <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, Suspense</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-girl-group-members-confess-their-feelings-about-having-l/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T07:10:28.000Z</news:publication_date>
-      <news:title>Top Girl Group Members Confess Their Feelings About Having Limited Singing Parts</news:title>
-      <news:keywords>Girls Generation, SNSD, Debut, Girls&apos; Generation, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girl-group-member-accuses-male-idol-of-starting-dating-rumor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T06:41:24.000Z</news:publication_date>
-      <news:title>Girl Group Member Accuses Male Idol Of Starting Dating Rumors With Action On Stage</news:title>
-      <news:keywords>Charts, K-Pop, Dating Rumors, Girl Group, Male Idol</news:keywords>
     </news:news>
   </url>
 </urlset>
