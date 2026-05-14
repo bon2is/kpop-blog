@@ -432,8 +432,8 @@ async function main(): Promise<void> {
   const postedSlugs = loadPostedSlugs();
   console.log(`Previously posted: ${postedSlugs.size} articles`);
 
-  // Get top 3 articles by engagement score
-  const recentArticles = getRecentArticles(3);
+  // Get top 1 article by engagement score
+  const recentArticles = getRecentArticles(1);
   console.log(`Top articles selected (24h): ${recentArticles.length}`);
   recentArticles.forEach((a) => console.log(`  [score:${scoreArticle(a)}] ${a.title.slice(0, 60)}`));
 
