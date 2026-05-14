@@ -6,7 +6,7 @@ import { getAllArticles, getArticleBySlug, getRelatedArticles, getAdjacentArticl
 import { getArtistByTag } from '@/lib/artists';
 import { formatDate, estimateReadingTime, extractHeadings } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
-import { InArticleAd, SidebarAd, BottomBannerAd } from '@/components/AdBanner';
+import { InArticleAd, SidebarAd, BottomBannerAd, TopBannerAd } from '@/components/AdBanner';
 import AuditionPromoCard from '@/components/AuditionPromoCard';
 import AuditionSidebarWidget from '@/components/AuditionSidebarWidget';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
@@ -84,6 +84,8 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   // Look up artist from primary tag for cross-linking
   const featuredArtist = article.tags.length > 0 ? getArtistByTag(article.tags[0]) : undefined;
   const headings = extractHeadings(article.content);
+  // H2 경계에서 분할 — 섹션 사이에 인아티클 광고 삽입용
+  const contentSections = article.content.split(/\n(?=## )/);
   const rawAdjacent = getAdjacentArticles(params.slug);
   const slimAdj = (a: ReturnType<typeof getRelatedArticles>[0] | null) =>
     a ? (({ content: _c, summary: _s, commentary: _co, ...rest }) => rest)(a) : null;
@@ -212,9 +214,12 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         <ViewRecorder slug={article.slug} />
       </header>
 
+      {/* Top banner — 헤더 직후, 히어로 이미지 전 */}
+      <TopBannerAd className="mb-6" />
+
       {/* Featured Image */}
       {article.thumbnail && (
-        <div className="relative aspect-video mb-8 rounded-xl overflow-hidden">
+        <div className="relative aspect-video mb-8 rounded-xl overflow-hidden" style={{ maxHeight: '60vh' }}>
           <Image
             src={article.thumbnail}
             alt={article.title}
@@ -233,13 +238,19 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       )}
 
-      {/* Article Content with enhanced markdown rendering */}
-      <div className="article-content max-w-none mb-8">
-        <MarkdownRenderer content={article.content} />
+      {/* Article Content — H2 섹션 사이에 인아티클 광고 삽입 (최대 3개) */}
+      <div className="mb-8">
+        {contentSections.map((section, index) => (
+          <div key={index}>
+            <div className="article-content max-w-none">
+              <MarkdownRenderer content={section} />
+            </div>
+            {index < contentSections.length - 1 && index < 3 && (
+              <InArticleAd />
+            )}
+          </div>
+        ))}
       </div>
-
-      {/* In-article ad */}
-      <InArticleAd />
 
       {/* Source Attribution - Prominent CTA */}
       <div className="mb-8 p-6 bg-gradient-to-r from-pink-50 to-purple-50 border border-pink-200 rounded-xl">

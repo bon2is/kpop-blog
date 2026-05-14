@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 
 const ADSENSE_CLIENT = 'ca-pub-7999144867236526';
 
@@ -39,13 +39,20 @@ export default function AdBanner({
   format = 'auto',
   className = '',
 }: AdBannerProps) {
-  useEffect(() => { pushAd(); }, []);
+  const pushed = useRef(false);
+  useEffect(() => {
+    if (!pushed.current) {
+      pushed.current = true;
+      pushAd();
+    }
+  }, []);
 
   return (
     <div className={`ad-container overflow-hidden ${className}`}>
+      <p className="text-xs text-gray-400 text-center mb-1 select-none">Advertisement</p>
       <ins
         className="adsbygoogle"
-        style={{ display: 'block' }}
+        style={{ display: 'block', minHeight: '90px' }}
         data-ad-client={ADSENSE_CLIENT}
         data-ad-slot={slot}
         data-ad-format={format}
@@ -57,10 +64,17 @@ export default function AdBanner({
 
 // 글 본문 중간 삽입 광고 — 네이티브 인아티클 포맷 (CTR/RPM 최고)
 export function InArticleAd({ className = '' }: { className?: string }) {
-  useEffect(() => { pushAd(); }, []);
+  const pushed = useRef(false);
+  useEffect(() => {
+    if (!pushed.current) {
+      pushed.current = true;
+      pushAd();
+    }
+  }, []);
 
   return (
     <div className={`ad-container my-8 ${className}`}>
+      <p className="text-xs text-gray-400 text-center mb-1 select-none">Advertisement</p>
       <ins
         className="adsbygoogle"
         style={{ display: 'block', textAlign: 'center' }}
@@ -75,7 +89,13 @@ export function InArticleAd({ className = '' }: { className?: string }) {
 
 // 피드 사이 삽입 광고 — 네이티브 인피드 포맷
 export function InFeedAd({ className = '' }: { className?: string }) {
-  useEffect(() => { pushAd(); }, []);
+  const pushed = useRef(false);
+  useEffect(() => {
+    if (!pushed.current) {
+      pushed.current = true;
+      pushAd();
+    }
+  }, []);
 
   return (
     <div className={`ad-container ${className}`}>
