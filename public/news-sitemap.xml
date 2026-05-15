@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/3-points-to-look-forward-to-in-the-final-episodes-of-perfect/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T12:47:59.000Z</news:publication_date>
+      <news:title>3 Points To Look Forward To In The Final Episodes Of “Perfect Crown”</news:title>
+      <news:keywords>IU, K-Drama, Byeon Woo Seok, Perfect Crown, Romance</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/han-ga-in-relives-the-moon-embracing-the-sun-days-with-surpr/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,30 @@
       <news:publication_date>2026-05-15T12:16:46.000Z</news:publication_date>
       <news:title>Han Ga In Relives “The Moon Embracing The Sun” Days With Surprise Visit To The Palace</news:title>
       <news:keywords>Awards, K-Drama, Han Ga In, The Moon Embracing The Sun, Historical Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/fifth-gen-idol-gets-inappropriately-touched-on-camera-fans-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T11:05:21.000Z</news:publication_date>
+      <news:title>Fifth-Gen Idol Gets Inappropriately Touched On Camera, Fans Alarmed By Lack Of Outrage</news:title>
+      <news:keywords>Fifth-Gen Idol, K-Pop, Idol Safety, Fan Behavior</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/female-hybe-idols-concerning-education-history-triggers-majo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T09:20:24.000Z</news:publication_date>
+      <news:title>Female HYBE Idol’s Concerning Education History Triggers Major Fury</news:title>
+      <news:keywords>HYBE, K-Pop, Idol Exploitation, Education, Controversy</news:keywords>
     </news:news>
   </url>
   <url>
@@ -251,42 +287,6 @@
       <news:publication_date>2026-05-13T16:04:45.000Z</news:publication_date>
       <news:title>HYBE Group’s Announcement Sparks Disgust, Anger And Outrage</news:title>
       <news:keywords>BTS, SEVENTEEN, NewJeans, LE SSERAFIM, HYBE Group</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-announces-stops-for-2026-tour-the-wildworld-tour/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T13:57:06.000Z</news:publication_date>
-      <news:title>KATSEYE Announces Stops For 2026 Tour “THE WILDWORLD TOUR”</news:title>
-      <news:keywords>Debut, Album, Tour, KATSEYE, THE WILDWORLD TOUR</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafims-new-song-hit-with-vulgarity-ban-from-kbs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T13:24:21.000Z</news:publication_date>
-      <news:title>LE SSERAFIM’s New Song Hit With “Vulgarity” Ban From KBS</news:title>
-      <news:keywords>LE SSERAFIM, Comeback, Debut, Charts, KBS</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iois-long-awaited-comeback-song-hit-with-criticism-after-pre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T12:53:34.000Z</news:publication_date>
-      <news:title>I.O.I’s Long-Awaited Comeback Song Hit With Criticism After Preview</news:title>
-      <news:keywords>Comeback, Debut, Concert, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
