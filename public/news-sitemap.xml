@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/han-ga-in-relives-the-moon-embracing-the-sun-days-with-surpr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T12:16:46.000Z</news:publication_date>
+      <news:title>Han Ga In Relives “The Moon Embracing The Sun” Days With Surprise Visit To The Palace</news:title>
+      <news:keywords>Awards, K-Drama, Han Ga In, The Moon Embracing The Sun, Historical Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-manons-now-deleted-instagram-photo-sparks-speculatio/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T08:35:12.000Z</news:publication_date>
+      <news:title>KATSEYE Manon’s Now-Deleted Instagram Photo Sparks Speculations Amid Hiatus Appearance</news:title>
+      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/yoon-hyun-min-reported-along-with-kim-so-yeon-and-kim-ji-suk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T08:10:42.000Z</news:publication_date>
+      <news:title>Yoon Hyun Min Reported Along With Kim So Yeon And Kim Ji Suk For New Drama</news:title>
+      <news:keywords>K-Drama, Yoon Hyun Min, Kim So Yeon, Kim Ji Suk, JTBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heo-nam-jun-holds-sword-to-lim-ji-yeon-in-their-past-lives-i/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T06:02:31.000Z</news:publication_date>
+      <news:title>Heo Nam Jun Holds Sword To Lim Ji Yeon In Their Past Lives In “My Royal Nemesis”</news:title>
+      <news:keywords>K-Drama, My Royal Nemesis, Lim Ji Yeon, Heo Nam Jun, Romantic Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-sm-idol-confesses-to-horrifying-sasaeng-experience-s/</loc>
     <news:news>
       <news:publication>
@@ -239,66 +287,6 @@
       <news:publication_date>2026-05-13T12:53:34.000Z</news:publication_date>
       <news:title>I.O.I’s Long-Awaited Comeback Song Hit With Criticism After Preview</news:title>
       <news:keywords>Comeback, Debut, Concert, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-actress-boasts-receiving-a-personal-gift-from-bts-jungko/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T12:14:50.000Z</news:publication_date>
-      <news:title>Top Actress Boasts Receiving A Personal Gift From BTS Jungkook’s Mother</news:title>
-      <news:keywords>BTS, Awards, Charts, Jungkook, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-krystal-announces-new-solo-single-pwlt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T10:23:58.000Z</news:publication_date>
-      <news:title>Watch: Krystal Announces New Solo Single “PWLT”</news:title>
-      <news:keywords>Album, Krystal, f(x), Solo Album, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-flare-u-finds-their-way-2-u-in-lovable-and-youthful-de/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T09:13:42.000Z</news:publication_date>
-      <news:title>Watch: FLARE U Finds Their “WAY 2 U” In Lovable And Youthful Debut MV</news:title>
-      <news:keywords>Debut, Album, MV, FLARE U, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/boynextdoor-announces-stops-for-2026-27-tour-knock-on-vol2/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T05:30:28.000Z</news:publication_date>
-      <news:title>BOYNEXTDOOR Announces Stops For 2026-27 Tour “KNOCK ON Vol.2”</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, BOYNEXTDOOR, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kang-mina-reported-to-reunite-with-byeon-woo-seok-in-solo-le/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T05:11:18.000Z</news:publication_date>
-      <news:title>Kang Mina Reported To Reunite With Byeon Woo Seok In “Solo Leveling” Live-Action Adaptation + Agency Briefly Responds</news:title>
-      <news:keywords>Awards, K-Drama, Kang Mina, Byeon Woo Seok, Solo Leveling</news:keywords>
     </news:news>
   </url>
 </urlset>
