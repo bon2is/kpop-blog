@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-ji-hyuns-past-idol-charm-breaks-through-her-elegant-cha/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T04:08:49.000Z</news:publication_date>
+      <news:title>Park Ji Hyun’s Past Idol Charm Breaks Through Her Elegant Chaebol Wife Persona In “Wild Sing”</news:title>
+      <news:keywords>Comeback, Debut, K-Drama, Park Ji Hyun, Wild Sing</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/babymonster-members-response-about-ramis-return-sparks-backl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T01:07:07.000Z</news:publication_date>
+      <news:title>BABYMONSTER Member’s Response About Rami’s Return Sparks Backlash</news:title>
+      <news:keywords>BLACKPINK, 2NE1, BABYMONSTER, Debut, Rami</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/mark-lees-music-activities-draw-attention-over-alleged-nct-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T18:13:40.000Z</news:publication_date>
+      <news:title>Mark Lee’s Music Activities Draw Attention Over Alleged NCT “Shade”</news:title>
+      <news:keywords>NCT, Comeback, Charts, Mark Lee, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/3-points-to-look-forward-to-in-the-final-episodes-of-perfect/</loc>
     <news:news>
       <news:publication>
@@ -227,66 +263,6 @@
       <news:publication_date>2026-05-14T05:22:07.000Z</news:publication_date>
       <news:title>BTS Confirmed To Headline World Cup Final Halftime Show Along With Madonna And Shakira</news:title>
       <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/upcoming-k-pop-bl-drama-sparks-rumors-of-being-based-on-real/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T22:20:03.000Z</news:publication_date>
-      <news:title>Upcoming K-Pop BL Drama Sparks “Rumors” Of Being Based On Real-Life Idols’ Love Story </news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, K-Drama, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/shin-ha-kyun-oh-jung-se-and-heo-sung-tae-lead-both-ordinary-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T22:19:53.000Z</news:publication_date>
-      <news:title>Shin Ha Kyun, Oh Jung Se, And Heo Sung Tae Lead Both Ordinary And Dangerous Lives In “Fifties Professionals”</news:title>
-      <news:keywords>K-Drama, Shin Ha Kyun, Oh Jung Se, Heo Sung Tae, Fifties Professionals</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/shockingly-sexy-fan-leaves-twices-momo-and-mina-speechless/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T20:35:33.000Z</news:publication_date>
-      <news:title>Shockingly Sexy Fan Leaves TWICE’s Momo And Mina Speechless</news:title>
-      <news:keywords>TWICE, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-aespa-drops-fierce-dance-practice-video-for-wda-whole-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T19:23:43.000Z</news:publication_date>
-      <news:title>Watch: aespa Drops Fierce Dance Practice Video For “WDA (Whole Different Animal)”</news:title>
-      <news:keywords>aespa, BIGBANG, Comeback, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-groups-announcement-sparks-disgust-anger-and-outrage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T16:04:45.000Z</news:publication_date>
-      <news:title>HYBE Group’s Announcement Sparks Disgust, Anger And Outrage</news:title>
-      <news:keywords>BTS, SEVENTEEN, NewJeans, LE SSERAFIM, HYBE Group</news:keywords>
     </news:news>
   </url>
 </urlset>
