@@ -38,6 +38,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/bts-members-recent-instagram-posts-spark-major-backlash/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T13:50:18.000Z</news:publication_date>
+      <news:title>BTS Members’ Recent Instagram Posts Spark Major Backlash</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/3-points-to-look-forward-to-in-the-final-episodes-of-perfect/</loc>
     <news:news>
       <news:publication>
@@ -251,18 +263,6 @@
       <news:publication_date>2026-05-14T07:37:00.000Z</news:publication_date>
       <news:title>5 Zhang Ling He C-Dramas To Watch If You Can’t Get Enough</news:title>
       <news:keywords>Debut, Awards, K-Drama, Zhang Ling He, C-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-confirmed-to-headline-world-cup-final-halftime-show-alon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T05:22:07.000Z</news:publication_date>
-      <news:title>BTS Confirmed To Headline World Cup Final Halftime Show Along With Madonna And Shakira</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
