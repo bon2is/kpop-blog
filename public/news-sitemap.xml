@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T14:21:00.000Z</news:publication_date>
+      <news:title>HYBE Idol Sparks Major Concerns After Refusing To Eat Amid Busy Schedule</news:title>
+      <news:keywords>HYBE, K-Pop, Idol Health, Burnout, Wellness</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bald-spots-aespa-giselles-recent-public-appearance-receives-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T12:44:19.000Z</news:publication_date>
+      <news:title>“Bald Spots” — aespa Giselle’s Recent Public Appearance Receives Scathing Response</news:title>
+      <news:keywords>aespa, Debut, Giselle, K-Pop, Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ives-wonyoung-goes-viral-for-botched-appearance/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +35,18 @@
       <news:publication_date>2026-05-16T11:07:02.000Z</news:publication_date>
       <news:title>IVE’S Wonyoung Goes Viral For “Botched” Appearance</news:title>
       <news:keywords>IVE, Debut, Wonyoung, K-Pop, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-idols-lockscreen-reveal-draws-major-reactions/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T09:45:28.000Z</news:publication_date>
+      <news:title>HYBE Idol’s Lockscreen Reveal Draws Major Reactions</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -215,30 +251,6 @@
       <news:publication_date>2026-05-14T18:48:04.000Z</news:publication_date>
       <news:title>IVE Jang Wonyoung’s “Exposed Thong” Outfit Shocks With Hefty Price Tag</news:title>
       <news:keywords>IVE, Debut, Charts, Jang Wonyoung, K-Pop Fashion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twice-jeongyeons-current-appearance-sparks-shock-photo-goes-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T13:28:14.000Z</news:publication_date>
-      <news:title>TWICE Jeongyeon’s Current Appearance Sparks Shock, Photo Goes Viral</news:title>
-      <news:keywords>BTS, BLACKPINK, TWICE, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-cortis-takes-4th-win-and-triple-crown-for-redred-on-m-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T11:45:33.000Z</news:publication_date>
-      <news:title>Watch: CORTIS Takes 4th Win And Triple Crown For “REDRED” On “M Countdown”; Performances By aespa, NMIXX, And More</news:title>
-      <news:keywords>aespa, NMIXX, BABYMONSTER, ILLIT, MV</news:keywords>
     </news:news>
   </url>
 </urlset>
