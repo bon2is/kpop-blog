@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ives-wonyoung-goes-viral-for-botched-appearance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T11:07:02.000Z</news:publication_date>
+      <news:title>IVE’S Wonyoung Goes Viral For “Botched” Appearance</news:title>
+      <news:keywords>IVE, Debut, Wonyoung, K-Pop, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/whats-she-doing-now-the-trainee-who-dissed-a-veteran-idol-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T08:41:41.000Z</news:publication_date>
+      <news:title>What’s She Doing Now? The Trainee Who Dissed A Veteran Idol In Front Of The Entire World</news:title>
+      <news:keywords>Comeback, K-Pop, Trainee, Veteran Idol, Second Chances</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-ji-hyuns-past-idol-charm-breaks-through-her-elegant-cha/</loc>
     <news:news>
       <news:publication>
@@ -215,54 +239,6 @@
       <news:publication_date>2026-05-14T11:45:33.000Z</news:publication_date>
       <news:title>Watch: CORTIS Takes 4th Win And Triple Crown For “REDRED” On “M Countdown”; Performances By aespa, NMIXX, And More</news:title>
       <news:keywords>aespa, NMIXX, BABYMONSTER, ILLIT, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girl-group-idol-sheds-skinny-image-and-flaunts-voluminous-bo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T11:38:41.000Z</news:publication_date>
-      <news:title>Girl Group Idol Sheds Skinny Image And Flaunts Voluminous Body</news:title>
-      <news:keywords>Debut, Charts, Album, K-Pop, Body Positivity</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-wakers-saebyeol-seo-ihan-ghost9s-lee-woo-jin-and-more-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T09:34:13.000Z</news:publication_date>
-      <news:title>Watch: WAKER’s Saebyeol, Seo Ihan, GHOST9’s Lee Woo Jin, And More Find Love While Chasing Their K-Pop Dreams In “Love Class 3”</news:title>
-      <news:keywords>BTS, BLACKPINK, K-Drama, K-Pop, BL Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-min-ki-and-monsta-xs-hyungwon-confirmed-for-new-multi-fo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T08:32:21.000Z</news:publication_date>
-      <news:title>Lee Min Ki And MONSTA X’s Hyungwon Confirmed For New Multi-Format Project</news:title>
-      <news:keywords>MONSTA X, K-Drama, Lee Min Ki, Hyungwon, The Grim Reaper Life Extension Project</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5-zhang-ling-he-c-dramas-to-watch-if-you-cant-get-enough/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T07:37:00.000Z</news:publication_date>
-      <news:title>5 Zhang Ling He C-Dramas To Watch If You Can’t Get Enough</news:title>
-      <news:keywords>Debut, Awards, K-Drama, Zhang Ling He, C-Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
