@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nexzs-yu-to-sit-out-japan-event-due-to-entry-issues/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T00:29:36.000Z</news:publication_date>
+      <news:title>NEXZ’s Yu To Sit Out Japan Event Due To Entry Issues</news:title>
+      <news:keywords>Debut, NEXZ, K-Pop, Japan, Fan Signing Event</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/poll-which-big-4-k-pop-agency-has-the-most-talented-idols-vo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T19:48:01.000Z</news:publication_date>
+      <news:title>POLL: Which “Big 4” K-Pop Agency Has The Most Talented Idols? Vote Now!</news:title>
+      <news:keywords>BLACKPINK, TWICE, EXO, SEVENTEEN, Stray Kids</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-actor-in-his-40s-confesses-he-cant-go-on-dates-becau/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T16:54:21.000Z</news:publication_date>
+      <news:title>Popular Actor In His 40s Confesses He Can’t Go On Dates Because Of His Mother’s Jealousy</news:title>
+      <news:keywords>K-Drama, Korean Actor, Mother&apos;s Jealousy, Family Relationships, Korean Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b/</loc>
     <news:news>
       <news:publication>
@@ -191,66 +227,6 @@
       <news:publication_date>2026-05-15T06:02:31.000Z</news:publication_date>
       <news:title>Heo Nam Jun Holds Sword To Lim Ji Yeon In Their Past Lives In “My Royal Nemesis”</news:title>
       <news:keywords>K-Drama, My Royal Nemesis, Lim Ji Yeon, Heo Nam Jun, Romantic Comedy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-sm-idol-confesses-to-horrifying-sasaeng-experience-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T03:49:12.000Z</news:publication_date>
-      <news:title>Popular SM Idol Confesses To Horrifying Sasaeng Experience, Sparks Major Backlash</news:title>
-      <news:keywords>K-Pop, Sasaeng, SM Entertainment, Idol Safety, Fan Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-fourth-gen-idol-reveals-tmi-on-what-goes-on-at-music/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T03:17:40.000Z</news:publication_date>
-      <news:title>Popular Fourth-Gen Idol Reveals TMI On What Goes On At Music Broadcasts</news:title>
-      <news:keywords>Debut, Charts, Album, K-Pop, Fourth-Generation Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/7-k-pop-tracks-that-turn-it-up-with-a-hyperpop-inspired-beat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T02:48:28.000Z</news:publication_date>
-      <news:title>7 K-Pop Tracks That Turn It Up With A Hyperpop-Inspired Beat</news:title>
-      <news:keywords>BTS, BLACKPINK, SEVENTEEN, ITZY, aespa</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/male-singer-re-debuts-after-appearing-in-300-porn-films/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T23:10:14.000Z</news:publication_date>
-      <news:title>Male Singer Re-Debuts After Appearing In 300+ Porn Films</news:title>
-      <news:keywords>Comeback, Debut, K-Pop, Controversy, Redemption</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-exposed-thong-outfit-shocks-with-hefty-pr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T18:48:04.000Z</news:publication_date>
-      <news:title>IVE Jang Wonyoung’s “Exposed Thong” Outfit Shocks With Hefty Price Tag</news:title>
-      <news:keywords>IVE, Debut, Charts, Jang Wonyoung, K-Pop Fashion</news:keywords>
     </news:news>
   </url>
 </urlset>
