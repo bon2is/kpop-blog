@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ra-mi-ran-and-lee-re-stand-opposite-each-other-with-conflict/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T11:19:09.000Z</news:publication_date>
+      <news:title>Ra Mi Ran And Lee Re Stand Opposite Each Other With Conflicting Beliefs About Wishes In New Fantasy Film</news:title>
+      <news:keywords>Tour, K-Drama, Ra Mi Ran, Lee Re, Fantasy Film</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespas-new-title-track-lemonade-hit-with-scathing-backlash/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T09:36:49.000Z</news:publication_date>
+      <news:title>aespa’s New Title Track “Lemonade” Hit With Scathing Backlash</news:title>
+      <news:keywords>aespa, Debut, Charts, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/3-reasons-to-anticipate-the-upcoming-comedy-film-wild-sing/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T08:39:38.000Z</news:publication_date>
+      <news:title>3 Reasons To Anticipate The Upcoming Comedy Film “Wild Sing”</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou/</loc>
     <news:news>
       <news:publication>
@@ -203,54 +239,6 @@
       <news:publication_date>2026-05-16T16:54:21.000Z</news:publication_date>
       <news:title>Popular Actor In His 40s Confesses He Can’t Go On Dates Because Of His Mother’s Jealousy</news:title>
       <news:keywords>K-Drama, Korean Actor, Mother&apos;s Jealousy, Family Relationships, Korean Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T14:21:00.000Z</news:publication_date>
-      <news:title>HYBE Idol Sparks Major Concerns After Refusing To Eat Amid Busy Schedule</news:title>
-      <news:keywords>HYBE, K-Pop, Idol Health, Burnout, Wellness</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bald-spots-aespa-giselles-recent-public-appearance-receives-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T12:44:19.000Z</news:publication_date>
-      <news:title>“Bald Spots” — aespa Giselle’s Recent Public Appearance Receives Scathing Response</news:title>
-      <news:keywords>aespa, Debut, Giselle, K-Pop, Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-wonyoung-goes-viral-for-botched-appearance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T11:07:02.000Z</news:publication_date>
-      <news:title>IVE’S Wonyoung Goes Viral For “Botched” Appearance</news:title>
-      <news:keywords>IVE, Debut, Wonyoung, K-Pop, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-idols-lockscreen-reveal-draws-major-reactions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T09:45:28.000Z</news:publication_date>
-      <news:title>HYBE Idol’s Lockscreen Reveal Draws Major Reactions</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
