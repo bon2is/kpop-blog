@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/exchange-4-star-park-hyun-ji-signs-with-agency/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T00:30:57.000Z</news:publication_date>
+      <news:title>“EXchange 4” Star Park Hyun Ji Signs With Agency</news:title>
+      <news:keywords>Debut, Album, Park Hyun Ji, EGO Group, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-continues-record-breaking-run-in-top-10-of-billboard-200/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T22:03:09.000Z</news:publication_date>
+      <news:title>BTS Continues Record-Breaking Run In Top 10 Of Billboard 200</news:title>
+      <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exclusive-interview-crazangel-on-picasso-growth-and-showing-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T14:40:22.000Z</news:publication_date>
+      <news:title>[Exclusive Interview] CrazAngel on ‘Picasso,’ Growth, and Showing Their True Color</news:title>
+      <news:keywords>Debut, CrazAngel, K-Pop, Interview, Growth</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exclusive-interview-vvs-steps-into-year-two-new-music-new-vi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T14:40:09.000Z</news:publication_date>
+      <news:title>[Exclusive Interview] VVS Steps Into Year Two: New Music, New Vision, New Confidence</news:title>
+      <news:keywords>Debut, VVS, K-Pop, New Music, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/3-points-to-keep-an-eye-on-in-remaining-episodes-of-the-scar/</loc>
     <news:news>
       <news:publication>
@@ -155,42 +203,6 @@
       <news:publication_date>2026-05-16T08:41:41.000Z</news:publication_date>
       <news:title>What’s She Doing Now? The Trainee Who Dissed A Veteran Idol In Front Of The Entire World</news:title>
       <news:keywords>Comeback, K-Pop, Trainee, Veteran Idol, Second Chances</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-ji-hyuns-past-idol-charm-breaks-through-her-elegant-cha/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T04:08:49.000Z</news:publication_date>
-      <news:title>Park Ji Hyun’s Past Idol Charm Breaks Through Her Elegant Chaebol Wife Persona In “Wild Sing”</news:title>
-      <news:keywords>Comeback, Debut, K-Drama, Park Ji Hyun, Wild Sing</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonster-members-response-about-ramis-return-sparks-backl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T01:07:07.000Z</news:publication_date>
-      <news:title>BABYMONSTER Member’s Response About Rami’s Return Sparks Backlash</news:title>
-      <news:keywords>BLACKPINK, 2NE1, BABYMONSTER, Debut, Rami</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mark-lees-music-activities-draw-attention-over-alleged-nct-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T18:13:40.000Z</news:publication_date>
-      <news:title>Mark Lee’s Music Activities Draw Attention Over Alleged NCT “Shade”</news:title>
-      <news:keywords>NCT, Comeback, Charts, Mark Lee, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
