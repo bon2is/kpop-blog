@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T08:11:53.000Z</news:publication_date>
+      <news:title>Seo Hyun Woo Joins Ma Dong Seok And Kim Jae Yeong In “The Roundup 5”</news:title>
+      <news:keywords>Awards, K-Drama, Seo Hyun Woo, Ma Dong Seok, Kim Jae Yeong</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-appears-in-court-as-a-witness-in-baek-seung-hwa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T07:11:07.000Z</news:publication_date>
+      <news:title>Park Hae Soo Appears In Court As A Witness In Baek Seung Hwan’s Trial In “The Scarecrow”</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, Baek Seung Hwan, The Scarecrow, Suspense</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jang-dong-jus-agency-releases-statement-regarding-his-sudden/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T07:09:43.000Z</news:publication_date>
+      <news:title>Jang Dong Ju’s Agency Releases Statement Regarding His Sudden Retirement Announcement</news:title>
+      <news:keywords>K-Drama, Jang Dong Ju, Retirement, Mental Health, Actor Well-being</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/fx-member-reveals-last-phone-call-with-sulli-triggers-massiv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T03:01:31.000Z</news:publication_date>
+      <news:title>f(x) Member Reveals Last Phone Call With Sulli, Triggers Massive Response</news:title>
+      <news:keywords>f(x), Sulli, K-Pop, Mental Health, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/exchange-4-star-park-hyun-ji-signs-with-agency/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +71,18 @@
       <news:publication_date>2026-05-17T22:03:09.000Z</news:publication_date>
       <news:title>BTS Continues Record-Breaking Run In Top 10 Of Billboard 200</news:title>
       <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/illit-achieves-career-high-with-1st-week-sales-for-mamihlapi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T17:58:01.000Z</news:publication_date>
+      <news:title>ILLIT Achieves Career High With 1st-Week Sales For “MAMIHLAPINATAPAI”</news:title>
+      <news:keywords>ILLIT, Comeback, Debut, Awards, Charts</news:keywords>
     </news:news>
   </url>
   <url>
@@ -191,18 +251,6 @@
       <news:publication_date>2026-05-16T09:45:28.000Z</news:publication_date>
       <news:title>HYBE Idol’s Lockscreen Reveal Draws Major Reactions</news:title>
       <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/whats-she-doing-now-the-trainee-who-dissed-a-veteran-idol-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T08:41:41.000Z</news:publication_date>
-      <news:title>What’s She Doing Now? The Trainee Who Dissed A Veteran Idol In Front Of The Entire World</news:title>
-      <news:keywords>Comeback, K-Pop, Trainee, Veteran Idol, Second Chances</news:keywords>
     </news:news>
   </url>
 </urlset>
