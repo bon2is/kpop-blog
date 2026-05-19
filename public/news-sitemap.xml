@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/yoo-hae-jin-and-yim-si-wan-in-talks-for-new-occult-film-by-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T07:32:34.000Z</news:publication_date>
+      <news:title>Yoo Hae Jin And Yim Si Wan In Talks For New Occult Film By “The Outlaws” Director</news:title>
+      <news:keywords>K-Drama, Yoo Hae Jin, Yim Si Wan, Occult Film, The Outlaws</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-member-sets-firm-boundaries-in-recent-message/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T06:33:09.000Z</news:publication_date>
+      <news:title>TWICE Member Sets Firm Boundaries In Recent Message</news:title>
+      <news:keywords>TWICE, Debut, Awards, K-Pop, Boundaries</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/produce-101-idol-surprises-with-behind-the-scenes-story-with/</loc>
     <news:news>
       <news:publication>
@@ -263,18 +287,6 @@
       <news:publication_date>2026-05-17T08:24:40.000Z</news:publication_date>
       <news:title>Top K-Pop Idol Scolds Staff For “Disrespecting” A Woman He’d “Burn The World” For </news:title>
       <news:keywords>Charts, K-Pop, Idol, Respect, Women</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-txt-chosen-as-yoajungs-1st-global-brand-models/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T05:24:53.000Z</news:publication_date>
-      <news:title>Watch: TXT Chosen As Yoajung’s 1st Global Brand Models</news:title>
-      <news:keywords>TXT, Debut, Awards, Charts, Yoajung</news:keywords>
     </news:news>
   </url>
 </urlset>
