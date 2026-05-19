@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-female-idol-reveals-the-surprising-way-she-managed-to-bu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T14:55:00.000Z</news:publication_date>
+      <news:title>Top Female Idol Reveals The Surprising Way She Managed To Buy A House</news:title>
+      <news:keywords>Concert, Awards, Charts, Album, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ateez-to-headline-bst-hyde-park-in-london/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T14:41:32.000Z</news:publication_date>
+      <news:title>ATEEZ To Headline BST Hyde Park In London</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, ATEEZ, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-jungkooks-handwriting-is-now-available-on-your-chest-and/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +35,18 @@
       <news:publication_date>2026-05-19T13:13:00.000Z</news:publication_date>
       <news:title>BTS Jungkook’s Handwriting Is Now Available On Your Chest And Butt</news:title>
       <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-lisas-unfiltered-reaction-toward-elderly-fan-goes-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T12:33:20.000Z</news:publication_date>
+      <news:title>BLACKPINK Lisa’s Unfiltered Reaction Toward Elderly Fan Goes Viral</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -71,6 +107,18 @@
       <news:publication_date>2026-05-19T06:33:09.000Z</news:publication_date>
       <news:title>TWICE Member Sets Firm Boundaries In Recent Message</news:title>
       <news:keywords>TWICE, Debut, Awards, K-Pop, Boundaries</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/le-sserafims-kim-chaewon-to-take-break-from-activities-due-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T05:31:59.000Z</news:publication_date>
+      <news:title>LE SSERAFIM’s Kim Chaewon To Take Break From Activities Due To Health</news:title>
+      <news:keywords>LE SSERAFIM, Debut, Awards, Kim Chaewon, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -263,30 +311,6 @@
       <news:publication_date>2026-05-17T17:58:01.000Z</news:publication_date>
       <news:title>ILLIT Achieves Career High With 1st-Week Sales For “MAMIHLAPINATAPAI”</news:title>
       <news:keywords>ILLIT, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exclusive-interview-crazangel-on-picasso-growth-and-showing-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T14:40:22.000Z</news:publication_date>
-      <news:title>[Exclusive Interview] CrazAngel on ‘Picasso,’ Growth, and Showing Their True Color</news:title>
-      <news:keywords>Debut, CrazAngel, K-Pop, Interview, Growth</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exclusive-interview-vvs-steps-into-year-two-new-music-new-vi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T14:40:09.000Z</news:publication_date>
-      <news:title>[Exclusive Interview] VVS Steps Into Year Two: New Music, New Vision, New Confidence</news:title>
-      <news:keywords>Debut, VVS, K-Pop, New Music, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
