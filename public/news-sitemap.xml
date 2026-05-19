@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkooks-handwriting-is-now-available-on-your-chest-and/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T13:13:00.000Z</news:publication_date>
+      <news:title>BTS Jungkook’s Handwriting Is Now Available On Your Chest And Butt</news:title>
+      <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/itzy-trigger-scathing-reactions-towards-other-groups-edgy-co/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T12:19:12.000Z</news:publication_date>
+      <news:title>ITZY Trigger Scathing Reactions Towards Other Groups’ “Edgy” Concepts</news:title>
+      <news:keywords>ITZY, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-recent-announcement-triggers-major-backlas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T10:25:17.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie’s Recent Announcement Triggers Major Backlash</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-and-lee-hee-joons-conflict-intensifies-in-the-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T08:34:13.000Z</news:publication_date>
+      <news:title>Park Hae Soo And Lee Hee Joon’s Conflict Intensifies In “The Scarecrow”</news:title>
+      <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, Suspense</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/yoo-hae-jin-and-yim-si-wan-in-talks-for-new-occult-film-by-t/</loc>
     <news:news>
       <news:publication>
@@ -239,54 +287,6 @@
       <news:publication_date>2026-05-17T14:40:09.000Z</news:publication_date>
       <news:title>[Exclusive Interview] VVS Steps Into Year Two: New Music, New Vision, New Confidence</news:title>
       <news:keywords>Debut, VVS, K-Pop, New Music, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/3-points-to-keep-an-eye-on-in-remaining-episodes-of-the-scar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T10:02:32.000Z</news:publication_date>
-      <news:title>3 Points To Keep An Eye On In Remaining Episodes Of “The Scarecrow”</news:title>
-      <news:keywords>K-Drama, The Scarecrow, ENA, Suspense, Mystery</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/iu-donates-to-multiple-causes-on-her-birthday/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T08:52:45.000Z</news:publication_date>
-      <news:title>IU Donates To Multiple Causes On Her Birthday</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, IU, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-korean-singer-gets-agitated-after-police-stops-live-stre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T08:39:39.000Z</news:publication_date>
-      <news:title>Top Korean Singer Gets Agitated After Police Stops Live Stream</news:title>
-      <news:keywords>Charts, Album, K-Pop, Live Stream, Police</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-k-pop-idol-scolds-staff-for-disrespecting-a-woman-hed-bu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T08:24:40.000Z</news:publication_date>
-      <news:title>Top K-Pop Idol Scolds Staff For “Disrespecting” A Woman He’d “Burn The World” For </news:title>
-      <news:keywords>Charts, K-Pop, Idol, Respect, Women</news:keywords>
     </news:news>
   </url>
 </urlset>
