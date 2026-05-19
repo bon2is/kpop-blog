@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/produce-101-idol-surprises-with-behind-the-scenes-story-with/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T02:55:10.000Z</news:publication_date>
+      <news:title>“Produce 101” Idol Surprises With Behind-The-Scenes Story With Audition Show Staff</news:title>
+      <news:keywords>Debut, Awards, Produce 101, K-Pop Idol, Audition Show</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/employee-calls-out-exo-baekhyuns-company-triggers-massive-ba/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T02:30:31.000Z</news:publication_date>
+      <news:title>Employee Calls Out EXO Baekhyun’s Company, Triggers Massive Backlash</news:title>
+      <news:keywords>EXO, Charts, Baekhyun, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/underrated-idol-calls-out-rotten-agency-ceo-for-not-promotin/</loc>
     <news:news>
       <news:publication>
@@ -251,42 +275,6 @@
       <news:publication_date>2026-05-17T05:24:53.000Z</news:publication_date>
       <news:title>Watch: TXT Chosen As Yoajung’s 1st Global Brand Models</news:title>
       <news:keywords>TXT, Debut, Awards, Charts, Yoajung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nexzs-yu-to-sit-out-japan-event-due-to-entry-issues/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T00:29:36.000Z</news:publication_date>
-      <news:title>NEXZ’s Yu To Sit Out Japan Event Due To Entry Issues</news:title>
-      <news:keywords>Debut, NEXZ, K-Pop, Japan, Fan Signing Event</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/poll-which-big-4-k-pop-agency-has-the-most-talented-idols-vo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T19:48:01.000Z</news:publication_date>
-      <news:title>POLL: Which “Big 4” K-Pop Agency Has The Most Talented Idols? Vote Now!</news:title>
-      <news:keywords>BLACKPINK, TWICE, EXO, SEVENTEEN, Stray Kids</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-actor-in-his-40s-confesses-he-cant-go-on-dates-becau/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-16T16:54:21.000Z</news:publication_date>
-      <news:title>Popular Actor In His 40s Confesses He Can’t Go On Dates Because Of His Mother’s Jealousy</news:title>
-      <news:keywords>K-Drama, Korean Actor, Mother&apos;s Jealousy, Family Relationships, Korean Entertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
