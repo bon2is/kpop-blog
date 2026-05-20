@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/kang-dong-won-um-tae-goo-and-park-ji-hyun-face-unexpected-ch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T11:08:08.000Z</news:publication_date>
+      <news:title>Kang Dong Won, Um Tae Goo, And Park Ji Hyun Face Unexpected Chaos On Their Comeback Journey In Comedy Film “Wild Sing”</news:title>
+      <news:keywords>Comeback, Charts, Kang Dong Won, Um Tae Goo, Park Ji Hyun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jyp-entertainment-shares-update-on-legal-proceedings-against/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T10:27:37.000Z</news:publication_date>
+      <news:title>JYP Entertainment Shares Update On Legal Proceedings Against Individuals Targeting Its Artists</news:title>
+      <news:keywords>TWICE, Stray Kids, ITZY, JYP Entertainment, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-female-idol-admits-to-the-exact-moment-she-realized-/</loc>
     <news:news>
       <news:publication>
@@ -239,42 +263,6 @@
       <news:publication_date>2026-05-18T15:51:51.000Z</news:publication_date>
       <news:title>Beloved Actress Reveals The Painful Reality Check That Helped Her Move On From SM Entertainment</news:title>
       <news:keywords>EXO, Girls Generation, Super Junior, K-Drama, SM Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ra-mi-ran-and-lee-re-stand-opposite-each-other-with-conflict/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T11:19:09.000Z</news:publication_date>
-      <news:title>Ra Mi Ran And Lee Re Stand Opposite Each Other With Conflicting Beliefs About Wishes In New Fantasy Film</news:title>
-      <news:keywords>Tour, K-Drama, Ra Mi Ran, Lee Re, Fantasy Film</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-new-title-track-lemonade-hit-with-scathing-backlash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T09:36:49.000Z</news:publication_date>
-      <news:title>aespa’s New Title Track “Lemonade” Hit With Scathing Backlash</news:title>
-      <news:keywords>aespa, Debut, Charts, K-Pop, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/3-reasons-to-anticipate-the-upcoming-comedy-film-wild-sing/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T08:39:38.000Z</news:publication_date>
-      <news:title>3 Reasons To Anticipate The Upcoming Comedy Film “Wild Sing”</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, K-Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
