@@ -22,6 +22,7 @@ import ReadingProgressBar from '@/components/ReadingProgressBar';
 import TableOfContents from '@/components/TableOfContents';
 import ArticleNavigation from '@/components/ArticleNavigation';
 import CoupangBanner from '@/components/CoupangBanner';
+import DisqusComments from '@/components/DisqusComments';
 
 interface ArticlePageProps {
   params: { slug: string };
@@ -365,6 +366,13 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
       {/* Coupang Partners — article-category-aware product recommendations */}
       <CoupangBanner category={article.category} tags={article.tags} />
+
+      {/* Disqus Comments */}
+      <DisqusComments
+        slug={article.slug}
+        title={article.title}
+        url={`${siteConfig.url}/article/${article.slug}`}
+      />
 
             </article>
 

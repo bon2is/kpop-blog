@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useState, useRef, useEffect } from 'react';
-import { Menu, X, Search, BarChart3, Users, Clock } from 'lucide-react';
+import { Menu, X, Search, BarChart3, Users, Clock, ShoppingBag } from 'lucide-react';
 import { categories } from '@/lib/config';
 
 const RECENT_SEARCHES_KEY = 'kpop_recent_searches';
@@ -108,6 +108,13 @@ export default function Header() {
                 </span>
               </Link>
               <Link
+                href="/shop"
+                className="flex items-center gap-1 text-gray-600 hover:text-pink-600 font-medium transition-colors"
+              >
+                <ShoppingBag className="w-4 h-4" />
+                Shop
+              </Link>
+              <Link
                 href="/categories"
                 className="text-gray-600 hover:text-gray-900 font-medium transition-colors"
               >
@@ -175,6 +182,14 @@ export default function Header() {
                     <span className="w-1 h-1 rounded-full bg-white animate-pulse" />
                     LIVE
                   </span>
+                </Link>
+                <Link
+                  href="/shop"
+                  className="flex items-center gap-2 text-gray-600 hover:text-pink-600 font-medium py-2 transition-colors"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <ShoppingBag className="w-4 h-4" />
+                  Shop
                 </Link>
               </nav>
             </div>
