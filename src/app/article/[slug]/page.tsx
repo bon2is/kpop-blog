@@ -21,6 +21,7 @@ import type { ArticleSummary } from '@/types';
 import ReadingProgressBar from '@/components/ReadingProgressBar';
 import TableOfContents from '@/components/TableOfContents';
 import ArticleNavigation from '@/components/ArticleNavigation';
+import CoupangBanner from '@/components/CoupangBanner';
 
 interface ArticlePageProps {
   params: { slug: string };
@@ -361,6 +362,9 @@ export default function ArticlePage({ params }: ArticlePageProps) {
           url={`${siteConfig.url}/article/${article.slug}`}
         />
       </div>
+
+      {/* Coupang Partners — article-category-aware product recommendations */}
+      <CoupangBanner category={article.category} tags={article.tags} />
 
             </article>
 

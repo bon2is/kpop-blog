@@ -14,6 +14,7 @@ import TrendingSection from '@/components/TrendingSection';
 import TagCloud from '@/components/TagCloud';
 import ChartWidget from '@/components/ChartWidget';
 import { ReadingList } from '@/components/Bookmark';
+import CoupangBanner from '@/components/CoupangBanner';
 
 export const metadata: Metadata = {
   alternates: {
@@ -218,6 +219,9 @@ export default function HomePage() {
                 )}
               </section>
             )}
+
+            {/* Coupang Partners — K-POP goods recommendation */}
+            <CoupangBanner keyword="K-POP 굿즈" title="오늘의 K-POP 추천 상품" className="mb-10" />
 
             {/* View All */}
             {articles.length > 16 && (

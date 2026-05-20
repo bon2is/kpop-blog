@@ -871,6 +871,58 @@ Input required and not supplied: token
 
 ---
 
+## 17. 쿠팡 파트너스 (Affiliate)
+
+**모든 글과 홈페이지에 쿠팡 파트너스 상품 배너를 반드시 포함해야 합니다.**
+
+### 구성 파일
+
+| 파일 | 역할 |
+|------|------|
+| `src/lib/coupang.ts` | HMAC-SHA256 서명 유틸 + `searchCoupangProducts()` + `getCoupangKeyword()` |
+| `src/components/CoupangBanner.tsx` | async 서버 컴포넌트 — 카테고리/태그별 상품 그리드 |
+
+### 환경 변수
+
+```
+COUPANG_ACCESS_KEY=...   # 쿠팡 파트너스 Access Key
+COUPANG_SECRET_KEY=...   # 쿠팡 파트너스 Secret Key
+```
+
+`.env.local`에 추가하고, Vercel 대시보드 → Settings → Environment Variables에도 동일하게 등록.
+
+### 포스트(글) 페이지 적용
+
+`src/app/article/[slug]/page.tsx`의 LikeDislike/ShareButtons 블록 바로 아래:
+
+```tsx
+<CoupangBanner category={article.category} tags={article.tags} />
+```
+
+카테고리·태그 → 검색어 매핑은 `src/lib/coupang.ts`의 `getCoupangKeyword()` 참조.
+
+### 홈페이지 적용
+
+`src/app/page.tsx`의 "More Stories" 섹션 아래, "View All" 버튼 바로 위:
+
+```tsx
+<CoupangBanner keyword="K-POP 굿즈" title="오늘의 K-POP 추천 상품" className="mb-10" />
+```
+
+### 법적 고지 (필수)
+
+컴포넌트 하단에 자동으로 표시됨:
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+
+### 주의 사항
+
+- API 키 없이 빌드하면 `CoupangBanner`는 조용히 `null`을 반환 (오류 없음)
+- Static Export 구조이므로 API는 **빌드 타임**에 호출됨 (런타임 아님)
+- 새로운 아티스트/카테고리 추가 시 `TAG_KEYWORD_MAP` / `CATEGORY_KEYWORDS`도 업데이트
+- **지리적 IP 제한**: 쿠팡 Partners API는 Akamai CDN을 통해 **한국 IP에서만** 접근 가능. 비한국 IP(Mac 로컬, 해외 Vercel 서버 등)에서는 401 반환. 실패 시 배너는 자동으로 숨겨짐 (graceful fallback). 배너 활성화가 필요하면 한국 IP 환경(KR VPN, 로컬 서버 등)에서 빌드 필요.
+
+---
+
 ## 참고 링크
 
 - [Next.js 문서](https://nextjs.org/docs)
