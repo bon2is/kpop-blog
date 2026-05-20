@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-female-idol-admits-to-the-exact-moment-she-realized-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T08:02:30.000Z</news:publication_date>
+      <news:title>Popular Female Idol Admits To The Exact Moment She Realized She Was Pretty</news:title>
+      <news:keywords>Concert, Awards, Charts, K-Pop, Self-Love</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/heir-to-one-of-koreas-biggest-business-conglomerates-poses-w/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T06:40:55.000Z</news:publication_date>
+      <news:title>Heir To One Of Korea’s Biggest Business Conglomerates Poses With Top Female Idol</news:title>
+      <news:keywords>Debut, Charts, K-Pop, Business, Collaboration</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/male-idol-shares-shocking-message-from-fan-triggering-fierce/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T06:11:38.000Z</news:publication_date>
+      <news:title>Male Idol Shares Shocking Message From Fan, Triggering Fierce Backlash</news:title>
+      <news:keywords>K-Pop, Fan Culture, Idol Safety, Mental Health, Social Media</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/late-kim-sae-ron-receives-heartbreaking-tribute-at-cannes/</loc>
     <news:news>
       <news:publication>
@@ -239,42 +275,6 @@
       <news:publication_date>2026-05-18T08:39:38.000Z</news:publication_date>
       <news:title>3 Reasons To Anticipate The Upcoming Comedy Film “Wild Sing”</news:title>
       <news:keywords>Comeback, Debut, Awards, Charts, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T08:11:53.000Z</news:publication_date>
-      <news:title>Seo Hyun Woo Joins Ma Dong Seok And Kim Jae Yeong In “The Roundup 5”</news:title>
-      <news:keywords>Awards, K-Drama, Seo Hyun Woo, Ma Dong Seok, Kim Jae Yeong</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-hae-soo-appears-in-court-as-a-witness-in-baek-seung-hwa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T07:11:07.000Z</news:publication_date>
-      <news:title>Park Hae Soo Appears In Court As A Witness In Baek Seung Hwan’s Trial In “The Scarecrow”</news:title>
-      <news:keywords>K-Drama, Park Hae Soo, Baek Seung Hwan, The Scarecrow, Suspense</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jang-dong-jus-agency-releases-statement-regarding-his-sudden/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T07:09:43.000Z</news:publication_date>
-      <news:title>Jang Dong Ju’s Agency Releases Statement Regarding His Sudden Retirement Announcement</news:title>
-      <news:keywords>K-Drama, Jang Dong Ju, Retirement, Mental Health, Actor Well-being</news:keywords>
     </news:news>
   </url>
 </urlset>
