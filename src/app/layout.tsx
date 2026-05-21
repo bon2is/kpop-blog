@@ -102,6 +102,26 @@ export default function RootLayout({
           <meta name="apple-mobile-web-app-title" content="KPOP Daily" />
           <link rel="alternate" type="application/rss+xml" title="KPOP Daily RSS" href="/feed.xml" />
           <link rel="search" type="application/opensearchdescription+xml" title="KPOP Daily Search" href="/opensearch.xml" />
+          {/* Google Analytics 4 — init script must run before async gtag.js */}
+          {process.env.NEXT_PUBLIC_GA_ID && (
+            <>
+              <script
+                // eslint-disable-next-line react/no-danger
+                dangerouslySetInnerHTML={{
+                  __html: `
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', '${process.env.NEXT_PUBLIC_GA_ID}');
+                  `,
+                }}
+              />
+              <script
+                async
+                src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}
+              />
+            </>
+          )}
           {/* Organization structured data */}
           <script
             type="application/ld+json"
