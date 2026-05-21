@@ -35,7 +35,7 @@ function ProductCard({ product }: { product: CoupangProduct }) {
         <div className="absolute top-1.5 left-1.5 flex flex-col gap-1">
           {product.isRocket && (
             <span className="text-[9px] font-bold bg-[#e44] text-white px-1.5 py-0.5 rounded-full leading-none">
-              로켓
+              Rocket
             </span>
           )}
           {discountPct > 0 && (
@@ -48,9 +48,9 @@ function ProductCard({ product }: { product: CoupangProduct }) {
       <div className="p-2 flex flex-col gap-1 flex-1">
         <p className="text-[11px] text-gray-700 line-clamp-2 leading-snug">{product.productName}</p>
         <div className="mt-auto">
-          <p className="text-sm font-bold text-gray-900">{product.salePrice.toLocaleString()}원</p>
+          <p className="text-sm font-bold text-gray-900">₩{product.salePrice.toLocaleString()}</p>
           {product.isFreeShipping && (
-            <p className="text-[10px] text-blue-500 font-medium">무료배송</p>
+            <p className="text-[10px] text-blue-500 font-medium">Free Delivery</p>
           )}
         </div>
       </div>
@@ -68,15 +68,34 @@ export default async function CoupangBanner({
 }: Props) {
   const searchKeyword = keyword ?? getCoupangKeyword(category, tags);
   const products = await searchCoupangProducts(searchKeyword, limit);
-  if (products.length === 0) return null;
+
+  if (products.length === 0) {
+    const searchUrl = `https://www.coupang.com/np/search?q=${encodeURIComponent(searchKeyword)}`;
+    return (
+      <a
+        href={searchUrl}
+        target="_blank"
+        rel="noopener noreferrer nofollow"
+        className={`flex items-center justify-between p-4 rounded-xl border border-orange-100 bg-orange-50 hover:bg-orange-100 transition-colors group ${className}`}
+      >
+        <div>
+          <p className="text-sm font-semibold text-gray-800">{title ?? searchKeyword}</p>
+          <p className="text-xs text-gray-500 mt-0.5">Browse on Coupang →</p>
+        </div>
+        <span className="text-xs font-bold text-orange-500 bg-white px-2 py-1 rounded-full border border-orange-200">
+          Coupang
+        </span>
+      </a>
+    );
+  }
 
   return (
     <div className={`my-8 rounded-xl border border-gray-100 bg-gray-50 p-4 ${className}`}>
       <div className="flex items-center gap-2 mb-3">
         <span className="text-[10px] font-bold text-orange-500 bg-orange-50 px-2 py-0.5 rounded-full border border-orange-100 leading-none">
-          쿠팡 파트너스
+          Coupang Partners
         </span>
-        <p className="text-sm font-semibold text-gray-700">{title ?? `${searchKeyword} 추천 상품`}</p>
+        <p className="text-sm font-semibold text-gray-700">{title ?? `${searchKeyword} Picks`}</p>
       </div>
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         {products.map((p) => (
@@ -84,7 +103,7 @@ export default async function CoupangBanner({
         ))}
       </div>
       <p className="mt-3 text-[10px] text-gray-400 leading-relaxed">
-        이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+        This content is part of the Coupang Partners program. We may receive a commission on qualifying purchases.
       </p>
     </div>
   );
