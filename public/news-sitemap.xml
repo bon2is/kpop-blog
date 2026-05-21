@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-nmixx-takes-1st-win-for-heavy-serenade-on-m-countdown-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T12:46:41.000Z</news:publication_date>
+      <news:title>Watch: NMIXX Takes 1st Win For “Heavy Serenade” On “M Countdown”; Performances By I.O.I, Taeyang, And More</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, NCT, NMIXX</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-shin-ha-kyun-is-a-top-black-agent-assigned-only-to-hig/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T11:23:07.000Z</news:publication_date>
+      <news:title>Watch: Shin Ha Kyun Is A Top Black Agent Assigned Only To High-Risk Operations In “Fifties Professionals”</news:title>
+      <news:keywords>Awards, K-Drama, Shin Ha Kyun, Action-Comedy, MBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespas-ningning-shockingly-comments-directly-on-giselles-dat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T11:05:12.000Z</news:publication_date>
+      <news:title>aespa’s NingNing Shockingly Comments Directly On Giselle’s Dating Rumors With Songwriter</news:title>
+      <news:keywords>aespa, Debut, NingNing, Giselle, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/scared-bigbangs-taeyang-doesnt-hold-back-on-his-thoughts-abo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T08:47:40.000Z</news:publication_date>
+      <news:title>“Scared” — BIGBANG’s Taeyang Doesn’t Hold Back On His Thoughts About Daesung’s Legendary Coachella Performance</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, BIGBANG, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/korean-star-gives-no-fcks-about-netizens-hating-on-her-revea/</loc>
     <news:news>
       <news:publication>
@@ -263,66 +311,6 @@
       <news:publication_date>2026-05-19T14:41:32.000Z</news:publication_date>
       <news:title>ATEEZ To Headline BST Hyde Park In London</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, ATEEZ, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkooks-handwriting-is-now-available-on-your-chest-and/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T13:13:00.000Z</news:publication_date>
-      <news:title>BTS Jungkook’s Handwriting Is Now Available On Your Chest And Butt</news:title>
-      <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisas-unfiltered-reaction-toward-elderly-fan-goes-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T12:33:20.000Z</news:publication_date>
-      <news:title>BLACKPINK Lisa’s Unfiltered Reaction Toward Elderly Fan Goes Viral</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/itzy-trigger-scathing-reactions-towards-other-groups-edgy-co/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T12:19:12.000Z</news:publication_date>
-      <news:title>ITZY Trigger Scathing Reactions Towards Other Groups’ “Edgy” Concepts</news:title>
-      <news:keywords>ITZY, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-recent-announcement-triggers-major-backlas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T10:25:17.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie’s Recent Announcement Triggers Major Backlash</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-hae-soo-and-lee-hee-joons-conflict-intensifies-in-the-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T08:34:13.000Z</news:publication_date>
-      <news:title>Park Hae Soo And Lee Hee Joon’s Conflict Intensifies In “The Scarecrow”</news:title>
-      <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, Suspense</news:keywords>
     </news:news>
   </url>
 </urlset>
