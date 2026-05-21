@@ -1,5 +1,12 @@
 # https://www.robotstxt.org/robotstxt.html
 
+# AdSense / AdBot — explicitly allow before any other rules
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
 # Allow all legitimate search engines
 User-agent: *
 Allow: /

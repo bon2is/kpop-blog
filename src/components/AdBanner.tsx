@@ -8,7 +8,7 @@ const ADSENSE_CLIENT = 'ca-pub-7999144867236526';
 const AD_SLOTS = {
   display: '7671594779',      // andxo-display-300x250
   topBanner: '4092888672',    // 상단 배너
-  bottomBanner: '4092888672', // 하단 배너 (동일 슬롯 ID — 위치는 AdSense가 구분)
+  bottomBanner: '7671594779', // 하단 배너 — display 슬롯 사용 (topBanner와 다른 ID)
   inArticle: '4326293473',    // andxo-inarticle (인아티클 전용)
   inFeed: '5270444172',       // Inline (인피드 전용)
   sidebar: '1112352179',      // andxocom_sidebar 300x600
