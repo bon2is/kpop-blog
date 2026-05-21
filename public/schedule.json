@@ -1,0 +1,470 @@
+{
+  "lastUpdated": "2026-05-21T21:41:50.316Z",
+  "events": [
+    {
+      "id": "broadcast-music-bank-2026-05-22",
+      "date": "2026-05-22",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "evt-001",
+      "date": "2026-05-22",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "IVE",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "evt-002",
+      "date": "2026-05-22",
+      "time": "22:00",
+      "timezone": "KST",
+      "type": "youtube",
+      "artist": "aespa",
+      "title": "Comeback Stage Behind the Scenes",
+      "links": {
+        "youtube": "https://www.youtube.com/@aespa"
+      }
+    },
+    {
+      "id": "evt-003",
+      "date": "2026-05-23",
+      "time": "17:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "SEVENTEEN",
+      "title": "Show! Music Core",
+      "description": "MBC weekly music show",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.mbc.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-05-23",
+      "date": "2026-05-23",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "evt-004",
+      "date": "2026-05-23",
+      "time": "20:00",
+      "timezone": "KST",
+      "type": "comeback",
+      "artist": "BLACKPINK",
+      "title": "New Single Release",
+      "description": "BLACKPINK's highly anticipated 2026 comeback",
+      "links": {
+        "youtube": "https://www.youtube.com/@BLACKPINK",
+        "official": "https://www.ygfamilyshop.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-05-24",
+      "date": "2026-05-24",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "evt-005",
+      "date": "2026-05-24",
+      "time": "18:30",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Stray Kids",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly performance",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSInkigayo",
+        "official": "https://www.sbs.co.kr"
+      }
+    },
+    {
+      "id": "evt-006",
+      "date": "2026-05-24",
+      "time": "20:00",
+      "timezone": "KST",
+      "type": "fanmeeting",
+      "artist": "TXT",
+      "title": "MOAS: Moment of Aleph Stars Fan Meeting",
+      "description": "Special fan meeting at Olympic Hall, Seoul",
+      "links": {
+        "ticket": "https://ticketlink.co.kr",
+        "official": "https://bighitmusic.com"
+      }
+    },
+    {
+      "id": "evt-007",
+      "date": "2026-05-25",
+      "time": "00:00",
+      "timezone": "KST",
+      "type": "release",
+      "artist": "NewJeans",
+      "title": "Mini Album Digital Release",
+      "description": "Digital pre-release ahead of physical album",
+      "links": {
+        "youtube": "https://www.youtube.com/@NewJeans_official",
+        "official": "https://www.hybe.com"
+      }
+    },
+    {
+      "id": "evt-008",
+      "date": "2026-05-25",
+      "time": "19:00",
+      "timezone": "KST",
+      "type": "youtube",
+      "artist": "BTS",
+      "title": "BTS FESTA 2026 - Special Video",
+      "description": "Anniversary celebration content",
+      "links": {
+        "youtube": "https://www.youtube.com/@HYBE_LABELS"
+      }
+    },
+    {
+      "id": "evt-009",
+      "date": "2026-05-26",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "TWICE",
+      "title": "The Show",
+      "description": "SBS MTV The Show performance",
+      "links": {
+        "youtube": "https://www.youtube.com/@sbsmtv_theshow",
+        "official": "https://www.sbsmtv.com"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-05-27",
+      "date": "2026-05-27",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "evt-010",
+      "date": "2026-05-27",
+      "time": "20:00",
+      "timezone": "KST",
+      "type": "concert",
+      "artist": "SEVENTEEN",
+      "title": "SEVENTEEN WORLD TOUR 2026 - Seoul Day 1",
+      "description": "KSPO DOME, Seoul",
+      "links": {
+        "ticket": "https://ticketlink.co.kr",
+        "official": "https://www.pledis.co.kr"
+      }
+    },
+    {
+      "id": "evt-012",
+      "date": "2026-05-28",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "comeback",
+      "artist": "EXO",
+      "title": "Full Group Comeback",
+      "description": "First full group activity since members' military service",
+      "links": {
+        "youtube": "https://www.youtube.com/@exo",
+        "official": "https://www.smtown.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-05-28",
+      "date": "2026-05-28",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "evt-011",
+      "date": "2026-05-28",
+      "time": "20:00",
+      "timezone": "KST",
+      "type": "concert",
+      "artist": "SEVENTEEN",
+      "title": "SEVENTEEN WORLD TOUR 2026 - Seoul Day 2",
+      "description": "KSPO DOME, Seoul",
+      "links": {
+        "ticket": "https://ticketlink.co.kr",
+        "official": "https://www.pledis.co.kr"
+      }
+    },
+    {
+      "id": "evt-013",
+      "date": "2026-05-29",
+      "time": "17:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "aespa",
+      "title": "M Countdown",
+      "description": "Mnet M Countdown performance",
+      "links": {
+        "youtube": "https://www.youtube.com/@Mnet",
+        "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-05-29",
+      "date": "2026-05-29",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "evt-014",
+      "date": "2026-05-29",
+      "time": "21:00",
+      "timezone": "KST",
+      "type": "award",
+      "artist": "Multiple Artists",
+      "title": "2026 Gaon Chart Music Awards",
+      "description": "Annual Gaon Chart awards ceremony",
+      "links": {
+        "ticket": "https://ticketlink.co.kr",
+        "youtube": "https://www.youtube.com/@GaonChart"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-05-30",
+      "date": "2026-05-30",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "evt-015",
+      "date": "2026-05-30",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "IVE",
+      "title": "Music Bank",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop"
+      }
+    },
+    {
+      "id": "evt-016",
+      "date": "2026-05-30",
+      "time": "20:00",
+      "timezone": "KST",
+      "type": "youtube",
+      "artist": "BLACKPINK",
+      "title": "New Single MV Reaction Live",
+      "links": {
+        "youtube": "https://www.youtube.com/@BLACKPINK"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-05-31",
+      "date": "2026-05-31",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "evt-017",
+      "date": "2026-05-31",
+      "time": "19:00",
+      "timezone": "KST",
+      "type": "release",
+      "artist": "Stray Kids",
+      "title": "MIROH: Special Edition Album",
+      "description": "Physical album release — CD + photobook",
+      "links": {
+        "official": "https://www.jype.com",
+        "youtube": "https://www.youtube.com/@Stray_Kids"
+      }
+    },
+    {
+      "id": "evt-018",
+      "date": "2026-06-01",
+      "time": "20:00",
+      "timezone": "KST",
+      "type": "fanmeeting",
+      "artist": "TWICE",
+      "title": "ONCE HALLOWEEN PARTY 2026",
+      "description": "Annual fan meeting at KSPO DOME",
+      "links": {
+        "ticket": "https://ticketlink.co.kr",
+        "official": "https://www.jype.com"
+      }
+    },
+    {
+      "id": "evt-019",
+      "date": "2026-06-02",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "NewJeans",
+      "title": "Show! Music Core",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-06-03",
+      "date": "2026-06-03",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "evt-020",
+      "date": "2026-06-03",
+      "time": "21:00",
+      "timezone": "KST",
+      "type": "concert",
+      "artist": "BTS",
+      "title": "BTS PERMISSION TO DANCE - Encore Night",
+      "description": "Special encore concert at Seoul Olympic Stadium",
+      "links": {
+        "ticket": "https://ticketlink.co.kr",
+        "official": "https://bighitmusic.com"
+      }
+    },
+    {
+      "id": "evt-021",
+      "date": "2026-06-04",
+      "time": "00:00",
+      "timezone": "KST",
+      "type": "comeback",
+      "artist": "aespa",
+      "title": "Mini Album 'SYNK: PARALLEL LINE' Release",
+      "description": "6th mini album digital + physical release",
+      "links": {
+        "youtube": "https://www.youtube.com/@aespa",
+        "official": "https://www.smtown.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-06-04",
+      "date": "2026-06-04",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "evt-022",
+      "date": "2026-06-04",
+      "time": "19:00",
+      "timezone": "KST",
+      "type": "youtube",
+      "artist": "aespa",
+      "title": "SYNK: PARALLEL LINE MV Premiere",
+      "description": "YouTube Live MV premiere event",
+      "links": {
+        "youtube": "https://www.youtube.com/@aespa"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-06-05",
+      "date": "2026-06-05",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "evt-023",
+      "date": "2026-06-05",
+      "time": "20:00",
+      "timezone": "KST",
+      "type": "award",
+      "artist": "Multiple Artists",
+      "title": "2026 Melon Music Awards Pre-Show",
+      "description": "Pre-show performances and red carpet",
+      "links": {
+        "youtube": "https://www.youtube.com/@MelonMusicAwards"
+      }
+    }
+  ]
+}
