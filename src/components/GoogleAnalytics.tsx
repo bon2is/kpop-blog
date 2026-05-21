@@ -1,5 +1,6 @@
 'use client';
 
+import Script from 'next/script';
 import { useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 
@@ -15,39 +16,30 @@ declare global {
 export default function GoogleAnalytics() {
   const pathname = usePathname();
 
-  useEffect(() => {
-    if (!GA_ID) return;
-
-    // Only load the script once
-    if (!document.querySelector(`script[src*="googletagmanager.com/gtag/js"]`)) {
-      const script = document.createElement('script');
-      script.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
-      script.async = true;
-      document.head.appendChild(script);
-    }
-
-    // Initialize gtag (idempotent)
-    window.dataLayer = window.dataLayer || [];
-    if (typeof window.gtag !== 'function') {
-      window.gtag = function gtag(...args: unknown[]) {
-        window.dataLayer.push(args);
-      };
-      window.gtag('js', new Date());
-      window.gtag('config', GA_ID, { send_page_view: false });
-    }
-  }, []);
-
-  // Track page views on route change (SPA navigation)
+  // SPA 라우트 변경 시 page_view 재전송
   useEffect(() => {
     if (!GA_ID || typeof window.gtag !== 'function') return;
-
-    window.gtag('event', 'page_view', {
-      page_path: pathname,
-      page_title: document.title,
-    });
+    window.gtag('config', GA_ID, { page_path: pathname });
   }, [pathname]);
 
-  return null;
+  if (!GA_ID) return null;
+
+  return (
+    <>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+        strategy="afterInteractive"
+      />
+      <Script id="gtag-init" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${GA_ID}');
+        `}
+      </Script>
+    </>
+  );
 }
 
 export function trackEvent(action: string, category: string, label?: string, value?: number) {
