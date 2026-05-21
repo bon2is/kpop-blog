@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/korean-star-gives-no-fcks-about-netizens-hating-on-her-revea/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T07:33:49.000Z</news:publication_date>
+      <news:title>Korean Star Gives No F*cks About Netizens Hating On Her “Revealing” Photos</news:title>
+      <news:keywords>Debut, Hong Young, Korean Star, Female Empowerment, Body Positivity</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/moon-sang-min-renews-contract-with-agency/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T07:20:59.000Z</news:publication_date>
+      <news:title>Moon Sang Min Renews Contract With Agency</news:title>
+      <news:keywords>Moon Sang Min, Awesome ENT, Contract Renewal, K-Drama, Korean Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/injection-auntie-makes-new-update-allegedly-exposing-shinees/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T06:53:46.000Z</news:publication_date>
+      <news:title>Injection Auntie Makes New Update Allegedly Exposing SHINee’s Key</news:title>
+      <news:keywords>SHINee, Taemin, Comeback, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-eun-bins-upcoming-drama-spooky-in-love-announces-premie/</loc>
     <news:news>
       <news:publication>
@@ -287,42 +323,6 @@
       <news:publication_date>2026-05-19T08:34:13.000Z</news:publication_date>
       <news:title>Park Hae Soo And Lee Hee Joon’s Conflict Intensifies In “The Scarecrow”</news:title>
       <news:keywords>K-Drama, Park Hae Soo, Lee Hee Joon, The Scarecrow, Suspense</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yoo-hae-jin-and-yim-si-wan-in-talks-for-new-occult-film-by-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T07:32:34.000Z</news:publication_date>
-      <news:title>Yoo Hae Jin And Yim Si Wan In Talks For New Occult Film By “The Outlaws” Director</news:title>
-      <news:keywords>K-Drama, Yoo Hae Jin, Yim Si Wan, Occult Film, The Outlaws</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twice-member-sets-firm-boundaries-in-recent-message/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T06:33:09.000Z</news:publication_date>
-      <news:title>TWICE Member Sets Firm Boundaries In Recent Message</news:title>
-      <news:keywords>TWICE, Debut, Awards, K-Pop, Boundaries</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafims-kim-chaewon-to-take-break-from-activities-due-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T05:31:59.000Z</news:publication_date>
-      <news:title>LE SSERAFIM’s Kim Chaewon To Take Break From Activities Due To Health</news:title>
-      <news:keywords>LE SSERAFIM, Debut, Awards, Kim Chaewon, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
