@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/iconic-female-idol-lets-out-the-reality-of-being-40-kg-while/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T16:02:19.000Z</news:publication_date>
+      <news:title>Iconic Female Idol Lets Out The Reality Of Being 40 Kg While On A Rigorous Schedule</news:title>
+      <news:keywords>Awards, Tour, K-Pop, Body Positivity, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/riize-announces-2nd-mini-album-ii-with-schedule-poster/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T15:56:33.000Z</news:publication_date>
+      <news:title>RIIZE Announces 2nd Mini Album “II” With Schedule Poster</news:title>
+      <news:keywords>RIIZE, Comeback, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-v-attended-catholic-church-in-the-military-to-get-a-bap/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T14:04:25.000Z</news:publication_date>
+      <news:title>BTS’s V Attended Catholic Church In The Military To Get A Baptismal Name</news:title>
+      <news:keywords>BTS, Charts, V, Military Service, Faith</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-nmixx-takes-1st-win-for-heavy-serenade-on-m-countdown-/</loc>
     <news:news>
       <news:publication>
@@ -287,30 +323,6 @@
       <news:publication_date>2026-05-19T20:29:34.000Z</news:publication_date>
       <news:title>WOODZ Sets Record On Melon Chart For Longest Run In Top 10</news:title>
       <news:keywords>BTS, NewJeans, Charts, Album, WOODZ</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-female-idol-reveals-the-surprising-way-she-managed-to-bu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T14:55:00.000Z</news:publication_date>
-      <news:title>Top Female Idol Reveals The Surprising Way She Managed To Buy A House</news:title>
-      <news:keywords>Concert, Awards, Charts, Album, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ateez-to-headline-bst-hyde-park-in-london/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T14:41:32.000Z</news:publication_date>
-      <news:title>ATEEZ To Headline BST Hyde Park In London</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, ATEEZ, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
