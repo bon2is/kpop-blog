@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-eun-bins-upcoming-drama-spooky-in-love-announces-premie/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T03:30:43.000Z</news:publication_date>
+      <news:title>Park Eun Bin’s Upcoming Drama “Spooky In Love” Announces Premiere Date With First Poster</news:title>
+      <news:keywords>Awards, K-Drama, Park Eun Bin, Spooky in Love, Romance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/3rd-gen-idol-makes-viral-pregnancy-announcement/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T00:51:09.000Z</news:publication_date>
+      <news:title>3rd Gen Idol Makes Viral Pregnancy Announcement</news:title>
+      <news:keywords>Awards, Charts, K-Pop, Pregnancy Announcement, Third Generation Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/gilboard-dream-inside-the-lore-of-picheolin-the-alter-ego-of/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T00:50:46.000Z</news:publication_date>
+      <news:title>“Gilboard” Dream: Inside The Lore Of Picheolin, The Alter Ego Of SEVENTEEN’s Dino</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, SEVENTEEN, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-idols-bone-thin-appearance-triggers-call-for-company/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T22:19:10.000Z</news:publication_date>
+      <news:title>Popular Idol’s “Bone-Thin” Appearance Triggers Call For Company To “Let Her Eat”</news:title>
+      <news:keywords>Awards, MV, K-Pop, Idol Health, Body Image</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-member-goes-on-insane-side-quest-leaves-fans-baffled/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T19:34:53.000Z</news:publication_date>
+      <news:title>BTS Member Goes On Insane Side Quest, Leaves Fans Baffled</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/male-idol-actor-and-actress-filmed-on-date-by-paparazzi/</loc>
     <news:news>
       <news:publication>
@@ -263,30 +323,6 @@
       <news:publication_date>2026-05-19T05:31:59.000Z</news:publication_date>
       <news:title>LE SSERAFIM’s Kim Chaewon To Take Break From Activities Due To Health</news:title>
       <news:keywords>LE SSERAFIM, Debut, Awards, Kim Chaewon, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/produce-101-idol-surprises-with-behind-the-scenes-story-with/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T02:55:10.000Z</news:publication_date>
-      <news:title>“Produce 101” Idol Surprises With Behind-The-Scenes Story With Audition Show Staff</news:title>
-      <news:keywords>Debut, Awards, Produce 101, K-Pop Idol, Audition Show</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/employee-calls-out-exo-baekhyuns-company-triggers-massive-ba/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T02:30:31.000Z</news:publication_date>
-      <news:title>Employee Calls Out EXO Baekhyun’s Company, Triggers Massive Backlash</news:title>
-      <news:keywords>EXO, Charts, Baekhyun, K-Pop, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
