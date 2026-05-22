@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nct-member-fiercely-bashed-for-still-using-chatgpt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T04:44:45.000Z</news:publication_date>
+      <news:title>NCT Member Fiercely Bashed For Still Using ChatGPT</news:title>
+      <news:keywords>NCT, ChatGPT, K-Pop, AI, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-seungmin-to-sit-out-governors-ball-2026-due-to-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T03:28:07.000Z</news:publication_date>
+      <news:title>Stray Kids’ Seungmin To Sit Out Governors Ball 2026 Due To Injury</news:title>
+      <news:keywords>Stray Kids, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/celebrity-reveals-the-wrongdoings-that-broke-his-friendship-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T03:03:39.000Z</news:publication_date>
+      <news:title>Celebrity Reveals The Wrongdoings That Broke His Friendship With BTS’s Jin</news:title>
+      <news:keywords>BTS, Comeback, Awards, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kwon-eunbin-parts-ways-with-cube-entertainment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T02:57:54.000Z</news:publication_date>
+      <news:title>Kwon Eunbin Parts Ways With Cube Entertainment</news:title>
+      <news:keywords>Debut, Kwon Eunbin, CLC, Cube Entertainment, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-lee-jae-wook-shin-ye-eun-and-more-pose-for-doctor-on-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T23:19:04.000Z</news:publication_date>
+      <news:title>Watch: Lee Jae Wook, Shin Ye Eun, And More Pose For “Doctor On The Edge” Poster Shoot</news:title>
+      <news:keywords>K-Drama, Lee Jae Wook, Shin Ye Eun, Doctor on the Edge, ENA</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/iconic-female-idol-lets-out-the-reality-of-being-40-kg-while/</loc>
     <news:news>
       <news:publication>
@@ -287,42 +347,6 @@
       <news:publication_date>2026-05-20T06:11:38.000Z</news:publication_date>
       <news:title>Male Idol Shares Shocking Message From Fan, Triggering Fierce Backlash</news:title>
       <news:keywords>K-Pop, Fan Culture, Idol Safety, Mental Health, Social Media</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/late-kim-sae-ron-receives-heartbreaking-tribute-at-cannes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T00:13:57.000Z</news:publication_date>
-      <news:title>Late Kim Sae Ron Receives Heartbreaking Tribute At Cannes</news:title>
-      <news:keywords>Debut, K-Drama, Kim Sae Ron, Cannes Film Festival, Tribute</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafims-eunchae-pitted-against-former-member-garam-inte/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T23:41:18.000Z</news:publication_date>
-      <news:title>LE SSERAFIM’s Eunchae Pitted Against Former Member Garam, Internet Erupts With Ridicule</news:title>
-      <news:keywords>LE SSERAFIM, Debut, Charts, Eunchae, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/woodz-sets-record-on-melon-chart-for-longest-run-in-top-10/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T20:29:34.000Z</news:publication_date>
-      <news:title>WOODZ Sets Record On Melon Chart For Longest Run In Top 10</news:title>
-      <news:keywords>BTS, NewJeans, Charts, Album, WOODZ</news:keywords>
     </news:news>
   </url>
 </urlset>
