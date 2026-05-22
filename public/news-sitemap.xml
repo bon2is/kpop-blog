@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-lisas-2026-world-cup-song-dubbed-embarrassing-as-f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T08:00:19.000Z</news:publication_date>
+      <news:title>BLACKPINK Lisa’s “2026 World Cup” Song Dubbed “Embarrassing” As Flooded With Criticism</news:title>
+      <news:keywords>BLACKPINK, Debut, Album, Lisa, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nct-member-fiercely-bashed-for-still-using-chatgpt/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +59,18 @@
       <news:publication_date>2026-05-22T02:57:54.000Z</news:publication_date>
       <news:title>Kwon Eunbin Parts Ways With Cube Entertainment</news:title>
       <news:keywords>Debut, Kwon Eunbin, CLC, Cube Entertainment, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-idols-raw-thoughts-about-giving-up-spark-heartbreak/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T00:34:06.000Z</news:publication_date>
+      <news:title>HYBE Idol’s Raw Thoughts About “Giving Up” Spark Heartbreak</news:title>
+      <news:keywords>Awards, Charts, HYBE, K-Pop, Mental Health</news:keywords>
     </news:news>
   </url>
   <url>
@@ -155,6 +179,18 @@
       <news:publication_date>2026-05-21T07:33:49.000Z</news:publication_date>
       <news:title>Korean Star Gives No F*cks About Netizens Hating On Her “Revealing” Photos</news:title>
       <news:keywords>Debut, Hong Young, Korean Star, Female Empowerment, Body Positivity</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-saebyeol-and-seo-ihan-blur-the-line-between-fan-servic/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T07:25:46.000Z</news:publication_date>
+      <news:title>Watch: Saebyeol And Seo Ihan Blur The Line Between Fan Service And Real Feelings In “Love Class 3” Teaser</news:title>
+      <news:keywords>K-Drama, Saebyeol, Seo Ihan, Love Class 3, BL Drama</news:keywords>
     </news:news>
   </url>
   <url>
@@ -311,42 +347,6 @@
       <news:publication_date>2026-05-20T10:27:37.000Z</news:publication_date>
       <news:title>JYP Entertainment Shares Update On Legal Proceedings Against Individuals Targeting Its Artists</news:title>
       <news:keywords>TWICE, Stray Kids, ITZY, JYP Entertainment, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-female-idol-admits-to-the-exact-moment-she-realized-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T08:02:30.000Z</news:publication_date>
-      <news:title>Popular Female Idol Admits To The Exact Moment She Realized She Was Pretty</news:title>
-      <news:keywords>Concert, Awards, Charts, K-Pop, Self-Love</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heir-to-one-of-koreas-biggest-business-conglomerates-poses-w/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T06:40:55.000Z</news:publication_date>
-      <news:title>Heir To One Of Korea’s Biggest Business Conglomerates Poses With Top Female Idol</news:title>
-      <news:keywords>Debut, Charts, K-Pop, Business, Collaboration</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/male-idol-shares-shocking-message-from-fan-triggering-fierce/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T06:11:38.000Z</news:publication_date>
-      <news:title>Male Idol Shares Shocking Message From Fan, Triggering Fierce Backlash</news:title>
-      <news:keywords>K-Pop, Fan Culture, Idol Safety, Mental Health, Social Media</news:keywords>
     </news:news>
   </url>
 </urlset>
