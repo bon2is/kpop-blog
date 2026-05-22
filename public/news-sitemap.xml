@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lee-do-hyun-and-kim-min-ha-in-talks-for-new-korean-adaptatio/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T10:08:05.000Z</news:publication_date>
+      <news:title>Lee Do Hyun And Kim Min Ha In Talks For New Korean Adaptation Of Chinese Film “Viva La Vida”</news:title>
+      <news:keywords>K-Drama, Lee Do Hyun, Kim Min Ha, Film Adaptation, Viva La Vida</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lim-ji-yeon-performs-intense-yet-comical-ritual-to-survive-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T08:21:18.000Z</news:publication_date>
+      <news:title>Lim Ji Yeon Performs Intense Yet Comical Ritual To Survive Modern World In “My Royal Nemesis”</news:title>
+      <news:keywords>Debut, K-Drama, Lim Ji Yeon, My Royal Nemesis, Romantic Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-lisas-2026-world-cup-song-dubbed-embarrassing-as-f/</loc>
     <news:news>
       <news:publication>
@@ -323,30 +347,6 @@
       <news:publication_date>2026-05-20T13:50:09.000Z</news:publication_date>
       <news:title>LE SSERAFIM’s Music Video Teaser Blasted As “Disrespectful” — Sparking Fury</news:title>
       <news:keywords>LE SSERAFIM, Debut, MV, K-Pop, Cultural Appropriation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kang-dong-won-um-tae-goo-and-park-ji-hyun-face-unexpected-ch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T11:08:08.000Z</news:publication_date>
-      <news:title>Kang Dong Won, Um Tae Goo, And Park Ji Hyun Face Unexpected Chaos On Their Comeback Journey In Comedy Film “Wild Sing”</news:title>
-      <news:keywords>Comeback, Charts, Kang Dong Won, Um Tae Goo, Park Ji Hyun</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jyp-entertainment-shares-update-on-legal-proceedings-against/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T10:27:37.000Z</news:publication_date>
-      <news:title>JYP Entertainment Shares Update On Legal Proceedings Against Individuals Targeting Its Artists</news:title>
-      <news:keywords>TWICE, Stray Kids, ITZY, JYP Entertainment, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
