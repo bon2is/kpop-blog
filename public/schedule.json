@@ -1,46 +1,6 @@
 {
-  "lastUpdated": "2026-05-22T13:18:43.111Z",
+  "lastUpdated": "2026-05-22T16:25:44.199Z",
   "events": [
-    {
-      "id": "broadcast-music-bank-2026-05-22",
-      "date": "2026-05-22",
-      "time": "17:10",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Music Bank",
-      "description": "KBS Music Bank weekly performance show",
-      "links": {
-        "youtube": "https://www.youtube.com/@KBSKpop",
-        "official": "https://www.kbs.co.kr"
-      }
-    },
-    {
-      "id": "evt-001",
-      "date": "2026-05-22",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "IVE",
-      "title": "Music Bank",
-      "description": "KBS Music Bank weekly performance",
-      "links": {
-        "youtube": "https://www.youtube.com/@KBSKpop",
-        "official": "https://www.kbs.co.kr"
-      }
-    },
-    {
-      "id": "evt-002",
-      "date": "2026-05-22",
-      "time": "22:00",
-      "timezone": "KST",
-      "type": "youtube",
-      "artist": "aespa",
-      "title": "Comeback Stage Behind the Scenes",
-      "links": {
-        "youtube": "https://www.youtube.com/@aespa"
-      }
-    },
     {
       "id": "evt-003",
       "date": "2026-05-23",
@@ -464,6 +424,20 @@
       "description": "Pre-show performances and red carpet",
       "links": {
         "youtube": "https://www.youtube.com/@MelonMusicAwards"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-06-06",
+      "date": "2026-06-06",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
