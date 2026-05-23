@@ -169,12 +169,20 @@ function classifyTitle(title: string): EventType {
 }
 
 const KNOWN_ARTISTS = [
+  // Groups — 4th/5th gen
   'BTS', 'BLACKPINK', 'aespa', 'IVE', 'Stray Kids', 'TWICE', 'NewJeans', 'SEVENTEEN',
   'EXO', 'NCT', 'ATEEZ', 'TXT', 'ITZY', 'MAMAMOO', 'Red Velvet', "Girls' Generation",
   'SHINee', 'GOT7', 'Super Junior', 'BIGBANG', 'MONSTA X', 'DAY6', 'ENHYPEN',
   'NMIXX', 'LE SSERAFIM', 'fromis_9', 'THE BOYZ', 'CRAVITY', 'ASTRO', 'ONEUS',
   'Weeekly', 'VIVIZ', 'KISS OF LIFE', 'BABYMONSTER', 'ILLIT', 'TWS', 'RIIZE',
   'ZEROBASEONE', 'BOYNEXTDOOR', 'tripleS', 'UNIS', 'MEOVV', 'PLAVE',
+  'STAYC', 'Purple Kiss', 'H1-KEY', 'Lapillus', 'xikers', 'ARTMS', 'QWER',
+  'CLASS:y', 'TEMPEST', 'DRIPPIN', 'P1Harmony', 'mimiirose',
+  // Soloists
+  'IU', 'Taeyeon', 'Taeyang', 'G-Dragon', 'Baekhyun', 'D.O.', 'Kai', 'Chanyeol',
+  'Solar', 'Hwasa', 'Moonbyul', 'Wheein', 'Wendy', 'Seulgi', 'Joy', 'Sunmi',
+  'HyunA', 'BoA', 'Epik High', 'Zico', 'Jay Park', 'PSY', 'Crush', 'Heize',
+  'Lee Hi', 'DEAN', 'Younha', 'Eric Nam', 'Paul Kim', 'Lim Young Woong',
 ];
 
 function extractArtistFromTitle(title: string): string {
@@ -186,13 +194,14 @@ function extractArtistFromTitle(title: string): string {
   return '';
 }
 
-// Scrape kpopschedule.com RSS and parse event dates from article content body.
-// Intentionally does NOT use pubDate — that is the article publication date, not the event date.
-async function scrapeKpopScheduleRSS(todayStr: string, cutoffStr: string): Promise<ScheduleEvent[]> {
+// Scrape Google News RSS for K-Pop comeback/release announcements.
+// Aggregates across Soompi, AllKpop, Billboard, and other outlets automatically.
+async function scrapeGoogleNewsKpop(todayStr: string, cutoffStr: string): Promise<ScheduleEvent[]> {
   const events: ScheduleEvent[] = [];
 
   try {
-    const res = await fetch('https://kpopschedule.com/feed/', {
+    const url = 'https://news.google.com/rss/search?q=kpop+comeback+release+date+2026&hl=en-US&gl=US&ceid=US:en';
+    const res = await fetch(url, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)' },
       timeout: 8000,
     });
@@ -204,7 +213,7 @@ async function scrapeKpopScheduleRSS(todayStr: string, cutoffStr: string): Promi
     let match;
     let idx = 0;
 
-    while ((match = itemRegex.exec(text)) !== null && idx < 30) {
+    while ((match = itemRegex.exec(text)) !== null && idx < 40) {
       const item = match[1];
       const title = extractXmlTag(item, 'title');
       const link = extractXmlTag(item, 'link');
@@ -218,20 +227,78 @@ async function scrapeKpopScheduleRSS(todayStr: string, cutoffStr: string): Promi
       const eventDate = extractDateFromText(`${title} ${description}`);
       if (!eventDate || eventDate < todayStr || eventDate > cutoffStr) { idx++; continue; }
 
+      // Extract the actual publisher from Google News link (source.name in <source> tag)
+      const sourceMatch = item.match(/<source[^>]*>([^<]+)<\/source>/);
+      const sourceLabel = sourceMatch ? sourceMatch[1].trim() : 'Google News';
+
       events.push({
-        id: `kpopschedule-${idx}-${eventDate}`,
+        id: `gnews-comeback-${idx}-${eventDate}`,
         date: eventDate,
         type: classifyTitle(title),
         artist,
         title: title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim(),
-        source: 'kpopschedule',
+        source: sourceLabel,
         links: link ? { official: link } : undefined,
       });
 
       idx++;
     }
   } catch {
-    // Network error or parse failure — return partial results
+    // Network error or parse failure
+  }
+
+  return events;
+}
+
+// Scrape Google News RSS for K-Pop concert/tour/award announcements.
+async function scrapeGoogleNewsConcerts(todayStr: string, cutoffStr: string): Promise<ScheduleEvent[]> {
+  const events: ScheduleEvent[] = [];
+
+  try {
+    const url = 'https://news.google.com/rss/search?q=kpop+concert+tour+fanmeeting+2026&hl=en-US&gl=US&ceid=US:en';
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)' },
+      timeout: 8000,
+    });
+
+    if (!res.ok) return events;
+
+    const text: string = await res.text();
+    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+    let match;
+    let idx = 0;
+
+    while ((match = itemRegex.exec(text)) !== null && idx < 40) {
+      const item = match[1];
+      const title = extractXmlTag(item, 'title');
+      const link = extractXmlTag(item, 'link');
+      const description = extractXmlTag(item, 'description');
+
+      if (!title) { idx++; continue; }
+
+      const artist = extractArtistFromTitle(title);
+      if (!artist) { idx++; continue; }
+
+      const eventDate = extractDateFromText(`${title} ${description}`);
+      if (!eventDate || eventDate < todayStr || eventDate > cutoffStr) { idx++; continue; }
+
+      const sourceMatch = item.match(/<source[^>]*>([^<]+)<\/source>/);
+      const sourceLabel = sourceMatch ? sourceMatch[1].trim() : 'Google News';
+
+      events.push({
+        id: `gnews-concert-${idx}-${eventDate}`,
+        date: eventDate,
+        type: classifyTitle(title),
+        artist,
+        title: title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim(),
+        source: sourceLabel,
+        links: link ? { official: link } : undefined,
+      });
+
+      idx++;
+    }
+  } catch {
+    // Network error or parse failure
   }
 
   return events;
@@ -292,6 +359,59 @@ async function scrapeSoompiFeed(todayStr: string, cutoffStr: string): Promise<Sc
   return events;
 }
 
+// Scrape Koreaboo RSS — broad coverage of K-Pop news including schedule announcements.
+async function scrapeKoreabooFeed(todayStr: string, cutoffStr: string): Promise<ScheduleEvent[]> {
+  const events: ScheduleEvent[] = [];
+
+  try {
+    const res = await fetch('https://www.koreaboo.com/feed/', {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)' },
+      timeout: 8000,
+    });
+
+    if (!res.ok) return events;
+
+    const text: string = await res.text();
+    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+    let match;
+    let idx = 0;
+
+    while ((match = itemRegex.exec(text)) !== null && idx < 40) {
+      const item = match[1];
+      const title = extractXmlTag(item, 'title');
+      const link = extractXmlTag(item, 'link');
+      const description = extractXmlTag(item, 'description');
+
+      if (!title) { idx++; continue; }
+
+      const isAnnouncement = /\b(release date|will release|drops on|set for|scheduled for|announces|new album|new single|concert|tour|comeback|fanmeeting|fan meeting|award)\b/i.test(title);
+      if (!isAnnouncement) { idx++; continue; }
+
+      const artist = extractArtistFromTitle(title);
+      if (!artist) { idx++; continue; }
+
+      const eventDate = extractDateFromText(`${title} ${description}`);
+      if (!eventDate || eventDate < todayStr || eventDate > cutoffStr) { idx++; continue; }
+
+      events.push({
+        id: `koreaboo-${idx}-${eventDate}`,
+        date: eventDate,
+        type: classifyTitle(title),
+        artist,
+        title: title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim(),
+        source: 'koreaboo',
+        links: link ? { official: link } : undefined,
+      });
+
+      idx++;
+    }
+  } catch {
+    // Network error or parse failure
+  }
+
+  return events;
+}
+
 // Deduplicates by ID, then by artist+date+type for non-broadcast events.
 // Broadcasts (recurring) are placed first so they win on type-based deduplication.
 function deduplicateEvents(events: ScheduleEvent[]): ScheduleEvent[] {
@@ -315,7 +435,7 @@ function deduplicateEvents(events: ScheduleEvent[]): ScheduleEvent[] {
 async function main(): Promise<void> {
   process.stdout.write('Fetching K-Pop schedule...\n');
 
-  const DAYS_AHEAD = 14;
+  const DAYS_AHEAD = 30;
   const todayStr = toKSTDateString(new Date());
   const cutoffDate = new Date();
   cutoffDate.setDate(cutoffDate.getDate() + DAYS_AHEAD);
@@ -324,16 +444,23 @@ async function main(): Promise<void> {
   const broadcasts = generateRecurringBroadcasts(DAYS_AHEAD);
   process.stdout.write(`Generated ${broadcasts.length} recurring broadcast events\n`);
 
-  const [kpopScheduleEvents, soompiFeedEvents] = await Promise.all([
-    scrapeKpopScheduleRSS(todayStr, cutoffStr),
+  const [gnewsKpopEvents, soompiFeedEvents, gnewsConcertEvents, koreabooEvents] = await Promise.all([
+    scrapeGoogleNewsKpop(todayStr, cutoffStr),
     scrapeSoompiFeed(todayStr, cutoffStr),
+    scrapeGoogleNewsConcerts(todayStr, cutoffStr),
+    scrapeKoreabooFeed(todayStr, cutoffStr),
   ]);
 
-  process.stdout.write(`kpopschedule.com: ${kpopScheduleEvents.length} events\n`);
+  process.stdout.write(`Google News (comebacks): ${gnewsKpopEvents.length} events\n`);
   process.stdout.write(`Soompi: ${soompiFeedEvents.length} events\n`);
+  process.stdout.write(`Google News (concerts): ${gnewsConcertEvents.length} events\n`);
+  process.stdout.write(`Koreaboo: ${koreabooEvents.length} events\n`);
 
   // broadcasts first so deduplication preserves them over scraped duplicates
-  const all = deduplicateEvents([...broadcasts, ...kpopScheduleEvents, ...soompiFeedEvents])
+  const all = deduplicateEvents([
+    ...broadcasts, ...gnewsKpopEvents, ...soompiFeedEvents,
+    ...gnewsConcertEvents, ...koreabooEvents,
+  ])
     .filter((e) => e.date >= todayStr)
     .sort((a, b) => {
       const dateCmp = a.date.localeCompare(b.date);

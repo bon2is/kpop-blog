@@ -311,7 +311,13 @@ export default function SchedulePage() {
                                 {event.source === 'kpopschedule' && (
                                   <a href="https://kpopschedule.com" target="_blank" rel="noopener noreferrer" className="hover:underline">kpopschedule.com</a>
                                 )}
-                                {event.source !== 'soompi' && event.source !== 'kpopschedule' && event.source}
+                                {event.source === 'allkpop' && (
+                                  <a href="https://www.allkpop.com" target="_blank" rel="noopener noreferrer" className="hover:underline">AllKpop</a>
+                                )}
+                                {event.source === 'koreaboo' && (
+                                  <a href="https://www.koreaboo.com" target="_blank" rel="noopener noreferrer" className="hover:underline">Koreaboo</a>
+                                )}
+                                {!['soompi', 'kpopschedule', 'allkpop', 'koreaboo'].includes(event.source) && event.source}
                               </p>
                             )}
                           </div>
