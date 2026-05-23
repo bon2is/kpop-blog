@@ -1,0 +1,55 @@
+name: Refresh Threads Access Token
+
+on:
+  # Run every 50 days to refresh before the 60-day expiry
+  schedule:
+    - cron: '0 6 */50 * *'
+  # Allow manual trigger (e.g. after manually issuing a new token)
+  workflow_dispatch:
+
+jobs:
+  refresh-token:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh Threads access token
+        id: refresh
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: npm run refresh-threads-token
+
+      - name: Update GitHub Secret with new token
+        if: steps.refresh.outputs.new_token != ''
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          echo "${{ steps.refresh.outputs.new_token }}" | gh secret set THREADS_ACCESS_TOKEN
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Threads Token Refresh" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -n "${{ steps.refresh.outputs.expires_at }}" ]; then
+            echo "✅ Token refreshed successfully" >> $GITHUB_STEP_SUMMARY
+            echo "**Expires at:** ${{ steps.refresh.outputs.expires_at }}" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ Token refresh failed — check logs" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**Manual fix required:**" >> $GITHUB_STEP_SUMMARY
+            echo "1. Go to https://developers.facebook.com/tools/explorer/" >> $GITHUB_STEP_SUMMARY
+            echo "2. Generate a new long-lived token with threads_basic,threads_content_publish scopes" >> $GITHUB_STEP_SUMMARY
+            echo "3. Update THREADS_ACCESS_TOKEN in GitHub Secrets" >> $GITHUB_STEP_SUMMARY
+          fi

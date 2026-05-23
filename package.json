@@ -18,6 +18,7 @@
     "post-pinterest": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-pinterest.ts",
     "post-reddit": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-reddit.ts",
     "post-discord": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/post-discord.ts",
+    "refresh-threads-token": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/refresh-threads-token.ts",
     "generate": "npm run fetch-news && npm run build",
     "generate-and-post": "npm run fetch-news && npm run post-threads && npm run post-twitter && npm run post-bluesky && npm run post-pinterest && npm run post-discord && npm run post-reddit && npm run build"
   },
