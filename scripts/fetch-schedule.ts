@@ -16,6 +16,7 @@ interface ScheduleEvent {
   artist: string;
   title: string;
   description?: string;
+  source?: string;
   links?: {
     youtube?: string;
     ticket?: string;
@@ -30,8 +31,7 @@ interface ScheduleData {
 
 const SCHEDULE_PATH = path.join(process.cwd(), 'public', 'schedule.json');
 
-// Weekly music show broadcasts (KST)
-// day: 0=Sun, 1=Mon, ..., 6=Sat
+// Weekly music show broadcasts (KST) — day: 0=Sun, 1=Mon, ..., 6=Sat
 const RECURRING_BROADCASTS: Array<{
   day: number;
   time: string;
@@ -110,6 +110,7 @@ function generateRecurringBroadcasts(days: number): ScheduleEvent[] {
         artist: show.artist,
         title: show.title,
         description: show.description,
+        source: 'recurring',
         links: show.links,
       });
     }
@@ -118,74 +119,58 @@ function generateRecurringBroadcasts(days: number): ScheduleEvent[] {
   return events;
 }
 
-async function fetchKpopScheduleEvents(): Promise<ScheduleEvent[]> {
-  const events: ScheduleEvent[] = [];
+// Extract an actual event date from article text (not pubDate).
+// pubDate is the article publication date, NOT the event date.
+// Returns YYYY-MM-DD or null if no clear future date found.
+function extractDateFromText(text: string, fallbackYear = new Date().getFullYear()): string | null {
+  const MONTHS: Record<string, number> = {
+    january: 0, february: 1, march: 2, april: 3, may: 4, june: 5,
+    july: 6, august: 7, september: 8, october: 9, november: 10, december: 11,
+    jan: 0, feb: 1, mar: 2, apr: 3, jun: 5, jul: 6, aug: 7,
+    sep: 8, oct: 9, nov: 10, dec: 11,
+  };
 
-  try {
-    const res = await fetch('https://kpopschedule.com/feed/', {
-      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)' },
-      timeout: 8000,
-    });
+  // ISO-like: 2026-05-28 or 2026/05/28
+  const isoMatch = text.match(/\b(202[0-9])[-/](0[1-9]|1[0-2])[-/](0[1-9]|[12][0-9]|3[01])\b/);
+  if (isoMatch) return `${isoMatch[1]}-${isoMatch[2]}-${isoMatch[3]}`;
 
-    if (!res.ok) return events;
-
-    const text: string = await res.text();
-    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-    let match;
-    let idx = 0;
-
-    while ((match = itemRegex.exec(text)) !== null && idx < 20) {
-      const item = match[1];
-      const title = extractXmlTag(item, 'title');
-      const pubDate = extractXmlTag(item, 'pubDate');
-      const link = extractXmlTag(item, 'link');
-
-      if (!title || !pubDate) continue;
-
-      const parsed = new Date(pubDate);
-      if (isNaN(parsed.getTime())) continue;
-
-      const dateStr = toKSTDateString(parsed);
-      const eventType = classifyTitle(title);
-      const artist = extractArtistFromTitle(title);
-
-      events.push({
-        id: `scraped-${idx}-${dateStr}`,
-        date: dateStr,
-        type: eventType,
-        artist: artist || 'K-Pop',
-        title: title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim(),
-        links: link ? { official: link } : undefined,
-      });
-
-      idx++;
-    }
-  } catch {
-    // Network error or parse failure — return empty array
+  // "May 28", "May 28th", "May 28, 2026"
+  const longMatch = text.match(
+    /\b(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|oct|nov|dec)\s+(\d{1,2})(?:st|nd|rd|th)?(?:[,\s]+(202[0-9]))?\b/i
+  );
+  if (longMatch) {
+    const month = MONTHS[longMatch[1].toLowerCase()];
+    const day = parseInt(longMatch[2], 10);
+    const year = longMatch[3] ? parseInt(longMatch[3], 10) : fallbackYear;
+    if (month === undefined || day < 1 || day > 31) return null;
+    const d = new Date(Date.UTC(year, month, day));
+    return d.toISOString().split('T')[0];
   }
 
-  return events;
+  return null;
 }
 
 function extractXmlTag(xml: string, tag: string): string {
-  const m = xml.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>|<${tag}[^>]*>([^<]*)</${tag}>`));
+  const m = xml.match(
+    new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]></${tag}>|<${tag}[^>]*>([^<]*)</${tag}>`)
+  );
   return m ? (m[1] || m[2] || '').trim() : '';
 }
 
 function classifyTitle(title: string): EventType {
   const t = title.toLowerCase();
-  if (t.includes('concert') || t.includes('tour') || t.includes('show')) return 'concert';
+  if (t.includes('concert') || t.includes('tour') || t.includes('world tour')) return 'concert';
   if (t.includes('comeback') || t.includes('debut') || t.includes('return')) return 'comeback';
   if (t.includes('fanmeeting') || t.includes('fan meeting') || t.includes('fan sign')) return 'fanmeeting';
   if (t.includes('award') || t.includes('ceremony') || t.includes('daesang')) return 'award';
-  if (t.includes('album') || t.includes('single') || t.includes('ep') || t.includes('release')) return 'release';
+  if (t.includes('album') || t.includes('single') || t.includes(' ep ') || t.includes('release')) return 'release';
   if (t.includes('youtube') || t.includes('vlive') || t.includes('live stream')) return 'youtube';
   return 'other';
 }
 
 const KNOWN_ARTISTS = [
   'BTS', 'BLACKPINK', 'aespa', 'IVE', 'Stray Kids', 'TWICE', 'NewJeans', 'SEVENTEEN',
-  'EXO', 'NCT', 'ATEEZ', 'TXT', 'ITZY', 'MAMAMOO', 'Red Velvet', 'Girls Generation',
+  'EXO', 'NCT', 'ATEEZ', 'TXT', 'ITZY', 'MAMAMOO', 'Red Velvet', "Girls' Generation",
   'SHINee', 'GOT7', 'Super Junior', 'BIGBANG', 'MONSTA X', 'DAY6', 'ENHYPEN',
   'NMIXX', 'LE SSERAFIM', 'fromis_9', 'THE BOYZ', 'CRAVITY', 'ASTRO', 'ONEUS',
   'Weeekly', 'VIVIZ', 'KISS OF LIFE', 'BABYMONSTER', 'ILLIT', 'TWS', 'RIIZE',
@@ -201,26 +186,128 @@ function extractArtistFromTitle(title: string): string {
   return '';
 }
 
-function loadExistingFutureEvents(): ScheduleEvent[] {
-  if (!fs.existsSync(SCHEDULE_PATH)) return [];
+// Scrape kpopschedule.com RSS and parse event dates from article content body.
+// Intentionally does NOT use pubDate — that is the article publication date, not the event date.
+async function scrapeKpopScheduleRSS(todayStr: string, cutoffStr: string): Promise<ScheduleEvent[]> {
+  const events: ScheduleEvent[] = [];
 
   try {
-    const raw = fs.readFileSync(SCHEDULE_PATH, 'utf-8');
-    const data: ScheduleData = JSON.parse(raw);
-    const today = toKSTDateString(new Date());
-    return data.events.filter(
-      (e) => e.date >= today && !e.id.startsWith('broadcast-')
-    );
+    const res = await fetch('https://kpopschedule.com/feed/', {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)' },
+      timeout: 8000,
+    });
+
+    if (!res.ok) return events;
+
+    const text: string = await res.text();
+    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+    let match;
+    let idx = 0;
+
+    while ((match = itemRegex.exec(text)) !== null && idx < 30) {
+      const item = match[1];
+      const title = extractXmlTag(item, 'title');
+      const link = extractXmlTag(item, 'link');
+      const description = extractXmlTag(item, 'description');
+
+      if (!title) { idx++; continue; }
+
+      const artist = extractArtistFromTitle(title);
+      if (!artist) { idx++; continue; }
+
+      const eventDate = extractDateFromText(`${title} ${description}`);
+      if (!eventDate || eventDate < todayStr || eventDate > cutoffStr) { idx++; continue; }
+
+      events.push({
+        id: `kpopschedule-${idx}-${eventDate}`,
+        date: eventDate,
+        type: classifyTitle(title),
+        artist,
+        title: title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim(),
+        source: 'kpopschedule',
+        links: link ? { official: link } : undefined,
+      });
+
+      idx++;
+    }
   } catch {
-    return [];
+    // Network error or parse failure — return partial results
   }
+
+  return events;
 }
 
+// Scrape Soompi RSS for articles explicitly announcing future comeback/release dates.
+// Only keeps items where a date is stated in the article content (not inferred).
+async function scrapeSoompiFeed(todayStr: string, cutoffStr: string): Promise<ScheduleEvent[]> {
+  const events: ScheduleEvent[] = [];
+
+  try {
+    const res = await fetch('https://www.soompi.com/feed/', {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; KpopDailyBot/1.0)' },
+      timeout: 8000,
+    });
+
+    if (!res.ok) return events;
+
+    const text: string = await res.text();
+    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+    let match;
+    let idx = 0;
+
+    while ((match = itemRegex.exec(text)) !== null && idx < 40) {
+      const item = match[1];
+      const title = extractXmlTag(item, 'title');
+      const link = extractXmlTag(item, 'link');
+      const description = extractXmlTag(item, 'description');
+
+      if (!title) { idx++; continue; }
+
+      // Only process articles that explicitly announce a scheduled event date
+      const isAnnouncement = /\b(release date|will release|drops on|set for|scheduled for|announces|new album|new single|concert date|tour date|comeback date)\b/i.test(title);
+      if (!isAnnouncement) { idx++; continue; }
+
+      const artist = extractArtistFromTitle(title);
+      if (!artist) { idx++; continue; }
+
+      const eventDate = extractDateFromText(`${title} ${description}`);
+      if (!eventDate || eventDate < todayStr || eventDate > cutoffStr) { idx++; continue; }
+
+      events.push({
+        id: `soompi-${idx}-${eventDate}`,
+        date: eventDate,
+        type: classifyTitle(title),
+        artist,
+        title: title.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim(),
+        source: 'soompi',
+        links: link ? { official: link } : undefined,
+      });
+
+      idx++;
+    }
+  } catch {
+    // Network error or parse failure
+  }
+
+  return events;
+}
+
+// Deduplicates by ID, then by artist+date+type for non-broadcast events.
+// Broadcasts (recurring) are placed first so they win on type-based deduplication.
 function deduplicateEvents(events: ScheduleEvent[]): ScheduleEvent[] {
-  const seen = new Set<string>();
+  const seenIds = new Set<string>();
+  const seenKeys = new Set<string>();
+
   return events.filter((e) => {
-    if (seen.has(e.id)) return false;
-    seen.add(e.id);
+    if (seenIds.has(e.id)) return false;
+    seenIds.add(e.id);
+
+    if (e.type !== 'broadcast') {
+      const key = `${e.artist.toLowerCase()}|${e.date}|${e.type}`;
+      if (seenKeys.has(key)) return false;
+      seenKeys.add(key);
+    }
+
     return true;
   });
 }
@@ -229,21 +316,25 @@ async function main(): Promise<void> {
   process.stdout.write('Fetching K-Pop schedule...\n');
 
   const DAYS_AHEAD = 14;
+  const todayStr = toKSTDateString(new Date());
+  const cutoffDate = new Date();
+  cutoffDate.setDate(cutoffDate.getDate() + DAYS_AHEAD);
+  const cutoffStr = toKSTDateString(cutoffDate);
 
   const broadcasts = generateRecurringBroadcasts(DAYS_AHEAD);
   process.stdout.write(`Generated ${broadcasts.length} recurring broadcast events\n`);
 
-  const existingEvents = loadExistingFutureEvents();
-  process.stdout.write(`Preserved ${existingEvents.length} existing future events\n`);
+  const [kpopScheduleEvents, soompiFeedEvents] = await Promise.all([
+    scrapeKpopScheduleRSS(todayStr, cutoffStr),
+    scrapeSoompiFeed(todayStr, cutoffStr),
+  ]);
 
-  const scrapedEvents = await fetchKpopScheduleEvents();
-  if (scrapedEvents.length > 0) {
-    process.stdout.write(`Scraped ${scrapedEvents.length} additional events\n`);
-  }
+  process.stdout.write(`kpopschedule.com: ${kpopScheduleEvents.length} events\n`);
+  process.stdout.write(`Soompi: ${soompiFeedEvents.length} events\n`);
 
-  const cutoff = toKSTDateString(new Date());
-  const all = deduplicateEvents([...existingEvents, ...broadcasts, ...scrapedEvents])
-    .filter((e) => e.date >= cutoff)
+  // broadcasts first so deduplication preserves them over scraped duplicates
+  const all = deduplicateEvents([...broadcasts, ...kpopScheduleEvents, ...soompiFeedEvents])
+    .filter((e) => e.date >= todayStr)
     .sort((a, b) => {
       const dateCmp = a.date.localeCompare(b.date);
       if (dateCmp !== 0) return dateCmp;
