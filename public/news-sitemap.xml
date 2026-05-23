@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/my-royal-nemesis-approaches-double-digit-ratings-as-fifties-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-23T03:14:31.000Z</news:publication_date>
+      <news:title>“My Royal Nemesis” Approaches Double-Digit Ratings As “Fifties Professionals” Premieres</news:title>
+      <news:keywords>Debut, K-Drama, My Royal Nemesis, Lim Ji Yeon, Heo Nam Jun</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-jihyos-unexpected-accessory-triggers-heated-political-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-23T01:48:13.000Z</news:publication_date>
+      <news:title>TWICE Jihyo’s Unexpected Accessory Triggers Heated Political Debate</news:title>
+      <news:keywords>TWICE, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/why-le-sserafim-fans-are-furious-about-the-groups-latest-per/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-23T00:52:24.000Z</news:publication_date>
+      <news:title>Why LE SSERAFIM Fans Are Furious About The Group’s Latest Performance Video</news:title>
+      <news:keywords>LE SSERAFIM, Debut, Awards, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/illit-wonhees-new-career-milestone-heavily-divides-netizens/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T23:14:10.000Z</news:publication_date>
+      <news:title>ILLIT Wonhee’s New Career Milestone Heavily Divides Netizens</news:title>
+      <news:keywords>ILLIT, Album, ILLIT Wonhee, K-Pop, Career Milestone</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lee-do-hyun-and-kim-min-ha-in-talks-for-new-korean-adaptatio/</loc>
     <news:news>
       <news:publication>
@@ -239,66 +287,6 @@
       <news:publication_date>2026-05-21T06:53:46.000Z</news:publication_date>
       <news:title>Injection Auntie Makes New Update Allegedly Exposing SHINee’s Key</news:title>
       <news:keywords>SHINee, Taemin, Comeback, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-eun-bins-upcoming-drama-spooky-in-love-announces-premie/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-21T03:30:43.000Z</news:publication_date>
-      <news:title>Park Eun Bin’s Upcoming Drama “Spooky In Love” Announces Premiere Date With First Poster</news:title>
-      <news:keywords>Awards, K-Drama, Park Eun Bin, Spooky in Love, Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/3rd-gen-idol-makes-viral-pregnancy-announcement/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-21T00:51:09.000Z</news:publication_date>
-      <news:title>3rd Gen Idol Makes Viral Pregnancy Announcement</news:title>
-      <news:keywords>Awards, Charts, K-Pop, Pregnancy Announcement, Third Generation Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gilboard-dream-inside-the-lore-of-picheolin-the-alter-ego-of/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-21T00:50:46.000Z</news:publication_date>
-      <news:title>“Gilboard” Dream: Inside The Lore Of Picheolin, The Alter Ego Of SEVENTEEN’s Dino</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, SEVENTEEN, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idols-bone-thin-appearance-triggers-call-for-company/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T22:19:10.000Z</news:publication_date>
-      <news:title>Popular Idol’s “Bone-Thin” Appearance Triggers Call For Company To “Let Her Eat”</news:title>
-      <news:keywords>Awards, MV, K-Pop, Idol Health, Body Image</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-member-goes-on-insane-side-quest-leaves-fans-baffled/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T19:34:53.000Z</news:publication_date>
-      <news:title>BTS Member Goes On Insane Side Quest, Leaves Fans Baffled</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
