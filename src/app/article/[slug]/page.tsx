@@ -6,7 +6,7 @@ import { getAllArticles, getArticleBySlug, getRelatedArticles, getAdjacentArticl
 import { getArtistByTag } from '@/lib/artists';
 import { formatDate, estimateReadingTime, extractHeadings } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
-import { InArticleAd, SidebarAd, BottomBannerAd, TopBannerAd } from '@/components/AdBanner';
+import { InArticleAd, SidebarAd, BottomBannerAd, TopBannerAd, AtfRectangleAd } from '@/components/AdBanner';
 import AuditionPromoCard from '@/components/AuditionPromoCard';
 import AuditionSidebarWidget from '@/components/AuditionSidebarWidget';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
@@ -88,6 +88,18 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   const headings = extractHeadings(article.content);
   // H2 경계에서 분할 — 섹션 사이에 인아티클 광고 삽입용
   const contentSections = article.content.split(/\n(?=## )/);
+  // Sprint 2 P0-1: ATF 삽입 위치 — 첫 섹션의 첫 문단(\n\n)까지/이후로 분할.
+  // 빈 줄(\n\n)이 없으면 ATF 는 본문 시작 직전(섹션 전체를 tail 로 처리)에 한 번만 렌더.
+  const firstSection = contentSections[0] ?? '';
+  const firstParaSplitIdx = firstSection.indexOf('\n\n');
+  const firstSectionHead = firstParaSplitIdx > 0
+    ? firstSection.slice(0, firstParaSplitIdx)
+    : firstSection;
+  const firstSectionTail = firstParaSplitIdx > 0
+    ? firstSection.slice(firstParaSplitIdx)
+    : '';
+  // Sprint 2 P0-5: H2 가 0개 (contentSections.length === 1) 일 때만 본문 마지막 직후 폴백 InArticleAd 1발.
+  const needsTailInArticleFallback = contentSections.length === 1;
   const rawAdjacent = getAdjacentArticles(params.slug);
   const slimAdj = (a: ReturnType<typeof getRelatedArticles>[0] | null) =>
     a ? (({ content: _c, summary: _s, commentary: _co, ...rest }) => rest)(a) : null;
@@ -240,18 +252,42 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       )}
 
-      {/* Article Content — H2 섹션 사이에 인아티클 광고 삽입 (최대 3개) */}
+      {/* Article Content — Sprint 2:
+            - 첫 섹션은 첫 문단 → ATF Rectangle (300×250) → 나머지 순으로 렌더.
+            - 이후 H2 섹션 사이에 인아티클 광고 (최대 3개) — 기존 정책 유지.
+            - H2 가 0개라면 본문 마지막 직후에 InArticleAd 폴백 1발 추가 (P0-5, footer/share 위). */}
       <div className="mb-8">
-        {contentSections.map((section, index) => (
-          <div key={index}>
-            <div className="article-content max-w-none">
-              <MarkdownRenderer content={section} />
+        {contentSections.map((section, index) => {
+          if (index === 0) {
+            return (
+              <div key={index}>
+                <div className="article-content max-w-none">
+                  <MarkdownRenderer content={firstSectionHead} />
+                </div>
+                <AtfRectangleAd />
+                {firstSectionTail && (
+                  <div className="article-content max-w-none">
+                    <MarkdownRenderer content={firstSectionTail} />
+                  </div>
+                )}
+                {index < contentSections.length - 1 && index < 3 && (
+                  <InArticleAd />
+                )}
+              </div>
+            );
+          }
+          return (
+            <div key={index}>
+              <div className="article-content max-w-none">
+                <MarkdownRenderer content={section} />
+              </div>
+              {index < contentSections.length - 1 && index < 3 && (
+                <InArticleAd />
+              )}
             </div>
-            {index < contentSections.length - 1 && index < 3 && (
-              <InArticleAd />
-            )}
-          </div>
-        ))}
+          );
+        })}
+        {needsTailInArticleFallback && <InArticleAd />}
       </div>
 
       {/* Source Attribution - Prominent CTA */}

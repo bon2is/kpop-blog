@@ -2,6 +2,8 @@
 
 import { useEffect, useRef } from 'react';
 import { usePathname } from 'next/navigation';
+import { AdErrorBoundary } from './AdErrorBoundary';
+import AuditionPromoCard from './AuditionPromoCard';
 
 // AdSense Publisher ID. 환경변수 미설정 시 기존 ID 로 fallback.
 const ADSENSE_CLIENT =
@@ -18,6 +20,7 @@ interface AdSlotMap {
   inArticle: string;
   inFeed: string;
   sidebar: string;
+  atfRectangle: string | null;
 }
 
 const AD_SLOTS: AdSlotMap = {
@@ -27,6 +30,7 @@ const AD_SLOTS: AdSlotMap = {
   inArticle:    process.env.NEXT_PUBLIC_ADSENSE_INARTICLE_SLOT?.trim()  || '4326293473',
   inFeed:       process.env.NEXT_PUBLIC_ADSENSE_INFEED_SLOT?.trim()     || '5270444172',
   sidebar:      process.env.NEXT_PUBLIC_ADSENSE_SIDEBAR_SLOT?.trim()    || '1112352179',
+  atfRectangle: process.env.NEXT_PUBLIC_ADSENSE_ATF_SLOT?.trim()        || null,
 };
 
 // P0-3: dev / Preview 환경에서는 <ins> 를 렌더하지 않는다 (silverdrive AdUnit 패턴).
@@ -37,6 +41,27 @@ declare global {
   interface Window {
     adsbygoogle: unknown[];
   }
+}
+
+// Sprint 2: AdSenseScript 를 RootLayout 에서 제거하고, 광고 컴포넌트가 처음 마운트될 때만 로드.
+// 광고 없는 페이지(/privacy, /terms, /about 등)의 LCP 를 보호한다.
+let adsScriptInjected = false;
+
+function ensureAdsScript() {
+  if (!IS_PROD) return;
+  if (typeof window === 'undefined') return;
+  if (adsScriptInjected) return;
+  if (document.getElementById('adsbygoogle-js')) {
+    adsScriptInjected = true;
+    return;
+  }
+  const s = document.createElement('script');
+  s.id = 'adsbygoogle-js';
+  s.async = true;
+  s.crossOrigin = 'anonymous';
+  s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`;
+  document.head.appendChild(s);
+  adsScriptInjected = true;
 }
 
 interface DevPlaceholderProps {
@@ -89,6 +114,7 @@ export default function AdBanner({
 
   useEffect(() => {
     if (!IS_PROD) return;
+    ensureAdsScript();
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
@@ -130,6 +156,7 @@ export function InArticleAd({ className = '' }: { className?: string }) {
 
   useEffect(() => {
     if (!IS_PROD) return;
+    ensureAdsScript();
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
@@ -172,6 +199,7 @@ export function InFeedAd({ className = '' }: { className?: string }) {
 
   useEffect(() => {
     if (!IS_PROD) return;
+    ensureAdsScript();
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
@@ -228,6 +256,98 @@ export function SidebarAd({ className = '' }: { className?: string }) {
   return (
     <div className={`sticky top-20 ${className}`}>
       <AdBanner slot={AD_SLOTS.sidebar} format="vertical" />
+    </div>
+  );
+}
+
+// Sprint 2 P0-1: ATF (Above-The-Fold) 강제 슬롯
+// - 300×250 고정 사이즈 (Medium Rectangle, CPC fill 최고 포맷, CLS 0 보장)
+// - 모바일/데스크톱 동일 사이즈 (양쪽 모두 정상 fill)
+// - AdErrorBoundary 로 wrap, 런타임 광고 로드 실패 시 AuditionPromoCard 폴백
+// - NEXT_PUBLIC_ADSENSE_ATF_SLOT 미설정 시: dev placeholder / prod 도 AuditionPromoCard 폴백
+//   (AdErrorBoundary 는 SSR/prerender 시 throw 를 못 잡으므로, slot 부재는 build-time 분기로 직접 처리)
+interface AtfAdUnitProps {
+  slot: string;
+}
+
+function AtfRectangleAdUnit({ slot }: AtfAdUnitProps) {
+  const pathname = usePathname();
+  const pushed = useRef(false);
+
+  useEffect(() => {
+    pushed.current = false;
+  }, [pathname]);
+
+  useEffect(() => {
+    if (!IS_PROD) return;
+    ensureAdsScript();
+    if (!pushed.current) {
+      pushed.current = true;
+      pushAd();
+    }
+  });
+
+  return (
+    <div
+      className="ad-container flex justify-center"
+      style={{ minHeight: '250px' }}
+    >
+      <ins
+        className="adsbygoogle"
+        style={{ display: 'inline-block', width: '300px', height: '250px' }}
+        data-ad-client={ADSENSE_CLIENT}
+        data-ad-slot={slot}
+      />
+    </div>
+  );
+}
+
+function AtfFallbackCard() {
+  return (
+    <div style={{ width: '300px', minHeight: '250px' }}>
+      <AuditionPromoCard source="atf_fallback" />
+    </div>
+  );
+}
+
+export function AtfRectangleAd({ className = '' }: { className?: string }) {
+  const slot = AD_SLOTS.atfRectangle;
+
+  if (!slot) {
+    // dev: placeholder, prod: AuditionPromoCard 폴백 (빈 공간 회피)
+    if (!IS_PROD) {
+      return (
+        <div className={`my-6 flex justify-center ${className}`}>
+          <DevPlaceholder
+            label="ATF Rectangle placeholder (NEXT_PUBLIC_ADSENSE_ATF_SLOT 미설정)"
+            style={{ width: '300px', height: '250px', minHeight: '250px' }}
+          />
+        </div>
+      );
+    }
+    return (
+      <div className={`my-6 flex justify-center ${className}`}>
+        <AtfFallbackCard />
+      </div>
+    );
+  }
+
+  if (!IS_PROD) {
+    return (
+      <div className={`my-6 flex justify-center ${className}`}>
+        <DevPlaceholder
+          label="ATF Rectangle Ad placeholder"
+          style={{ width: '300px', height: '250px', minHeight: '250px' }}
+        />
+      </div>
+    );
+  }
+
+  return (
+    <div className={`my-6 flex justify-center ${className}`}>
+      <AdErrorBoundary fallback={<AtfFallbackCard />}>
+        <AtfRectangleAdUnit slot={slot} />
+      </AdErrorBoundary>
     </div>
   );
 }

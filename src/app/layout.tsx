@@ -2,7 +2,6 @@ import type { Metadata } from 'next';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
-import AdSenseScript from '@/components/AdSenseScript';
 import ScrollToTop from '@/components/ScrollToTop';
 import { siteConfig } from '@/lib/config';
 import './globals.css';
@@ -127,7 +126,8 @@ export default function RootLayout({
         </head>
       <body className="min-h-screen bg-gray-50 flex flex-col">
         <GoogleAnalytics />
-        <AdSenseScript />
+        {/* AdSense 스크립트는 광고 컴포넌트(AdBanner.tsx ensureAdsScript)가 lazy 로 자체 주입한다.
+            광고 없는 페이지(/privacy, /terms, /about 등)의 LCP 보호용. */}
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
