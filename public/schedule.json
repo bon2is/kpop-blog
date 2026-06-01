@@ -1,28 +1,6 @@
 {
-  "lastUpdated": "2026-06-01T10:12:39.519Z",
+  "lastUpdated": "2026-06-01T16:30:37.188Z",
   "events": [
-    {
-      "id": "soompi-19-2026-06-01",
-      "date": "2026-06-01",
-      "type": "other",
-      "artist": "BTS",
-      "title": "BTS Announces Start Of 2026 FESTA By Revealing Timeline",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1844882wpp/bts-announces-start-of-2026-festa-by-revealing-timeline"
-      }
-    },
-    {
-      "id": "soompi-20-2026-06-01",
-      "date": "2026-06-01",
-      "type": "comeback",
-      "artist": "Watch",
-      "title": "Watch: Hearts2Hearts Announces June Comeback Date With Summery Teaser For &#8220;Lemon Tang&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1844857wpp/watch-hearts2hearts-announces-june-comeback-date-with-summery-teaser-for-lemon-tang"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-06-03",
       "date": "2026-06-03",
@@ -96,17 +74,6 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
-      }
-    },
-    {
-      "id": "gnews-comeback-19-2026-06-08",
-      "date": "2026-06-08",
-      "type": "comeback",
-      "artist": "BABYMONSTER",
-      "title": "BabyMonster Begins Comeback Countdown with New Visuals, Summer Single June 8 - 조선일보",
-      "source": "조선일보",
-      "links": {
-        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekhyVUJ0X0tQdTlYcWwyU2J6R1NXcWRzN0hmTmhIcl9pNFBfWGc1Y2hoR1RNNFBhRDlWSWNCbmZ4VDhSOWo0UFZ3OWlvbk5mQlA5cVY1c3g5cUc0bk9UV0lKa1IzYkRnZHloeTVJa19CUG1yYlpJZHh5dmFuaE1mMFJ2WVc1OTdpOXZjaHlB?oc=5"
       }
     },
     {
@@ -347,6 +314,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-07-02",
+      "date": "2026-07-02",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
