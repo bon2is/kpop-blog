@@ -37,6 +37,18 @@ const AD_SLOTS: AdSlotMap = {
 // invalid traffic 차단 + AdSense 정책 위험 제거.
 const IS_PROD = process.env.NODE_ENV === 'production';
 
+// Sprint 2 hotfix #2 (hydration mismatch React #418/#423 대응):
+// adsbygoogle.js 가 SSR HTML 의 <ins> children/attribute 를 hydration 전에 modify 해
+// React 가 mismatch 로 throw. mounted gate 로 <ins> 를 클라 mount 후에만 렌더해서
+// hydration window 밖에서 AdSense 가 DOM 을 손대도록 분리한다.
+function useMounted(): boolean {
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+  return mounted;
+}
+
 declare global {
   interface Window {
     adsbygoogle: unknown[];
@@ -104,6 +116,7 @@ export default function AdBanner({
 }: AdBannerProps) {
   const pathname = usePathname();
   const pushed = useRef(false);
+  const mounted = useMounted();
 
   // SPA 라우트 변경 시 pathname이 바뀌므로 광고를 재초기화한다.
   // Next.js 클라이언트 내비게이션은 전체 페이지 리로드 없이 일어나기 때문에
@@ -113,13 +126,24 @@ export default function AdBanner({
   }, [pathname]);
 
   useEffect(() => {
-    if (!IS_PROD) return;
+    if (!IS_PROD || !mounted) return;
     ensureAdsScript();
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
     }
-  });
+  }, [pathname, mounted]);
+
+  // SSR / hydration window: <ins> 를 렌더하지 않음. CLS 방지용 placeholder 만 둔다.
+  if (!mounted) {
+    return (
+      <div
+        className={`ad-container overflow-hidden ${className}`}
+        style={{ minHeight: '90px' }}
+        aria-hidden
+      />
+    );
+  }
 
   if (!IS_PROD) {
     return (
@@ -149,19 +173,30 @@ export default function AdBanner({
 export function InArticleAd({ className = '' }: { className?: string }) {
   const pathname = usePathname();
   const pushed = useRef(false);
+  const mounted = useMounted();
 
   useEffect(() => {
     pushed.current = false;
   }, [pathname]);
 
   useEffect(() => {
-    if (!IS_PROD) return;
+    if (!IS_PROD || !mounted) return;
     ensureAdsScript();
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
     }
-  });
+  }, [pathname, mounted]);
+
+  if (!mounted) {
+    return (
+      <div
+        className={`ad-container my-8 ${className}`}
+        style={{ minHeight: '250px' }}
+        aria-hidden
+      />
+    );
+  }
 
   if (!IS_PROD) {
     return (
@@ -192,19 +227,30 @@ export function InArticleAd({ className = '' }: { className?: string }) {
 export function InFeedAd({ className = '' }: { className?: string }) {
   const pathname = usePathname();
   const pushed = useRef(false);
+  const mounted = useMounted();
 
   useEffect(() => {
     pushed.current = false;
   }, [pathname]);
 
   useEffect(() => {
-    if (!IS_PROD) return;
+    if (!IS_PROD || !mounted) return;
     ensureAdsScript();
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
     }
-  });
+  }, [pathname, mounted]);
+
+  if (!mounted) {
+    return (
+      <div
+        className={`ad-container ${className}`}
+        style={{ minHeight: '100px' }}
+        aria-hidden
+      />
+    );
+  }
 
   if (!IS_PROD) {
     return (
@@ -289,6 +335,7 @@ function AtfRectangleAdUnit({ slot }: AtfAdUnitProps) {
   const insRef = useRef<HTMLModElement | null>(null);
   const lastPushedPath = useRef<string | null>(null);
   const [unfilled, setUnfilled] = useState(false);
+  const mounted = useMounted();
 
   // SPA 라우트 변경 시 unfilled 상태 초기화 (새 경로에서는 다시 시도)
   useEffect(() => {
@@ -296,7 +343,7 @@ function AtfRectangleAdUnit({ slot }: AtfAdUnitProps) {
   }, [pathname]);
 
   useEffect(() => {
-    if (!IS_PROD) return;
+    if (!IS_PROD || !mounted) return;
     if (unfilled) return;
     if (lastPushedPath.current === pathname) return; // 같은 path 중복 push 차단
     lastPushedPath.current = pathname;
@@ -316,7 +363,18 @@ function AtfRectangleAdUnit({ slot }: AtfAdUnitProps) {
       }
     }, UNFILLED_CHECK_DELAY_MS);
     return () => window.clearTimeout(timer);
-  }, [pathname, unfilled]);
+  }, [pathname, unfilled, mounted]);
+
+  // SSR / hydration window: <ins> 미렌더, 자리만 reserve (CLS 0)
+  if (!mounted) {
+    return (
+      <div
+        className="ad-container flex justify-center"
+        style={{ minHeight: '250px' }}
+        aria-hidden
+      />
+    );
+  }
 
   // unfilled 확정: <ins> 와 "Advertisement" 라벨까지 통째로 폴백 카드로 교체.
   // 운영자 지시 옵션 (a) "AuditionPromoCard 로 swap" 채택.
