@@ -1,94 +1,26 @@
 {
-  "lastUpdated": "2026-05-23T23:30:27.647Z",
+  "lastUpdated": "2026-06-01T05:53:30.372Z",
   "events": [
     {
-      "id": "broadcast-inkigayo-2026-05-24",
-      "date": "2026-05-24",
-      "time": "15:40",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Inkigayo",
-      "description": "SBS Inkigayo weekly music show",
-      "source": "recurring",
+      "id": "soompi-13-2026-06-01",
+      "date": "2026-06-01",
+      "type": "other",
+      "artist": "BTS",
+      "title": "BTS Announces Start Of 2026 FESTA By Revealing Timeline",
+      "source": "soompi",
       "links": {
-        "youtube": "https://www.youtube.com/@SBSenter",
-        "official": "https://programs.sbs.co.kr"
+        "official": "https://www.soompi.com/article/1844882wpp/bts-announces-start-of-2026-festa-by-revealing-timeline"
       }
     },
     {
-      "id": "broadcast-show-champion-2026-05-27",
-      "date": "2026-05-27",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show Champion",
-      "description": "MBC M weekly music show",
-      "source": "recurring",
+      "id": "soompi-14-2026-06-01",
+      "date": "2026-06-01",
+      "type": "comeback",
+      "artist": "Watch",
+      "title": "Watch: Hearts2Hearts Announces June Comeback Date With Summery Teaser For &#8220;Lemon Tang&#8221;",
+      "source": "soompi",
       "links": {
-        "youtube": "https://www.youtube.com/@MBCkpop",
-        "official": "https://www.imbc.com"
-      }
-    },
-    {
-      "id": "broadcast-m-countdown-2026-05-28",
-      "date": "2026-05-28",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "M Countdown",
-      "description": "Mnet weekly music countdown show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MnetMcountdown",
-        "official": "https://www.mnet.com"
-      }
-    },
-    {
-      "id": "broadcast-music-bank-2026-05-29",
-      "date": "2026-05-29",
-      "time": "17:10",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Music Bank",
-      "description": "KBS Music Bank weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@KBSKpop",
-        "official": "https://www.kbs.co.kr"
-      }
-    },
-    {
-      "id": "broadcast-show--music-core-2026-05-30",
-      "date": "2026-05-30",
-      "time": "17:15",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show! Music Core",
-      "description": "MBC Show! Music Core weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@mbckpop",
-        "official": "https://www.imbc.com"
-      }
-    },
-    {
-      "id": "broadcast-inkigayo-2026-05-31",
-      "date": "2026-05-31",
-      "time": "15:40",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Inkigayo",
-      "description": "SBS Inkigayo weekly music show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@SBSenter",
-        "official": "https://programs.sbs.co.kr"
+        "official": "https://www.soompi.com/article/1844857wpp/watch-hearts2hearts-announces-june-comeback-date-with-summery-teaser-for-lemon-tang"
       }
     },
     {
@@ -104,17 +36,6 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
-      }
-    },
-    {
-      "id": "gnews-comeback-10-2026-06-04",
-      "date": "2026-06-04",
-      "type": "comeback",
-      "artist": "MAMAMOO",
-      "title": "MAMAMOO Returns as Full Group With '4WARD' on June 4th - 조선일보",
-      "source": "조선일보",
-      "links": {
-        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEJPcjVKenFSNVI2LVB1M3gxZFhYcV9UUVJJN2ZZRlpienY2SFRtaXc0aW43UTdiMXUwQXBiVklUdmZYY1ZEOGRRd2hSTEFZYnBHYjFpUmJ0d2RPc2U5ZDBQOWJEdmV0cXQxdEVHb0x5cTNoUFU0SzVWbGMzYlk2YTRlTEZKOE90YUYySXFB?oc=5"
       }
     },
     {
@@ -325,6 +246,96 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-06-24",
+      "date": "2026-06-24",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-06-25",
+      "date": "2026-06-25",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-06-26",
+      "date": "2026-06-26",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-06-27",
+      "date": "2026-06-27",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-06-28",
+      "date": "2026-06-28",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-07-01",
+      "date": "2026-07-01",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
