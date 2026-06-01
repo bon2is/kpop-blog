@@ -402,9 +402,11 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               <ArticleCard key={related.slug} article={related} />
             ))}
           </div>
-          <BottomBannerAd className="mt-8" />
         </section>
       )}
+
+      {/* P0-4: 관련 글 존재 여부와 무관하게 끝 광고는 항상 노출 */}
+      <BottomBannerAd className="mt-8" />
     </div>
     </>
   );

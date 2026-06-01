@@ -3,21 +3,57 @@
 import { useEffect, useRef } from 'react';
 import { usePathname } from 'next/navigation';
 
-const ADSENSE_CLIENT = 'ca-pub-7999144867236526';
+// AdSense Publisher ID. 환경변수 미설정 시 기존 ID 로 fallback.
+const ADSENSE_CLIENT =
+  process.env.NEXT_PUBLIC_ADSENSE_CLIENT?.trim() || 'ca-pub-7999144867236526';
 
-const AD_SLOTS = {
-  display: '7671594779',      // andxo-display-300x250
-  topBanner: '4092888672',    // 상단 배너
-  bottomBanner: '7671594779', // 하단 배너 — display 슬롯 사용 (topBanner와 다른 ID)
-  inArticle: '4326293473',    // andxo-inarticle (인아티클 전용)
-  inFeed: '5270444172',       // Inline (인피드 전용)
-  sidebar: '1112352179',      // andxocom_sidebar 300x600
+// Slot ID 정책 (Sprint 1, P0-2):
+// - display / topBanner / inArticle / inFeed / sidebar 는 기존 ID fallback 유지
+// - bottomBanner 는 신규 slot 발급 후 NEXT_PUBLIC_ADSENSE_BOTTOM_SLOT 으로 주입.
+//   미설정 시 BottomBannerAd 가 null 을 렌더해 7671594779 중복 호출을 차단.
+interface AdSlotMap {
+  display: string;
+  topBanner: string;
+  bottomBanner: string | null;
+  inArticle: string;
+  inFeed: string;
+  sidebar: string;
+}
+
+const AD_SLOTS: AdSlotMap = {
+  display:      process.env.NEXT_PUBLIC_ADSENSE_DISPLAY_SLOT?.trim()    || '7671594779',
+  topBanner:    process.env.NEXT_PUBLIC_ADSENSE_TOP_SLOT?.trim()        || '4092888672',
+  bottomBanner: process.env.NEXT_PUBLIC_ADSENSE_BOTTOM_SLOT?.trim()     || null,
+  inArticle:    process.env.NEXT_PUBLIC_ADSENSE_INARTICLE_SLOT?.trim()  || '4326293473',
+  inFeed:       process.env.NEXT_PUBLIC_ADSENSE_INFEED_SLOT?.trim()     || '5270444172',
+  sidebar:      process.env.NEXT_PUBLIC_ADSENSE_SIDEBAR_SLOT?.trim()    || '1112352179',
 };
+
+// P0-3: dev / Preview 환경에서는 <ins> 를 렌더하지 않는다 (silverdrive AdUnit 패턴).
+// invalid traffic 차단 + AdSense 정책 위험 제거.
+const IS_PROD = process.env.NODE_ENV === 'production';
 
 declare global {
   interface Window {
     adsbygoogle: unknown[];
   }
+}
+
+interface DevPlaceholderProps {
+  label: string;
+  className?: string;
+  style?: React.CSSProperties;
+}
+
+function DevPlaceholder({ label, className = '', style }: DevPlaceholderProps) {
+  return (
+    <div
+      className={`bg-pink-50 border-2 border-dashed border-pink-200 rounded-lg flex items-center justify-center text-pink-400 ${className}`}
+      style={{ minHeight: '90px', ...style }}
+    >
+      <span className="text-sm">{label}</span>
+    </div>
+  );
 }
 
 interface AdBannerProps {
@@ -52,11 +88,21 @@ export default function AdBanner({
   }, [pathname]);
 
   useEffect(() => {
+    if (!IS_PROD) return;
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
     }
   });
+
+  if (!IS_PROD) {
+    return (
+      <DevPlaceholder
+        label={`Ad placeholder (slot ${slot})`}
+        className={className}
+      />
+    );
+  }
 
   return (
     <div className={`ad-container overflow-hidden ${className}`}>
@@ -83,18 +129,29 @@ export function InArticleAd({ className = '' }: { className?: string }) {
   }, [pathname]);
 
   useEffect(() => {
+    if (!IS_PROD) return;
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
     }
   });
 
+  if (!IS_PROD) {
+    return (
+      <DevPlaceholder
+        label="In-Article Ad placeholder"
+        className={`my-8 ${className}`}
+        style={{ minHeight: '250px' }}
+      />
+    );
+  }
+
   return (
     <div className={`ad-container my-8 ${className}`}>
       <p className="text-xs text-gray-400 text-center mb-1 select-none">Advertisement</p>
       <ins
         className="adsbygoogle"
-        style={{ display: 'block', textAlign: 'center' }}
+        style={{ display: 'block', textAlign: 'center', minHeight: '250px' }}
         data-ad-client={ADSENSE_CLIENT}
         data-ad-slot={AD_SLOTS.inArticle}
         data-ad-layout="in-article"
@@ -114,17 +171,28 @@ export function InFeedAd({ className = '' }: { className?: string }) {
   }, [pathname]);
 
   useEffect(() => {
+    if (!IS_PROD) return;
     if (!pushed.current) {
       pushed.current = true;
       pushAd();
     }
   });
 
+  if (!IS_PROD) {
+    return (
+      <DevPlaceholder
+        label="In-Feed Ad placeholder"
+        className={className}
+        style={{ minHeight: '100px' }}
+      />
+    );
+  }
+
   return (
     <div className={`ad-container ${className}`}>
       <ins
         className="adsbygoogle"
-        style={{ display: 'block' }}
+        style={{ display: 'block', minHeight: '100px' }}
         data-ad-client={ADSENSE_CLIENT}
         data-ad-slot={AD_SLOTS.inFeed}
         data-ad-format="fluid"
@@ -138,8 +206,22 @@ export function TopBannerAd({ className = '' }: { className?: string }) {
   return <AdBanner slot={AD_SLOTS.topBanner} className={`mb-6 ${className}`} />;
 }
 
+// 신규 slot (NEXT_PUBLIC_ADSENSE_BOTTOM_SLOT) 미설정 시 null 렌더.
+// 7671594779 와의 중복 호출을 차단하는 의도된 동작이며, 운영자가 env 등록 후 자동 활성화된다.
 export function BottomBannerAd({ className = '' }: { className?: string }) {
-  return <AdBanner slot={AD_SLOTS.bottomBanner} className={`mt-8 ${className}`} />;
+  const slot = AD_SLOTS.bottomBanner;
+  if (!slot) {
+    if (!IS_PROD) {
+      return (
+        <DevPlaceholder
+          label="Bottom Banner placeholder (NEXT_PUBLIC_ADSENSE_BOTTOM_SLOT 미설정)"
+          className={`mt-8 ${className}`}
+        />
+      );
+    }
+    return null;
+  }
+  return <AdBanner slot={slot} className={`mt-8 ${className}`} />;
 }
 
 export function SidebarAd({ className = '' }: { className?: string }) {
@@ -150,16 +232,7 @@ export function SidebarAd({ className = '' }: { className?: string }) {
   );
 }
 
+// 기존 호출부 호환용 wrapper. dev/prod 분기 로직은 AdBanner 내부로 이동.
 export function AdPlaceholder({ className = '' }: { className?: string }) {
-  if (process.env.NODE_ENV === 'production') {
-    return <AdBanner className={className} />;
-  }
-  return (
-    <div
-      className={`bg-pink-50 border-2 border-dashed border-pink-200 rounded-lg flex items-center justify-center text-pink-400 ${className}`}
-      style={{ minHeight: '90px' }}
-    >
-      <span className="text-sm">Ad Space</span>
-    </div>
-  );
+  return <AdBanner className={className} />;
 }
