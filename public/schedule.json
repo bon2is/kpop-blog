@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-01T05:53:30.372Z",
+  "lastUpdated": "2026-06-01T10:12:39.519Z",
   "events": [
     {
-      "id": "soompi-13-2026-06-01",
+      "id": "soompi-19-2026-06-01",
       "date": "2026-06-01",
       "type": "other",
       "artist": "BTS",
@@ -13,7 +13,7 @@
       }
     },
     {
-      "id": "soompi-14-2026-06-01",
+      "id": "soompi-20-2026-06-01",
       "date": "2026-06-01",
       "type": "comeback",
       "artist": "Watch",
@@ -96,6 +96,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "gnews-comeback-19-2026-06-08",
+      "date": "2026-06-08",
+      "type": "comeback",
+      "artist": "BABYMONSTER",
+      "title": "BabyMonster Begins Comeback Countdown with New Visuals, Summer Single June 8 - 조선일보",
+      "source": "조선일보",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekhyVUJ0X0tQdTlYcWwyU2J6R1NXcWRzN0hmTmhIcl9pNFBfWGc1Y2hoR1RNNFBhRDlWSWNCbmZ4VDhSOWo0UFZ3OWlvbk5mQlA5cVY1c3g5cUc0bk9UV0lKa1IzYkRnZHloeTVJa19CUG1yYlpJZHh5dmFuaE1mMFJ2WVc1OTdpOXZjaHlB?oc=5"
       }
     },
     {

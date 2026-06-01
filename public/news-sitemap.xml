@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/sm-idols-relationship-with-hybe-star-becomes-a-hot-topic-aft/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T09:43:46.000Z</news:publication_date>
+      <news:title>SM Idol’s Relationship With HYBE Star Becomes A Hot Topic After Viral TikTok</news:title>
+      <news:keywords>BTS, EXO, aespa, NewJeans, Girls Generation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-female-idol-brutally-criticized-after-accusations-of-cop/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T09:20:24.000Z</news:publication_date>
+      <news:title>Top Female Idol Brutally Criticized After Accusations Of Copying BLACKPINK’s Rosé</news:title>
+      <news:keywords>BLACKPINK, MV, Rosé, Plagiarism, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/break-up-bts-jungkooks-recent-instagram-post-sparks-major-at/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T08:45:14.000Z</news:publication_date>
+      <news:title>“Break Up?” BTS Jungkook’s Recent Instagram Post Sparks Major Attention</news:title>
+      <news:keywords>BTS, Awards, Charts, Album, Jungkook</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-female-idol-sparks-heartbreak-after-crying-during-now-d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T08:05:56.000Z</news:publication_date>
+      <news:title>HYBE Female Idol Sparks Heartbreak After Crying During Now-Deleted “Inkigayo” Performance</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, HYBE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/boynextdoors-jaehyun-sustains-ankle-injury-to-limit-particip/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T05:42:49.000Z</news:publication_date>
+      <news:title>BOYNEXTDOOR’s Jaehyun Sustains Ankle Injury + To Limit Participation In Performances</news:title>
+      <news:keywords>BOYNEXTDOOR, Debut, Jaehyun, Injury, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-j-hopes-killin-it-girl-solo-version-mv-soars-past-100-m/</loc>
     <news:news>
       <news:publication>
@@ -35,18 +95,6 @@
       <news:publication_date>2026-05-31T03:17:39.000Z</news:publication_date>
       <news:title>i-dle, CORTIS, NMIXX, And More Make Forbes’ 30 Under 30 Asia List For 2026</news:title>
       <news:keywords>BTS, BLACKPINK, TWICE, NMIXX, (G)I-DLE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/shin-ha-kyun-disappears-in-the-middle-of-a-family-outing-on-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T08:44:12.000Z</news:publication_date>
-      <news:title>Shin Ha Kyun Disappears In The Middle Of A Family Outing On “Fifties Professionals”</news:title>
-      <news:keywords>K-Drama, Shin Ha Kyun, Fifties Professionals, Action-Comedy, MBC</news:keywords>
     </news:news>
   </url>
 </urlset>
