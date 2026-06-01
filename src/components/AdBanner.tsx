@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { AdErrorBoundary } from './AdErrorBoundary';
 import AuditionPromoCard from './AuditionPromoCard';
@@ -270,22 +270,59 @@ interface AtfAdUnitProps {
   slot: string;
 }
 
+// Sprint 2 hotfix: AdSense "no fill" 케이스 처리.
+// silverdrive 에는 동등 로직이 없어 (fill rate 100% 에 가까운 단일 페이지 BM) kpop 만 새로 작성.
+// AdErrorBoundary 는 throw 만 잡으므로 unfilled (HTTP 200 + 광고 없음) 응답은 React 가
+// 감지할 수 없다. <ins> DOM 상태를 setTimeout 으로 확인해 폴백 카드로 swap 한다.
+const UNFILLED_CHECK_DELAY_MS = 2000;
+const UNFILLED_MIN_HEIGHT_PX  = 50;
+
+function isInsUnfilled(el: HTMLElement): boolean {
+  if (el.getAttribute('data-ad-status') === 'unfilled') return true;
+  if (el.childElementCount === 0) return true;
+  if (el.offsetHeight < UNFILLED_MIN_HEIGHT_PX) return true;
+  return false;
+}
+
 function AtfRectangleAdUnit({ slot }: AtfAdUnitProps) {
   const pathname = usePathname();
-  const pushed = useRef(false);
+  const insRef = useRef<HTMLModElement | null>(null);
+  const lastPushedPath = useRef<string | null>(null);
+  const [unfilled, setUnfilled] = useState(false);
 
+  // SPA 라우트 변경 시 unfilled 상태 초기화 (새 경로에서는 다시 시도)
   useEffect(() => {
-    pushed.current = false;
+    setUnfilled(false);
   }, [pathname]);
 
   useEffect(() => {
     if (!IS_PROD) return;
+    if (unfilled) return;
+    if (lastPushedPath.current === pathname) return; // 같은 path 중복 push 차단
+    lastPushedPath.current = pathname;
+
     ensureAdsScript();
-    if (!pushed.current) {
-      pushed.current = true;
-      pushAd();
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    } catch {
+      // adsbygoogle 미가용 — unfilled 감지에서 후속 처리됨
     }
-  });
+
+    const timer = window.setTimeout(() => {
+      const el = insRef.current;
+      if (!el) return;
+      if (isInsUnfilled(el)) {
+        setUnfilled(true);
+      }
+    }, UNFILLED_CHECK_DELAY_MS);
+    return () => window.clearTimeout(timer);
+  }, [pathname, unfilled]);
+
+  // unfilled 확정: <ins> 와 "Advertisement" 라벨까지 통째로 폴백 카드로 교체.
+  // 운영자 지시 옵션 (a) "AuditionPromoCard 로 swap" 채택.
+  if (unfilled) {
+    return <AtfFallbackCard />;
+  }
 
   return (
     <div
@@ -293,6 +330,7 @@ function AtfRectangleAdUnit({ slot }: AtfAdUnitProps) {
       style={{ minHeight: '250px' }}
     >
       <ins
+        ref={insRef}
         className="adsbygoogle"
         style={{ display: 'inline-block', width: '300px', height: '250px' }}
         data-ad-client={ADSENSE_CLIENT}
