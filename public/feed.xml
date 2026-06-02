@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 14:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 18:05:07 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Watch: TREASURE Goes Hard In New Dance Performance Video For “IF I”</title>
+      <link>https://kpop.andxo.com/article/watch-treasure-goes-hard-in-new-dance-performance-video-for-/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/watch-treasure-goes-hard-in-new-dance-performance-video-for-/</guid>
+      <description>TREASURE drops intense dance performance video for &quot;IF I&quot;!</description>
+      <pubDate>Tue, 02 Jun 2026 15:28:01 GMT</pubDate>
+      <category>drama</category>
+      <category>TREASURE</category>
+      <category>Album</category>
+      <category>MV</category>
+      <category>K-Pop</category>
+      <category>Dance Performance</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-treasure-goes-hard-in-new-dance-performance-video-for-.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-treasure-goes-hard-in-new-dance-performance-video-for-.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-treasure-goes-hard-in-new-dance-performance-video-for-.webp" />
+    </item>
     <item>
       <title>The Best-Dressed Idols At The “2026 AMAs,” Ranked</title>
       <link>https://kpop.andxo.com/article/the-best-dressed-idols-at-the-2026-amas-ranked/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-actor-in-his-40s-confesses-he-cant-go-on-dates-becau.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-actor-in-his-40s-confesses-he-cant-go-on-dates-becau.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-actor-in-his-40s-confesses-he-cant-go-on-dates-becau.webp" />
-    </item>
-    <item>
-      <title>HYBE Idol Sparks Major Concerns After Refusing To Eat Amid Busy Schedule</title>
-      <link>https://kpop.andxo.com/article/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b/</guid>
-      <description>HYBE idol sparks concern after refusing to eat amid busy schedule</description>
-      <pubDate>Sat, 16 May 2026 14:21:00 GMT</pubDate>
-      <category>music</category>
-      <category>HYBE</category>
-      <category>K-Pop</category>
-      <category>Idol Health</category>
-      <category>Burnout</category>
-      <category>Wellness</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idol-sparks-major-concerns-after-refusing-to-eat-amid-b.webp" />
     </item>
   </channel>
 </rss>

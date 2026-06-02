@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-treasure-goes-hard-in-new-dance-performance-video-for-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T15:28:01.000Z</news:publication_date>
+      <news:title>Watch: TREASURE Goes Hard In New Dance Performance Video For “IF I”</news:title>
+      <news:keywords>TREASURE, Album, MV, K-Pop, Dance Performance</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/the-best-dressed-idols-at-the-2026-amas-ranked/</loc>
     <news:news>
       <news:publication>
@@ -227,18 +239,6 @@
       <news:publication_date>2026-05-31T22:48:20.000Z</news:publication_date>
       <news:title>BTS’s j-hope’s “Killin’ It Girl (Solo Version)” MV Soars Past 100 Million Views</news:title>
       <news:keywords>BTS, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-announces-start-of-2026-festa-by-revealing-timeline/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-31T17:35:00.000Z</news:publication_date>
-      <news:title>BTS Announces Start Of 2026 FESTA By Revealing Timeline</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, FESTA</news:keywords>
     </news:news>
   </url>
 </urlset>
