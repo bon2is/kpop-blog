@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-threatens-to-expose-sasaengs-in-recent-post/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T05:12:05.000Z</news:publication_date>
+      <news:title>BTS’s Jungkook Threatens To Expose Sasaengs In Recent Post</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/so-ji-sub-goes-from-elite-operative-to-seo-su-mins-doting-da/</loc>
     <news:news>
       <news:publication>
@@ -38,6 +50,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/red-velvets-joy-and-kim-hyun-jin-become-each-others-biggest-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T04:19:27.000Z</news:publication_date>
+      <news:title>Red Velvet’s Joy And Kim Hyun Jin Become Each Other’s Biggest Fans In New Romance Drama</news:title>
+      <news:keywords>Red Velvet, K-Drama, Joy, Kim Hyun Jin, Romance Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/male-idol-reacts-to-fans-provocative-profile-pictures-on-mes/</loc>
     <news:news>
       <news:publication>
@@ -71,6 +95,18 @@
       <news:publication_date>2026-06-01T12:35:27.000Z</news:publication_date>
       <news:title>Minji Blamed For NewJeans’ Hiatus In Viral Scathing Article</news:title>
       <news:keywords>NewJeans, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twices-dahyun-makes-meaningful-birthday-donation-to-help-leu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T10:31:06.000Z</news:publication_date>
+      <news:title>TWICE’s Dahyun Makes Meaningful Birthday Donation To Help Leukemia Patients</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Dahyun, Donation</news:keywords>
     </news:news>
   </url>
   <url>
