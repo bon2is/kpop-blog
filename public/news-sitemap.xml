@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/so-ji-sub-goes-from-elite-operative-to-seo-su-mins-doting-da/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T04:51:08.000Z</news:publication_date>
+      <news:title>So Ji Sub Goes From Elite Operative To Seo Su Min’s Doting Dad In “Agent Kim Reactivated”</news:title>
+      <news:keywords>K-Drama, So Ji Sub, Seo Su Min, Agent Kim Reactivated, Webtoon Adaptation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/yang-se-jong-is-an-ace-prosecutor-who-gains-an-unexpected-ab/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T04:42:22.000Z</news:publication_date>
+      <news:title>Yang Se Jong Is An Ace Prosecutor Who Gains An Unexpected Ability In New Drama “Spooky In Love”</news:title>
+      <news:keywords>SEVENTEEN, K-Drama, Yang Se Jong, Spooky in Love, Occult Romance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sung-si-kyung-witnesses-aespa-being-surrounded-by-sasaengs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T04:20:09.000Z</news:publication_date>
+      <news:title>Sung Si Kyung Witnesses aespa Being Surrounded By Sasaengs</news:title>
+      <news:keywords>aespa, Charts, Sung Si Kyung, K-Pop, Sasaengs</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/male-idol-reacts-to-fans-provocative-profile-pictures-on-mes/</loc>
     <news:news>
       <news:publication>
@@ -119,18 +155,6 @@
       <news:publication_date>2026-05-31T17:35:00.000Z</news:publication_date>
       <news:title>BTS Announces Start Of 2026 FESTA By Revealing Timeline</news:title>
       <news:keywords>BTS, Debut, Awards, Charts, FESTA</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/i-dle-cortis-nmixx-and-more-make-forbes-30-under-30-asia-lis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-31T03:17:39.000Z</news:publication_date>
-      <news:title>i-dle, CORTIS, NMIXX, And More Make Forbes’ 30 Under 30 Asia List For 2026</news:title>
-      <news:keywords>BTS, BLACKPINK, TWICE, NMIXX, (G)I-DLE</news:keywords>
     </news:news>
   </url>
 </urlset>
