@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/concert-organizers-slammed-for-no-refund-policy-after-top-k-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T05:37:12.000Z</news:publication_date>
+      <news:title>Concert Organizers Slammed For No Refund Policy After Top K-Pop Act Cancels</news:title>
+      <news:keywords>Concert, Awards, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idols-husband-heartbroken-after-learning-who-was-behin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T01:05:53.000Z</news:publication_date>
+      <news:title>K-Pop Idol’s Husband Heartbroken After Learning Who Was Behind Malicious Comments</news:title>
+      <news:keywords>Awards, Charts, K-Pop, Online Harassment, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-re-enters-billboard-200-and-hot-100-after-american-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T23:00:18.000Z</news:publication_date>
+      <news:title>KATSEYE Re-Enters Billboard 200 And Hot 100 After American Music Awards Performance</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/cortis-breaks-personal-record-as-greengreen-spends-3rd-week-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T22:20:34.000Z</news:publication_date>
+      <news:title>CORTIS Breaks Personal Record As “GREENGREEN” Spends 3rd Week On Billboard 200</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/xlov-nearly-triples-their-1st-week-sales-record-with-igod/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T20:57:40.000Z</news:publication_date>
+      <news:title>XLOV Nearly Triples Their 1st-Week Sales Record With “I,God”</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-treasure-goes-hard-in-new-dance-performance-video-for-/</loc>
     <news:news>
       <news:publication>
@@ -215,30 +275,6 @@
       <news:publication_date>2026-06-01T08:05:56.000Z</news:publication_date>
       <news:title>HYBE Female Idol Sparks Heartbreak After Crying During Now-Deleted “Inkigayo” Performance</news:title>
       <news:keywords>Comeback, Debut, Charts, Album, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/boynextdoors-jaehyun-sustains-ankle-injury-to-limit-particip/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T05:42:49.000Z</news:publication_date>
-      <news:title>BOYNEXTDOOR’s Jaehyun Sustains Ankle Injury + To Limit Participation In Performances</news:title>
-      <news:keywords>BOYNEXTDOOR, Debut, Jaehyun, Injury, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-j-hopes-killin-it-girl-solo-version-mv-soars-past-100-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-31T22:48:20.000Z</news:publication_date>
-      <news:title>BTS’s j-hope’s “Killin’ It Girl (Solo Version)” MV Soars Past 100 Million Views</news:title>
-      <news:keywords>BTS, Debut, Charts, Album, MV</news:keywords>
     </news:news>
   </url>
 </urlset>
