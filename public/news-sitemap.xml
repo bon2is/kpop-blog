@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/former-newjeans-danielles-recent-sighting-sparks-huge-reacti/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T09:00:33.000Z</news:publication_date>
+      <news:title>Former NewJeans Danielle’s Recent Sighting Sparks Huge Reactions</news:title>
+      <news:keywords>NewJeans, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/xdinary-heroes-jun-han-to-adjust-schedule-following-sudden-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T08:38:48.000Z</news:publication_date>
+      <news:title>Xdinary Heroes’ Jun Han To Adjust Schedule Following Sudden Abdominal Pain</news:title>
+      <news:keywords>Debut, Concert, Tour, Xdinary Heroes, Jun Han</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-wonyoung-blasted-for-poor-attitude-and-behavior-in-vide/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T08:25:20.000Z</news:publication_date>
+      <news:title>IVE’s Wonyoung Blasted For Poor Attitude And Behavior In Video</news:title>
+      <news:keywords>IVE, Debut, Wonyoung, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/driver-threatens-to-expose-korean-actress-with-car-cam-foota/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T07:14:29.000Z</news:publication_date>
+      <news:title>Driver Threatens To Expose Korean Actress With Car Cam Footage</news:title>
+      <news:keywords>Korean Actress, Designated Driver, Car Cam Footage, Celebrity Safety, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-diva-stuns-with-her-chic-and-sexy-visuals/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T06:18:00.000Z</news:publication_date>
+      <news:title>K-Pop Diva Stuns With Her Chic And Sexy Visuals</news:title>
+      <news:keywords>Debut, BADA, S.E.S., K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/concert-organizers-slammed-for-no-refund-policy-after-top-k-/</loc>
     <news:news>
       <news:publication>
@@ -239,42 +299,6 @@
       <news:publication_date>2026-06-01T09:43:46.000Z</news:publication_date>
       <news:title>SM Idol’s Relationship With HYBE Star Becomes A Hot Topic After Viral TikTok</news:title>
       <news:keywords>BTS, EXO, aespa, NewJeans, Girls Generation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-female-idol-brutally-criticized-after-accusations-of-cop/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T09:20:24.000Z</news:publication_date>
-      <news:title>Top Female Idol Brutally Criticized After Accusations Of Copying BLACKPINK’s Rosé</news:title>
-      <news:keywords>BLACKPINK, MV, Rosé, Plagiarism, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/break-up-bts-jungkooks-recent-instagram-post-sparks-major-at/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T08:45:14.000Z</news:publication_date>
-      <news:title>“Break Up?” BTS Jungkook’s Recent Instagram Post Sparks Major Attention</news:title>
-      <news:keywords>BTS, Awards, Charts, Album, Jungkook</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-female-idol-sparks-heartbreak-after-crying-during-now-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T08:05:56.000Z</news:publication_date>
-      <news:title>HYBE Female Idol Sparks Heartbreak After Crying During Now-Deleted “Inkigayo” Performance</news:title>
-      <news:keywords>Comeback, Debut, Charts, Album, HYBE</news:keywords>
     </news:news>
   </url>
 </urlset>

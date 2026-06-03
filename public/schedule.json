@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T05:55:36.911Z",
+  "lastUpdated": "2026-06-03T09:22:28.389Z",
   "events": [
     {
       "id": "broadcast-show-champion-2026-06-03",
@@ -269,6 +269,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@KBSKpop",
         "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "gnews-concert-36-2026-06-27",
+      "date": "2026-06-27",
+      "type": "concert",
+      "artist": "HEADS UP, INSPIRIT 💛 Infinite’s Kim Sungkyu is bringing his “LV4",
+      "title": "HEADS UP, INSPIRIT 💛 Infinite’s Kim Sungkyu is bringing his “LV4: Leap to Vector” tour to the Philippines. The concert will be held at the UP Theater on June 27 (📷: Kim Sungkyu/X) | via Jaehwa Bernardo, ABS-CBN News - facebook.com",
+      "source": "facebook.com",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT0xOaU1kaFpJLXlqcUREQW9GVlA5RzA4RzhOSE1zOEFpaXduMWhTbkYtRE8xaUF0bzVLZ2dwc0FrckNySlR5MDhpWEhXWldfbjNERWw0algxMGREZnlXTjNFZzZhODRBejU4WVBvU0hSVkxXZ1c1czk2UGlBRmJnRjFodlFsb0VfOFRoOGFUZENEbFd4N2ZoTnBsRkQ1ZFVtdjlXNG5wLXBpUE1wcGhUUmc4R2ZFN2dYbER5ODZiM3RSaWpWN1FweElWVFlJUVlKWHQ1VDZoNA?oc=5"
       }
     },
     {
