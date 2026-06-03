@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:24:02 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Jennie Enters Top 10 Of Billboard Radio Songs Chart For 1st Time With Tame Impala Collab “Dracula”</title>
+      <link>https://kpop.andxo.com/article/jennie-enters-top-10-of-billboard-radio-songs-chart-for-1st-/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/jennie-enters-top-10-of-billboard-radio-songs-chart-for-1st-/</guid>
+      <description>Jennie&apos;s collab with Tame Impala hits top 10 on Billboard Radio Songs Chart</description>
+      <pubDate>Wed, 03 Jun 2026 18:21:08 GMT</pubDate>
+      <category>audition</category>
+      <category>BLACKPINK</category>
+      <category>Debut</category>
+      <category>Charts</category>
+      <category>Jennie</category>
+      <category>Tame Impala</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-enters-top-10-of-billboard-radio-songs-chart-for-1st-.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-enters-top-10-of-billboard-radio-songs-chart-for-1st-.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-enters-top-10-of-billboard-radio-songs-chart-for-1st-.webp" />
+    </item>
     <item>
       <title>Watch: RIIZE Covers Apink And 2PM In Contrasting Dance Practice Videos</title>
       <link>https://kpop.andxo.com/article/watch-riize-covers-apink-and-2pm-in-contrasting-dance-practi/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/exchange-4-star-park-hyun-ji-signs-with-agency.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/exchange-4-star-park-hyun-ji-signs-with-agency.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/exchange-4-star-park-hyun-ji-signs-with-agency.webp" />
-    </item>
-    <item>
-      <title>Watch: WJSN’s Dayoung Meets Up With RIIZE In “The Manager” Preview</title>
-      <link>https://kpop.andxo.com/article/watch-wjsns-dayoung-meets-up-with-riize-in-the-manager-previ/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/watch-wjsns-dayoung-meets-up-with-riize-in-the-manager-previ/</guid>
-      <description>WJSN&apos;s Dayoung gives a glimpse into her life</description>
-      <pubDate>Sun, 17 May 2026 23:41:35 GMT</pubDate>
-      <category>drama</category>
-      <category>RIIZE</category>
-      <category>Comeback</category>
-      <category>Debut</category>
-      <category>WJSN</category>
-      <category>Dayoung</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-wjsns-dayoung-meets-up-with-riize-in-the-manager-previ.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-wjsns-dayoung-meets-up-with-riize-in-the-manager-previ.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-wjsns-dayoung-meets-up-with-riize-in-the-manager-previ.webp" />
     </item>
   </channel>
 </rss>
