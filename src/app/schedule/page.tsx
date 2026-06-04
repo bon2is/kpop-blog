@@ -16,7 +16,6 @@ import {
   PackageOpen,
   Filter,
   RefreshCw,
-  Info,
 } from 'lucide-react';
 
 type EventType = 'comeback' | 'concert' | 'broadcast' | 'youtube' | 'fanmeeting' | 'award' | 'release' | 'other';
@@ -168,18 +167,6 @@ export default function SchedulePage() {
           })}
         </div>
 
-        {/* Data accuracy disclaimer */}
-        <div className="flex gap-2 items-start bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 mb-6 text-xs text-amber-800">
-          <Info className="w-3.5 h-3.5 mt-0.5 flex-shrink-0 text-amber-500" />
-          <span>
-            방송 일정은 고정 KST 편성 기준입니다. 컴백·릴리즈 일정은{' '}
-            <a href="https://kpopschedule.com" target="_blank" rel="noopener noreferrer" className="underline">kpopschedule.com</a>
-            {' '}및{' '}
-            <a href="https://www.soompi.com" target="_blank" rel="noopener noreferrer" className="underline">Soompi</a>
-            {' '}발표 기사 기반으로 실제 날짜와 다를 수 있습니다.
-          </span>
-        </div>
-
         {/* Content */}
         {loading && <LoadingSkeleton />}
 
@@ -301,25 +288,6 @@ export default function SchedulePage() {
                               </div>
                             )}
 
-                            {/* Source attribution */}
-                            {event.source && event.source !== 'recurring' && (
-                              <p className="text-[10px] text-gray-400 mt-1.5">
-                                출처:{' '}
-                                {event.source === 'soompi' && (
-                                  <a href="https://www.soompi.com" target="_blank" rel="noopener noreferrer" className="hover:underline">Soompi</a>
-                                )}
-                                {event.source === 'kpopschedule' && (
-                                  <a href="https://kpopschedule.com" target="_blank" rel="noopener noreferrer" className="hover:underline">kpopschedule.com</a>
-                                )}
-                                {event.source === 'allkpop' && (
-                                  <a href="https://www.allkpop.com" target="_blank" rel="noopener noreferrer" className="hover:underline">AllKpop</a>
-                                )}
-                                {event.source === 'koreaboo' && (
-                                  <a href="https://www.koreaboo.com" target="_blank" rel="noopener noreferrer" className="hover:underline">Koreaboo</a>
-                                )}
-                                {!['soompi', 'kpopschedule', 'allkpop', 'koreaboo'].includes(event.source) && event.source}
-                              </p>
-                            )}
                           </div>
                         </div>
                       );
