@@ -12,6 +12,7 @@ import AuditionSidebarWidget from '@/components/AuditionSidebarWidget';
 import { NewsletterInline, NewsletterSidebar } from '@/components/Newsletter';
 import ArticleCard from '@/components/ArticleCard';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
+import InlineRelatedCard from '@/components/InlineRelatedCard';
 import { Clock, Calendar, Sparkles, ArrowRight } from 'lucide-react';
 import ShareButtons from '@/components/ShareButtons';
 import { ViewCounter, ViewRecorder, LikeDislike } from '@/components/ArticleEngagement';
@@ -100,6 +101,13 @@ export default function ArticlePage({ params }: ArticlePageProps) {
     : '';
   // Sprint 2 P0-5: H2 가 0개 (contentSections.length === 1) 일 때만 본문 마지막 직후 폴백 InArticleAd 1발.
   const needsTailInArticleFallback = contentSections.length === 1;
+  // 본문 중간 인라인 추천 카드 위치 — 세션 깊이/체류시간 증가용.
+  // 섹션 1개(폴백 케이스)에서는 -1 → 폴백 광고 위에 별도 분기로 처리.
+  const inlineRelatedSectionIdx =
+    contentSections.length >= 2 && relatedArticles.length > 0
+      ? Math.max(0, Math.floor(contentSections.length / 2) - 1)
+      : -1;
+  const inlineRelated = relatedArticles[0];
   const rawAdjacent = getAdjacentArticles(params.slug);
   const slimAdj = (a: ReturnType<typeof getRelatedArticles>[0] | null) =>
     a ? (({ content: _c, summary: _s, commentary: _co, ...rest }) => rest)(a) : null;
@@ -273,6 +281,9 @@ export default function ArticlePage({ params }: ArticlePageProps) {
                 {index < contentSections.length - 1 && index < 3 && (
                   <InArticleAd />
                 )}
+                {inlineRelated && index === inlineRelatedSectionIdx && (
+                  <InlineRelatedCard article={inlineRelated} />
+                )}
               </div>
             );
           }
@@ -284,9 +295,15 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               {index < contentSections.length - 1 && index < 3 && (
                 <InArticleAd />
               )}
+              {inlineRelated && index === inlineRelatedSectionIdx && (
+                <InlineRelatedCard article={inlineRelated} />
+              )}
             </div>
           );
         })}
+        {needsTailInArticleFallback && inlineRelated && (
+          <InlineRelatedCard article={inlineRelated} />
+        )}
         {needsTailInArticleFallback && <InArticleAd />}
       </div>
 
