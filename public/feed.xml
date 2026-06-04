@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:44:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 13:51:26 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Zo In Sung Transforms Into A Local Resident With Strong Survival Instinct In New Film “HOPE”</title>
+      <link>https://kpop.andxo.com/article/zo-in-sung-transforms-into-a-local-resident-with-strong-surv/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/zo-in-sung-transforms-into-a-local-resident-with-strong-surv/</guid>
+      <description>Zo In Sung transforms in new film HOPE</description>
+      <pubDate>Thu, 04 Jun 2026 09:26:43 GMT</pubDate>
+      <category>drama</category>
+      <category>K-Drama</category>
+      <category>Zo In Sung</category>
+      <category>HOPE</category>
+      <category>K-Film</category>
+      <category>Hwang Jung Min</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/zo-in-sung-transforms-into-a-local-resident-with-strong-surv.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/zo-in-sung-transforms-into-a-local-resident-with-strong-surv.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/zo-in-sung-transforms-into-a-local-resident-with-strong-surv.webp" />
+    </item>
     <item>
       <title>Watch: Kim Min Ha Is Questioned After Defecting From North Korea In “Hana Korea”</title>
       <link>https://kpop.andxo.com/article/watch-kim-min-ha-is-questioned-after-defecting-from-north-ko/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/3-reasons-to-anticipate-the-upcoming-comedy-film-wild-sing.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/3-reasons-to-anticipate-the-upcoming-comedy-film-wild-sing.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/3-reasons-to-anticipate-the-upcoming-comedy-film-wild-sing.webp" />
-    </item>
-    <item>
-      <title>Seo Hyun Woo Joins Ma Dong Seok And Kim Jae Yeong In “The Roundup 5”</title>
-      <link>https://kpop.andxo.com/article/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou/</guid>
-      <description>Seo Hyun Woo joins the cast of &apos;The Roundup 5&apos; alongside Ma Dong Seok and Kim Jae Yeong.</description>
-      <pubDate>Mon, 18 May 2026 08:11:53 GMT</pubDate>
-      <category>drama</category>
-      <category>Awards</category>
-      <category>K-Drama</category>
-      <category>Seo Hyun Woo</category>
-      <category>Ma Dong Seok</category>
-      <category>Kim Jae Yeong</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/seo-hyun-woo-joins-ma-dong-seok-and-kim-jae-yeong-in-the-rou.webp" />
     </item>
   </channel>
 </rss>
