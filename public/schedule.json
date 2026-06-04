@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-04T05:50:56.464Z",
+  "lastUpdated": "2026-06-04T08:44:12.347Z",
   "events": [
+    {
+      "id": "soompi-3-2026-06-04",
+      "date": "2026-06-04",
+      "type": "concert",
+      "artist": "PLAVE",
+      "title": "PLAVE Announces Stops For 2026 World Tour &#8220;KEEP IT MANIC&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1845641wpp/plave-announces-stops-for-2026-world-tour-keep-it-manic"
+      }
+    },
     {
       "id": "broadcast-m-countdown-2026-06-04",
       "date": "2026-06-04",
@@ -59,17 +70,6 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
-      }
-    },
-    {
-      "id": "gnews-comeback-32-2026-06-08",
-      "date": "2026-06-08",
-      "type": "comeback",
-      "artist": "BABYMONSTER",
-      "title": "BabyMonster Begins Comeback Countdown with New Visuals, Summer Single June 8 - 조선일보",
-      "source": "조선일보",
-      "links": {
-        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekhyVUJ0X0tQdTlYcWwyU2J6R1NXcWRzN0hmTmhIcl9pNFBfWGc1Y2hoR1RNNFBhRDlWSWNCbmZ4VDhSOWo0UFZ3OWlvbk5mQlA5cVY1c3g5cUc0bk9UV0lKa1IzYkRnZHloeTVJa19CUG1yYlpJZHh5dmFuaE1mMFJ2WVc1OTdpOXZjaHlB?oc=5"
       }
     },
     {
