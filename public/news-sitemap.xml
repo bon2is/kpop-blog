@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-allegedly-uses-bts-to-promote-junior-group-triggers-bac/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T05:22:20.000Z</news:publication_date>
+      <news:title>HYBE Allegedly Uses BTS To Promote Junior Group, Triggers Backlash</news:title>
+      <news:keywords>BTS, Awards, Album, K-Drama, HYBE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/shin-ha-kyun-and-heo-sung-tae-face-off-in-a-sudden-encounter/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T02:32:17.000Z</news:publication_date>
+      <news:title>Shin Ha Kyun And Heo Sung Tae Face Off In A Sudden Encounter In “Fifties Professionals”</news:title>
+      <news:keywords>K-Drama, Fifties Professionals, Shin Ha Kyun, Heo Sung Tae, Action-Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jennie-enters-top-10-of-billboard-radio-songs-chart-for-1st-/</loc>
     <news:news>
       <news:publication>
@@ -227,66 +251,6 @@
       <news:publication_date>2026-06-02T11:33:18.000Z</news:publication_date>
       <news:title>IVE’s Wonyoung Filmed Without Consent During Her Private Moment, Fans Enraged</news:title>
       <news:keywords>IVE, Debut, Charts, Wonyoung, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-threatens-to-expose-sasaengs-in-recent-post/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T05:12:05.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook Threatens To Expose Sasaengs In Recent Post</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/so-ji-sub-goes-from-elite-operative-to-seo-su-mins-doting-da/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T04:51:08.000Z</news:publication_date>
-      <news:title>So Ji Sub Goes From Elite Operative To Seo Su Min’s Doting Dad In “Agent Kim Reactivated”</news:title>
-      <news:keywords>K-Drama, So Ji Sub, Seo Su Min, Agent Kim Reactivated, Webtoon Adaptation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yang-se-jong-is-an-ace-prosecutor-who-gains-an-unexpected-ab/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T04:42:22.000Z</news:publication_date>
-      <news:title>Yang Se Jong Is An Ace Prosecutor Who Gains An Unexpected Ability In New Drama “Spooky In Love”</news:title>
-      <news:keywords>SEVENTEEN, K-Drama, Yang Se Jong, Spooky in Love, Occult Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sung-si-kyung-witnesses-aespa-being-surrounded-by-sasaengs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T04:20:09.000Z</news:publication_date>
-      <news:title>Sung Si Kyung Witnesses aespa Being Surrounded By Sasaengs</news:title>
-      <news:keywords>aespa, Charts, Sung Si Kyung, K-Pop, Sasaengs</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvets-joy-and-kim-hyun-jin-become-each-others-biggest-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T04:19:27.000Z</news:publication_date>
-      <news:title>Red Velvet’s Joy And Kim Hyun Jin Become Each Other’s Biggest Fans In New Romance Drama</news:title>
-      <news:keywords>Red Velvet, K-Drama, Joy, Kim Hyun Jin, Romance Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
