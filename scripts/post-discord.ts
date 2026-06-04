@@ -13,6 +13,7 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { withUtm } from './lib/social-url';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://kpop.andxo.com';
 const WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
@@ -147,7 +148,7 @@ function categoryLabel(category: string): string {
 
 // --- Discord Embed payload ---
 function buildEmbed(article: ArticleMeta) {
-  const articleUrl = `${SITE_URL}/article/${article.slug}/`;
+  const articleUrl = withUtm(`${SITE_URL}/article/${article.slug}/`, { source: 'discord' });
   const emoji = categoryEmoji(article.category);
   const color = CATEGORY_COLORS[article.category] ?? DEFAULT_COLOR;
 

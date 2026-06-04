@@ -21,6 +21,7 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { withUtm } from './lib/social-url';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://kpop.andxo.com';
 const CONTENT_DIR = path.join(process.cwd(), 'content/posts');
@@ -280,7 +281,7 @@ async function main(): Promise<void> {
 
   for (const article of selected) {
     const target = getTargetSubreddit(article);
-    const articleUrl = `${SITE_URL}/article/${article.slug}/`;
+    const articleUrl = withUtm(`${SITE_URL}/article/${article.slug}/`, { source: 'reddit' });
 
     console.log(`\nPosting to r/${target.subreddit}: ${article.title.slice(0, 60)}...`);
 

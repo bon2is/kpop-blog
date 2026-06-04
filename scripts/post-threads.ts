@@ -2,6 +2,7 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { withUtm } from './lib/social-url';
 
 // Threads API Configuration
 const THREADS_USER_ID = process.env.THREADS_USER_ID;
@@ -267,7 +268,7 @@ function getRandomCTA(category: string): string {
 // Create Threads post text - optimized for engagement
 function createPostText(article: ArticleMetadata): string {
   const hashtags = generateHashtags(article);
-  const articleUrl = `${SITE_URL}/article/${article.slug}`;
+  const articleUrl = withUtm(`${SITE_URL}/article/${article.slug}`, { source: 'threads' });
   const config = CATEGORY_CONFIG[article.category] || CATEGORY_CONFIG['news'];
   const cta = getRandomCTA(article.category);
 

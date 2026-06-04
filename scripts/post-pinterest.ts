@@ -14,6 +14,7 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { withUtm } from './lib/social-url';
 
 const PINTEREST_ACCESS_TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
 const PINTEREST_BOARD_ID = process.env.PINTEREST_BOARD_ID;
@@ -126,7 +127,7 @@ async function createPin(article: ArticleMeta): Promise<boolean> {
   }
 
   const imageUrl = `${SITE_URL}${article.thumbnail}`;
-  const articleUrl = `${SITE_URL}/article/${article.slug}/`;
+  const articleUrl = withUtm(`${SITE_URL}/article/${article.slug}/`, { source: 'pinterest' });
   const description = buildPinDescription(article);
 
   try {

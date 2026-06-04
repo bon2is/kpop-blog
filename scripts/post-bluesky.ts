@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { BskyAgent, RichText } from '@atproto/api';
+import { withUtm } from './lib/social-url';
 
 // Bluesky Configuration
 const BLUESKY_IDENTIFIER = process.env.BLUESKY_IDENTIFIER;
@@ -158,7 +159,7 @@ function getRandomCTA(category: string): string {
 function createPostText(article: ArticleMetadata): string {
   const emoji = CATEGORY_EMOJI[article.category] || CATEGORY_EMOJI['news'];
   const hashtags = generateHashtags(article);
-  const articleUrl = `${SITE_URL}/article/${article.slug}`;
+  const articleUrl = withUtm(`${SITE_URL}/article/${article.slug}`, { source: 'bluesky' });
   const cta = getRandomCTA(article.category);
 
   const hashtagStr = hashtags.join(' ');
@@ -219,7 +220,7 @@ async function postToBluesky(
   await rt.detectFacets(agent);
 
   // Build embed with link card (external embed)
-  const articleUrl = `${SITE_URL}/article/${article.slug}`;
+  const articleUrl = withUtm(`${SITE_URL}/article/${article.slug}`, { source: 'bluesky' });
   let embed: any = {
     $type: 'app.bsky.embed.external',
     external: {

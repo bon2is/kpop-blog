@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { TwitterApi } from 'twitter-api-v2';
+import { withUtm } from './lib/social-url';
 
 // Twitter API Configuration (OAuth 1.0a User Context)
 const TWITTER_APP_KEY = process.env.TWITTER_APP_KEY;
@@ -146,7 +147,7 @@ function generateHashtags(article: ArticleMetadata): string[] {
 function createTweetText(article: ArticleMetadata): string {
   const emoji = CATEGORY_EMOJI[article.category] || CATEGORY_EMOJI['news'];
   const hashtags = generateHashtags(article);
-  const articleUrl = `${SITE_URL}/article/${article.slug}`;
+  const articleUrl = withUtm(`${SITE_URL}/article/${article.slug}`, { source: 'twitter' });
 
   const hashtagStr = hashtags.join(' ');
   // URL counts as 23 chars on Twitter regardless of actual length
