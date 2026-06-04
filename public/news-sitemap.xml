@@ -38,6 +38,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/mark-establishes-new-label-launches-official-social-media-ch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T05:14:35.000Z</news:publication_date>
+      <news:title>Mark Establishes New Label + Launches Official Social Media Channels</news:title>
+      <news:keywords>NCT, Mark, Upper Room, K-Pop, Label</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/shin-ha-kyun-and-heo-sung-tae-face-off-in-a-sudden-encounter/</loc>
     <news:news>
       <news:publication>
@@ -227,18 +239,6 @@
       <news:publication_date>2026-06-02T20:57:40.000Z</news:publication_date>
       <news:title>XLOV Nearly Triples Their 1st-Week Sales Record With “I,God”</news:title>
       <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-treasure-goes-hard-in-new-dance-performance-video-for-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T15:28:01.000Z</news:publication_date>
-      <news:title>Watch: TREASURE Goes Hard In New Dance Performance Video For “IF I”</news:title>
-      <news:keywords>TREASURE, Album, MV, K-Pop, Dance Performance</news:keywords>
     </news:news>
   </url>
 </urlset>
