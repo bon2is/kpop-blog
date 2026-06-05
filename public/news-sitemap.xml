@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/mark-lee-makes-his-first-move-as-a-soloist-sparks-massive-re/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T02:37:37.000Z</news:publication_date>
+      <news:title>Mark Lee Makes His First Move As A Soloist, Sparks Massive Response</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, NCT, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/zerobaseone-members-shocking-video-clip-allegedly-made-from-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T02:24:37.000Z</news:publication_date>
+      <news:title>ZEROBASEONE Member’s Shocking Video Clip Allegedly Made From AI</news:title>
+      <news:keywords>ZEROBASEONE, Debut, AI, K-Pop, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-aomgs-new-girl-group-keyveatz-announces-debut-date-wit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T01:59:20.000Z</news:publication_date>
+      <news:title>Watch: AOMG’s New Girl Group Keyveatz Announces Debut Date With Preview Of “OXY”</news:title>
+      <news:keywords>Debut, Album, MV, Keyveatz, AOMG</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/oh-jung-se-stumbles-upon-an-unconscious-kim-shin-rok-in-fift/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T01:23:50.000Z</news:publication_date>
+      <news:title>Oh Jung Se Stumbles Upon An Unconscious Kim Shin Rok In “Fifties Professionals”</news:title>
+      <news:keywords>K-Drama, Oh Jung Se, Kim Shin Rok, Fifties Professionals, Action-Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T23:27:12.000Z</news:publication_date>
+      <news:title>Watch: Park Eun Bin Gives Yang Se Jong The Ability To See Ghosts In “Spooky In Love” Teaser</news:title>
+      <news:keywords>SEVENTEEN, K-Drama, Park Eun Bin, Yang Se Jong, Spooky in Love</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/zo-in-sung-transforms-into-a-local-resident-with-strong-surv/</loc>
     <news:news>
       <news:publication>
@@ -191,54 +251,6 @@
       <news:publication_date>2026-06-03T05:37:12.000Z</news:publication_date>
       <news:title>Concert Organizers Slammed For No Refund Policy After Top K-Pop Act Cancels</news:title>
       <news:keywords>Concert, Awards, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idols-husband-heartbroken-after-learning-who-was-behin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T01:05:53.000Z</news:publication_date>
-      <news:title>K-Pop Idol’s Husband Heartbroken After Learning Who Was Behind Malicious Comments</news:title>
-      <news:keywords>Awards, Charts, K-Pop, Online Harassment, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-re-enters-billboard-200-and-hot-100-after-american-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T23:00:18.000Z</news:publication_date>
-      <news:title>KATSEYE Re-Enters Billboard 200 And Hot 100 After American Music Awards Performance</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cortis-breaks-personal-record-as-greengreen-spends-3rd-week-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T22:20:34.000Z</news:publication_date>
-      <news:title>CORTIS Breaks Personal Record As “GREENGREEN” Spends 3rd Week On Billboard 200</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/xlov-nearly-triples-their-1st-week-sales-record-with-igod/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T20:57:40.000Z</news:publication_date>
-      <news:title>XLOV Nearly Triples Their 1st-Week Sales Record With “I,God”</news:title>
-      <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
     </news:news>
   </url>
 </urlset>
