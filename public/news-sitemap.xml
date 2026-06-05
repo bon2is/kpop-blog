@@ -229,28 +229,4 @@
       <news:keywords>Comeback, Debut, Charts, Album, Tour</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-riize-covers-apink-and-2pm-in-contrasting-dance-practi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T14:55:12.000Z</news:publication_date>
-      <news:title>Watch: RIIZE Covers Apink And 2PM In Contrasting Dance Practice Videos</news:title>
-      <news:keywords>RIIZE, Debut, Apink, 2PM, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybes-recent-actions-for-bts-trigger-huge-backlash/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T13:55:11.000Z</news:publication_date>
-      <news:title>HYBE’s Recent Actions For BTS Trigger Huge Backlash</news:title>
-      <news:keywords>BTS, NewJeans, LE SSERAFIM, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
 </urlset>
