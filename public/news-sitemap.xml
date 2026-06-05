@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespa-divulge-their-diet-management-secrets/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T11:22:05.000Z</news:publication_date>
+      <news:title>aespa Divulge Their Diet Management Secrets</news:title>
+      <news:keywords>aespa, Debut, K-Pop, Diet, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/itzys-chaeryeong-shocks-with-image-management-since-elementa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T10:21:21.000Z</news:publication_date>
+      <news:title>ITZY’s Chaeryeong Shocks With Image Management Since Elementary School</news:title>
+      <news:keywords>ITZY, Debut, Charts, Chaeryeong, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/almost-became-a-monster-female-k-pop-idol-confesses-to-celeb/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T09:54:03.000Z</news:publication_date>
+      <news:title>“Almost Became A Monster” — Female K-Pop Idol Confesses To Celebrity Disease Experience</news:title>
+      <news:keywords>BTS, BLACKPINK, 4Minute, K-Pop, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-idols-agency-ceos-now-deleted-instagram-story-sparks/</loc>
     <news:news>
       <news:publication>
@@ -215,30 +251,6 @@
       <news:publication_date>2026-06-03T13:55:11.000Z</news:publication_date>
       <news:title>HYBE’s Recent Actions For BTS Trigger Huge Backlash</news:title>
       <news:keywords>BTS, NewJeans, LE SSERAFIM, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girls-generations-tiffany-and-byun-yo-hans-interaction-makes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T09:36:11.000Z</news:publication_date>
-      <news:title>Girls’ Generation’s Tiffany And Byun Yo Han’s Interaction Makes Headlines</news:title>
-      <news:keywords>Girls Generation, SNSD, Debut, Tiffany, Byun Yo Han</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/former-newjeans-danielles-recent-sighting-sparks-huge-reacti/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T09:00:33.000Z</news:publication_date>
-      <news:title>Former NewJeans Danielle’s Recent Sighting Sparks Huge Reactions</news:title>
-      <news:keywords>NewJeans, Comeback, Debut, Awards, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
