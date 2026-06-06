@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespa-scores-1st-ever-entry-on-uks-official-singles-chart-wi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T04:19:13.000Z</news:publication_date>
+      <news:title>aespa Scores 1st-Ever Entry On UK’s Official Singles Chart With “Lemonade”</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, aespa, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/le-sserafim-shares-update-on-kim-chaewons-health-and-upcomin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T02:43:03.000Z</news:publication_date>
+      <news:title>LE SSERAFIM Shares Update On Kim Chaewon’s Health And Upcoming Schedule</news:title>
+      <news:keywords>LE SSERAFIM, Debut, Kim Chaewon, K-Pop, Weverse Con Festival</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/boy-group-members-sexy-thong-outfit-drives-fans-wild/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T22:48:03.000Z</news:publication_date>
+      <news:title>Boy Group Member’s Sexy Thong Outfit Drives Fans Wild</news:title>
+      <news:keywords>Debut, Charts, K-Pop, Boy Group, Fashion</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/newjeans-omg-performance-ver-1-becomes-their-1st-mv-to-hit-4/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T17:09:54.000Z</news:publication_date>
+      <news:title>NewJeans’ “OMG” (Performance Ver. 1) Becomes Their 1st MV To Hit 400 Million Views</news:title>
+      <news:keywords>BTS, BLACKPINK, NewJeans, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/aespa-divulge-their-diet-management-secrets/</loc>
     <news:news>
       <news:publication>
@@ -191,42 +239,6 @@
       <news:publication_date>2026-06-04T05:14:35.000Z</news:publication_date>
       <news:title>Mark Establishes New Label + Launches Official Social Media Channels</news:title>
       <news:keywords>NCT, Mark, Upper Room, K-Pop, Label</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/shin-ha-kyun-and-heo-sung-tae-face-off-in-a-sudden-encounter/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T02:32:17.000Z</news:publication_date>
-      <news:title>Shin Ha Kyun And Heo Sung Tae Face Off In A Sudden Encounter In “Fifties Professionals”</news:title>
-      <news:keywords>K-Drama, Fifties Professionals, Shin Ha Kyun, Heo Sung Tae, Action-Comedy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jennie-enters-top-10-of-billboard-radio-songs-chart-for-1st-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T18:21:08.000Z</news:publication_date>
-      <news:title>Jennie Enters Top 10 Of Billboard Radio Songs Chart For 1st Time With Tame Impala Collab “Dracula”</news:title>
-      <news:keywords>BLACKPINK, Debut, Charts, Jennie, Tame Impala</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-secret-hints-at-comeback-by-launching-official-social-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T17:10:55.000Z</news:publication_date>
-      <news:title>Watch: Secret Hints At Comeback By Launching Official Social Media Accounts</news:title>
-      <news:keywords>Comeback, Debut, Charts, Album, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
