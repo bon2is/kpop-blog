@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 12:03:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 15:15:15 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>aespa’s Giselle Shuts Down Comments About Her Appearance With Brutal Honesty</title>
+      <link>https://kpop.andxo.com/article/aespas-giselle-shuts-down-comments-about-her-appearance-with/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/aespas-giselle-shuts-down-comments-about-her-appearance-with/</guid>
+      <description>aespa&apos;s Giselle shuts down critics with brutal honesty about her appearance.</description>
+      <pubDate>Sat, 06 Jun 2026 14:20:07 GMT</pubDate>
+      <category>tour</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>aespa</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespas-giselle-shuts-down-comments-about-her-appearance-with.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespas-giselle-shuts-down-comments-about-her-appearance-with.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespas-giselle-shuts-down-comments-about-her-appearance-with.webp" />
+    </item>
     <item>
       <title>Female Idol Known For Her Figure Exposes Unusual Diet Tip</title>
       <link>https://kpop.andxo.com/article/female-idol-known-for-her-figure-exposes-unusual-diet-tip/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kang-dong-won-um-tae-goo-and-park-ji-hyun-face-unexpected-ch.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kang-dong-won-um-tae-goo-and-park-ji-hyun-face-unexpected-ch.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kang-dong-won-um-tae-goo-and-park-ji-hyun-face-unexpected-ch.webp" />
-    </item>
-    <item>
-      <title>JYP Entertainment Shares Update On Legal Proceedings Against Individuals Targeting Its Artists</title>
-      <link>https://kpop.andxo.com/article/jyp-entertainment-shares-update-on-legal-proceedings-against/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/jyp-entertainment-shares-update-on-legal-proceedings-against/</guid>
-      <description>JYP Entertainment takes action against online harassers</description>
-      <pubDate>Wed, 20 May 2026 10:27:37 GMT</pubDate>
-      <category>news</category>
-      <category>TWICE</category>
-      <category>Stray Kids</category>
-      <category>ITZY</category>
-      <category>JYP Entertainment</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-entertainment-shares-update-on-legal-proceedings-against.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-entertainment-shares-update-on-legal-proceedings-against.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-entertainment-shares-update-on-legal-proceedings-against.webp" />
     </item>
   </channel>
 </rss>
