@@ -1,19 +1,15 @@
 {
-  "lastUpdated": "2026-06-07T12:15:38.755Z",
+  "lastUpdated": "2026-06-07T15:24:29.578Z",
   "events": [
     {
-      "id": "broadcast-inkigayo-2026-06-07",
-      "date": "2026-06-07",
-      "time": "15:40",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Inkigayo",
-      "description": "SBS Inkigayo weekly music show",
-      "source": "recurring",
+      "id": "soompi-0-2026-06-08",
+      "date": "2026-06-08",
+      "type": "comeback",
+      "artist": "Watch",
+      "title": "Watch: i-dle Announces July Comeback Date With Teaser For &#8220;We made&#8221;",
+      "source": "soompi",
       "links": {
-        "youtube": "https://www.youtube.com/@SBSenter",
-        "official": "https://programs.sbs.co.kr"
+        "official": "https://www.soompi.com/article/1845950wpp/watch-i-dle-announces-july-comeback-date-with-teaser-for-we-made"
       }
     },
     {
@@ -314,6 +310,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-07-08",
+      "date": "2026-07-08",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
