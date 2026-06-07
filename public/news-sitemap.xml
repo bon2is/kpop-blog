@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/riizes-anton-bombarded-with-disturbing-sexual-texts-on-bubbl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T10:05:35.000Z</news:publication_date>
+      <news:title>RIIZE’s Anton Bombarded With Disturbing Sexual Texts On “Bubble”</news:title>
+      <news:keywords>RIIZE, Comeback, Debut, Anton, Online Harassment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/surreal-footage-of-drama-director-screaming-at-former-idol-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T09:02:02.000Z</news:publication_date>
+      <news:title>Surreal Footage Of Drama Director Screaming At Former Idol-Turned-Actress Ends With Unexpected Results</news:title>
+      <news:keywords>K-Drama, K-Pop, Idol, Actress, Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/female-idol-shocks-with-emergency-room-experience-due-to-her/</loc>
     <news:news>
       <news:publication>
@@ -203,42 +227,6 @@
       <news:publication_date>2026-06-05T17:09:54.000Z</news:publication_date>
       <news:title>NewJeans’ “OMG” (Performance Ver. 1) Becomes Their 1st MV To Hit 400 Million Views</news:title>
       <news:keywords>BTS, BLACKPINK, NewJeans, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-divulge-their-diet-management-secrets/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T11:22:05.000Z</news:publication_date>
-      <news:title>aespa Divulge Their Diet Management Secrets</news:title>
-      <news:keywords>aespa, Debut, K-Pop, Diet, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/itzys-chaeryeong-shocks-with-image-management-since-elementa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T10:21:21.000Z</news:publication_date>
-      <news:title>ITZY’s Chaeryeong Shocks With Image Management Since Elementary School</news:title>
-      <news:keywords>ITZY, Debut, Charts, Chaeryeong, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/almost-became-a-monster-female-k-pop-idol-confesses-to-celeb/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T09:54:03.000Z</news:publication_date>
-      <news:title>“Almost Became A Monster” — Female K-Pop Idol Confesses To Celebrity Disease Experience</news:title>
-      <news:keywords>BTS, BLACKPINK, 4Minute, K-Pop, Mental Health</news:keywords>
     </news:news>
   </url>
 </urlset>
