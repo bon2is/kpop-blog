@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/female-idol-shocks-with-emergency-room-experience-due-to-her/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T05:15:10.000Z</news:publication_date>
+      <news:title>Female Idol Shocks With Emergency Room Experience Due To Her Stage Outfit</news:title>
+      <news:keywords>Debut, Awards, K-Pop, Girl Group, Health and Safety</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seo-in-young-announces-plans-to-remarry/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T03:07:11.000Z</news:publication_date>
+      <news:title>Seo In Young Announces Plans To Remarry</news:title>
+      <news:keywords>Seo In Young, K-Pop, Marriage, Engagement, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/singles-inferno-with-a-list-idols-sexy-video-featuring-top-b/</loc>
     <news:news>
       <news:publication>
