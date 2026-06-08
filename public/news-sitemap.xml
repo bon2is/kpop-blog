@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/brutal-criticism-of-top-k-pop-visual-idols-vocals-triggers-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T14:00:03.000Z</news:publication_date>
+      <news:title>Brutal Criticism Of Top K-Pop Visual Idol’s Vocals Triggers Heated Debate</news:title>
+      <news:keywords>Debut, Concert, Album, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseyes-overly-sexy-provocative-outfits-during-recent-perfo/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +71,18 @@
       <news:publication_date>2026-06-08T01:50:36.000Z</news:publication_date>
       <news:title>Watch: Lee Jun Hyuk Is On A Mission To Save Students Possessed By Evil Spirits In New Occult Drama “Excitatio” Teaser</news:title>
       <news:keywords>K-Drama, Lee Jun Hyuk, Excitatio, Occult Drama, Supernatural</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/update-secret-unveils-new-member-yebin-ahead-of-upcoming-com/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T22:59:43.000Z</news:publication_date>
+      <news:title>Update: Secret Unveils New Member Yebin Ahead Of Upcoming Comeback</news:title>
+      <news:keywords>Comeback, Debut, Concert, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -191,30 +215,6 @@
       <news:publication_date>2026-06-06T20:26:25.000Z</news:publication_date>
       <news:title>Idol-Turned-Actress Gets Political And Says She’ll “Leave Her Career Behind” Amid Backlash</news:title>
       <news:keywords>K-Drama, K-Pop, Actress, Politics, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-giselle-shuts-down-comments-about-her-appearance-with/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T14:20:07.000Z</news:publication_date>
-      <news:title>aespa’s Giselle Shuts Down Comments About Her Appearance With Brutal Honesty</news:title>
-      <news:keywords>BTS, BLACKPINK, aespa, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-idol-known-for-her-figure-exposes-unusual-diet-tip/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T10:58:55.000Z</news:publication_date>
-      <news:title>Female Idol Known For Her Figure Exposes Unusual Diet Tip</news:title>
-      <news:keywords>Comeback, Charts, Album, K-Pop, Diet</news:keywords>
     </news:news>
   </url>
 </urlset>
