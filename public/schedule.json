@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-07T15:24:29.578Z",
+  "lastUpdated": "2026-06-08T05:23:17.896Z",
   "events": [
     {
-      "id": "soompi-0-2026-06-08",
+      "id": "soompi-6-2026-06-08",
       "date": "2026-06-08",
       "type": "comeback",
       "artist": "Watch",
-      "title": "Watch: i-dle Announces July Comeback Date With Teaser For &#8220;We made&#8221;",
+      "title": "Watch: Secret Announces Comeback Date With Teaser For 1st Return In 12 Years",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1845950wpp/watch-i-dle-announces-july-comeback-date-with-teaser-for-we-made"
+        "official": "https://www.soompi.com/article/1846081wpp/watch-secret-announces-comeback-date-with-teaser-for-1st-return-in-12-years"
       }
     },
     {
@@ -205,6 +205,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@KBSKpop",
         "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "gnews-concert-33-2026-06-27",
+      "date": "2026-06-27",
+      "type": "concert",
+      "artist": "HEADS UP, INSPIRIT 💛 Infinite’s Kim Sungkyu is bringing his “LV4",
+      "title": "HEADS UP, INSPIRIT 💛 Infinite’s Kim Sungkyu is bringing his “LV4: Leap to Vector” tour to the Philippines. The concert will be held at the UP Theater on June 27 (📷: Kim Sungkyu/X) | via Jaehwa Bernardo, ABS-CBN News - facebook.com",
+      "source": "facebook.com",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT0xOaU1kaFpJLXlqcUREQW9GVlA5RzA4RzhOSE1zOEFpaXduMWhTbkYtRE8xaUF0bzVLZ2dwc0FrckNySlR5MDhpWEhXWldfbjNERWw0algxMGREZnlXTjNFZzZhODRBejU4WVBvU0hSVkxXZ1c1czk2UGlBRmJnRjFodlFsb0VfOFRoOGFUZENEbFd4N2ZoTnBsRkQ1ZFVtdjlXNG5wLXBpUE1wcGhUUmc4R2ZFN2dYbER5ODZiM3RSaWpWN1FweElWVFlJUVlKWHQ1VDZoNA?oc=5"
       }
     },
     {
