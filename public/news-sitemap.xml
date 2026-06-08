@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/katseyes-overly-sexy-provocative-outfits-during-recent-perfo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T08:50:23.000Z</news:publication_date>
+      <news:title>KATSEYE’s “Overly Sexy” Provocative Outfits During Recent Performance Spark Backlash</news:title>
+      <news:keywords>Debut, Charts, KATSEYE, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-unexpected-styling-triggers-divided-respon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T07:24:32.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie’s Unexpected Styling Triggers Divided Response</news:title>
+      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-min-ha-faces-the-challenges-of-an-unfamiliar-world-as-no/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T05:31:41.000Z</news:publication_date>
+      <news:title>Kim Min Ha Faces The Challenges Of An Unfamiliar World As North Korean Defector In “Hana Korea”</news:title>
+      <news:keywords>Awards, K-Drama, Kim Min Ha, Hana Korea, North Korean Defector</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/sm-fiercely-bashed-for-deleting-a-fans-personal-files-at-aes/</loc>
     <news:news>
       <news:publication>
@@ -179,42 +215,6 @@
       <news:publication_date>2026-06-06T10:58:55.000Z</news:publication_date>
       <news:title>Female Idol Known For Her Figure Exposes Unusual Diet Tip</news:title>
       <news:keywords>Comeback, Charts, Album, K-Pop, Diet</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/illits-wonhee-shocks-with-unexpected-dating-confession/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T09:18:26.000Z</news:publication_date>
-      <news:title>ILLIT’s Wonhee Shocks With Unexpected Dating Confession</news:title>
-      <news:keywords>ILLIT, Debut, Wonhee, Dating Confession, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-aging-visuals-in-unedited-photos-trigger-scathing-rea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T08:39:15.000Z</news:publication_date>
-      <news:title>aespa’s “Aging Visuals” In Unedited Photos Trigger Scathing Reactions </news:title>
-      <news:keywords>aespa, Debut, K-pop, Beauty Standards, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5th-gen-idol-told-to-shut-up-after-apology/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T08:32:54.000Z</news:publication_date>
-      <news:title>5th Gen Idol Told To “Shut Up” After Apology</news:title>
-      <news:keywords>Debut, Charts, Album, K-Pop, 5th Generation Idol</news:keywords>
     </news:news>
   </url>
 </urlset>
