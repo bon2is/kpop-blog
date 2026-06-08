@@ -1,17 +1,6 @@
 {
-  "lastUpdated": "2026-06-08T14:40:42.046Z",
+  "lastUpdated": "2026-06-08T17:23:41.752Z",
   "events": [
-    {
-      "id": "soompi-25-2026-06-08",
-      "date": "2026-06-08",
-      "type": "comeback",
-      "artist": "Watch",
-      "title": "Watch: i-dle Announces July Comeback Date With Teaser For &#8220;We made&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1845950wpp/watch-i-dle-announces-july-comeback-date-with-teaser-for-we-made"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-06-10",
       "date": "2026-06-10",
@@ -208,7 +197,7 @@
       }
     },
     {
-      "id": "gnews-concert-32-2026-06-27",
+      "id": "gnews-concert-34-2026-06-27",
       "date": "2026-06-27",
       "type": "concert",
       "artist": "HEADS UP, INSPIRIT 💛 Infinite’s Kim Sungkyu is bringing his “LV4",
@@ -336,6 +325,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-07-09",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
