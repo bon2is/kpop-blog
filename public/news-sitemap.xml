@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/viral-post-about-btss-j-hope-and-twices-nayeon-relationship-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T13:25:09.000Z</news:publication_date>
+      <news:title>Viral Post About BTS’s J-Hope And TWICE’s Nayeon “Relationship” Sparks Huge Reactions</news:title>
+      <news:keywords>BTS, TWICE, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/male-k-pop-idol-is-unrecognizable-in-latest-update/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T12:31:40.000Z</news:publication_date>
+      <news:title>Male K-Pop Idol Is Unrecognizable In Latest Update</news:title>
+      <news:keywords>K-Pop, Idol Transformation, Comeback, Beauty Standards, Self-Expression</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/4-biggest-moments-from-episodes-3-4-of-love-class-3/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T08:39:56.000Z</news:publication_date>
+      <news:title>4 Biggest Moments From Episodes 3-4 Of “Love Class 3”</news:title>
+      <news:keywords>K-Drama, Love Class 3, K-Pop, BL Drama, Idol Storyline</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/le-sserafims-recent-video-allegedly-uses-bts-vs-dog-for-cont/</loc>
     <news:news>
       <news:publication>
@@ -143,30 +179,6 @@
       <news:publication_date>2026-06-07T14:40:16.000Z</news:publication_date>
       <news:title>Watch: ILLIT Takes 2nd Win For “It’s Me” On “Inkigayo”; Performances By aespa, TREASURE, MAMAMOO, And More</news:title>
       <news:keywords>aespa, TREASURE, MAMAMOO, ILLIT, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/riizes-anton-bombarded-with-disturbing-sexual-texts-on-bubbl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T10:05:35.000Z</news:publication_date>
-      <news:title>RIIZE’s Anton Bombarded With Disturbing Sexual Texts On “Bubble”</news:title>
-      <news:keywords>RIIZE, Comeback, Debut, Anton, Online Harassment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/surreal-footage-of-drama-director-screaming-at-former-idol-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T09:02:02.000Z</news:publication_date>
-      <news:title>Surreal Footage Of Drama Director Screaming At Former Idol-Turned-Actress Ends With Unexpected Results</news:title>
-      <news:keywords>K-Drama, K-Pop, Idol, Actress, Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
