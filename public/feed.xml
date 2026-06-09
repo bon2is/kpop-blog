@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 13:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 16:31:29 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BOYNEXTDOOR Tops iTunes Charts + Lands All Songs From “HOME” In Top 30 Of Melon 100</title>
+      <link>https://kpop.andxo.com/article/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-/</guid>
+      <description>BOYNEXTDOOR tops iTunes charts with their new album &apos;HOME&apos;!</description>
+      <pubDate>Tue, 09 Jun 2026 14:45:01 GMT</pubDate>
+      <category>comeback</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>BOYNEXTDOOR</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-.webp" />
+    </item>
     <item>
       <title>Viral Post About BTS’s J-Hope And TWICE’s Nayeon “Relationship” Sparks Huge Reactions</title>
       <link>https://kpop.andxo.com/article/viral-post-about-btss-j-hope-and-twices-nayeon-relationship-/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/celebrity-reveals-the-wrongdoings-that-broke-his-friendship-.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/celebrity-reveals-the-wrongdoings-that-broke-his-friendship-.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/celebrity-reveals-the-wrongdoings-that-broke-his-friendship-.webp" />
-    </item>
-    <item>
-      <title>Kwon Eunbin Parts Ways With Cube Entertainment</title>
-      <link>https://kpop.andxo.com/article/kwon-eunbin-parts-ways-with-cube-entertainment/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/kwon-eunbin-parts-ways-with-cube-entertainment/</guid>
-      <description>Kwon Eunbin leaves Cube Entertainment after 10 years.</description>
-      <pubDate>Fri, 22 May 2026 02:57:54 GMT</pubDate>
-      <category>comeback</category>
-      <category>Debut</category>
-      <category>Kwon Eunbin</category>
-      <category>CLC</category>
-      <category>Cube Entertainment</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kwon-eunbin-parts-ways-with-cube-entertainment.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kwon-eunbin-parts-ways-with-cube-entertainment.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/kwon-eunbin-parts-ways-with-cube-entertainment.webp" />
     </item>
   </channel>
 </rss>

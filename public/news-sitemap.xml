@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T14:45:01.000Z</news:publication_date>
+      <news:title>BOYNEXTDOOR Tops iTunes Charts + Lands All Songs From “HOME” In Top 30 Of Melon 100</news:title>
+      <news:keywords>BTS, BLACKPINK, BOYNEXTDOOR, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/viral-post-about-btss-j-hope-and-twices-nayeon-relationship-/</loc>
     <news:news>
       <news:publication>
@@ -143,42 +155,6 @@
       <news:publication_date>2026-06-07T22:59:43.000Z</news:publication_date>
       <news:title>Update: Secret Unveils New Member Yebin Ahead Of Upcoming Comeback</news:title>
       <news:keywords>Comeback, Debut, Concert, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ahof-announces-return-with-pre-release-single-sugar-high/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T16:18:11.000Z</news:publication_date>
-      <news:title>AHOF Announces Return With Pre-Release Single “Sugar High”</news:title>
-      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-le-sserafim-illit-and-katseye-announce-collab-single-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T15:31:17.000Z</news:publication_date>
-      <news:title>Watch: LE SSERAFIM, ILLIT, And KATSEYE Announce Collab Single “ICONIC BY MISTAKE” + Reveal Promotion Schedule</news:title>
-      <news:keywords>LE SSERAFIM, ILLIT, Debut, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-illit-takes-2nd-win-for-its-me-on-inkigayo-performance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T14:40:16.000Z</news:publication_date>
-      <news:title>Watch: ILLIT Takes 2nd Win For “It’s Me” On “Inkigayo”; Performances By aespa, TREASURE, MAMAMOO, And More</news:title>
-      <news:keywords>aespa, TREASURE, MAMAMOO, ILLIT, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>

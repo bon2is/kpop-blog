@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T13:35:27.884Z",
+  "lastUpdated": "2026-06-09T16:31:26.864Z",
   "events": [
     {
       "id": "broadcast-show-champion-2026-06-10",
@@ -197,7 +197,7 @@
       }
     },
     {
-      "id": "gnews-concert-33-2026-06-27",
+      "id": "gnews-concert-36-2026-06-27",
       "date": "2026-06-27",
       "type": "concert",
       "artist": "HEADS UP, INSPIRIT 💛 Infinite’s Kim Sungkyu is bringing his “LV4",
@@ -340,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-07-10",
+      "date": "2026-07-10",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
       }
     }
   ]
