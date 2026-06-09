@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/le-sserafims-recent-video-allegedly-uses-bts-vs-dog-for-cont/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T04:11:27.000Z</news:publication_date>
+      <news:title>LE SSERAFIM’s Recent Video Allegedly Uses BTS V’s Dog For Content</news:title>
+      <news:keywords>BTS, LE SSERAFIM, Debut, K-Pop Controversy, Animal Ethics</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-fifth-gen-idols-heart-wrenching-pre-debut-story-spar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T03:16:05.000Z</news:publication_date>
+      <news:title>Popular Fifth-Gen Idol’s Heart-Wrenching Pre-Debut Story Sparks Huge Response</news:title>
+      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/brutal-criticism-of-top-k-pop-visual-idols-vocals-triggers-h/</loc>
     <news:news>
       <news:publication>
@@ -155,66 +179,6 @@
       <news:publication_date>2026-06-07T05:15:10.000Z</news:publication_date>
       <news:title>Female Idol Shocks With Emergency Room Experience Due To Her Stage Outfit</news:title>
       <news:keywords>Debut, Awards, K-Pop, Girl Group, Health and Safety</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seo-in-young-announces-plans-to-remarry/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T03:07:11.000Z</news:publication_date>
-      <news:title>Seo In Young Announces Plans To Remarry</news:title>
-      <news:keywords>Seo In Young, K-Pop, Marriage, Engagement, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/singles-inferno-with-a-list-idols-sexy-video-featuring-top-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T23:15:59.000Z</news:publication_date>
-      <news:title>“Single’s Inferno” With A-List Idols? — Sexy Video Featuring Top Boy Group And Girl Group Members Stirs Up The Heat</news:title>
-      <news:keywords>Awards, Charts, Album, MV, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actor-reveals-his-k-pop-idol-brother-got-him-quite-a-grand-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T22:00:51.000Z</news:publication_date>
-      <news:title>Actor Reveals His K-Pop Idol Brother Got Him Quite A Grand Birthday Gift</news:title>
-      <news:keywords>Album, Tour, K-Drama, K-Pop, Birthday Gift</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yet-another-twice-jihyo-fancam-goes-viral/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T20:44:00.000Z</news:publication_date>
-      <news:title>Yet Another TWICE Jihyo Fancam Goes Viral</news:title>
-      <news:keywords>TWICE, Awards, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-turned-actress-gets-political-and-says-shell-leave-her-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T20:26:25.000Z</news:publication_date>
-      <news:title>Idol-Turned-Actress Gets Political And Says She’ll “Leave Her Career Behind” Amid Backlash</news:title>
-      <news:keywords>K-Drama, K-Pop, Actress, Politics, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
