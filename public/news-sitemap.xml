@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/beloved-idol-reveals-his-own-mother-almost-ruined-his-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T01:16:14.000Z</news:publication_date>
+      <news:title>Beloved Idol Reveals His Own Mother Almost Ruined His Debut</news:title>
+      <news:keywords>Debut, K-Pop, Idol, Mother, Tough Love</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-lee-jae-wook-to-debut-as-singer-with-song-produced-by-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T00:34:39.000Z</news:publication_date>
+      <news:title>Watch: Lee Jae Wook To Debut As Singer With Song Produced By 2AM’s Lim Seul Ong</news:title>
+      <news:keywords>Debut, Album, Lee Jae Wook, K-Pop, Singer</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/cortiss-greengreen-becomes-their-1st-album-to-spend-4-weeks-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T21:15:51.000Z</news:publication_date>
+      <news:title>CORTIS’s “GREENGREEN” Becomes Their 1st Album To Spend 4 Weeks In Top 50 Of Billboard 200</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-classy-drops-teaser-for-1st-comeback-in-a-year-and-a-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T17:06:57.000Z</news:publication_date>
+      <news:title>Watch: CLASS:y Drops Teaser For 1st Comeback In A Year And A Half</news:title>
+      <news:keywords>Comeback, Debut, Album, MV, CLASS:y</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-/</loc>
     <news:news>
       <news:publication>
@@ -119,42 +167,6 @@
       <news:publication_date>2026-06-08T05:31:41.000Z</news:publication_date>
       <news:title>Kim Min Ha Faces The Challenges Of An Unfamiliar World As North Korean Defector In “Hana Korea”</news:title>
       <news:keywords>Awards, K-Drama, Kim Min Ha, Hana Korea, North Korean Defector</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sm-fiercely-bashed-for-deleting-a-fans-personal-files-at-aes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T04:44:38.000Z</news:publication_date>
-      <news:title>SM Fiercely Bashed For Deleting A Fan’s Personal Files At aespa’s Fan Sign</news:title>
-      <news:keywords>aespa, Debut, SM Entertainment, Fan Sign Event, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-lee-jun-hyuk-is-on-a-mission-to-save-students-possesse/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T01:50:36.000Z</news:publication_date>
-      <news:title>Watch: Lee Jun Hyuk Is On A Mission To Save Students Possessed By Evil Spirits In New Occult Drama “Excitatio” Teaser</news:title>
-      <news:keywords>K-Drama, Lee Jun Hyuk, Excitatio, Occult Drama, Supernatural</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/update-secret-unveils-new-member-yebin-ahead-of-upcoming-com/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T22:59:43.000Z</news:publication_date>
-      <news:title>Update: Secret Unveils New Member Yebin Ahead Of Upcoming Comeback</news:title>
-      <news:keywords>Comeback, Debut, Concert, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
