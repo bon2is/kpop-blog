@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-yoon-ho-in-talks-for-boxer-role-previously-offered-to-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T08:22:09.000Z</news:publication_date>
+      <news:title>Park Yoon Ho In Talks For Boxer Role Previously Offered To Park Ji Hoon</news:title>
+      <news:keywords>K-Drama, Park Yoon Ho, Park Ji Hoon, Promoter, Boxing</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-lee-kwang-soo-kim-woo-bin-and-doh-kyung-soo-experience/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T07:11:46.000Z</news:publication_date>
+      <news:title>Watch: Lee Kwang Soo, Kim Woo Bin, And Doh Kyung Soo Experience Livestock Farming In “GBRB: Farm Operation – Go Go Farm”</news:title>
+      <news:keywords>EXO, Lee Kwang Soo, Kim Woo Bin, Doh Kyung Soo, GBRB: Farm Operation – Go Go Farm</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/beloved-idol-reveals-his-own-mother-almost-ruined-his-debut/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-06-10T00:34:39.000Z</news:publication_date>
       <news:title>Watch: Lee Jae Wook To Debut As Singer With Song Produced By 2AM’s Lim Seul Ong</news:title>
       <news:keywords>Debut, Album, Lee Jae Wook, K-Pop, Singer</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/music-bank-to-go-off-air-for-2-weeks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T22:42:35.000Z</news:publication_date>
+      <news:title>“Music Bank” To Go Off Air For 2 Weeks</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Debut, Charts</news:keywords>
     </news:news>
   </url>
   <url>
@@ -143,30 +179,6 @@
       <news:publication_date>2026-06-08T08:50:23.000Z</news:publication_date>
       <news:title>KATSEYE’s “Overly Sexy” Provocative Outfits During Recent Performance Spark Backlash</news:title>
       <news:keywords>Debut, Charts, KATSEYE, K-Pop, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-unexpected-styling-triggers-divided-respon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T07:24:32.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie’s Unexpected Styling Triggers Divided Response</news:title>
-      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-min-ha-faces-the-challenges-of-an-unfamiliar-world-as-no/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T05:31:41.000Z</news:publication_date>
-      <news:title>Kim Min Ha Faces The Challenges Of An Unfamiliar World As North Korean Defector In “Hana Korea”</news:title>
-      <news:keywords>Awards, K-Drama, Kim Min Ha, Hana Korea, North Korean Defector</news:keywords>
     </news:news>
   </url>
 </urlset>
