@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-vs-new-hair-is-confusing-everybody/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T14:16:21.000Z</news:publication_date>
+      <news:title>BTS V’s New Hair Is Confusing Everybody</news:title>
+      <news:keywords>BTS, Charts, Album, MV, V</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/sm-entertainment-idol-confesses-his-first-relationship-was-w/</loc>
     <news:news>
       <news:publication>
@@ -191,30 +203,6 @@
       <news:publication_date>2026-06-09T21:15:51.000Z</news:publication_date>
       <news:title>CORTIS’s “GREENGREEN” Becomes Their 1st Album To Spend 4 Weeks In Top 50 Of Billboard 200</news:title>
       <news:keywords>Comeback, Debut, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-classy-drops-teaser-for-1st-comeback-in-a-year-and-a-h/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T17:06:57.000Z</news:publication_date>
-      <news:title>Watch: CLASS:y Drops Teaser For 1st Comeback In A Year And A Half</news:title>
-      <news:keywords>Comeback, Debut, Album, MV, CLASS:y</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/boynextdoor-tops-itunes-charts-lands-all-songs-from-home-in-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T14:45:01.000Z</news:publication_date>
-      <news:title>BOYNEXTDOOR Tops iTunes Charts + Lands All Songs From “HOME” In Top 30 Of Melon 100</news:title>
-      <news:keywords>BTS, BLACKPINK, BOYNEXTDOOR, Comeback, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -1,32 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T14:26:55.814Z",
+  "lastUpdated": "2026-06-11T17:36:49.858Z",
   "events": [
-    {
-      "id": "soompi-11-2026-06-11",
-      "date": "2026-06-11",
-      "type": "concert",
-      "artist": "BIGBANG",
-      "title": "BIGBANG Announces Stops For 2026 World Tour",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1846974wpp/bigbang-announces-stops-for-2026-world-tour"
-      }
-    },
-    {
-      "id": "broadcast-m-countdown-2026-06-11",
-      "date": "2026-06-11",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "M Countdown",
-      "description": "Mnet weekly music countdown show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MnetMcountdown",
-        "official": "https://www.mnet.com"
-      }
-    },
     {
       "id": "broadcast-music-bank-2026-06-12",
       "date": "2026-06-12",
@@ -355,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@mbckpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-07-12",
+      "date": "2026-07-12",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
       }
     }
   ]
