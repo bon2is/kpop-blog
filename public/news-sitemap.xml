@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-flawless-goddess-visuals-has-netizens-sho/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T07:21:57.000Z</news:publication_date>
+      <news:title>IVE Jang Wonyoung’s Flawless Goddess Visuals Has Netizens Shook</news:title>
+      <news:keywords>IVE, Debut, Charts, Jang Wonyoung, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/got7-youngjaes-side-accuses-musical-dream-high-2-of-lying-in/</loc>
     <news:news>
       <news:publication>
@@ -215,18 +227,6 @@
       <news:publication_date>2026-06-09T12:31:40.000Z</news:publication_date>
       <news:title>Male K-Pop Idol Is Unrecognizable In Latest Update</news:title>
       <news:keywords>K-Pop, Idol Transformation, Comeback, Beauty Standards, Self-Expression</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4-biggest-moments-from-episodes-3-4-of-love-class-3/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T08:39:56.000Z</news:publication_date>
-      <news:title>4 Biggest Moments From Episodes 3-4 Of “Love Class 3”</news:title>
-      <news:keywords>K-Drama, Love Class 3, K-Pop, BL Drama, Idol Storyline</news:keywords>
     </news:news>
   </url>
 </urlset>

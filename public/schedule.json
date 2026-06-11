@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-11T05:20:05.955Z",
+  "lastUpdated": "2026-06-11T09:08:44.311Z",
   "events": [
     {
-      "id": "soompi-1-2026-06-11",
+      "id": "soompi-7-2026-06-11",
       "date": "2026-06-11",
       "type": "concert",
       "artist": "BIGBANG",
@@ -70,6 +70,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "gnews-comeback-19-2026-06-15",
+      "date": "2026-06-15",
+      "type": "comeback",
+      "artist": "RIIZE",
+      "title": "RIIZE's Comeback: Second Mini 'II' June 15 - 조선일보",
+      "source": "조선일보",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2txU0tHTnI5OU9IV3dXQVkwdDh4WkE2R2c0VEptdG9mVVZZMUJ0MkpkZGRWWmozc3ZTSTZMeTdWbE1IczNXeFBCYkEyWkRRYVBoenlOT3g5TjVPZW5zb3hyTXlFZ3o2N2Y0RE41QUNnQTllM3lsd2FXX3h2NUY0c3Mzdi1UbFdkUXNXTHBn?oc=5"
       }
     },
     {
