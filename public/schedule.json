@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-10T16:58:25.282Z",
+  "lastUpdated": "2026-06-11T05:20:05.955Z",
   "events": [
+    {
+      "id": "soompi-1-2026-06-11",
+      "date": "2026-06-11",
+      "type": "concert",
+      "artist": "BIGBANG",
+      "title": "BIGBANG Announces Stops For 2026 World Tour",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1846974wpp/bigbang-announces-stops-for-2026-world-tour"
+      }
+    },
     {
       "id": "broadcast-m-countdown-2026-06-11",
       "date": "2026-06-11",

@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/got7-youngjaes-side-accuses-musical-dream-high-2-of-lying-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T03:29:38.000Z</news:publication_date>
+      <news:title>GOT7 Youngjae’s Side Accuses Musical “Dream High 2” Of Lying In Their Official Statement</news:title>
+      <news:keywords>GOT7, K-Drama, Youngjae, Dream High 2, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/evan-heeseung-announces-solo-debut-with-teasers-for-ride-or-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T03:26:31.000Z</news:publication_date>
+      <news:title>EVAN (Heeseung) Announces Solo Debut With Teasers For “RIDE OR DIE”</news:title>
+      <news:keywords>BTS, BLACKPINK, ENHYPEN, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-for-free-in-southeast-asia-philippine-variety-show-kum/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T01:11:57.000Z</news:publication_date>
+      <news:title>Watch For Free In Southeast Asia: Philippine Variety Show “Kumusta” With Ji Chang Wook Available On Viki</news:title>
+      <news:keywords>Ji Chang Wook, Kumusta, Filipino-Korean Variety Show, Viki, Southeast Asia</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/stars-who-got-married-quickly-after-breaking-up-will-sooyoun/</loc>
     <news:news>
       <news:publication>
@@ -71,6 +107,18 @@
       <news:publication_date>2026-06-10T07:11:46.000Z</news:publication_date>
       <news:title>Watch: Lee Kwang Soo, Kim Woo Bin, And Doh Kyung Soo Experience Livestock Farming In “GBRB: Farm Operation – Go Go Farm”</news:title>
       <news:keywords>EXO, Lee Kwang Soo, Kim Woo Bin, Doh Kyung Soo, GBRB: Farm Operation – Go Go Farm</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kwon-so-hyun-is-an-idol-turned-actress-who-looks-down-on-her/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T06:37:28.000Z</news:publication_date>
+      <news:title>Kwon So Hyun Is An Idol-Turned Actress Who Looks Down On Her Former Groupmate In New Drama “Love In Sync”</news:title>
+      <news:keywords>Debut, K-Drama, Kwon So Hyun, 4Minute, Love In Sync</news:keywords>
     </news:news>
   </url>
   <url>
@@ -179,30 +227,6 @@
       <news:publication_date>2026-06-09T08:39:56.000Z</news:publication_date>
       <news:title>4 Biggest Moments From Episodes 3-4 Of “Love Class 3”</news:title>
       <news:keywords>K-Drama, Love Class 3, K-Pop, BL Drama, Idol Storyline</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafims-recent-video-allegedly-uses-bts-vs-dog-for-cont/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T04:11:27.000Z</news:publication_date>
-      <news:title>LE SSERAFIM’s Recent Video Allegedly Uses BTS V’s Dog For Content</news:title>
-      <news:keywords>BTS, LE SSERAFIM, Debut, K-Pop Controversy, Animal Ethics</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-fifth-gen-idols-heart-wrenching-pre-debut-story-spar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T03:16:05.000Z</news:publication_date>
-      <news:title>Popular Fifth-Gen Idol’s Heart-Wrenching Pre-Debut Story Sparks Huge Response</news:title>
-      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Awards</news:keywords>
     </news:news>
   </url>
 </urlset>
