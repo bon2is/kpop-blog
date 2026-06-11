@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 09:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:26:58 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>SM Entertainment Idol Confesses His First Relationship Was With An Older Woman He Met At A Nightclub</title>
+      <link>https://kpop.andxo.com/article/sm-entertainment-idol-confesses-his-first-relationship-was-w/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/sm-entertainment-idol-confesses-his-first-relationship-was-w/</guid>
+      <description>SM Entertainment idol reveals first relationship was with an older woman met at a nightclub</description>
+      <pubDate>Thu, 11 Jun 2026 13:35:19 GMT</pubDate>
+      <category>drama</category>
+      <category>SM Entertainment</category>
+      <category>K-Pop</category>
+      <category>Love War</category>
+      <category>Reality TV</category>
+      <category>Celebrity Culture</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/sm-entertainment-idol-confesses-his-first-relationship-was-w.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/sm-entertainment-idol-confesses-his-first-relationship-was-w.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/sm-entertainment-idol-confesses-his-first-relationship-was-w.webp" />
+    </item>
     <item>
       <title>IVE Jang Wonyoung’s Flawless Goddess Visuals Has Netizens Shook</title>
       <link>https://kpop.andxo.com/article/ive-jang-wonyoungs-flawless-goddess-visuals-has-netizens-sho/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-female-idol-brutally-criticized-after-accusations-of-cop.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-female-idol-brutally-criticized-after-accusations-of-cop.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-female-idol-brutally-criticized-after-accusations-of-cop.webp" />
-    </item>
-    <item>
-      <title>“Break Up?” BTS Jungkook’s Recent Instagram Post Sparks Major Attention</title>
-      <link>https://kpop.andxo.com/article/break-up-bts-jungkooks-recent-instagram-post-sparks-major-at/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/break-up-bts-jungkooks-recent-instagram-post-sparks-major-at/</guid>
-      <description>BTS Jungkook sparks concern with cryptic post</description>
-      <pubDate>Mon, 01 Jun 2026 08:45:14 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>Awards</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <category>Jungkook</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/break-up-bts-jungkooks-recent-instagram-post-sparks-major-at.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/break-up-bts-jungkooks-recent-instagram-post-sparks-major-at.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/break-up-bts-jungkooks-recent-instagram-post-sparks-major-at.webp" />
     </item>
   </channel>
 </rss>
