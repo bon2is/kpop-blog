@@ -1,21 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T13:56:37.101Z",
+  "lastUpdated": "2026-06-12T16:44:31.189Z",
   "events": [
-    {
-      "id": "broadcast-music-bank-2026-06-12",
-      "date": "2026-06-12",
-      "time": "17:10",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Music Bank",
-      "description": "KBS Music Bank weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@KBSKpop",
-        "official": "https://www.kbs.co.kr"
-      }
-    },
     {
       "id": "broadcast-show--music-core-2026-06-13",
       "date": "2026-06-13",
