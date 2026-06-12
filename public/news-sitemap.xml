@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-female-idol-looks-totally-unrecognizable-sparks-plas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T06:36:21.000Z</news:publication_date>
+      <news:title>Popular Female Idol Looks Totally Unrecognizable, Sparks Plastic Surgery Rumors</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-sophias-remarks-spark-speculation-on-manons-return/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T05:38:19.000Z</news:publication_date>
+      <news:title>KATSEYE Sophia’s Remarks Spark Speculation On Manon’s Return</news:title>
+      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-female-idol-shows-off-slim-figure-after-losing-20kg/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-06-12T03:19:12.000Z</news:publication_date>
       <news:title>aespa Karina’s Sudden Change In Appearance At World Cup Sparks Divided Reactions</news:title>
       <news:keywords>aespa, Debut, Awards, Charts, Karina</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/6-k-pop-idols-that-are-rocking-this-summers-hottest-and-cool/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T02:20:02.000Z</news:publication_date>
+      <news:title>6 K-Pop Idols That Are Rocking This Summer’s Hottest (And Coolest) Color</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Red Velvet, ITZY</news:keywords>
     </news:news>
   </url>
   <url>
@@ -167,42 +203,6 @@
       <news:publication_date>2026-06-10T10:16:30.000Z</news:publication_date>
       <news:title>BTS V’s Unedited “Bareface” Visuals Exposed In New Photos, Sparking Shock</news:title>
       <news:keywords>BTS, Awards, Album, Tour, V</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-yoon-ho-in-talks-for-boxer-role-previously-offered-to-p/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T08:22:09.000Z</news:publication_date>
-      <news:title>Park Yoon Ho In Talks For Boxer Role Previously Offered To Park Ji Hoon</news:title>
-      <news:keywords>K-Drama, Park Yoon Ho, Park Ji Hoon, Promoter, Boxing</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-lee-kwang-soo-kim-woo-bin-and-doh-kyung-soo-experience/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T07:11:46.000Z</news:publication_date>
-      <news:title>Watch: Lee Kwang Soo, Kim Woo Bin, And Doh Kyung Soo Experience Livestock Farming In “GBRB: Farm Operation – Go Go Farm”</news:title>
-      <news:keywords>EXO, Lee Kwang Soo, Kim Woo Bin, Doh Kyung Soo, GBRB: Farm Operation – Go Go Farm</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kwon-so-hyun-is-an-idol-turned-actress-who-looks-down-on-her/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T06:37:28.000Z</news:publication_date>
-      <news:title>Kwon So Hyun Is An Idol-Turned Actress Who Looks Down On Her Former Groupmate In New Drama “Love In Sync”</news:title>
-      <news:keywords>Debut, K-Drama, Kwon So Hyun, 4Minute, Love In Sync</news:keywords>
     </news:news>
   </url>
 </urlset>
