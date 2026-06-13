@@ -1,43 +1,6 @@
 {
-  "lastUpdated": "2026-06-13T12:19:24.817Z",
+  "lastUpdated": "2026-06-13T15:43:31.907Z",
   "events": [
-    {
-      "id": "gnews-comeback-0-2026-06-13",
-      "date": "2026-06-13",
-      "type": "concert",
-      "artist": "BTS",
-      "title": "FOREVER WE ARE YOUNG 🥺💜 BTS celebrates its 13th anniversary today, June 13, 2026! The K-pop group is coming to Manila on March 13 and 14, 2027, for their comeback world tour. What’s your message for them, ARMY? - facebook.com",
-      "source": "facebook.com",
-      "links": {
-        "official": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBkNkRrWTlTLXhxcVItZVNITGJQTWxyZ0l6OFhCem9tTmhkcFI0cTlHbVVtdFpQejR0bDZySGZvWGhxUkdwQldNa1laU01xNTQ5OGNTdUlnamQ5T2dYS2VJeWd1LXBzRl9ZbU9fZFBqbWVBdGxxQTRfYS1TOWhwdVlqaUVpeGlmamFpSmY3Vnd5d3dHdnoxbUVYalVXc1V6b21pV0lETG9Db2Y4TjBxZXVyNXUzZlNDNEVWMDJhNFdQclRZV0otcFR3U1FlZWVJYVgxcktzWEpKbDBf?oc=5"
-      }
-    },
-    {
-      "id": "soompi-1-2026-06-13",
-      "date": "2026-06-13",
-      "type": "concert",
-      "artist": "Jay Park",
-      "title": "Jay Park Announces 2026 World Tour Stops With LNGSHOT",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1847441wpp/jay-park-announces-2026-world-tour-stops-with-lngshot"
-      }
-    },
-    {
-      "id": "broadcast-show--music-core-2026-06-13",
-      "date": "2026-06-13",
-      "time": "17:15",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show! Music Core",
-      "description": "MBC Show! Music Core weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@mbckpop",
-        "official": "https://www.imbc.com"
-      }
-    },
     {
       "id": "broadcast-inkigayo-2026-06-14",
       "date": "2026-06-14",
