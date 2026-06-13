@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/boynextdoors-home-becomes-their-4th-million-seller-album/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T05:05:22.000Z</news:publication_date>
+      <news:title>BOYNEXTDOOR’s “HOME” Becomes Their 4th Million-Seller Album</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, NewJeans, BOYNEXTDOOR</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/3rd-gen-girl-group-idol-announces-marriage-to-japanese-fianc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T03:15:53.000Z</news:publication_date>
+      <news:title>3rd-Gen Girl Group Idol Announces Marriage To Japanese Fiancé</news:title>
+      <news:keywords>Debut, Awards, Charts, K-Pop, Marriage</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/celebrity-couples-heart-fluttering-size-difference-drives-ne/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T02:48:13.000Z</news:publication_date>
+      <news:title>Celebrity Couple’s Heart-Fluttering Size Difference Drives Netizens Crazy</news:title>
+      <news:keywords>K-Pop, Celebrity Couple, Height Difference, Love Story, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/3-moments-that-showed-camaraderie-in-episodes-9-10-of-the-le/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T01:35:00.000Z</news:publication_date>
+      <news:title>3 Moments That Showed Camaraderie In Episodes 9-10 Of “The Legend Of Kitchen Soldier”</news:title>
+      <news:keywords>K-Drama, The Legend Of Kitchen Soldier, Park Ji Hoon, Military Drama, Camaraderie</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-goblin-cast-reunites-with-the-same-chaotic-yet-heartfe/</loc>
     <news:news>
       <news:publication>
@@ -143,42 +191,6 @@
       <news:publication_date>2026-06-11T06:07:43.000Z</news:publication_date>
       <news:title>U-KISS’s Eli Announces Marriage</news:title>
       <news:keywords>Comeback, U-KISS, Eli, Marriage, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/got7-youngjaes-side-accuses-musical-dream-high-2-of-lying-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T03:29:38.000Z</news:publication_date>
-      <news:title>GOT7 Youngjae’s Side Accuses Musical “Dream High 2” Of Lying In Their Official Statement</news:title>
-      <news:keywords>GOT7, K-Drama, Youngjae, Dream High 2, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/evan-heeseung-announces-solo-debut-with-teasers-for-ride-or-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T03:26:31.000Z</news:publication_date>
-      <news:title>EVAN (Heeseung) Announces Solo Debut With Teasers For “RIDE OR DIE”</news:title>
-      <news:keywords>BTS, BLACKPINK, ENHYPEN, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-for-free-in-southeast-asia-philippine-variety-show-kum/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T01:11:57.000Z</news:publication_date>
-      <news:title>Watch For Free In Southeast Asia: Philippine Variety Show “Kumusta” With Ji Chang Wook Available On Viki</news:title>
-      <news:keywords>Ji Chang Wook, Kumusta, Filipino-Korean Variety Show, Viki, Southeast Asia</news:keywords>
     </news:news>
   </url>
 </urlset>
