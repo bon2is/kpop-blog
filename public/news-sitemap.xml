@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-lisas-world-cup-performance-hit-with-backlash-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T09:02:23.000Z</news:publication_date>
+      <news:title>BLACKPINK Lisa’s “World Cup” Performance Hit With Backlash </news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/oh-jung-se-throws-himself-in-front-of-a-car-to-save-kim-shin/</loc>
     <news:news>
       <news:publication>

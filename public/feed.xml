@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 08:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 12:19:27 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BLACKPINK Lisa’s “World Cup” Performance Hit With Backlash </title>
+      <link>https://kpop.andxo.com/article/blackpink-lisas-world-cup-performance-hit-with-backlash-/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpink-lisas-world-cup-performance-hit-with-backlash-/</guid>
+      <description>BLACKPINK Lisa faces backlash for World Cup performance</description>
+      <pubDate>Sat, 13 Jun 2026 09:02:23 GMT</pubDate>
+      <category>comeback</category>
+      <category>BLACKPINK</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <category>Charts</category>
+      <category>Album</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisas-world-cup-performance-hit-with-backlash-.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisas-world-cup-performance-hit-with-backlash-.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisas-world-cup-performance-hit-with-backlash-.webp" />
+    </item>
     <item>
       <title>Oh Jung Se Throws Himself In Front Of A Car To Save Kim Shin Rok In “Fifties Professionals”</title>
       <link>https://kpop.andxo.com/article/oh-jung-se-throws-himself-in-front-of-a-car-to-save-kim-shin/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-re-enters-billboard-200-and-hot-100-after-american-m.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-re-enters-billboard-200-and-hot-100-after-american-m.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseye-re-enters-billboard-200-and-hot-100-after-american-m.webp" />
-    </item>
-    <item>
-      <title>CORTIS Breaks Personal Record As “GREENGREEN” Spends 3rd Week On Billboard 200</title>
-      <link>https://kpop.andxo.com/article/cortis-breaks-personal-record-as-greengreen-spends-3rd-week-/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/cortis-breaks-personal-record-as-greengreen-spends-3rd-week-/</guid>
-      <description>CORTIS breaks personal record with 3rd week on Billboard 200</description>
-      <pubDate>Tue, 02 Jun 2026 22:20:34 GMT</pubDate>
-      <category>audition</category>
-      <category>BTS</category>
-      <category>BLACKPINK</category>
-      <category>Debut</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/cortis-breaks-personal-record-as-greengreen-spends-3rd-week-.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/cortis-breaks-personal-record-as-greengreen-spends-3rd-week-.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/cortis-breaks-personal-record-as-greengreen-spends-3rd-week-.webp" />
     </item>
   </channel>
 </rss>
