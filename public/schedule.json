@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T05:15:04.950Z",
+  "lastUpdated": "2026-06-13T08:17:32.434Z",
   "events": [
     {
       "id": "gnews-comeback-0-2026-06-13",
@@ -10,6 +10,17 @@
       "source": "facebook.com",
       "links": {
         "official": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBkNkRrWTlTLXhxcVItZVNITGJQTWxyZ0l6OFhCem9tTmhkcFI0cTlHbVVtdFpQejR0bDZySGZvWGhxUkdwQldNa1laU01xNTQ5OGNTdUlnamQ5T2dYS2VJeWd1LXBzRl9ZbU9fZFBqbWVBdGxxQTRfYS1TOWhwdVlqaUVpeGlmamFpSmY3Vnd5d3dHdnoxbUVYalVXc1V6b21pV0lETG9Db2Y4TjBxZXVyNXUzZlNDNEVWMDJhNFdQclRZV0otcFR3U1FlZWVJYVgxcktzWEpKbDBf?oc=5"
+      }
+    },
+    {
+      "id": "soompi-1-2026-06-13",
+      "date": "2026-06-13",
+      "type": "concert",
+      "artist": "Jay Park",
+      "title": "Jay Park Announces 2026 World Tour Stops With LNGSHOT",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1847441wpp/jay-park-announces-2026-world-tour-stops-with-lngshot"
       }
     },
     {

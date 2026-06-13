@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/oh-jung-se-throws-himself-in-front-of-a-car-to-save-kim-shin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T08:00:55.000Z</news:publication_date>
+      <news:title>Oh Jung Se Throws Himself In Front Of A Car To Save Kim Shin Rok In “Fifties Professionals”</news:title>
+      <news:keywords>K-Drama, Oh Jung Se, Kim Shin Rok, Fifties Professionals, MBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-girl-group-members-insane-transformation-goes-viral/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T07:00:48.000Z</news:publication_date>
+      <news:title>HYBE Girl Group Member’s Insane Transformation Goes Viral</news:title>
+      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/idol-suffers-burns-over-80-of-her-body-after-setting-herself/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T05:37:01.000Z</news:publication_date>
+      <news:title>Idol Suffers Burns Over 80% Of Her Body After Setting Herself On Fire, Launches New Career</news:title>
+      <news:keywords>Debut, Charts, K-Drama, K-Pop, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/boynextdoors-home-becomes-their-4th-million-seller-album/</loc>
     <news:news>
       <news:publication>
@@ -167,30 +203,6 @@
       <news:publication_date>2026-06-11T13:35:19.000Z</news:publication_date>
       <news:title>SM Entertainment Idol Confesses His First Relationship Was With An Older Woman He Met At A Nightclub</news:title>
       <news:keywords>SM Entertainment, K-Pop, Love War, Reality TV, Celebrity Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-flawless-goddess-visuals-has-netizens-sho/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T07:21:57.000Z</news:publication_date>
-      <news:title>IVE Jang Wonyoung’s Flawless Goddess Visuals Has Netizens Shook</news:title>
-      <news:keywords>IVE, Debut, Charts, Jang Wonyoung, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/u-kisss-eli-announces-marriage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T06:07:43.000Z</news:publication_date>
-      <news:title>U-KISS’s Eli Announces Marriage</news:title>
-      <news:keywords>Comeback, U-KISS, Eli, Marriage, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
