@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-22T10:33:36.069Z",
+  "lastUpdated": "2026-06-22T15:49:56.713Z",
   "events": [
     {
-      "id": "soompi-24-2026-06-22",
-      "date": "2026-06-22",
+      "id": "soompi-0-2026-06-23",
+      "date": "2026-06-23",
       "type": "concert",
       "artist": "Stray Kids",
-      "title": "Watch: Stray Kids Announces Comeback Date And World Tour With MV Teaser For Pre-Release Single &#8220;RUN IT&#8221;",
+      "title": "Stray Kids Announces Stops For &#8220;RUN IT&#8221; World Tour",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1849326wpp/watch-stray-kids-announces-comeback-date-and-world-tour-with-mv-teaser-for-pre-release-single-run-it"
+        "official": "https://www.soompi.com/article/1849671wpp/stray-kids-announces-stops-for-run-it-world-tour"
       }
     },
     {
@@ -325,6 +325,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-07-23",
+      "date": "2026-07-23",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
