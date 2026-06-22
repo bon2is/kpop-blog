@@ -41,6 +41,9 @@ next-env.d.ts
 # Cache
 .cache/
 
+# Claude Code (contains local API keys in permissions log)
+.claude/
+
 # Testing
 coverage/
 .gstack/
