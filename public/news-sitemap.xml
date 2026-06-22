@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-fifth-gen-idols-lack-of-promotion-sparks-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T05:07:53.000Z</news:publication_date>
+      <news:title>Popular Fifth Gen Idol’s Lack Of Promotion Sparks Debate</news:title>
+      <news:keywords>Debut, Awards, Charts, Album, Fifth Gen Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/female-idol-fans-send-protest-trucks-begging-for-more-body-e/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T03:53:47.000Z</news:publication_date>
+      <news:title>Female Idol Fans Send Protest Trucks Begging For More Body Exposure</news:title>
+      <news:keywords>BLACKPINK, TWICE, Red Velvet, Charts, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bigbangs-daesung-denies-dating-rumors-with-karas-hur-youngji/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T03:40:13.000Z</news:publication_date>
+      <news:title>BIGBANG’s Daesung Denies Dating Rumors With KARA’s Hur Youngji</news:title>
+      <news:keywords>MAMAMOO, BIGBANG, Comeback, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-sunghoons-hotel-room-interaction-with-stalker-fan-ca/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T23:00:54.000Z</news:publication_date>
+      <news:title>ENHYPEN Sunghoon’s Hotel Room Interaction With Stalker Fan Causes Outrage</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, ENHYPEN, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/2ne1-park-boms-no-makeup-visual-transformation-gains-attenti/</loc>
     <news:news>
       <news:publication>
