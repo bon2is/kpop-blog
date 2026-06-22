@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:12:34 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>EVAN (Heeseung) Praised For “Best Solo Debut Ever” After ENHYPEN Exit</title>
+      <link>https://kpop.andxo.com/article/evan-heeseung-praised-for-best-solo-debut-ever-after-enhypen/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/evan-heeseung-praised-for-best-solo-debut-ever-after-enhypen/</guid>
+      <description>Evan&apos;s solo debut stuns fans and critics alike</description>
+      <pubDate>Mon, 22 Jun 2026 11:38:22 GMT</pubDate>
+      <category>award</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>ENHYPEN</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/evan-heeseung-praised-for-best-solo-debut-ever-after-enhypen.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/evan-heeseung-praised-for-best-solo-debut-ever-after-enhypen.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/evan-heeseung-praised-for-best-solo-debut-ever-after-enhypen.webp" />
+    </item>
     <item>
       <title>“Big 3” Idol Shockingly Addresses Dating Rumors With Fellow Member, Triggers Heated Debate</title>
       <link>https://kpop.andxo.com/article/big-3-idol-shockingly-addresses-dating-rumors-with-fellow-me/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho.webp" />
-    </item>
-    <item>
-      <title>Zo In Sung Transforms Into A Local Resident With Strong Survival Instinct In New Film “HOPE”</title>
-      <link>https://kpop.andxo.com/article/zo-in-sung-transforms-into-a-local-resident-with-strong-surv/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/zo-in-sung-transforms-into-a-local-resident-with-strong-surv/</guid>
-      <description>Zo In Sung transforms in new film HOPE</description>
-      <pubDate>Thu, 04 Jun 2026 09:26:43 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Drama</category>
-      <category>Zo In Sung</category>
-      <category>HOPE</category>
-      <category>K-Film</category>
-      <category>Hwang Jung Min</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/zo-in-sung-transforms-into-a-local-resident-with-strong-surv.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/zo-in-sung-transforms-into-a-local-resident-with-strong-surv.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/zo-in-sung-transforms-into-a-local-resident-with-strong-surv.webp" />
     </item>
   </channel>
 </rss>
