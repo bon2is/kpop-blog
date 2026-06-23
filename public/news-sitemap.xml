@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-female-idol-panics-after-ex-boyfriends-get-exposed-on-li/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T12:16:08.000Z</news:publication_date>
+      <news:title>Top Female Idol Panics After Ex-Boyfriends Get Exposed On Live TV </news:title>
+      <news:keywords>Comeback, Debut, Album, K-Pop, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/red-velvet-seulgi-and-exo-kais-awkward-interaction-sparks-ma/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T10:45:12.000Z</news:publication_date>
+      <news:title>Red Velvet Seulgi And EXO Kai’s “Awkward” Interaction Sparks Major Speculations</news:title>
+      <news:keywords>EXO, Red Velvet, Debut, Awards, Kai</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-lisa-proves-shes-young-and-rich-once-again/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T10:02:35.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Lisa Proves She’s Young And Rich Once Again</news:title>
+      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/korean-wife-gets-addicted-to-ghost-sex-for-a-heartbreaking-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T09:48:31.000Z</news:publication_date>
+      <news:title>Korean Wife Gets Addicted To “Ghost Sex” For A Heartbreaking Reason</news:title>
+      <news:keywords>Korean Culture, Grief, Mental Health, Relationships, Detectives&apos; Trade</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-jungkooks-attitude-at-the-airport-after-calling-out-hate/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +83,18 @@
       <news:publication_date>2026-06-23T05:02:33.000Z</news:publication_date>
       <news:title>Stray Kids’ Grueling Schedule Sparks Major Concern About Their Health</news:title>
       <news:keywords>Stray Kids, Debut, Awards, Charts, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-enhypen-teases-brand-renewal-with-mood-teaser/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T04:57:37.000Z</news:publication_date>
+      <news:title>Watch: ENHYPEN Teases Brand Renewal With Mood Teaser</news:title>
+      <news:keywords>ENHYPEN, Comeback, Awards, Album, Tour</news:keywords>
     </news:news>
   </url>
   <url>
@@ -251,18 +311,6 @@
       <news:publication_date>2026-06-21T14:29:11.000Z</news:publication_date>
       <news:title>aespa’s “Drama” Becomes Their Fastest MV To Hit 300 Million Views</news:title>
       <news:keywords>aespa, Comeback, Debut, Concert, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/50-korean-reality-dating-shows-variety-show-masterlist/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T08:37:27.000Z</news:publication_date>
-      <news:title>50+ Korean Reality Dating Shows (Variety Show Masterlist)</news:title>
-      <news:keywords>K-Drama, Korean Reality Dating Shows, Variety Shows, K-Culture, Streaming Services</news:keywords>
     </news:news>
   </url>
 </urlset>
