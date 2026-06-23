@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nct-members-unexpected-photo-dump-has-fans-up-all-night/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T04:08:41.000Z</news:publication_date>
+      <news:title>NCT Member’s Unexpected Photo Dump Has Fans Up All Night</news:title>
+      <news:keywords>NCT, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/evan-heeseung-praised-for-best-solo-debut-ever-after-enhypen/</loc>
     <news:news>
       <news:publication>

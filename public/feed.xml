@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 18:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:53:47 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>NCT Member’s Unexpected Photo Dump Has Fans Up All Night</title>
+      <link>https://kpop.andxo.com/article/nct-members-unexpected-photo-dump-has-fans-up-all-night/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/nct-members-unexpected-photo-dump-has-fans-up-all-night/</guid>
+      <description>NCT member&apos;s surprise photo dump sparks frenzy</description>
+      <pubDate>Tue, 23 Jun 2026 04:08:41 GMT</pubDate>
+      <category>tour</category>
+      <category>NCT</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <category>Concert</category>
+      <category>Charts</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nct-members-unexpected-photo-dump-has-fans-up-all-night.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nct-members-unexpected-photo-dump-has-fans-up-all-night.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nct-members-unexpected-photo-dump-has-fans-up-all-night.webp" />
+    </item>
     <item>
       <title>EVAN (Heeseung) Praised For “Best Solo Debut Ever” After ENHYPEN Exit</title>
       <link>https://kpop.andxo.com/article/evan-heeseung-praised-for-best-solo-debut-ever-after-enhypen/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boy-group-admit-to-expecting-hybe-privilege-following-disapp.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boy-group-admit-to-expecting-hybe-privilege-following-disapp.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boy-group-admit-to-expecting-hybe-privilege-following-disapp.webp" />
-    </item>
-    <item>
-      <title>Watch: Park Eun Bin Gives Yang Se Jong The Ability To See Ghosts In “Spooky In Love” Teaser</title>
-      <link>https://kpop.andxo.com/article/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho/</guid>
-      <description>Park Eun Bin and Yang Se Jong star in the occult romance drama “Spooky in Love”</description>
-      <pubDate>Thu, 04 Jun 2026 23:27:12 GMT</pubDate>
-      <category>drama</category>
-      <category>SEVENTEEN</category>
-      <category>K-Drama</category>
-      <category>Park Eun Bin</category>
-      <category>Yang Se Jong</category>
-      <category>Spooky in Love</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-park-eun-bin-gives-yang-se-jong-the-ability-to-see-gho.webp" />
     </item>
   </channel>
 </rss>
