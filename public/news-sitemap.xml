@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/marks-new-label-apologizes-for-his-confederate-flag-t-shirt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T14:40:12.000Z</news:publication_date>
+      <news:title>Mark’s New Label Apologizes For His Confederate Flag T-Shirt</news:title>
+      <news:keywords>NCT, Debut, Awards, Mark, Upper Room</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-hearts2hearts-wows-with-perfect-synchronization-in-lem/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T14:09:33.000Z</news:publication_date>
+      <news:title>Watch: Hearts2Hearts Wows With Perfect Synchronization In “Lemon Tang” Dance Practice Video</news:title>
+      <news:keywords>Debut, Charts, Album, MV, Hearts2Hearts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkooks-luxurious-airport-fashion-price-sparks-major-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T13:33:02.000Z</news:publication_date>
+      <news:title>BTS Jungkook’s Luxurious Airport Fashion Price Sparks Major Shock</news:title>
+      <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-female-idol-panics-after-ex-boyfriends-get-exposed-on-li/</loc>
     <news:news>
       <news:publication>
@@ -62,6 +98,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/3-storms-brewing-in-episodes-7-8-of-love-class-3-that-have-u/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T07:50:55.000Z</news:publication_date>
+      <news:title>3 Storms Brewing In Episodes 7-8 Of “Love Class 3” That Have Us Nervous</news:title>
+      <news:keywords>K-Drama, Love Class 3, K-pop, Korean Culture, Entertainment Industry</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kim-min-ha-dishes-on-her-upcoming-film-hana-korea-her-future/</loc>
     <news:news>
       <news:publication>
@@ -71,6 +119,18 @@
       <news:publication_date>2026-06-23T07:36:39.000Z</news:publication_date>
       <news:title>Kim Min Ha Dishes On Her Upcoming Film “Hana Korea,” Her Future Goals, And More</news:title>
       <news:keywords>Awards, K-Drama, Kim Min Ha, Hana Korea, North Korean Defector</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-travel-variety-show-all-or-nothing-confirms-cast-lineu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T06:53:40.000Z</news:publication_date>
+      <news:title>K-Pop Travel Variety Show “All Or Nothing” Confirms Cast Lineup And Broadcast Schedule</news:title>
+      <news:keywords>Super Junior, K-Drama, K-Pop, All or Nothing, Variety Show</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,30 +347,6 @@
       <news:publication_date>2026-06-21T19:03:22.000Z</news:publication_date>
       <news:title>Jennie And Tame Impala’s “Dracula” Soars To New Peaks On Billboard’s Radio And Songs Of The Summer Charts</news:title>
       <news:keywords>BTS, BLACKPINK, Comeback, Charts, Jennie</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ahof-drops-1st-teaser-for-run-to-you-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T15:17:04.000Z</news:publication_date>
-      <news:title>AHOF Drops 1st Teaser For “RUN TO YOU” Comeback</news:title>
-      <news:keywords>Comeback, Debut, Album, AHOF, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespas-drama-becomes-their-fastest-mv-to-hit-300-million-vie/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T14:29:11.000Z</news:publication_date>
-      <news:title>aespa’s “Drama” Becomes Their Fastest MV To Hit 300 Million Views</news:title>
-      <news:keywords>aespa, Comeback, Debut, Concert, Awards</news:keywords>
     </news:news>
   </url>
 </urlset>

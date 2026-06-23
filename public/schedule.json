@@ -1,17 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T13:33:20.197Z",
+  "lastUpdated": "2026-06-23T16:27:21.828Z",
   "events": [
-    {
-      "id": "soompi-24-2026-06-23",
-      "date": "2026-06-23",
-      "type": "concert",
-      "artist": "Stray Kids",
-      "title": "Stray Kids Announces Stops For &#8220;RUN IT&#8221; World Tour",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1849671wpp/stray-kids-announces-stops-for-run-it-world-tour"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-06-24",
       "date": "2026-06-24",
@@ -340,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-07-24",
+      "date": "2026-07-24",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
       }
     }
   ]
