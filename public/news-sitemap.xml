@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkooks-attitude-at-the-airport-after-calling-out-hate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T08:15:38.000Z</news:publication_date>
+      <news:title>BTS Jungkook’s Attitude At The Airport After Calling Out “Hater” Sparks Huge Reactions</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-min-ha-dishes-on-her-upcoming-film-hana-korea-her-future/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T07:36:39.000Z</news:publication_date>
+      <news:title>Kim Min Ha Dishes On Her Upcoming Film “Hana Korea,” Her Future Goals, And More</news:title>
+      <news:keywords>Awards, K-Drama, Kim Min Ha, Hana Korea, North Korean Defector</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-grueling-schedule-sparks-major-concern-about-thei/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T05:02:33.000Z</news:publication_date>
+      <news:title>Stray Kids’ Grueling Schedule Sparks Major Concern About Their Health</news:title>
+      <news:keywords>Stray Kids, Debut, Awards, Charts, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nct-members-unexpected-photo-dump-has-fans-up-all-night/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +47,18 @@
       <news:publication_date>2026-06-23T04:08:41.000Z</news:publication_date>
       <news:title>NCT Member’s Unexpected Photo Dump Has Fans Up All Night</news:title>
       <news:keywords>NCT, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-directly-claps-back-at-haters-on-instagram/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T00:09:32.000Z</news:publication_date>
+      <news:title>BTS’s Jungkook Directly Claps Back At Haters On Instagram</news:title>
+      <news:keywords>BTS, Awards, Album, Tour, Jungkook</news:keywords>
     </news:news>
   </url>
   <url>
@@ -215,18 +263,6 @@
       <news:publication_date>2026-06-21T08:37:27.000Z</news:publication_date>
       <news:title>50+ Korean Reality Dating Shows (Variety Show Masterlist)</news:title>
       <news:keywords>K-Drama, Korean Reality Dating Shows, Variety Shows, K-Culture, Streaming Services</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/parc-jae-jung-to-change-fan-club-name-due-to-overlap-with-di/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T06:11:14.000Z</news:publication_date>
-      <news:title>Parc Jae Jung To Change Fan Club Name Due To Overlap With Different Artist</news:title>
-      <news:keywords>Parc Jae Jung, Park Hyo Shin, K-Pop, Fan Club, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
