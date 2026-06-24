@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/byeon-woo-seoks-agency-confirms-recent-meeting-with-twices-j/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T07:11:00.000Z</news:publication_date>
+      <news:title>Byeon Woo Seok’s Agency Confirms Recent Meeting With TWICE’s Jeongyeon</news:title>
+      <news:keywords>TWICE, Comeback, Debut, Awards, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twices-jeongyeon-in-talks-to-sign-with-new-agency-jyp-entert/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T06:51:10.000Z</news:publication_date>
+      <news:title>TWICE’s Jeongyeon In Talks To Sign With New Agency + JYP Entertainment Briefly Comments</news:title>
+      <news:keywords>TWICE, Debut, Awards, Charts, Jeongyeon</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-dynamite-becomes-the-first-k-pop-boy-group-mv-to-surpas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T06:20:38.000Z</news:publication_date>
+      <news:title>BTS’s “Dynamite” Becomes The First K-Pop Boy Group MV To Surpass 2.1 Billion Views</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-kang-hoon-kim-hye-joon-cha-woo-min-and-itzys-yunas-new/</loc>
     <news:news>
       <news:publication>
@@ -275,30 +311,6 @@
       <news:publication_date>2026-06-22T08:45:14.000Z</news:publication_date>
       <news:title>Popular NCT Member’s Shocking Transformation Is Going Viral</news:title>
       <news:keywords>NCT, Concert, K-Pop Transformation, SM Entertainment, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-members-viral-lovestagram-posts-spark-major-reactions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T08:15:22.000Z</news:publication_date>
-      <news:title>BTS Members’ Viral “Lovestagram” Posts Spark Major Reactions</news:title>
-      <news:keywords>BTS, Charts, Lovestagram, K-Pop, Social Media</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-fifth-gen-idols-lack-of-promotion-sparks-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T05:07:53.000Z</news:publication_date>
-      <news:title>Popular Fifth Gen Idol’s Lack Of Promotion Sparks Debate</news:title>
-      <news:keywords>Debut, Awards, Charts, Album, Fifth Gen Idol</news:keywords>
     </news:news>
   </url>
 </urlset>
