@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-kang-hoon-kim-hye-joon-cha-woo-min-and-itzys-yunas-new/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T04:49:00.000Z</news:publication_date>
+      <news:title>Watch: Kang Hoon, Kim Hye Joon, Cha Woo Min, And ITZY’s Yuna’s New Drama “My Bias, My Boss” Announces Premiere Date</news:title>
+      <news:keywords>ITZY, Comeback, Debut, K-Drama, Yuna</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypens-sunoo-makes-meaningful-birthday-donation-to-pediatr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T03:07:14.000Z</news:publication_date>
+      <news:title>ENHYPEN’s Sunoo Makes Meaningful Birthday Donation To Pediatric And Adolescent Patients</news:title>
+      <news:keywords>ENHYPEN, Comeback, Debut, Awards, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-riize-shows-you-how-to-do-your-dance-in-high-energy-da/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T17:22:42.000Z</news:publication_date>
+      <news:title>Watch: RIIZE Shows You How To “Do your dance” In High-Energy Dance Practice Video</news:title>
+      <news:keywords>RIIZE, Debut, Album, K-Pop, Dance Practice Video</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/boynextdoor-enters-top-20-of-billboard-200-for-1st-time-as-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T16:32:45.000Z</news:publication_date>
+      <news:title>BOYNEXTDOOR Enters Top 20 Of Billboard 200 For 1st Time As “HOME” Achieves Their Best U.S. Sales Week Yet</news:title>
+      <news:keywords>BOYNEXTDOOR, Comeback, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/marks-new-label-apologizes-for-his-confederate-flag-t-shirt/</loc>
     <news:news>
       <news:publication>
@@ -251,102 +299,6 @@
       <news:publication_date>2026-06-22T05:07:53.000Z</news:publication_date>
       <news:title>Popular Fifth Gen Idol’s Lack Of Promotion Sparks Debate</news:title>
       <news:keywords>Debut, Awards, Charts, Album, Fifth Gen Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-idol-fans-send-protest-trucks-begging-for-more-body-e/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T03:53:47.000Z</news:publication_date>
-      <news:title>Female Idol Fans Send Protest Trucks Begging For More Body Exposure</news:title>
-      <news:keywords>BLACKPINK, TWICE, Red Velvet, Charts, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbangs-daesung-denies-dating-rumors-with-karas-hur-youngji/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T03:40:13.000Z</news:publication_date>
-      <news:title>BIGBANG’s Daesung Denies Dating Rumors With KARA’s Hur Youngji</news:title>
-      <news:keywords>MAMAMOO, BIGBANG, Comeback, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-sunghoons-hotel-room-interaction-with-stalker-fan-ca/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T23:00:54.000Z</news:publication_date>
-      <news:title>ENHYPEN Sunghoon’s Hotel Room Interaction With Stalker Fan Causes Outrage</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, ENHYPEN, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/2ne1-park-boms-no-makeup-visual-transformation-gains-attenti/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T22:29:04.000Z</news:publication_date>
-      <news:title>2NE1 Park Bom’s “No-Makeup” Visual Transformation Gains Attention</news:title>
-      <news:keywords>2NE1, Debut, Park Bom, K-Pop, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafims-uncomfortably-short-outfits-and-choreo-trigger-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T21:55:05.000Z</news:publication_date>
-      <news:title>LE SSERAFIM’s “Uncomfortably” Short Outfits And Choreo Trigger Backlash</news:title>
-      <news:keywords>LE SSERAFIM, Comeback, Debut, Charts, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-arirang-re-enters-top-10-of-billboard-200-3-months-afte/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T21:16:49.000Z</news:publication_date>
-      <news:title>BTS’s “ARIRANG” Re-Enters Top 10 Of Billboard 200 3 Months After Its Release</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Red Velvet, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/proof-of-popular-ex-k-pop-idol-and-actress-having-a-secret-p/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T19:49:13.000Z</news:publication_date>
-      <news:title>“Proof” Of Popular Ex-K-Pop Idol And Actress Having A Secret, Pre-Marital Child Tops Trends</news:title>
-      <news:keywords>K-Pop, Scandal, Ex-K-Pop Idol, Secret Child, Korean Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jennie-and-tame-impalas-dracula-soars-to-new-peaks-on-billbo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T19:03:22.000Z</news:publication_date>
-      <news:title>Jennie And Tame Impala’s “Dracula” Soars To New Peaks On Billboard’s Radio And Songs Of The Summer Charts</news:title>
-      <news:keywords>BTS, BLACKPINK, Comeback, Charts, Jennie</news:keywords>
     </news:news>
   </url>
 </urlset>
