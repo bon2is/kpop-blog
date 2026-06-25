@@ -1,14 +1,10 @@
 name: Post Backlog to Social Media
 
 on:
-  # Run 4 times daily at different times for global reach
+  # Run 2 times daily (reduced from 4x to stay within GitHub Actions free tier)
   schedule:
-    # 07:00 KST (22:00 UTC prev day) - US Afternoon
-    - cron: '0 22 * * *'
     # 12:00 KST (03:00 UTC) - US Night / Europe Morning
     - cron: '0 3 * * *'
-    # 18:00 KST (09:00 UTC) - Europe Afternoon / US Early Morning
-    - cron: '0 9 * * *'
     # 22:00 KST (13:00 UTC) - US Morning / SEA Evening
     - cron: '0 13 * * *'
   # Allow manual trigger
