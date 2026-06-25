@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-hybe-idols-mistake-on-weverse-goes-viral/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T04:38:06.000Z</news:publication_date>
+      <news:title>Popular HYBE Idol’s Mistake On Weverse Goes Viral</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Concert, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/an-end-to-k-pop-ticket-wars-the-real-reason-agencies-have-st/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T02:29:35.000Z</news:publication_date>
+      <news:title>“An End To K-Pop Ticket Wars?” The Real Reason Agencies Have Started Prioritizing Domestic Fans</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Concert, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-jihyos-worrying-actions-resurface-amid-contract-news/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T20:10:32.000Z</news:publication_date>
+      <news:title>TWICE Jihyo’s Worrying Actions Resurface Amid Contract News</news:title>
+      <news:keywords>TWICE, Debut, Awards, Charts, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/a-list-actor-receives-blistering-backlash-over-blatant-misog/</loc>
     <news:news>
       <news:publication>
@@ -359,30 +395,6 @@
       <news:publication_date>2026-06-23T04:57:37.000Z</news:publication_date>
       <news:title>Watch: ENHYPEN Teases Brand Renewal With Mood Teaser</news:title>
       <news:keywords>ENHYPEN, Comeback, Awards, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-members-unexpected-photo-dump-has-fans-up-all-night/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T04:08:41.000Z</news:publication_date>
-      <news:title>NCT Member’s Unexpected Photo Dump Has Fans Up All Night</news:title>
-      <news:keywords>NCT, Comeback, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-directly-claps-back-at-haters-on-instagram/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T00:09:32.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook Directly Claps Back At Haters On Instagram</news:title>
-      <news:keywords>BTS, Awards, Album, Tour, Jungkook</news:keywords>
     </news:news>
   </url>
 </urlset>
