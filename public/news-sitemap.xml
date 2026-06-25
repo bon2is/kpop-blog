@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/mnet-photos-of-evan-heeseung-incite-brutal-backlash-of-idols/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T13:40:13.000Z</news:publication_date>
+      <news:title>Mnet Photos Of EVAN (Heeseung) Incite Brutal Backlash Of Idol’s Visuals</news:title>
+      <news:keywords>ENHYPEN, Debut, Awards, Heeseung, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-le-sserafim-illit-and-katseye-takes-1st-win-for-iconic/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-06-25T12:31:42.000Z</news:publication_date>
       <news:title>Watch: LE SSERAFIM, ILLIT, And KATSEYE Takes 1st Win For “ICONIC BY MISTAKE” On “M Countdown”; Performances By EVAN, And More</news:title>
       <news:keywords>LE SSERAFIM, TREASURE, RIIZE, ILLIT, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-vs-unfiltered-barefaced-visuals-after-sweaty-workout-spa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T11:50:19.000Z</news:publication_date>
+      <news:title>BTS V’s Unfiltered Barefaced Visuals After Sweaty Workout Sparks Major Shock</news:title>
+      <news:keywords>BTS, Debut, Charts, Tour, V</news:keywords>
     </news:news>
   </url>
   <url>
@@ -335,42 +359,6 @@
       <news:publication_date>2026-06-23T16:32:45.000Z</news:publication_date>
       <news:title>BOYNEXTDOOR Enters Top 20 Of Billboard 200 For 1st Time As “HOME” Achieves Their Best U.S. Sales Week Yet</news:title>
       <news:keywords>BOYNEXTDOOR, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/marks-new-label-apologizes-for-his-confederate-flag-t-shirt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T14:40:12.000Z</news:publication_date>
-      <news:title>Mark’s New Label Apologizes For His Confederate Flag T-Shirt</news:title>
-      <news:keywords>NCT, Debut, Awards, Mark, Upper Room</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-hearts2hearts-wows-with-perfect-synchronization-in-lem/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T14:09:33.000Z</news:publication_date>
-      <news:title>Watch: Hearts2Hearts Wows With Perfect Synchronization In “Lemon Tang” Dance Practice Video</news:title>
-      <news:keywords>Debut, Charts, Album, MV, Hearts2Hearts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-jungkooks-luxurious-airport-fashion-price-sparks-major-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T13:33:02.000Z</news:publication_date>
-      <news:title>BTS Jungkook’s Luxurious Airport Fashion Price Sparks Major Shock</news:title>
-      <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
