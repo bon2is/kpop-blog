@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-le-sserafim-illit-and-katseye-takes-1st-win-for-iconic/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T12:31:42.000Z</news:publication_date>
+      <news:title>Watch: LE SSERAFIM, ILLIT, And KATSEYE Takes 1st Win For “ICONIC BY MISTAKE” On “M Countdown”; Performances By EVAN, And More</news:title>
+      <news:keywords>LE SSERAFIM, TREASURE, RIIZE, ILLIT, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/malicious-criticism-of-bts-jimins-visuals-at-fashion-week-ge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T08:30:11.000Z</news:publication_date>
+      <news:title>Malicious Criticism Of BTS Jimin’s Visuals At Fashion Week “Getty Photos” Incite Fury</news:title>
+      <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/gong-seung-yeon-and-twices-jeongyeon-show-off-their-close-si/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +71,18 @@
       <news:publication_date>2026-06-25T06:56:50.000Z</news:publication_date>
       <news:title>Kim Min Ha, Kim Joo Ryoung, And Ahn Seo Hyun Lean On One Another As North Korean Defectors In “Hana Korea”</news:title>
       <news:keywords>Kim Min Ha, North Korean Defectors, Korean Film, Hana Korea, Frederik Sølberg</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/female-idols-actions-during-south-koreas-world-cup-match-tri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T06:27:49.000Z</news:publication_date>
+      <news:title>Female Idol’s Actions During South Korea’s World Cup Match Triggers Divided Opinions</news:title>
+      <news:keywords>Debut, Charts, Album, K-Pop, World Cup</news:keywords>
     </news:news>
   </url>
   <url>
@@ -335,54 +371,6 @@
       <news:publication_date>2026-06-23T13:33:02.000Z</news:publication_date>
       <news:title>BTS Jungkook’s Luxurious Airport Fashion Price Sparks Major Shock</news:title>
       <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-female-idol-panics-after-ex-boyfriends-get-exposed-on-li/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T12:16:08.000Z</news:publication_date>
-      <news:title>Top Female Idol Panics After Ex-Boyfriends Get Exposed On Live TV </news:title>
-      <news:keywords>Comeback, Debut, Album, K-Pop, Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvet-seulgi-and-exo-kais-awkward-interaction-sparks-ma/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T10:45:12.000Z</news:publication_date>
-      <news:title>Red Velvet Seulgi And EXO Kai’s “Awkward” Interaction Sparks Major Speculations</news:title>
-      <news:keywords>EXO, Red Velvet, Debut, Awards, Kai</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-lisa-proves-shes-young-and-rich-once-again/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T10:02:35.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Lisa Proves She’s Young And Rich Once Again</news:title>
-      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/korean-wife-gets-addicted-to-ghost-sex-for-a-heartbreaking-r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T09:48:31.000Z</news:publication_date>
-      <news:title>Korean Wife Gets Addicted To “Ghost Sex” For A Heartbreaking Reason</news:title>
-      <news:keywords>Korean Culture, Grief, Mental Health, Relationships, Detectives&apos; Trade</news:keywords>
     </news:news>
   </url>
 </urlset>
