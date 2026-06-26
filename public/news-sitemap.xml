@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/katseyes-visuals-and-styling-on-upcoming-magazine-cover-inci/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T12:40:12.000Z</news:publication_date>
+      <news:title>KATSEYE’s Visuals And Styling On Upcoming Magazine Cover Incite Brutal Mockery</news:title>
+      <news:keywords>Debut, Charts, Album, KATSEYE, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/riize-takes-2nd-win-for-do-your-dance-on-music-bank/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T12:03:54.000Z</news:publication_date>
+      <news:title>RIIZE Takes 2nd Win For “Do your dance” On “Music Bank”</news:title>
+      <news:keywords>RIIZE, Debut, Concert, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-close-your-eyes-ahof-idntt-and-flare-u-hunt-for-hidden/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T11:25:36.000Z</news:publication_date>
+      <news:title>Watch: CLOSE YOUR EYES, AHOF, idntt, And FLARE U Hunt For Hidden Imposters In Chaotic “IDOL SCHOOL CAMP” Teaser</news:title>
+      <news:keywords>Debut, K-Pop, Variety Show, CLOSE YOUR EYES, AHOF</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-hybe-idol-exposed-for-lying-about-his-job-title/</loc>
     <news:news>
       <news:publication>
@@ -323,54 +359,6 @@
       <news:publication_date>2026-06-24T13:50:16.000Z</news:publication_date>
       <news:title>BTS Jimin’s Unedited Visuals In Images At Paris Fashion Week Trigger Backlash</news:title>
       <news:keywords>BTS, Debut, Charts, Jimin, Paris Fashion Week</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-idol-confirms-relationship-with-hot-dating-show-star/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T11:24:13.000Z</news:publication_date>
-      <news:title>Female Idol Confirms Relationship With Hot Dating Show Star</news:title>
-      <news:keywords>Awards, Charts, K-Pop, Dating, Relationship</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-winters-dramatic-visual-transformation-triggers-divide/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T10:35:14.000Z</news:publication_date>
-      <news:title>aespa Winter’s Dramatic Visual Transformation Triggers Divided Reactions</news:title>
-      <news:keywords>aespa, Debut, Charts, Winter, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-hit-with-another-government-investigation-linked-to-new/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T10:05:11.000Z</news:publication_date>
-      <news:title>HYBE Hit With Another Government Investigation, Linked To NewJeans </news:title>
-      <news:keywords>BTS, NewJeans, Debut, HYBE, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/3-key-points-to-anticipate-in-the-final-2-episodes-of-fiftie/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T09:18:28.000Z</news:publication_date>
-      <news:title>3 Key Points To Anticipate In The Final 2 Episodes Of “Fifties Professionals”</news:title>
-      <news:keywords>K-Drama, Fifties Professionals, Action-Comedy, Korean Drama, Finale</news:keywords>
     </news:news>
   </url>
 </urlset>
