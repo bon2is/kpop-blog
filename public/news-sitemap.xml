@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nugu-girl-group-idol-shocks-with-insanely-luxurious-house/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T11:37:14.000Z</news:publication_date>
+      <news:title>“Nugu” Girl Group Idol Shocks With Insanely Luxurious House</news:title>
+      <news:keywords>K-Pop, Nugu, Luxury House, Girl Group, Netizens</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/manons-latest-behavior-toward-katseye-sparks-outrage-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T10:17:02.000Z</news:publication_date>
+      <news:title>Manon’s Latest Behavior Toward KATSEYE Sparks Outrage </news:title>
+      <news:keywords>Charts, Manon, KATSEYE, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5th-gen-girl-group-idol-collapses-on-stage-gets-carried-off-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T09:14:27.000Z</news:publication_date>
+      <news:title>5th Gen Girl Group Idol Collapses On Stage, Gets Carried Off By Staff</news:title>
+      <news:keywords>K-Pop, 5th Generation, Idol Health, Girl Group, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/daddys-twinks-and-bears-male-k-pop-idol-advertises-real-gay-/</loc>
     <news:news>
       <news:publication>
@@ -227,42 +263,6 @@
       <news:publication_date>2026-06-25T12:31:42.000Z</news:publication_date>
       <news:title>Watch: LE SSERAFIM, ILLIT, And KATSEYE Takes 1st Win For “ICONIC BY MISTAKE” On “M Countdown”; Performances By EVAN, And More</news:title>
       <news:keywords>LE SSERAFIM, TREASURE, RIIZE, ILLIT, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-vs-unfiltered-barefaced-visuals-after-sweaty-workout-spa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-25T11:50:19.000Z</news:publication_date>
-      <news:title>BTS V’s Unfiltered Barefaced Visuals After Sweaty Workout Sparks Major Shock</news:title>
-      <news:keywords>BTS, Debut, Charts, Tour, V</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/malicious-criticism-of-bts-jimins-visuals-at-fashion-week-ge/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-25T08:30:11.000Z</news:publication_date>
-      <news:title>Malicious Criticism Of BTS Jimin’s Visuals At Fashion Week “Getty Photos” Incite Fury</news:title>
-      <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gong-seung-yeon-and-twices-jeongyeon-show-off-their-close-si/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-25T08:00:48.000Z</news:publication_date>
-      <news:title>Gong Seung Yeon And TWICE’s Jeongyeon Show Off Their Close Sisterly Bond</news:title>
-      <news:keywords>TWICE, Debut, K-Drama, Gong Seung Yeon, Jeongyeon</news:keywords>
     </news:news>
   </url>
 </urlset>
