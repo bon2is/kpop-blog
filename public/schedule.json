@@ -1,21 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T12:03:42.438Z",
+  "lastUpdated": "2026-06-27T15:15:06.501Z",
   "events": [
-    {
-      "id": "broadcast-show--music-core-2026-06-27",
-      "date": "2026-06-27",
-      "time": "17:15",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show! Music Core",
-      "description": "MBC Show! Music Core weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@mbckpop",
-        "official": "https://www.imbc.com"
-      }
-    },
     {
       "id": "broadcast-inkigayo-2026-06-28",
       "date": "2026-06-28",
