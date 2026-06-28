@@ -115,8 +115,8 @@ jobs:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-        run: npx vercel --prod --token ${{ secrets.VERCEL_TOKEN }}
-        timeout-minutes: 10
+        run: npx vercel --prod --yes --token ${{ secrets.VERCEL_TOKEN }}
+        timeout-minutes: 25
 
       - name: Post to Threads
         if: steps.git-check.outputs.changes == 'true'
