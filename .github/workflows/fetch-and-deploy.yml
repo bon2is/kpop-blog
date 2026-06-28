@@ -107,27 +107,7 @@ jobs:
 
           git pull --rebase origin main || true
           git push
-
-
-      - name: Build static site
-        if: steps.git-check.outputs.changes == 'true'
-        run: npx next build
-        timeout-minutes: 20
-
-      - name: Deploy to Vercel (prebuilt)
-        if: steps.git-check.outputs.changes == 'true'
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-        run: |
-          mkdir -p .vercel/output/static
-          # Exclude images/posts - they are served from R2 CDN, not Vercel
-          rsync -a --exclude='images/posts' out/. .vercel/output/static/
-          echo '{"version":3}' > .vercel/output/config.json
-          du -sh .vercel/output/static/
-          npx vercel deploy --prebuilt --prod --yes --archive=tgz --token ${{ secrets.VERCEL_TOKEN }}
-        timeout-minutes: 20
+          # Vercel GitHub Integration automatically detects this push and rebuilds the site
 
       - name: Post to Threads
         if: steps.git-check.outputs.changes == 'true'
