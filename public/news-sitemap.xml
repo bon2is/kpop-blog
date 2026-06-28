@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/babymonster-drops-1st-teaser-for-i-like-it-mv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T15:29:09.000Z</news:publication_date>
+      <news:title>BABYMONSTER Drops 1st Teaser For “I LIKE IT” MV</news:title>
+      <news:keywords>BLACKPINK, 2NE1, BABYMONSTER, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/minor-idols-sexy-stage-routine-sparks-massive-debate/</loc>
     <news:news>
       <news:publication>

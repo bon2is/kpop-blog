@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-28T15:17:24.191Z",
+  "lastUpdated": "2026-06-28T22:40:23.232Z",
   "events": [
+    {
+      "id": "soompi-5-2026-06-29",
+      "date": "2026-06-29",
+      "type": "comeback",
+      "artist": "Watch",
+      "title": "Watch: TVXQ&#8217;s Yunho Announces Comeback With Intro Film For &#8220;Time&#8217;s Tickin&#039;&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1850857wpp/watch-tvxqs-yunho-announces-comeback-with-intro-film-for-times-tickin"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-07-01",
       "date": "2026-07-01",
