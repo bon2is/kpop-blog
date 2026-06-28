@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/broken-up-actor-and-idol-actress-couple-photographed-on-date/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T07:30:08.000Z</news:publication_date>
+      <news:title>“Broken Up” Actor And Idol-Actress Couple Photographed On Date</news:title>
+      <news:keywords>Awards, Charts, K-Drama, K-Pop, Idol-Actress Couple</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-rm-and-jungkook-show-love-to-lesbians/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,30 @@
       <news:publication_date>2026-06-28T04:21:36.000Z</news:publication_date>
       <news:title>BTS’s RM And Jungkook Show Love To Lesbians</news:title>
       <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-i-dle-gets-hilariously-honest-in-knowing-bros-preview/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T04:08:25.000Z</news:publication_date>
+      <news:title>Watch: i-dle Gets Hilariously Honest In “Knowing Bros” Preview</news:title>
+      <news:keywords>Comeback, Debut, K-Drama, i-dle, Knowing Bros</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5-must-watch-korean-variety-shows-that-are-seriously-addicti/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T03:45:56.000Z</news:publication_date>
+      <news:title>5 Must-Watch Korean Variety Shows That Are Seriously Addictive</news:title>
+      <news:keywords>Korean Variety Shows, I Live Alone, New Journey to the West, Running Man, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -179,42 +215,6 @@
       <news:publication_date>2026-06-26T11:25:36.000Z</news:publication_date>
       <news:title>Watch: CLOSE YOUR EYES, AHOF, idntt, And FLARE U Hunt For Hidden Imposters In Chaotic “IDOL SCHOOL CAMP” Teaser</news:title>
       <news:keywords>Debut, K-Pop, Variety Show, CLOSE YOUR EYES, AHOF</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-hybe-idol-exposed-for-lying-about-his-job-title/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T06:18:25.000Z</news:publication_date>
-      <news:title>Popular HYBE Idol Exposed For “Lying” About His Job Title</news:title>
-      <news:keywords>Debut, Charts, HYBE, K-Pop, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/fifty-fifty-announces-changes-to-asia-fancon-tour-including-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T05:56:26.000Z</news:publication_date>
-      <news:title>FIFTY FIFTY Announces Changes To Asia Fancon Tour Including Indonesia Cancellation And Malaysia Postponement</news:title>
-      <news:keywords>Debut, Concert, Album, Tour, FIFTY FIFTY</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/2ne1s-park-bom-shows-off-her-love-for-lee-min-ho-once-again/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T05:22:52.000Z</news:publication_date>
-      <news:title>2NE1’s Park Bom Shows Off Her Love For Lee Min Ho Once Again</news:title>
-      <news:keywords>2NE1, Comeback, Park Bom, Lee Min Ho, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
