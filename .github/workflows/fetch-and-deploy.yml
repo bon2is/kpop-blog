@@ -108,6 +108,16 @@ jobs:
           git pull --rebase origin main || true
           git push
 
+
+      - name: Deploy to Vercel
+        if: steps.git-check.outputs.changes == 'true'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+        run: npx vercel --prod --token ${{ secrets.VERCEL_TOKEN }}
+        timeout-minutes: 10
+
       - name: Post to Threads
         if: steps.git-check.outputs.changes == 'true'
         env:
