@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/minor-idols-sexy-stage-routine-sparks-massive-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T14:41:29.000Z</news:publication_date>
+      <news:title>Minor Idol’s Sexy Stage Routine Sparks Massive Debate</news:title>
+      <news:keywords>K-Pop, Controversy, Stage Performance, Idol Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-v-shocks-with-sexy-revealing-fashion-week-look/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T12:21:03.000Z</news:publication_date>
+      <news:title>BTS’s V Shocks With Sexy Revealing Fashion Week Look</news:title>
+      <news:keywords>BTS, Charts, V, Fashion Week, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/4th-gen-idol-gets-knocked-away-by-staff-on-stage-fans-furiou/</loc>
     <news:news>
       <news:publication>
