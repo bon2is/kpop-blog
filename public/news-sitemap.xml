@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-kim-hye-joon-gets-a-job-to-meet-her-idol-bias-in-my-bi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T23:44:31.000Z</news:publication_date>
+      <news:title>Watch: Kim Hye Joon Gets A Job To Meet Her Idol Bias In “My Bias, My Boss” Teaser</news:title>
+      <news:keywords>K-Drama, Kim Hye Joon, My Bias My Boss, tvN, Nam Da Reum</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-modhaus-boy-group-idntt-teases-new-unit-itsnotover-wit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T17:46:42.000Z</news:publication_date>
+      <news:title>Watch: MODHAUS Boy Group idntt Teases New Unit itsnotover With “20/24” Film</news:title>
+      <news:keywords>Debut, idntt, itsnotover, MODHAUS, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/babymonster-drops-1st-teaser-for-i-like-it-mv/</loc>
     <news:news>
       <news:publication>
@@ -191,54 +215,6 @@
       <news:publication_date>2026-06-27T06:19:37.000Z</news:publication_date>
       <news:title>“Daddys, Twinks, And Bears” — Male K-Pop Idol Advertises REAL Gay Phone Sex Line In His Song</news:title>
       <news:keywords>BTS, K-Pop, LGBTQ+, Controversy, Gay Phone Sex Line</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/tripless-agency-shares-update-on-yubins-health-after-she-fai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T05:15:43.000Z</news:publication_date>
-      <news:title>tripleS’s Agency Shares Update On YuBin’s Health After She Faints On Stage</news:title>
-      <news:keywords>Concert, tripleS, YuBin, K-Pop, Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-vs-freaky-moment-with-fan-sets-the-internet-on-fire/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T01:27:28.000Z</news:publication_date>
-      <news:title>BTS V’s “Freaky” Moment With Fan Sets The Internet On Fire</news:title>
-      <news:keywords>BTS, Awards, Charts, Album, V</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actress-finally-gives-fans-a-rare-update-after-4-years-away-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T01:00:29.000Z</news:publication_date>
-      <news:title>Actress Finally Gives Fans A Rare Update After 4 Years Away From The Spotlight</news:title>
-      <news:keywords>Comeback, Awards, K-Drama, Actress, Korean Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-tv-star-gives-ex-boyfriend-money-after-ending-relati/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T22:43:29.000Z</news:publication_date>
-      <news:title>Popular TV Star Gives Ex-Boyfriend Money After Ending Relationship—Only To Find Him Move On With A Mutual Friend</news:title>
-      <news:keywords>Awards, K-Drama, Korean Entertainment, Relationships</news:keywords>
     </news:news>
   </url>
 </urlset>
