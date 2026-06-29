@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-shares-updates-on-legal-action-to-protect-its-artists-f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T08:05:49.000Z</news:publication_date>
+      <news:title>HYBE Shares Updates On Legal Action To Protect Its Artists From Malicious Acts</news:title>
+      <news:keywords>BTS, SEVENTEEN, NewJeans, LE SSERAFIM, TXT</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-leeteuk-shindong-dawn-kim-yo-han-johnny-and-jisung-bat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T06:19:32.000Z</news:publication_date>
+      <news:title>Watch: Leeteuk, Shindong, DAWN, Kim Yo Han, Johnny, And Jisung Battle For Luxury In Travel Variety Show “All Or Nothing” Teaser</news:title>
+      <news:keywords>NCT, Super Junior, K-Pop, Variety Show, DAWN</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-reason-why-btss-jungkook-hid-while-eating-sparks-divided/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T04:53:42.000Z</news:publication_date>
+      <news:title>The Reason Why BTS’s Jungkook Hid While Eating Sparks Divided Reactions</news:title>
+      <news:keywords>BTS, Debut, Awards, Jungkook, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-kim-hye-joon-gets-a-job-to-meet-her-idol-bias-in-my-bi/</loc>
     <news:news>
       <news:publication>
@@ -191,30 +227,6 @@
       <news:publication_date>2026-06-27T10:17:02.000Z</news:publication_date>
       <news:title>Manon’s Latest Behavior Toward KATSEYE Sparks Outrage </news:title>
       <news:keywords>Charts, Manon, KATSEYE, K-Pop, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5th-gen-girl-group-idol-collapses-on-stage-gets-carried-off-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T09:14:27.000Z</news:publication_date>
-      <news:title>5th Gen Girl Group Idol Collapses On Stage, Gets Carried Off By Staff</news:title>
-      <news:keywords>K-Pop, 5th Generation, Idol Health, Girl Group, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/daddys-twinks-and-bears-male-k-pop-idol-advertises-real-gay-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T06:19:37.000Z</news:publication_date>
-      <news:title>“Daddys, Twinks, And Bears” — Male K-Pop Idol Advertises REAL Gay Phone Sex Line In His Song</news:title>
-      <news:keywords>BTS, K-Pop, LGBTQ+, Controversy, Gay Phone Sex Line</news:keywords>
     </news:news>
   </url>
 </urlset>
