@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/teen-idols-excessive-cleavage-exposure-sparks-massive-outrag/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T16:51:43.000Z</news:publication_date>
+      <news:title>Teen Idol’s Excessive Cleavage Exposure Sparks Massive Outrage</news:title>
+      <news:keywords>Awards, Charts, K-Pop, Idol Objectification, Exploitation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-giselles-visual-transformation-due-to-extreme-weight-l/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T13:25:19.000Z</news:publication_date>
+      <news:title>aespa Giselle’s Visual Transformation Due To Extreme Weight Loss Hit With Backlash</news:title>
+      <news:keywords>aespa, Debut, Giselle, K-Pop, Body Image</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/treasures-junkyu-to-temporarily-halt-activities-due-to-healt/</loc>
     <news:news>
       <news:publication>
@@ -95,6 +119,18 @@
       <news:publication_date>2026-06-28T17:46:42.000Z</news:publication_date>
       <news:title>Watch: MODHAUS Boy Group idntt Teases New Unit itsnotover With “20/24” Film</news:title>
       <news:keywords>Debut, idntt, itsnotover, MODHAUS, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/update-tvxqs-yunho-drops-scheduler-for-times-tickin-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T16:46:24.000Z</news:publication_date>
+      <news:title>Update: TVXQ’s Yunho Drops Scheduler For “Time’s Tickin&apos;” Comeback</news:title>
+      <news:keywords>Comeback, Debut, Album, MV, TVXQ</news:keywords>
     </news:news>
   </url>
   <url>
@@ -227,18 +263,6 @@
       <news:publication_date>2026-06-28T00:20:53.000Z</news:publication_date>
       <news:title>Jang Ki Ha And Yoon Ga Yi Confirmed To Be Dating</news:title>
       <news:keywords>BTS, BLACKPINK, Debut, Album, Jang Ki Ha</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-pops-up-naked-on-stage-sparking-intense-respon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T16:46:09.000Z</news:publication_date>
-      <news:title>BTS’s Jungkook Pops Up “Naked” On Stage, Sparking Intense Response</news:title>
-      <news:keywords>BTS, 2NE1, Concert, Awards, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
