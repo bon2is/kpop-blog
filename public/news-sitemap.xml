@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/treasures-junkyu-to-temporarily-halt-activities-due-to-healt/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T10:33:41.000Z</news:publication_date>
+      <news:title>TREASURE’s Junkyu To Temporarily Halt Activities Due To Health + Shares Heartfelt Letter To Fans</news:title>
+      <news:keywords>TREASURE, Debut, Album, Junkyu, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-idol-suddenly-announces-marriage-and-pregnancy-with-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T09:48:19.000Z</news:publication_date>
+      <news:title>Popular Idol Suddenly Announces Marriage and Pregnancy With Top Actress</news:title>
+      <news:keywords>Awards, Charts, Album, MV, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-shares-updates-on-legal-action-to-protect-its-artists-f/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-06-29T06:19:32.000Z</news:publication_date>
       <news:title>Watch: Leeteuk, Shindong, DAWN, Kim Yo Han, Johnny, And Jisung Battle For Luxury In Travel Variety Show “All Or Nothing” Teaser</news:title>
       <news:keywords>NCT, Super Junior, K-Pop, Variety Show, DAWN</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-eun-bin-and-yang-se-jong-forge-an-unlikely-alliance-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T06:07:50.000Z</news:publication_date>
+      <news:title>Park Eun Bin And Yang Se Jong Forge An Unlikely Alliance In New Drama “Spooky In Love”</news:title>
+      <news:keywords>SEVENTEEN, K-Drama, Park Eun Bin, Yang Se Jong, Spooky in Love</news:keywords>
     </news:news>
   </url>
   <url>
@@ -203,30 +239,6 @@
       <news:publication_date>2026-06-27T16:46:09.000Z</news:publication_date>
       <news:title>BTS’s Jungkook Pops Up “Naked” On Stage, Sparking Intense Response</news:title>
       <news:keywords>BTS, 2NE1, Concert, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nugu-girl-group-idol-shocks-with-insanely-luxurious-house/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T11:37:14.000Z</news:publication_date>
-      <news:title>“Nugu” Girl Group Idol Shocks With Insanely Luxurious House</news:title>
-      <news:keywords>K-Pop, Nugu, Luxury House, Girl Group, Netizens</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/manons-latest-behavior-toward-katseye-sparks-outrage-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T10:17:02.000Z</news:publication_date>
-      <news:title>Manon’s Latest Behavior Toward KATSEYE Sparks Outrage </news:title>
-      <news:keywords>Charts, Manon, KATSEYE, K-Pop, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
