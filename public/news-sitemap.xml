@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-idol-actress-has-an-extremely-specific-ideal-typeand/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T19:16:35.000Z</news:publication_date>
+      <news:title>Popular Idol-Actress Has An Extremely Specific Ideal Type—And Only Two Top Actors Seem To Make The Cut</news:title>
+      <news:keywords>Awards, K-Pop, Idol-Actress, Marriage Plans, Ideal Type</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/idols-ex-wife-reveals-his-bare-minimum-child-support-payment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T18:49:09.000Z</news:publication_date>
+      <news:title>Idol’s Ex-Wife Reveals His “Bare Minimum” Child Support Payment In Fiery Call-Out Video</news:title>
+      <news:keywords>K-Pop, Child Support, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/teen-idols-excessive-cleavage-exposure-sparks-massive-outrag/</loc>
     <news:news>
       <news:publication>
@@ -191,78 +215,6 @@
       <news:publication_date>2026-06-28T07:30:08.000Z</news:publication_date>
       <news:title>“Broken Up” Actor And Idol-Actress Couple Photographed On Date</news:title>
       <news:keywords>Awards, Charts, K-Drama, K-Pop, Idol-Actress Couple</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-rm-and-jungkook-show-love-to-lesbians/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T04:21:36.000Z</news:publication_date>
-      <news:title>BTS’s RM And Jungkook Show Love To Lesbians</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-i-dle-gets-hilariously-honest-in-knowing-bros-preview/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T04:08:25.000Z</news:publication_date>
-      <news:title>Watch: i-dle Gets Hilariously Honest In “Knowing Bros” Preview</news:title>
-      <news:keywords>Comeback, Debut, K-Drama, i-dle, Knowing Bros</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5-must-watch-korean-variety-shows-that-are-seriously-addicti/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T03:45:56.000Z</news:publication_date>
-      <news:title>5 Must-Watch Korean Variety Shows That Are Seriously Addictive</news:title>
-      <news:keywords>Korean Variety Shows, I Live Alone, New Journey to the West, Running Man, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-sets-uk-record-as-swim-becomes-their-13th-single-to-be-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T02:08:00.000Z</news:publication_date>
-      <news:title>BTS Sets UK Record As “SWIM” Becomes Their 13th Single To Be Certified BRIT Silver</news:title>
-      <news:keywords>BTS, Charts, Album, MV, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girl-group-members-give-unexpected-advice-about-appearance-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T01:55:32.000Z</news:publication_date>
-      <news:title>Girl Group Members Give Unexpected Advice About Appearance Anxiety, Breaking Fans’ Hearts</news:title>
-      <news:keywords>BTS, BLACKPINK, TWICE, K-Pop, Body Positivity</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jang-ki-ha-and-yoon-ga-yi-confirmed-to-be-dating/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T00:20:53.000Z</news:publication_date>
-      <news:title>Jang Ki Ha And Yoon Ga Yi Confirmed To Be Dating</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Album, Jang Ki Ha</news:keywords>
     </news:news>
   </url>
 </urlset>
