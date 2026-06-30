@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/seventeen-vernons-dramatic-visual-transformation-sparks-majo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T12:15:14.000Z</news:publication_date>
+      <news:title>SEVENTEEN Vernon’s Dramatic Visual Transformation Sparks Major Shock</news:title>
+      <news:keywords>SEVENTEEN, Comeback, MV, Vernon, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/acon-2026-unveils-special-cover-stages-by-sung-han-bin-close/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T11:13:38.000Z</news:publication_date>
+      <news:title>“ACON 2026” Unveils Special Cover Stages By Sung Han Bin, CLOSE YOUR EYES, MEOVV, And More</news:title>
+      <news:keywords>ZEROBASEONE, Concert, Awards, ACON 2026, Asia Artist Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/gong-seung-yeon-in-talks-to-join-lee-jun-hyuk-in-new-romance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T08:54:49.000Z</news:publication_date>
+      <news:title>Gong Seung Yeon In Talks To Join Lee Jun Hyuk In New Romance Drama Based On Web Novel</news:title>
+      <news:keywords>Debut, K-Drama, Gong Seung Yeon, Lee Jun Hyuk, Romance Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-lisa-exposes-her-figure-in-deep-plunging-dress/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T08:45:46.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Lisa Exposes Her Figure In Deep-Plunging Dress</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Album, Lisa</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-vs-drunk-behavior-in-paris-spark-major-reactions/</loc>
     <news:news>
       <news:publication>
@@ -227,30 +275,6 @@
       <news:publication_date>2026-06-28T14:41:29.000Z</news:publication_date>
       <news:title>Minor Idol’s Sexy Stage Routine Sparks Massive Debate</news:title>
       <news:keywords>K-Pop, Controversy, Stage Performance, Idol Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-v-shocks-with-sexy-revealing-fashion-week-look/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T12:21:03.000Z</news:publication_date>
-      <news:title>BTS’s V Shocks With Sexy Revealing Fashion Week Look</news:title>
-      <news:keywords>BTS, Charts, V, Fashion Week, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4th-gen-idol-gets-knocked-away-by-staff-on-stage-fans-furiou/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T09:23:56.000Z</news:publication_date>
-      <news:title>4th-Gen Idol Gets “Knocked Away” By Staff On Stage, Fans Furious.</news:title>
-      <news:keywords>Debut, Charts, K-Pop, 4th-Gen Idol, Concert</news:keywords>
     </news:news>
   </url>
 </urlset>
