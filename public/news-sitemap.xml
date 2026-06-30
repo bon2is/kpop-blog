@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-vs-drunk-behavior-in-paris-spark-major-reactions/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T08:05:13.000Z</news:publication_date>
+      <news:title>BTS V’s “Drunk” Behavior In Paris Spark Major Reactions</news:title>
+      <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-hybe-group-allegedly-to-have-had-one-more-member-tri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T06:51:08.000Z</news:publication_date>
+      <news:title>Popular HYBE Group Allegedly To Have Had One More Member, Triggers Backlash</news:title>
+      <news:keywords>Debut, Charts, HYBE, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bighit-music-apologizes-for-cortiss-flight-boarding-delay/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T06:35:26.000Z</news:publication_date>
+      <news:title>BIGHIT MUSIC Apologizes For CORTIS’s Flight Boarding Delay</news:title>
+      <news:keywords>BTS, Comeback, CORTIS, BIGHIT MUSIC, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/male-idols-firm-remarks-towards-starbucks-sparks-massive-res/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T05:25:22.000Z</news:publication_date>
+      <news:title>Male Idol’s Firm Remarks Towards Starbucks Sparks Massive Response</news:title>
+      <news:keywords>BTS, BLACKPINK, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-idol-actress-has-an-extremely-specific-ideal-typeand/</loc>
     <news:news>
       <news:publication>
@@ -203,18 +251,6 @@
       <news:publication_date>2026-06-28T09:23:56.000Z</news:publication_date>
       <news:title>4th-Gen Idol Gets “Knocked Away” By Staff On Stage, Fans Furious.</news:title>
       <news:keywords>Debut, Charts, K-Pop, 4th-Gen Idol, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/broken-up-actor-and-idol-actress-couple-photographed-on-date/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T07:30:08.000Z</news:publication_date>
-      <news:title>“Broken Up” Actor And Idol-Actress Couple Photographed On Date</news:title>
-      <news:keywords>Awards, Charts, K-Drama, K-Pop, Idol-Actress Couple</news:keywords>
     </news:news>
   </url>
 </urlset>
