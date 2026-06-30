@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/a-disastrous-stage-debut-ends-with-refund-demands/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T15:00:47.000Z</news:publication_date>
+      <news:title>A Disastrous Stage Debut Ends With Refund Demands</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Red Velvet, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/txts-yeonjun-to-perform-at-good-morning-america-summer-conce/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T14:59:55.000Z</news:publication_date>
+      <news:title>TXT’s Yeonjun To Perform At “Good Morning America” Summer Concert Series In New York</news:title>
+      <news:keywords>BTS, BLACKPINK, TXT, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/seventeen-vernons-dramatic-visual-transformation-sparks-majo/</loc>
     <news:news>
       <news:publication>
@@ -50,6 +74,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/code-kunst-reported-to-have-broken-up-agency-briefly-comment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T08:19:00.000Z</news:publication_date>
+      <news:title>CODE KUNST Reported To Have Broken Up + Agency Briefly Comments</news:title>
+      <news:keywords>IU, CODE KUNST, Breakup, K-Pop, Relationships</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-vs-drunk-behavior-in-paris-spark-major-reactions/</loc>
     <news:news>
       <news:publication>
@@ -83,6 +119,18 @@
       <news:publication_date>2026-06-30T06:35:26.000Z</news:publication_date>
       <news:title>BIGHIT MUSIC Apologizes For CORTIS’s Flight Boarding Delay</news:title>
       <news:keywords>BTS, Comeback, CORTIS, BIGHIT MUSIC, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/update-eunsang-to-debut-as-solo-artist-under-brandnew-music-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T05:56:28.000Z</news:publication_date>
+      <news:title>Update: Eunsang To Debut As Solo Artist Under BRANDNEW MUSIC Following YOUNITE Departure</news:title>
+      <news:keywords>Debut, Eunsang, YOUNITE, BRANDNEW MUSIC, Solo Debut</news:keywords>
     </news:news>
   </url>
   <url>
@@ -251,30 +299,6 @@
       <news:publication_date>2026-06-28T16:46:24.000Z</news:publication_date>
       <news:title>Update: TVXQ’s Yunho Drops Scheduler For “Time’s Tickin&apos;” Comeback</news:title>
       <news:keywords>Comeback, Debut, Album, MV, TVXQ</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonster-drops-1st-teaser-for-i-like-it-mv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T15:29:09.000Z</news:publication_date>
-      <news:title>BABYMONSTER Drops 1st Teaser For “I LIKE IT” MV</news:title>
-      <news:keywords>BLACKPINK, 2NE1, BABYMONSTER, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/minor-idols-sexy-stage-routine-sparks-massive-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T14:41:29.000Z</news:publication_date>
-      <news:title>Minor Idol’s Sexy Stage Routine Sparks Massive Debate</news:title>
-      <news:keywords>K-Pop, Controversy, Stage Performance, Idol Culture</news:keywords>
     </news:news>
   </url>
 </urlset>
