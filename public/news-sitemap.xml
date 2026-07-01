@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-vs-v-sparks-heartbreak-and-fury-with-latest-weverse-post/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T13:05:15.000Z</news:publication_date>
+      <news:title>BTS V’s V Sparks Heartbreak And Fury With Latest Weverse Post</news:title>
+      <news:keywords>BTS, Comeback, Debut, Awards, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/le-sserafims-yunjin-brutally-criticized-for-comments-in-new-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T12:40:11.000Z</news:publication_date>
+      <news:title>LE SSERAFIM’s Yunjin Brutally Criticized For Comments In New Interview</news:title>
+      <news:keywords>LE SSERAFIM, Debut, Charts, Album, Yunjin</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/visuals-of-babymonster-chiquitas-family-in-new-photos-sparks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T12:00:26.000Z</news:publication_date>
+      <news:title>Visuals Of BABYMONSTER Chiquita’s Family In New Photos Sparks Major Shocks</news:title>
+      <news:keywords>BLACKPINK, 2NE1, BABYMONSTER, Debut, Chiquita</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/quiz-pick-your-fave-k-pop-visual-from-these-10-groups-and-we/</loc>
     <news:news>
       <news:publication>
@@ -287,42 +323,6 @@
       <news:publication_date>2026-06-29T16:51:43.000Z</news:publication_date>
       <news:title>Teen Idol’s Excessive Cleavage Exposure Sparks Massive Outrage</news:title>
       <news:keywords>Awards, Charts, K-Pop, Idol Objectification, Exploitation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-giselles-visual-transformation-due-to-extreme-weight-l/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T13:25:19.000Z</news:publication_date>
-      <news:title>aespa Giselle’s Visual Transformation Due To Extreme Weight Loss Hit With Backlash</news:title>
-      <news:keywords>aespa, Debut, Giselle, K-Pop, Body Image</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/treasures-junkyu-to-temporarily-halt-activities-due-to-healt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T10:33:41.000Z</news:publication_date>
-      <news:title>TREASURE’s Junkyu To Temporarily Halt Activities Due To Health + Shares Heartfelt Letter To Fans</news:title>
-      <news:keywords>TREASURE, Debut, Album, Junkyu, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idol-suddenly-announces-marriage-and-pregnancy-with-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T09:48:19.000Z</news:publication_date>
-      <news:title>Popular Idol Suddenly Announces Marriage and Pregnancy With Top Actress</news:title>
-      <news:keywords>Awards, Charts, Album, MV, K-Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
