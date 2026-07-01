@@ -1,30 +1,15 @@
 {
-  "lastUpdated": "2026-07-01T13:29:29.545Z",
+  "lastUpdated": "2026-07-01T16:27:31.589Z",
   "events": [
     {
-      "id": "soompi-25-2026-07-01",
-      "date": "2026-07-01",
+      "id": "soompi-2-2026-07-02",
+      "date": "2026-07-02",
       "type": "comeback",
-      "artist": "Super Junior",
-      "title": "SUPER JUNIOR-83z Announces Unit Debut Date With 1st Teaser For &#8220;Promise&#8221;",
+      "artist": "Sunmi",
+      "title": "Sunmi Announces July Return With Teasers For New Single",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1851482wpp/super-junior-83z-announces-unit-debut-date-with-1st-teaser-for-promise"
-      }
-    },
-    {
-      "id": "broadcast-show-champion-2026-07-01",
-      "date": "2026-07-01",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show Champion",
-      "description": "MBC M weekly music show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MBCkpop",
-        "official": "https://www.imbc.com"
+        "official": "https://www.soompi.com/article/1851706wpp/sunmi-announces-july-return-with-teasers-for-new-single"
       }
     },
     {
@@ -355,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@KBSKpop",
         "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-08-01",
+      "date": "2026-08-01",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]

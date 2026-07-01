@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:29:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:27:33 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>NouerA’s Taipei Concert Postponed At Last Minute</title>
+      <link>https://kpop.andxo.com/article/noueras-taipei-concert-postponed-at-last-minute/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/noueras-taipei-concert-postponed-at-last-minute/</guid>
+      <description>NouerA&apos;s Taipei concert postponed at last minute due to administrative issues.</description>
+      <pubDate>Wed, 01 Jul 2026 15:46:40 GMT</pubDate>
+      <category>tour</category>
+      <category>Debut</category>
+      <category>Concert</category>
+      <category>Album</category>
+      <category>Tour</category>
+      <category>NouerA</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/noueras-taipei-concert-postponed-at-last-minute.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/noueras-taipei-concert-postponed-at-last-minute.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/noueras-taipei-concert-postponed-at-last-minute.webp" />
+    </item>
     <item>
       <title>BTS V’s V Sparks Heartbreak And Fury With Latest Weverse Post</title>
       <link>https://kpop.andxo.com/article/bts-vs-v-sparks-heartbreak-and-fury-with-latest-weverse-post/</link>
@@ -1693,23 +1710,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoor-enters-top-20-of-billboard-200-for-1st-time-as-h.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoor-enters-top-20-of-billboard-200-for-1st-time-as-h.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoor-enters-top-20-of-billboard-200-for-1st-time-as-h.webp" />
-    </item>
-    <item>
-      <title>Mark’s New Label Apologizes For His Confederate Flag T-Shirt</title>
-      <link>https://kpop.andxo.com/article/marks-new-label-apologizes-for-his-confederate-flag-t-shirt/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/marks-new-label-apologizes-for-his-confederate-flag-t-shirt/</guid>
-      <description>Mark&apos;s new label apologizes for Confederate flag T-shirt</description>
-      <pubDate>Tue, 23 Jun 2026 14:40:12 GMT</pubDate>
-      <category>award</category>
-      <category>NCT</category>
-      <category>Debut</category>
-      <category>Awards</category>
-      <category>Mark</category>
-      <category>Upper Room</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/marks-new-label-apologizes-for-his-confederate-flag-t-shirt.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/marks-new-label-apologizes-for-his-confederate-flag-t-shirt.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/marks-new-label-apologizes-for-his-confederate-flag-t-shirt.webp" />
     </item>
   </channel>
 </rss>
