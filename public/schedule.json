@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-01T16:27:31.589Z",
+  "lastUpdated": "2026-07-02T04:53:06.971Z",
   "events": [
     {
-      "id": "soompi-2-2026-07-02",
+      "id": "soompi-9-2026-07-02",
       "date": "2026-07-02",
       "type": "comeback",
       "artist": "Sunmi",
@@ -10,6 +10,17 @@
       "source": "soompi",
       "links": {
         "official": "https://www.soompi.com/article/1851706wpp/sunmi-announces-july-return-with-teasers-for-new-single"
+      }
+    },
+    {
+      "id": "soompi-34-2026-07-02",
+      "date": "2026-07-02",
+      "type": "comeback",
+      "artist": "Update",
+      "title": "Update: GIRLSET Announces July Return With Teasers For Pre-Release Single &#8220;CHAT&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1851490wpp/watch-girlset-teases-comeback-with-mysterious-video"
       }
     },
     {
@@ -295,6 +306,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "gnews-comeback-2-2026-07-28",
+      "date": "2026-07-28",
+      "type": "comeback",
+      "artist": "KARD Debuts First Regular Album 'Part 2",
+      "title": "KARD Debuts First Regular Album 'Part 2: NOWHERE' on July 28 - 조선일보",
+      "source": "조선일보",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOW1XSWlnTkZDSTg4VzVNVmVqamdzX0p2TXBwX0JNUHhuS1lQT2dpQXM2VE9yYm13RHF0NnNBUGpFcXZIekZMQmR5RFlXTURaQm16U2pldy1rVU9hNjlwVFdBODZmNmUxZy1tTkVkdlJmMFJiZURBM3hjVDA2SFozMUFINDF3bm9jcHBYYk9B?oc=5"
       }
     },
     {

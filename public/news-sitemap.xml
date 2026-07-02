@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/katseyes-daniela-gets-grilled-over-her-internalized-misogyny/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T02:18:26.000Z</news:publication_date>
+      <news:title>KATSEYE’s Daniela Gets Grilled Over Her “Internalized Misogyny”</news:title>
+      <news:keywords>ITZY, (G)I-DLE, KATSEYE, Daniela, Internalized Misogyny</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kpop-demon-hunters-star-arden-cho-shares-beautiful-wedding-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T02:06:31.000Z</news:publication_date>
+      <news:title>“KPop Demon Hunters” Star Arden Cho Shares Beautiful Wedding Photos</news:title>
+      <news:keywords>Debut, Arden Cho, KPop Demon Hunters, Wedding, Korean-American</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/filipina-idol-goes-mega-viral-for-her-cnty-response-to-a-hat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T02:04:51.000Z</news:publication_date>
+      <news:title>Filipina Idol Goes Mega-Viral For Her “C*nty” Response To A Hater</news:title>
+      <news:keywords>Comeback, Debut, K-Drama, K-Pop, Filipina Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-myung-soo-and-kang-min-ah-both-face-career-crises-in-new/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T21:40:12.000Z</news:publication_date>
+      <news:title>Kim Myung Soo And Kang Min Ah Both Face Career Crises In New Drama “Love In Sync”</news:title>
+      <news:keywords>K-Drama, Kim Myung Soo, Kang Min Ah, Love in Sync, Romantic Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/noueras-taipei-concert-postponed-at-last-minute/</loc>
     <news:news>
       <news:publication>
@@ -299,42 +347,6 @@
       <news:publication_date>2026-06-30T05:25:22.000Z</news:publication_date>
       <news:title>Male Idol’s Firm Remarks Towards Starbucks Sparks Massive Response</news:title>
       <news:keywords>BTS, BLACKPINK, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idol-actress-has-an-extremely-specific-ideal-typeand/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T19:16:35.000Z</news:publication_date>
-      <news:title>Popular Idol-Actress Has An Extremely Specific Ideal Type—And Only Two Top Actors Seem To Make The Cut</news:title>
-      <news:keywords>Awards, K-Pop, Idol-Actress, Marriage Plans, Ideal Type</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idols-ex-wife-reveals-his-bare-minimum-child-support-payment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T18:49:09.000Z</news:publication_date>
-      <news:title>Idol’s Ex-Wife Reveals His “Bare Minimum” Child Support Payment In Fiery Call-Out Video</news:title>
-      <news:keywords>K-Pop, Child Support, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/teen-idols-excessive-cleavage-exposure-sparks-massive-outrag/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T16:51:43.000Z</news:publication_date>
-      <news:title>Teen Idol’s Excessive Cleavage Exposure Sparks Massive Outrage</news:title>
-      <news:keywords>Awards, Charts, K-Pop, Idol Objectification, Exploitation</news:keywords>
     </news:news>
   </url>
 </urlset>
