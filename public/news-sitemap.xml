@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/taecyeon-is-an-elite-operative-with-a-past-connection-to-so-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T07:56:56.000Z</news:publication_date>
+      <news:title>Taecyeon Is An Elite Operative With A Past Connection To So Ji Sub In “Agent Kim Reactivated”</news:title>
+      <news:keywords>K-Drama, Taecyeon, So Ji Sub, Agent Kim Reactivated, Action</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-hye-joon-is-ready-to-unleash-her-killer-instinct-in-a-sh/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T07:53:46.000Z</news:publication_date>
+      <news:title>Kim Hye Joon Is Ready To Unleash Her Killer Instinct In “A Shop For Killers 2”</news:title>
+      <news:keywords>Debut, Awards, K-Drama, Kim Hye Joon, A Shop for Killers 2</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-member-spotted-with-no-security-at-airport-sparks-solo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T07:20:48.000Z</news:publication_date>
+      <news:title>TWICE Member Spotted With No Security At Airport, Sparks Solo Contract Rumors</news:title>
+      <news:keywords>TWICE, Debut, Awards, Charts, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-seo-joon-in-talks-park-hae-il-reported-to-star-in-new-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T06:55:14.000Z</news:publication_date>
+      <news:title>Park Seo Joon In Talks + Park Hae Il Reported To Star In New Period Mystery Film</news:title>
+      <news:keywords>Debut, Awards, K-Drama, Park Seo Joon, Park Hae Il</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseyes-daniela-gets-grilled-over-her-internalized-misogyny/</loc>
     <news:news>
       <news:publication>
@@ -287,66 +335,6 @@
       <news:publication_date>2026-06-30T08:19:00.000Z</news:publication_date>
       <news:title>CODE KUNST Reported To Have Broken Up + Agency Briefly Comments</news:title>
       <news:keywords>IU, CODE KUNST, Breakup, K-Pop, Relationships</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-vs-drunk-behavior-in-paris-spark-major-reactions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T08:05:13.000Z</news:publication_date>
-      <news:title>BTS V’s “Drunk” Behavior In Paris Spark Major Reactions</news:title>
-      <news:keywords>BTS, Awards, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-hybe-group-allegedly-to-have-had-one-more-member-tri/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T06:51:08.000Z</news:publication_date>
-      <news:title>Popular HYBE Group Allegedly To Have Had One More Member, Triggers Backlash</news:title>
-      <news:keywords>Debut, Charts, HYBE, K-Pop, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bighit-music-apologizes-for-cortiss-flight-boarding-delay/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T06:35:26.000Z</news:publication_date>
-      <news:title>BIGHIT MUSIC Apologizes For CORTIS’s Flight Boarding Delay</news:title>
-      <news:keywords>BTS, Comeback, CORTIS, BIGHIT MUSIC, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/update-eunsang-to-debut-as-solo-artist-under-brandnew-music-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T05:56:28.000Z</news:publication_date>
-      <news:title>Update: Eunsang To Debut As Solo Artist Under BRANDNEW MUSIC Following YOUNITE Departure</news:title>
-      <news:keywords>Debut, Eunsang, YOUNITE, BRANDNEW MUSIC, Solo Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/male-idols-firm-remarks-towards-starbucks-sparks-massive-res/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T05:25:22.000Z</news:publication_date>
-      <news:title>Male Idol’s Firm Remarks Towards Starbucks Sparks Massive Response</news:title>
-      <news:keywords>BTS, BLACKPINK, Charts, Album, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
