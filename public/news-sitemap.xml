@@ -301,28 +301,4 @@
       <news:keywords>Super Junior, Debut, Concert, Album, Leeteuk</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/a-disastrous-stage-debut-ends-with-refund-demands/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T15:00:47.000Z</news:publication_date>
-      <news:title>A Disastrous Stage Debut Ends With Refund Demands</news:title>
-      <news:keywords>BTS, BLACKPINK, TWICE, Red Velvet, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txts-yeonjun-to-perform-at-good-morning-america-summer-conce/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T14:59:55.000Z</news:publication_date>
-      <news:title>TXT’s Yeonjun To Perform At “Good Morning America” Summer Concert Series In New York</news:title>
-      <news:keywords>BTS, BLACKPINK, TXT, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
 </urlset>

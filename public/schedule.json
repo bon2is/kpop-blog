@@ -1,32 +1,6 @@
 {
-  "lastUpdated": "2026-07-02T12:52:04.707Z",
+  "lastUpdated": "2026-07-02T16:05:52.775Z",
   "events": [
-    {
-      "id": "soompi-23-2026-07-02",
-      "date": "2026-07-02",
-      "type": "comeback",
-      "artist": "Sunmi",
-      "title": "Sunmi Announces July Return With Teasers For New Single",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1851706wpp/sunmi-announces-july-return-with-teasers-for-new-single"
-      }
-    },
-    {
-      "id": "broadcast-m-countdown-2026-07-02",
-      "date": "2026-07-02",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "M Countdown",
-      "description": "Mnet weekly music countdown show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MnetMcountdown",
-        "official": "https://www.mnet.com"
-      }
-    },
     {
       "id": "broadcast-music-bank-2026-07-03",
       "date": "2026-07-03",
@@ -366,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@mbckpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-08-02",
+      "date": "2026-08-02",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
       }
     }
   ]
