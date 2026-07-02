@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-fourth-gen-idol-embroiled-in-viral-dating-rumors-tri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T11:20:36.000Z</news:publication_date>
+      <news:title>Popular Fourth-Gen Idol Embroiled In Viral Dating Rumors — Triggers Mixed Reactions</news:title>
+      <news:keywords>ATEEZ, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-male-k-pop-idol-embroiled-in-dating-rumors-after-accusat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T10:20:06.000Z</news:publication_date>
+      <news:title>Top Male K-Pop Idol Embroiled In Dating Rumors After Accusations Of FaceTiming Girlfriend</news:title>
+      <news:keywords>Awards, Charts, Album, K-Pop, Dating Rumors</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kong-hyo-jins-elite-crime-fighting-team-lives-double-lives-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T08:45:18.000Z</news:publication_date>
+      <news:title>Kong Hyo Jin’s Elite Crime-Fighting Team Lives Double Lives As Office Workers In “A Bona Fide Killer”</news:title>
+      <news:keywords>Awards, K-Drama, Kong Hyo Jin, A Bona Fide Killer, Action Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/taecyeon-is-an-elite-operative-with-a-past-connection-to-so-/</loc>
     <news:news>
       <news:publication>
@@ -107,6 +143,18 @@
       <news:publication_date>2026-07-01T15:46:40.000Z</news:publication_date>
       <news:title>NouerA’s Taipei Concert Postponed At Last Minute</news:title>
       <news:keywords>Debut, Concert, Album, Tour, NouerA</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sunmi-announces-july-return-with-teasers-for-new-single/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T15:23:36.000Z</news:publication_date>
+      <news:title>Sunmi Announces July Return With Teasers For New Single</news:title>
+      <news:keywords>Comeback, Debut, Charts, MV, Sunmi</news:keywords>
     </news:news>
   </url>
   <url>
@@ -275,66 +323,6 @@
       <news:publication_date>2026-06-30T14:59:55.000Z</news:publication_date>
       <news:title>TXT’s Yeonjun To Perform At “Good Morning America” Summer Concert Series In New York</news:title>
       <news:keywords>BTS, BLACKPINK, TXT, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeen-vernons-dramatic-visual-transformation-sparks-majo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T12:15:14.000Z</news:publication_date>
-      <news:title>SEVENTEEN Vernon’s Dramatic Visual Transformation Sparks Major Shock</news:title>
-      <news:keywords>SEVENTEEN, Comeback, MV, Vernon, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/acon-2026-unveils-special-cover-stages-by-sung-han-bin-close/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T11:13:38.000Z</news:publication_date>
-      <news:title>“ACON 2026” Unveils Special Cover Stages By Sung Han Bin, CLOSE YOUR EYES, MEOVV, And More</news:title>
-      <news:keywords>ZEROBASEONE, Concert, Awards, ACON 2026, Asia Artist Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gong-seung-yeon-in-talks-to-join-lee-jun-hyuk-in-new-romance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T08:54:49.000Z</news:publication_date>
-      <news:title>Gong Seung Yeon In Talks To Join Lee Jun Hyuk In New Romance Drama Based On Web Novel</news:title>
-      <news:keywords>Debut, K-Drama, Gong Seung Yeon, Lee Jun Hyuk, Romance Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-lisa-exposes-her-figure-in-deep-plunging-dress/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T08:45:46.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Lisa Exposes Her Figure In Deep-Plunging Dress</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Album, Lisa</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/code-kunst-reported-to-have-broken-up-agency-briefly-comment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T08:19:00.000Z</news:publication_date>
-      <news:title>CODE KUNST Reported To Have Broken Up + Agency Briefly Comments</news:title>
-      <news:keywords>IU, CODE KUNST, Breakup, K-Pop, Relationships</news:keywords>
     </news:news>
   </url>
 </urlset>
