@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-07-03T07:56:40.601Z",
+  "lastUpdated": "2026-07-03T12:50:37.467Z",
   "events": [
+    {
+      "id": "soompi-2-2026-07-03",
+      "date": "2026-07-03",
+      "type": "other",
+      "artist": "Watch",
+      "title": "Watch: Oh Yoon Ah Announces Remarriage In Heartfelt Video",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1852111wpp/watch-oh-yoon-ah-announces-remarriage-in-heartfelt-video"
+      }
+    },
     {
       "id": "broadcast-music-bank-2026-07-03",
       "date": "2026-07-03",
@@ -269,6 +280,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "gnews-comeback-4-2026-07-28",
+      "date": "2026-07-28",
+      "type": "comeback",
+      "artist": "KARD Debuts First Regular Album 'Part 2",
+      "title": "KARD Debuts First Regular Album 'Part 2: NOWHERE' on July 28 - 조선일보",
+      "source": "조선일보",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOW1XSWlnTkZDSTg4VzVNVmVqamdzX0p2TXBwX0JNUHhuS1lQT2dpQXM2VE9yYm13RHF0NnNBUGpFcXZIekZMQmR5RFlXTURaQm16U2pldy1rVU9hNjlwVFdBODZmNmUxZy1tTkVkdlJmMFJiZURBM3hjVDA2SFozMUFINDF3bm9jcHBYYk9B?oc=5"
       }
     },
     {

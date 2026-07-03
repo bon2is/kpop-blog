@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/xikers-minjae-and-flare-us-chuei-li-yu-announced-as-new-mcs-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T12:41:25.000Z</news:publication_date>
+      <news:title>xikers’ Minjae And FLARE U’s Chuei Li Yu Announced As New MCs Of “The Show”</news:title>
+      <news:keywords>Comeback, Debut, xikers, FLARE U, The Show</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kiss-bts-members-shocking-actions-on-stage-are-going-viral/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T12:15:17.000Z</news:publication_date>
+      <news:title>“Kiss?” BTS Members Shocking Actions On Stage Are Going Viral</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-male-idol-sparks-shock-after-calling-a-female-idol-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T10:55:16.000Z</news:publication_date>
+      <news:title>Popular Male Idol Sparks Shock After Calling A Female Idol “Beautiful”</news:title>
+      <news:keywords>Comeback, Debut, Album, K-Pop, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/mean-girl-katseye-laras-rude-behavior-towards-yoonchae-trigg/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T09:05:08.000Z</news:publication_date>
+      <news:title>“Mean Girl!” KATSEYE Lara’s “Rude” Behavior Towards Yoonchae Triggers Fury</news:title>
+      <news:keywords>Charts, KATSEYE Lara, Yoonchae, K-Pop, Scandal</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-visuals-in-real-life-spark-huge-buzz-onli/</loc>
     <news:news>
       <news:publication>
@@ -251,42 +299,6 @@
       <news:publication_date>2026-07-01T13:05:15.000Z</news:publication_date>
       <news:title>BTS V’s V Sparks Heartbreak And Fury With Latest Weverse Post</news:title>
       <news:keywords>BTS, Comeback, Debut, Awards, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafims-yunjin-brutally-criticized-for-comments-in-new-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T12:40:11.000Z</news:publication_date>
-      <news:title>LE SSERAFIM’s Yunjin Brutally Criticized For Comments In New Interview</news:title>
-      <news:keywords>LE SSERAFIM, Debut, Charts, Album, Yunjin</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/visuals-of-babymonster-chiquitas-family-in-new-photos-sparks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T12:00:26.000Z</news:publication_date>
-      <news:title>Visuals Of BABYMONSTER Chiquita’s Family In New Photos Sparks Major Shocks</news:title>
-      <news:keywords>BLACKPINK, 2NE1, BABYMONSTER, Debut, Chiquita</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/quiz-pick-your-fave-k-pop-visual-from-these-10-groups-and-we/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T08:15:25.000Z</news:publication_date>
-      <news:title>QUIZ: Pick Your Fave K-Pop Visual From These 10 Groups And We’ll Guess Which Romance Trope You Secretly Love</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Red Velvet, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
