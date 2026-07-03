@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-visuals-in-real-life-spark-huge-buzz-onli/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T04:02:16.000Z</news:publication_date>
+      <news:title>IVE Jang Wonyoung’s Visuals In Real-Life Spark Huge Buzz Online</news:title>
+      <news:keywords>IVE, Debut, Awards, Charts, Jang Wonyoung</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/8-naturally-adorable-k-pop-idols-with-fierce-stage-presence/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-07-03T03:26:18.000Z</news:publication_date>
       <news:title>8 Naturally Adorable K-Pop Idols With Fierce Stage Presence</news:title>
       <news:keywords>Stray Kids, IVE, ENHYPEN, Rei, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-hybe-idol-bashed-for-allegedly-buying-instagram-foll/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T03:21:53.000Z</news:publication_date>
+      <news:title>Popular HYBE Idol Bashed For Allegedly Buying Instagram Followers</news:title>
+      <news:keywords>Debut, Awards, Charts, Album, HYBE</news:keywords>
     </news:news>
   </url>
   <url>
@@ -263,42 +287,6 @@
       <news:publication_date>2026-07-01T08:15:25.000Z</news:publication_date>
       <news:title>QUIZ: Pick Your Fave K-Pop Visual From These 10 Groups And We’ll Guess Which Romance Trope You Secretly Love</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, Red Velvet, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/astros-cha-eunwoo-gets-baptized-as-a-catholic-in-the-militar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T06:53:29.000Z</news:publication_date>
-      <news:title>ASTRO’s Cha Eunwoo Gets Baptized As A Catholic In The Military</news:title>
-      <news:keywords>Debut, ASTRO, Cha Eunwoo, K-Pop, Baptism</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ryu-jun-yeol-signs-with-galaxy-corporation/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T06:53:08.000Z</news:publication_date>
-      <news:title>Ryu Jun Yeol Signs With Galaxy Corporation</news:title>
-      <news:keywords>Awards, K-Drama, Ryu Jun Yeol, Galaxy Corporation, Korean Film</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-surprises-with-sudden-retirement-plans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T06:03:09.000Z</news:publication_date>
-      <news:title>K-Pop Idol Surprises With Sudden Retirement Plans</news:title>
-      <news:keywords>K-Pop, DAWN, PENTAGON, Retirement, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
