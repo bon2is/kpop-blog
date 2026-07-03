@@ -265,40 +265,4 @@
       <news:keywords>K-Drama, Kim Myung Soo, Kang Min Ah, Love in Sync, Romantic Comedy</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/noueras-taipei-concert-postponed-at-last-minute/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T15:46:40.000Z</news:publication_date>
-      <news:title>NouerA’s Taipei Concert Postponed At Last Minute</news:title>
-      <news:keywords>Debut, Concert, Album, Tour, NouerA</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sunmi-announces-july-return-with-teasers-for-new-single/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T15:23:36.000Z</news:publication_date>
-      <news:title>Sunmi Announces July Return With Teasers For New Single</news:title>
-      <news:keywords>Comeback, Debut, Charts, MV, Sunmi</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-vs-v-sparks-heartbreak-and-fury-with-latest-weverse-post/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T13:05:15.000Z</news:publication_date>
-      <news:title>BTS V’s V Sparks Heartbreak And Fury With Latest Weverse Post</news:title>
-      <news:keywords>BTS, Comeback, Debut, Awards, Tour</news:keywords>
-    </news:news>
-  </url>
 </urlset>

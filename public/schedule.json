@@ -1,32 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T12:50:37.467Z",
+  "lastUpdated": "2026-07-03T15:52:56.078Z",
   "events": [
-    {
-      "id": "soompi-2-2026-07-03",
-      "date": "2026-07-03",
-      "type": "other",
-      "artist": "Watch",
-      "title": "Watch: Oh Yoon Ah Announces Remarriage In Heartfelt Video",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1852111wpp/watch-oh-yoon-ah-announces-remarriage-in-heartfelt-video"
-      }
-    },
-    {
-      "id": "broadcast-music-bank-2026-07-03",
-      "date": "2026-07-03",
-      "time": "17:10",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Music Bank",
-      "description": "KBS Music Bank weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@KBSKpop",
-        "official": "https://www.kbs.co.kr"
-      }
-    },
     {
       "id": "broadcast-show--music-core-2026-07-04",
       "date": "2026-07-04",
