@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/latina-filipina-renowned-choreographer-suddenly-announced-as/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T09:53:19.000Z</news:publication_date>
+      <news:title>Latina-Filipina Renowned Choreographer Suddenly Announced As K-Pop Trainee</news:title>
+      <news:keywords>Debut, K-Pop, Choreographer, Latina-Filipina, Lee Haein</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bigbangs-daesung-kneels-before-2ne1s-minzy-to-apologize/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T08:53:01.000Z</news:publication_date>
+      <news:title>BIGBANG’s Daesung Kneels Before 2NE1’s Minzy To Apologize</news:title>
+      <news:keywords>BIGBANG, 2NE1, Debut, Daesung, Minzy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/idol-turned-actress-shows-off-cute-baby-bump/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T07:21:04.000Z</news:publication_date>
+      <news:title>Idol-Turned-Actress Shows Off Cute Baby Bump</news:title>
+      <news:keywords>Debut, K-Pop, Idol-Turned-Actress, Pregnancy Announcement, Baby Bump</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/mark-lee-reuniting-with-nct-sparks-mixed-reactions-member-ap/</loc>
     <news:news>
       <news:publication>
@@ -191,66 +227,6 @@
       <news:publication_date>2026-07-02T16:08:09.000Z</news:publication_date>
       <news:title>NCT’s Jaehyun To Release New Solo Single “99 Degrees”</news:title>
       <news:keywords>NCT, MV, Jaehyun, Solo Single, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-fourth-gen-idol-embroiled-in-viral-dating-rumors-tri/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T11:20:36.000Z</news:publication_date>
-      <news:title>Popular Fourth-Gen Idol Embroiled In Viral Dating Rumors — Triggers Mixed Reactions</news:title>
-      <news:keywords>ATEEZ, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-male-k-pop-idol-embroiled-in-dating-rumors-after-accusat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T10:20:06.000Z</news:publication_date>
-      <news:title>Top Male K-Pop Idol Embroiled In Dating Rumors After Accusations Of FaceTiming Girlfriend</news:title>
-      <news:keywords>Awards, Charts, Album, K-Pop, Dating Rumors</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kong-hyo-jins-elite-crime-fighting-team-lives-double-lives-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T08:45:18.000Z</news:publication_date>
-      <news:title>Kong Hyo Jin’s Elite Crime-Fighting Team Lives Double Lives As Office Workers In “A Bona Fide Killer”</news:title>
-      <news:keywords>Awards, K-Drama, Kong Hyo Jin, A Bona Fide Killer, Action Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/taecyeon-is-an-elite-operative-with-a-past-connection-to-so-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T07:56:56.000Z</news:publication_date>
-      <news:title>Taecyeon Is An Elite Operative With A Past Connection To So Ji Sub In “Agent Kim Reactivated”</news:title>
-      <news:keywords>K-Drama, Taecyeon, So Ji Sub, Agent Kim Reactivated, Action</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-hye-joon-is-ready-to-unleash-her-killer-instinct-in-a-sh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T07:53:46.000Z</news:publication_date>
-      <news:title>Kim Hye Joon Is Ready To Unleash Her Killer Instinct In “A Shop For Killers 2”</news:title>
-      <news:keywords>Debut, Awards, K-Drama, Kim Hye Joon, A Shop for Killers 2</news:keywords>
     </news:news>
   </url>
 </urlset>
