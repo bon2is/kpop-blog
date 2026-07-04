@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-girl-group-member-speculated-to-leave-sm-entertainment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T13:48:25.000Z</news:publication_date>
+      <news:title>Top Girl Group Member Speculated To Leave SM Entertainment</news:title>
+      <news:keywords>Red Velvet, aespa, Girls Generation, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/latina-filipina-renowned-choreographer-suddenly-announced-as/</loc>
     <news:news>
       <news:publication>

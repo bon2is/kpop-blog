@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:59:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 15:04:50 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Top Girl Group Member Speculated To Leave SM Entertainment</title>
+      <link>https://kpop.andxo.com/article/top-girl-group-member-speculated-to-leave-sm-entertainment/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/top-girl-group-member-speculated-to-leave-sm-entertainment/</guid>
+      <description>Top K-Pop girl group member may leave SM Entertainment, sparking fan concern.</description>
+      <pubDate>Sat, 04 Jul 2026 13:48:25 GMT</pubDate>
+      <category>drama</category>
+      <category>Red Velvet</category>
+      <category>aespa</category>
+      <category>Girls Generation</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-girl-group-member-speculated-to-leave-sm-entertainment.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-girl-group-member-speculated-to-leave-sm-entertainment.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-girl-group-member-speculated-to-leave-sm-entertainment.webp" />
+    </item>
     <item>
       <title>Latina-Filipina Renowned Choreographer Suddenly Announced As K-Pop Trainee</title>
       <link>https://kpop.andxo.com/article/latina-filipina-renowned-choreographer-suddenly-announced-as/</link>
@@ -1693,23 +1710,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nct-member-allegedly-soft-launches-his-girlfriend-on-instagr.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nct-member-allegedly-soft-launches-his-girlfriend-on-instagr.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nct-member-allegedly-soft-launches-his-girlfriend-on-instagr.webp" />
-    </item>
-    <item>
-      <title>Shin Ha Kyun, Heo Sung Tae, And More Tie The Final Knot On A Story That Has Spanned 10 Years In “Fifties Professionals”</title>
-      <link>https://kpop.andxo.com/article/shin-ha-kyun-heo-sung-tae-and-more-tie-the-final-knot-on-a-s/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/shin-ha-kyun-heo-sung-tae-and-more-tie-the-final-knot-on-a-s/</guid>
-      <description>MBC&apos;s &apos;Fifties Professionals&apos; concludes its epic story after 10 years</description>
-      <pubDate>Fri, 26 Jun 2026 02:07:31 GMT</pubDate>
-      <category>drama</category>
-      <category>K-Drama</category>
-      <category>Fifties Professionals</category>
-      <category>Shin Ha Kyun</category>
-      <category>Heo Sung Tae</category>
-      <category>Action-Comedy</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/shin-ha-kyun-heo-sung-tae-and-more-tie-the-final-knot-on-a-s.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/shin-ha-kyun-heo-sung-tae-and-more-tie-the-final-knot-on-a-s.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/shin-ha-kyun-heo-sung-tae-and-more-tie-the-final-knot-on-a-s.webp" />
     </item>
   </channel>
 </rss>
