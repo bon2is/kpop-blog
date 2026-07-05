@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-rescene-reveals-dorm-sheds-tears-while-visiting-geoje-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T04:32:34.000Z</news:publication_date>
+      <news:title>Watch: RESCENE Reveals Dorm + Sheds Tears While Visiting Geoje In “The Manager” Preview</news:title>
+      <news:keywords>Debut, Charts, RESCENE, The Manager, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-girls-generations-yuri-reveals-her-jeju-island-home-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T02:45:35.000Z</news:publication_date>
+      <news:title>Watch: Girls’ Generation’s Yuri Reveals Her Jeju Island Home In “I Live Alone” Preview</news:title>
+      <news:keywords>Girls Generation, SNSD, Debut, Awards, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-girl-group-member-speculated-to-leave-sm-entertainment/</loc>
     <news:news>
       <news:publication>
@@ -143,102 +167,6 @@
       <news:publication_date>2026-07-03T09:05:08.000Z</news:publication_date>
       <news:title>“Mean Girl!” KATSEYE Lara’s “Rude” Behavior Towards Yoonchae Triggers Fury</news:title>
       <news:keywords>Charts, KATSEYE Lara, Yoonchae, K-Pop, Scandal</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-visuals-in-real-life-spark-huge-buzz-onli/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T04:02:16.000Z</news:publication_date>
-      <news:title>IVE Jang Wonyoung’s Visuals In Real-Life Spark Huge Buzz Online</news:title>
-      <news:keywords>IVE, Debut, Awards, Charts, Jang Wonyoung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/8-naturally-adorable-k-pop-idols-with-fierce-stage-presence/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T03:26:18.000Z</news:publication_date>
-      <news:title>8 Naturally Adorable K-Pop Idols With Fierce Stage Presence</news:title>
-      <news:keywords>Stray Kids, IVE, ENHYPEN, Rei, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-hybe-idol-bashed-for-allegedly-buying-instagram-foll/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T03:21:53.000Z</news:publication_date>
-      <news:title>Popular HYBE Idol Bashed For Allegedly Buying Instagram Followers</news:title>
-      <news:keywords>Debut, Awards, Charts, Album, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bae-sung-woo-in-talks-along-with-park-jeong-min-for-new-dram/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T02:34:46.000Z</news:publication_date>
-      <news:title>Bae Sung Woo In Talks Along With Park Jeong Min For New Drama</news:title>
-      <news:keywords>K-Drama, Bae Sung Woo, Park Jeong Min, A Man&apos;s Man, New Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbangs-g-dragon-named-ambassador-for-unesco-world-heritage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T02:27:17.000Z</news:publication_date>
-      <news:title>BIGBANG’s G-Dragon Named Ambassador For UNESCO World Heritage Committee</news:title>
-      <news:keywords>BIGBANG, G-Dragon, UNESCO, K-Pop, Cultural Heritage</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mun-ka-young-joins-former-co-stars-cha-eun-woo-and-kim-seon-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T00:39:24.000Z</news:publication_date>
-      <news:title>Mun Ka Young Joins Former Co-Stars Cha Eun Woo And Kim Seon Ho At Fantagio</news:title>
-      <news:keywords>K-Drama, Mun Ka Young, Fantagio, Cha Eun Woo, Kim Seon Ho</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ateez-breaks-their-1st-week-sales-record-from-3-years-ago-wi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T23:24:47.000Z</news:publication_date>
-      <news:title>ATEEZ Breaks Their 1st-Week Sales Record From 3 Years Ago With “GOLDEN HOUR : Part.5”</news:title>
-      <news:keywords>ATEEZ, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ncts-jaehyun-to-release-new-solo-single-99-degrees/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T16:08:09.000Z</news:publication_date>
-      <news:title>NCT’s Jaehyun To Release New Solo Single “99 Degrees”</news:title>
-      <news:keywords>NCT, MV, Jaehyun, Solo Single, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
