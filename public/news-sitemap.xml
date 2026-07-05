@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/male-star-confesses-he-still-kisses-his-we-got-married-partn/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T11:38:02.000Z</news:publication_date>
+      <news:title>Male Star Confesses He Still Kisses His “We Got Married” Partner While Meeting Privately</news:title>
+      <news:keywords>Concert, Awards, Charts, K-Pop, We Got Married</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainment-girl-group-main-vocal-faces-intense-critici/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T09:49:05.000Z</news:publication_date>
+      <news:title>SM Entertainment Girl Group Main Vocal Faces Intense Criticism For Singing Skills</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-rescene-reveals-dorm-sheds-tears-while-visiting-geoje-/</loc>
     <news:news>
       <news:publication>
@@ -155,30 +179,6 @@
       <news:publication_date>2026-07-03T12:15:17.000Z</news:publication_date>
       <news:title>“Kiss?” BTS Members Shocking Actions On Stage Are Going Viral</news:title>
       <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-male-idol-sparks-shock-after-calling-a-female-idol-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T10:55:16.000Z</news:publication_date>
-      <news:title>Popular Male Idol Sparks Shock After Calling A Female Idol “Beautiful”</news:title>
-      <news:keywords>Comeback, Debut, Album, K-Pop, Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mean-girl-katseye-laras-rude-behavior-towards-yoonchae-trigg/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T09:05:08.000Z</news:publication_date>
-      <news:title>“Mean Girl!” KATSEYE Lara’s “Rude” Behavior Towards Yoonchae Triggers Fury</news:title>
-      <news:keywords>Charts, KATSEYE Lara, Yoonchae, K-Pop, Scandal</news:keywords>
     </news:news>
   </url>
 </urlset>
