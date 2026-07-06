@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-07-05T15:13:09.982Z",
+  "lastUpdated": "2026-07-06T05:02:25.443Z",
   "events": [
+    {
+      "id": "soompi-14-2026-07-06",
+      "date": "2026-07-06",
+      "type": "comeback",
+      "artist": "DAY6",
+      "title": "DAY6&#8217;s Young K Announces Comeback With Teaser For Full Album &#8220;YOUNGEST&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1852427wpp/day6s-young-k-announces-comeback-with-teaser-for-full-album-youngest"
+      }
+    },
+    {
+      "id": "soompi-15-2026-07-06",
+      "date": "2026-07-06",
+      "type": "comeback",
+      "artist": "fromis_9",
+      "title": "Watch: fromis_9 Announces July Comeback Date With Bubbly Teaser",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1852397wpp/watch-fromis_9-announces-july-comeback-date-with-bubbly-teaser"
+      }
+    },
+    {
+      "id": "soompi-16-2026-07-06",
+      "date": "2026-07-06",
+      "type": "comeback",
+      "artist": "Red Velvet",
+      "title": "Watch: Red Velvet Announces Comeback Date With 1st Teaser For &#8220;Velvet Summer&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1852385wpp/watch-red-velvet-announces-comeback-date-with-1st-teaser-for-velvet-summer"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-07-08",
       "date": "2026-07-08",
@@ -224,6 +257,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "gnews-comeback-5-2026-07-28",
+      "date": "2026-07-28",
+      "type": "comeback",
+      "artist": "KARD Debuts First Regular Album 'Part 2",
+      "title": "KARD Debuts First Regular Album 'Part 2: NOWHERE' on July 28 - 조선일보",
+      "source": "조선일보",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOW1XSWlnTkZDSTg4VzVNVmVqamdzX0p2TXBwX0JNUHhuS1lQT2dpQXM2VE9yYm13RHF0NnNBUGpFcXZIekZMQmR5RFlXTURaQm16U2pldy1rVU9hNjlwVFdBODZmNmUxZy1tTkVkdlJmMFJiZURBM3hjVDA2SFozMUFINDF3bm9jcHBYYk9B?oc=5"
       }
     },
     {

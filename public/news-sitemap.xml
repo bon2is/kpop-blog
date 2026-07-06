@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/kcm-and-his-wife-to-hold-belated-wedding-ceremony/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T23:35:49.000Z</news:publication_date>
+      <news:title>KCM And His Wife To Hold Belated Wedding Ceremony</news:title>
+      <news:keywords>Debut, Album, KCM, Wedding Ceremony, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-enhypen-reveals-comeback-schedule-for-the-sin-bliss/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T19:26:00.000Z</news:publication_date>
+      <news:title>Watch: ENHYPEN Reveals Comeback Schedule For “THE SIN : BLISS”</news:title>
+      <news:keywords>ENHYPEN, Comeback, Debut, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-team-announces-1st-ever-korean-comeback-with-trailer-f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T15:09:55.000Z</news:publication_date>
+      <news:title>Watch: &amp;TEAM Announces 1st-Ever Korean Comeback With Trailer For “Mark On Me”</news:title>
+      <news:keywords>Comeback, Debut, Awards, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/male-star-confesses-he-still-kisses-his-we-got-married-partn/</loc>
     <news:news>
       <news:publication>
@@ -107,54 +143,6 @@
       <news:publication_date>2026-07-04T07:21:04.000Z</news:publication_date>
       <news:title>Idol-Turned-Actress Shows Off Cute Baby Bump</news:title>
       <news:keywords>Debut, K-Pop, Idol-Turned-Actress, Pregnancy Announcement, Baby Bump</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mark-lee-reuniting-with-nct-sparks-mixed-reactions-member-ap/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T03:39:52.000Z</news:publication_date>
-      <news:title>Mark Lee Reuniting With NCT Sparks Mixed Reactions — Member Apologizes</news:title>
-      <news:keywords>NCT, Comeback, Debut, Charts, Mark Lee</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/evan-heeseung-allegedly-shades-enhypens-vocals-sparking-back/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T01:28:35.000Z</news:publication_date>
-      <news:title>EVAN (Heeseung) Allegedly “Shades” ENHYPEN’s Vocals, Sparking Backlash</news:title>
-      <news:keywords>ENHYPEN, EVAN, Heeseung, K-Pop, Vocal Criticism</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-members-romantic-date-video-goes-viral-causing-mel/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T01:22:42.000Z</news:publication_date>
-      <news:title>BLACKPINK Member’s Romantic “Date” Video Goes Viral, Causing Meltdowns</news:title>
-      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idol-turned-actress-got-caught-sneaking-out-to-the-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T18:29:34.000Z</news:publication_date>
-      <news:title>Popular Idol-Turned-Actress Got Caught Sneaking Out To The Club — And Was Thankful For The Punishment</news:title>
-      <news:keywords>Awards, K-Pop, Idol, Actress, Nightclub</news:keywords>
     </news:news>
   </url>
 </urlset>
