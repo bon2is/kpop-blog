@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-group-harshly-shaded-by-artist-after-being-hyped-by-a-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T11:10:41.000Z</news:publication_date>
+      <news:title>HYBE Group Harshly Shaded By Artist After Being Hyped By A Member</news:title>
+      <news:keywords>BTS, LE SSERAFIM, HYBE Group, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-fourth-gen-male-idol-visuals-hit-with-malicious-criticis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T10:40:22.000Z</news:publication_date>
+      <news:title>Top Fourth-Gen Male Idol Visual’s Hit With Malicious Criticism</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/brutal-review-of-blackpink-jennies-recent-performance-is-goi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T10:05:28.000Z</news:publication_date>
+      <news:title>Brutal Review Of BLACKPINK Jennie’s Recent Performance Is Going Viral</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Charts, Jennie</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-hybe-idols-reaction-to-fans-comment-triggers-massive/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T09:46:22.000Z</news:publication_date>
+      <news:title>Popular HYBE Idol’s Reaction To Fan’s Comment Triggers Massive Response</news:title>
+      <news:keywords>Debut, Concert, Awards, Charts, HYBE</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/viral-video-of-blackpink-lisa-linked-to-nose-job-criticism-t/</loc>
     <news:news>
       <news:publication>
@@ -155,30 +203,6 @@
       <news:publication_date>2026-07-04T19:42:27.000Z</news:publication_date>
       <news:title>Dispatch Accuses Min Hee Jin Of Intimidating ADOR Staff, Posts Receipts</news:title>
       <news:keywords>BTS, NewJeans, Debut, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-girl-group-member-speculated-to-leave-sm-entertainment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T13:48:25.000Z</news:publication_date>
-      <news:title>Top Girl Group Member Speculated To Leave SM Entertainment</news:title>
-      <news:keywords>Red Velvet, aespa, Girls Generation, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/latina-filipina-renowned-choreographer-suddenly-announced-as/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T09:53:19.000Z</news:publication_date>
-      <news:title>Latina-Filipina Renowned Choreographer Suddenly Announced As K-Pop Trainee</news:title>
-      <news:keywords>Debut, K-Pop, Choreographer, Latina-Filipina, Lee Haein</news:keywords>
     </news:news>
   </url>
 </urlset>
