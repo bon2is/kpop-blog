@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/viral-video-of-blackpink-lisa-linked-to-nose-job-criticism-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T08:55:17.000Z</news:publication_date>
+      <news:title>Viral Video Of BLACKPINK Lisa Linked To “Nose Job” Criticism Triggers Divided Reactions</news:title>
+      <news:keywords>BLACKPINK, Lisa, K-Pop, Beauty Standards, Body Shaming</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-fans-send-protest-trucks-threatening-to-unstan-for-menti/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T07:45:51.000Z</news:publication_date>
+      <news:title>NCT Fans Send Protest Trucks Threatening To “Unstan” For Mentioning Ex-Member</news:title>
+      <news:keywords>BTS, NCT, Debut, Awards, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sbs-comments-on-possibility-of-agent-kim-reactivated-season-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T06:08:20.000Z</news:publication_date>
+      <news:title>SBS Comments On Possibility Of “Agent Kim Reactivated” Season 2</news:title>
+      <news:keywords>K-Drama, SBS, Agent Kim Reactivated, Season 2, Korean Television</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/former-newjeans-danielle-directly-refutes-claims-regarding-d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T03:08:50.000Z</news:publication_date>
+      <news:title>Former NewJeans’ Danielle Directly Refutes Claims Regarding Dual Contract</news:title>
+      <news:keywords>NewJeans, Debut, Danielle, K-Pop Contracts, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kcm-and-his-wife-to-hold-belated-wedding-ceremony/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +59,18 @@
       <news:publication_date>2026-07-05T23:35:49.000Z</news:publication_date>
       <news:title>KCM And His Wife To Hold Belated Wedding Ceremony</news:title>
       <news:keywords>Debut, Album, KCM, Wedding Ceremony, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/notes-from-the-last-row-and-agent-kim-reactivated-top-most-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T21:56:41.000Z</news:publication_date>
+      <news:title>“Notes From The Last Row” And “Agent Kim Reactivated” Top Most Buzzworthy Drama And Actor Rankings</news:title>
+      <news:keywords>Charts, K-Drama, Notes from the Last Row, Agent Kim Reactivated, Netflix</news:keywords>
     </news:news>
   </url>
   <url>
@@ -119,30 +179,6 @@
       <news:publication_date>2026-07-04T09:53:19.000Z</news:publication_date>
       <news:title>Latina-Filipina Renowned Choreographer Suddenly Announced As K-Pop Trainee</news:title>
       <news:keywords>Debut, K-Pop, Choreographer, Latina-Filipina, Lee Haein</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbangs-daesung-kneels-before-2ne1s-minzy-to-apologize/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T08:53:01.000Z</news:publication_date>
-      <news:title>BIGBANG’s Daesung Kneels Before 2NE1’s Minzy To Apologize</news:title>
-      <news:keywords>BIGBANG, 2NE1, Debut, Daesung, Minzy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-turned-actress-shows-off-cute-baby-bump/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T07:21:04.000Z</news:publication_date>
-      <news:title>Idol-Turned-Actress Shows Off Cute Baby Bump</news:title>
-      <news:keywords>Debut, K-Pop, Idol-Turned-Actress, Pregnancy Announcement, Baby Bump</news:keywords>
     </news:news>
   </url>
 </urlset>
