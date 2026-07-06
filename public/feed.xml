@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 14:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:51:48 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Female K-Pop Idol Captivates With Beautiful Backless Dress</title>
+      <link>https://kpop.andxo.com/article/female-k-pop-idol-captivates-with-beautiful-backless-dress/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/female-k-pop-idol-captivates-with-beautiful-backless-dress/</guid>
+      <description>Soyou stuns in backless dress!</description>
+      <pubDate>Mon, 06 Jul 2026 16:21:10 GMT</pubDate>
+      <category>award</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <category>Soyou</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-captivates-with-beautiful-backless-dress.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-captivates-with-beautiful-backless-dress.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-captivates-with-beautiful-backless-dress.webp" />
+    </item>
     <item>
       <title>HYBE Group Harshly Shaded By Artist After Being Hyped By A Member</title>
       <link>https://kpop.andxo.com/article/hybe-group-harshly-shaded-by-artist-after-being-hyped-by-a-m/</link>
@@ -1694,23 +1711,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-jungkook-pops-up-naked-on-stage-sparking-intense-respon.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-jungkook-pops-up-naked-on-stage-sparking-intense-respon.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-jungkook-pops-up-naked-on-stage-sparking-intense-respon.webp" />
-    </item>
-    <item>
-      <title>“Nugu” Girl Group Idol Shocks With Insanely Luxurious House</title>
-      <link>https://kpop.andxo.com/article/nugu-girl-group-idol-shocks-with-insanely-luxurious-house/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/nugu-girl-group-idol-shocks-with-insanely-luxurious-house/</guid>
-      <description>A &apos;nugu&apos; girl group idol stuns netizens with her luxurious house</description>
-      <pubDate>Sat, 27 Jun 2026 11:37:14 GMT</pubDate>
-      <category>audition</category>
-      <category>K-Pop</category>
-      <category>Nugu</category>
-      <category>Luxury House</category>
-      <category>Girl Group</category>
-      <category>Netizens</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nugu-girl-group-idol-shocks-with-insanely-luxurious-house.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nugu-girl-group-idol-shocks-with-insanely-luxurious-house.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/nugu-girl-group-idol-shocks-with-insanely-luxurious-house.webp" />
     </item>
   </channel>
 </rss>

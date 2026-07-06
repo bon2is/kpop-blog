@@ -1,39 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T14:18:29.386Z",
+  "lastUpdated": "2026-07-06T16:51:46.228Z",
   "events": [
-    {
-      "id": "soompi-25-2026-07-06",
-      "date": "2026-07-06",
-      "type": "comeback",
-      "artist": "DAY6",
-      "title": "DAY6&#8217;s Young K Announces Comeback With Teaser For Full Album &#8220;YOUNGEST&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1852427wpp/day6s-young-k-announces-comeback-with-teaser-for-full-album-youngest"
-      }
-    },
-    {
-      "id": "soompi-26-2026-07-06",
-      "date": "2026-07-06",
-      "type": "comeback",
-      "artist": "fromis_9",
-      "title": "Watch: fromis_9 Announces July Comeback Date With Bubbly Teaser",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1852397wpp/watch-fromis_9-announces-july-comeback-date-with-bubbly-teaser"
-      }
-    },
-    {
-      "id": "soompi-27-2026-07-06",
-      "date": "2026-07-06",
-      "type": "comeback",
-      "artist": "Red Velvet",
-      "title": "Watch: Red Velvet Announces Comeback Date With 1st Teaser For &#8220;Velvet Summer&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1852385wpp/watch-red-velvet-announces-comeback-date-with-1st-teaser-for-velvet-summer"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-07-08",
       "date": "2026-07-08",
@@ -358,6 +325,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-08-06",
+      "date": "2026-08-06",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
