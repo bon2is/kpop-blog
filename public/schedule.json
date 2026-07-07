@@ -1,28 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T13:09:09.352Z",
+  "lastUpdated": "2026-07-07T16:31:08.274Z",
   "events": [
-    {
-      "id": "soompi-13-2026-07-07",
-      "date": "2026-07-07",
-      "type": "concert",
-      "artist": "NCT",
-      "title": "NCT 127 Announces Stops For 5th Tour &#8220;NEO CITY &#8211; THE REDLINE&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1852873wpp/nct-127-announces-stops-for-5th-tour-neo-city-the-redline"
-      }
-    },
-    {
-      "id": "soompi-16-2026-07-07",
-      "date": "2026-07-07",
-      "type": "comeback",
-      "artist": "NCT",
-      "title": "NCT 127 Announces Comeback Date",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1852791wpp/nct-127-announces-comeback-date"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-07-08",
       "date": "2026-07-08",
@@ -362,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-08-07",
+      "date": "2026-08-07",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
       }
     }
   ]
