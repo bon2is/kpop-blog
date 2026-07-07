@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-members-thoughtless-actions-towards-jungkook-triggers-fu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T09:30:13.000Z</news:publication_date>
+      <news:title>BTS Member’s “Thoughtless” Actions Towards Jungkook Triggers Fury</news:title>
+      <news:keywords>BTS, Concert, Awards, Tour, Jungkook</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jo-hye-joo-kim-do-wan-lee-joon-hyuk-and-more-bring-diverse-c/</loc>
     <news:news>
       <news:publication>
@@ -251,30 +263,6 @@
       <news:publication_date>2026-07-05T15:09:55.000Z</news:publication_date>
       <news:title>Watch: &amp;TEAM Announces 1st-Ever Korean Comeback With Trailer For “Mark On Me”</news:title>
       <news:keywords>Comeback, Debut, Awards, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/male-star-confesses-he-still-kisses-his-we-got-married-partn/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T11:38:02.000Z</news:publication_date>
-      <news:title>Male Star Confesses He Still Kisses His “We Got Married” Partner While Meeting Privately</news:title>
-      <news:keywords>Concert, Awards, Charts, K-Pop, We Got Married</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sm-entertainment-girl-group-main-vocal-faces-intense-critici/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T09:49:05.000Z</news:publication_date>
-      <news:title>SM Entertainment Girl Group Main Vocal Faces Intense Criticism For Singing Skills</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, MV</news:keywords>
     </news:news>
   </url>
 </urlset>

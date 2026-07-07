@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 08:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 13:09:11 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BTS Member’s “Thoughtless” Actions Towards Jungkook Triggers Fury</title>
+      <link>https://kpop.andxo.com/article/bts-members-thoughtless-actions-towards-jungkook-triggers-fu/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-members-thoughtless-actions-towards-jungkook-triggers-fu/</guid>
+      <description>BTS member&apos;s actions spark outrage towards Jungkook</description>
+      <pubDate>Tue, 07 Jul 2026 09:30:13 GMT</pubDate>
+      <category>award</category>
+      <category>BTS</category>
+      <category>Concert</category>
+      <category>Awards</category>
+      <category>Tour</category>
+      <category>Jungkook</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-members-thoughtless-actions-towards-jungkook-triggers-fu.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-members-thoughtless-actions-towards-jungkook-triggers-fu.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-members-thoughtless-actions-towards-jungkook-triggers-fu.webp" />
+    </item>
     <item>
       <title>Jo Hye Joo, Kim Do Wan, Lee Joon Hyuk, And More Bring Diverse Charms To New Drama “Spooky In Love”</title>
       <link>https://kpop.andxo.com/article/jo-hye-joo-kim-do-wan-lee-joon-hyuk-and-more-bring-diverse-c/</link>
@@ -1694,23 +1711,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-v-shocks-with-sexy-revealing-fashion-week-look.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-v-shocks-with-sexy-revealing-fashion-week-look.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-v-shocks-with-sexy-revealing-fashion-week-look.webp" />
-    </item>
-    <item>
-      <title>4th-Gen Idol Gets “Knocked Away” By Staff On Stage, Fans Furious.</title>
-      <link>https://kpop.andxo.com/article/4th-gen-idol-gets-knocked-away-by-staff-on-stage-fans-furiou/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/4th-gen-idol-gets-knocked-away-by-staff-on-stage-fans-furiou/</guid>
-      <description>4th-gen idol suffers harsh treatment on stage</description>
-      <pubDate>Sun, 28 Jun 2026 09:23:56 GMT</pubDate>
-      <category>tour</category>
-      <category>Debut</category>
-      <category>Charts</category>
-      <category>K-Pop</category>
-      <category>4th-Gen Idol</category>
-      <category>Concert</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-gets-knocked-away-by-staff-on-stage-fans-furiou.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-gets-knocked-away-by-staff-on-stage-fans-furiou.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-gets-knocked-away-by-staff-on-stage-fans-furiou.webp" />
     </item>
   </channel>
 </rss>
