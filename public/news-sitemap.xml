@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ateez-sans-honest-remarks-about-his-killing-part-dance-goes-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T02:30:31.000Z</news:publication_date>
+      <news:title>ATEEZ San’s Honest Remarks About His “Killing Part” Dance Goes Viral</news:title>
+      <news:keywords>ATEEZ, Debut, San, Killing Part, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/46-year-old-first-gen-idols-hot-girl-pictures-have-netizens-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T02:08:02.000Z</news:publication_date>
+      <news:title>46-Year-Old First-Gen Idol’s “Hot Girl” Pictures Have Netizens Suspect Procedures Again</news:title>
+      <news:keywords>Comeback, K-Pop, Plastic Surgery, First-Generation Idol, Beauty Standards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-female-idols-drastic-weight-loss-spark-major-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T02:02:59.000Z</news:publication_date>
+      <news:title>Popular Female Idol’s Drastic Weight Loss Spark Major Concern</news:title>
+      <news:keywords>Concert, K-Pop, Weight Loss, Body Image, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-members-stiff-dancing-triggers-heated-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T01:22:59.000Z</news:publication_date>
+      <news:title>TWICE Member’s “Stiff” Dancing Triggers Heated Debate</news:title>
+      <news:keywords>TWICE, Comeback, Debut, Awards, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/female-k-pop-idol-captivates-with-beautiful-backless-dress/</loc>
     <news:news>
       <news:publication>
@@ -179,42 +227,6 @@
       <news:publication_date>2026-07-05T09:49:05.000Z</news:publication_date>
       <news:title>SM Entertainment Girl Group Main Vocal Faces Intense Criticism For Singing Skills</news:title>
       <news:keywords>Comeback, Debut, Awards, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-rescene-reveals-dorm-sheds-tears-while-visiting-geoje-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T04:32:34.000Z</news:publication_date>
-      <news:title>Watch: RESCENE Reveals Dorm + Sheds Tears While Visiting Geoje In “The Manager” Preview</news:title>
-      <news:keywords>Debut, Charts, RESCENE, The Manager, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-girls-generations-yuri-reveals-her-jeju-island-home-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T02:45:35.000Z</news:publication_date>
-      <news:title>Watch: Girls’ Generation’s Yuri Reveals Her Jeju Island Home In “I Live Alone” Preview</news:title>
-      <news:keywords>Girls Generation, SNSD, Debut, Awards, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/dispatch-accuses-min-hee-jin-of-intimidating-ador-staff-post/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T19:42:27.000Z</news:publication_date>
-      <news:title>Dispatch Accuses Min Hee Jin Of Intimidating ADOR Staff, Posts Receipts</news:title>
-      <news:keywords>BTS, NewJeans, Debut, Album, MV</news:keywords>
     </news:news>
   </url>
 </urlset>

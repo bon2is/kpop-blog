@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-07-06T16:51:46.228Z",
+  "lastUpdated": "2026-07-07T04:41:34.221Z",
   "events": [
+    {
+      "id": "soompi-1-2026-07-07",
+      "date": "2026-07-07",
+      "type": "comeback",
+      "artist": "NCT",
+      "title": "NCT 127 Announces Comeback Date",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1852791wpp/nct-127-announces-comeback-date"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-07-08",
       "date": "2026-07-08",
@@ -227,7 +238,7 @@
       }
     },
     {
-      "id": "gnews-comeback-17-2026-07-28",
+      "id": "gnews-comeback-18-2026-07-28",
       "date": "2026-07-28",
       "type": "comeback",
       "artist": "KARD Debuts First Regular Album 'Part 2",
