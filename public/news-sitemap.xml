@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lee-seung-gi-and-lee-da-in-welcome-their-second-child/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T08:49:34.000Z</news:publication_date>
+      <news:title>Lee Seung Gi And Lee Da In Welcome Their Second Child</news:title>
+      <news:keywords>IU, Debut, K-Drama, Lee Seung Gi, Lee Da In</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/winwin-leaves-nct-and-sm-entertainment/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +35,18 @@
       <news:publication_date>2026-07-08T05:13:39.000Z</news:publication_date>
       <news:title>Actor Lee Jung Hyun Confirms Marriage Plans</news:title>
       <news:keywords>K-Drama, Lee Jung Hyun, Marriage, EPLE ENT, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twices-sana-makes-acting-debut-with-top-star/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T02:51:51.000Z</news:publication_date>
+      <news:title>TWICE’s Sana Makes Acting Debut With Top Star</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Red Velvet, Debut</news:keywords>
     </news:news>
   </url>
   <url>
@@ -191,78 +215,6 @@
       <news:publication_date>2026-07-06T16:21:10.000Z</news:publication_date>
       <news:title>Female K-Pop Idol Captivates With Beautiful Backless Dress</news:title>
       <news:keywords>Comeback, Debut, Awards, Charts, Soyou</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-group-harshly-shaded-by-artist-after-being-hyped-by-a-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T11:10:41.000Z</news:publication_date>
-      <news:title>HYBE Group Harshly Shaded By Artist After Being Hyped By A Member</news:title>
-      <news:keywords>BTS, LE SSERAFIM, HYBE Group, K-Pop, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-fourth-gen-male-idol-visuals-hit-with-malicious-criticis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T10:40:22.000Z</news:publication_date>
-      <news:title>Top Fourth-Gen Male Idol Visual’s Hit With Malicious Criticism</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/brutal-review-of-blackpink-jennies-recent-performance-is-goi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T10:05:28.000Z</news:publication_date>
-      <news:title>Brutal Review Of BLACKPINK Jennie’s Recent Performance Is Going Viral</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Charts, Jennie</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-hybe-idols-reaction-to-fans-comment-triggers-massive/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T09:46:22.000Z</news:publication_date>
-      <news:title>Popular HYBE Idol’s Reaction To Fan’s Comment Triggers Massive Response</news:title>
-      <news:keywords>Debut, Concert, Awards, Charts, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/viral-video-of-blackpink-lisa-linked-to-nose-job-criticism-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T08:55:17.000Z</news:publication_date>
-      <news:title>Viral Video Of BLACKPINK Lisa Linked To “Nose Job” Criticism Triggers Divided Reactions</news:title>
-      <news:keywords>BLACKPINK, Lisa, K-Pop, Beauty Standards, Body Shaming</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-fans-send-protest-trucks-threatening-to-unstan-for-menti/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T07:45:51.000Z</news:publication_date>
-      <news:title>NCT Fans Send Protest Trucks Threatening To “Unstan” For Mentioning Ex-Member</news:title>
-      <news:keywords>BTS, NCT, Debut, Awards, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
