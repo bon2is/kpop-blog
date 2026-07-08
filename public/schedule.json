@@ -1,21 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T12:10:35.595Z",
+  "lastUpdated": "2026-07-08T16:02:33.835Z",
   "events": [
-    {
-      "id": "broadcast-show-champion-2026-07-08",
-      "date": "2026-07-08",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show Champion",
-      "description": "MBC M weekly music show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MBCkpop",
-        "official": "https://www.imbc.com"
-      }
-    },
     {
       "id": "broadcast-m-countdown-2026-07-09",
       "date": "2026-07-09",
@@ -344,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@KBSKpop",
         "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-08-08",
+      "date": "2026-08-08",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
