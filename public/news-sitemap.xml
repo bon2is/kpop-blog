@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/winwin-leaves-nct-and-sm-entertainment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T06:40:15.000Z</news:publication_date>
+      <news:title>Winwin Leaves NCT And SM Entertainment</news:title>
+      <news:keywords>NCT, Debut, Winwin, SM Entertainment, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/actor-lee-jung-hyun-confirms-marriage-plans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T05:13:39.000Z</news:publication_date>
+      <news:title>Actor Lee Jung Hyun Confirms Marriage Plans</news:title>
+      <news:keywords>K-Drama, Lee Jung Hyun, Marriage, EPLE ENT, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lee-hyun-renews-contract-with-bighit-music/</loc>
     <news:news>
       <news:publication>
@@ -239,18 +263,6 @@
       <news:publication_date>2026-07-06T07:45:51.000Z</news:publication_date>
       <news:title>NCT Fans Send Protest Trucks Threatening To “Unstan” For Mentioning Ex-Member</news:title>
       <news:keywords>BTS, NCT, Debut, Awards, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sbs-comments-on-possibility-of-agent-kim-reactivated-season-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T06:08:20.000Z</news:publication_date>
-      <news:title>SBS Comments On Possibility Of “Agent Kim Reactivated” Season 2</news:title>
-      <news:keywords>K-Drama, SBS, Agent Kim Reactivated, Season 2, Korean Television</news:keywords>
     </news:news>
   </url>
 </urlset>
