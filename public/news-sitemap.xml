@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lee-hyun-renews-contract-with-bighit-music/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T22:54:32.000Z</news:publication_date>
+      <news:title>Lee Hyun Renews Contract With BIGHIT MUSIC</news:title>
+      <news:keywords>Lee Hyun, BIGHIT MUSIC, K-Pop, Contract Renewal, 8Eight</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twices-tzuyu-makes-headlines-for-her-doll-like-beauty/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T16:55:17.000Z</news:publication_date>
+      <news:title>TWICE’s Tzuyu Makes Headlines For Her Doll-Like Beauty</news:title>
+      <news:keywords>TWICE, Awards, Tzuyu, K-Pop, Beauty</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-stray-kids-unveils-surreal-comeback-trailer-for-this-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T15:18:49.000Z</news:publication_date>
+      <news:title>Watch: Stray Kids Unveils Surreal Comeback Trailer For “THIS &amp; THAT”</news:title>
+      <news:keywords>Stray Kids, Comeback, Debut, Awards, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-members-thoughtless-actions-towards-jungkook-triggers-fu/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +59,18 @@
       <news:publication_date>2026-07-07T07:52:27.000Z</news:publication_date>
       <news:title>Jo Hye Joo, Kim Do Wan, Lee Joon Hyuk, And More Bring Diverse Charms To New Drama “Spooky In Love”</news:title>
       <news:keywords>K-Drama, Spooky in Love, Jo Hye Joo, Kim Do Wan, Lee Joon Hyuk</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bigbang-to-release-new-song-for-the-first-time-in-4-years/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T07:02:04.000Z</news:publication_date>
+      <news:title>BIGBANG To Release New Song For The First Time In 4 Years</news:title>
+      <news:keywords>BIGBANG, Comeback, Awards, Charts, MV</news:keywords>
     </news:news>
   </url>
   <url>
@@ -203,54 +251,6 @@
       <news:publication_date>2026-07-06T06:08:20.000Z</news:publication_date>
       <news:title>SBS Comments On Possibility Of “Agent Kim Reactivated” Season 2</news:title>
       <news:keywords>K-Drama, SBS, Agent Kim Reactivated, Season 2, Korean Television</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/former-newjeans-danielle-directly-refutes-claims-regarding-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T03:08:50.000Z</news:publication_date>
-      <news:title>Former NewJeans’ Danielle Directly Refutes Claims Regarding Dual Contract</news:title>
-      <news:keywords>NewJeans, Debut, Danielle, K-Pop Contracts, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kcm-and-his-wife-to-hold-belated-wedding-ceremony/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T23:35:49.000Z</news:publication_date>
-      <news:title>KCM And His Wife To Hold Belated Wedding Ceremony</news:title>
-      <news:keywords>Debut, Album, KCM, Wedding Ceremony, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/notes-from-the-last-row-and-agent-kim-reactivated-top-most-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T21:56:41.000Z</news:publication_date>
-      <news:title>“Notes From The Last Row” And “Agent Kim Reactivated” Top Most Buzzworthy Drama And Actor Rankings</news:title>
-      <news:keywords>Charts, K-Drama, Notes from the Last Row, Agent Kim Reactivated, Netflix</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-enhypen-reveals-comeback-schedule-for-the-sin-bliss/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T19:26:00.000Z</news:publication_date>
-      <news:title>Watch: ENHYPEN Reveals Comeback Schedule For “THE SIN : BLISS”</news:title>
-      <news:keywords>ENHYPEN, Comeback, Debut, Album, MV</news:keywords>
     </news:news>
   </url>
 </urlset>
