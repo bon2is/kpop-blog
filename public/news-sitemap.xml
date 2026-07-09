@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nugu-girl-group-bursts-into-tears-on-livestream-sparking-maj/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T13:11:25.000Z</news:publication_date>
+      <news:title>“Nugu” Girl Group Bursts Into Tears On Livestream, Sparking Major Reactions</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Nugu, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-lee-eun-ji-mimi-lee-young-ji-and-an-yu-jin-open-a-rice/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T10:15:02.000Z</news:publication_date>
+      <news:title>Watch: Lee Eun Ji, Mimi, Lee Young Ji, And An Yu Jin Open A Rice Cake Shop In “Earth Arcade” Spin-Off “Space Rice Cake”</news:title>
+      <news:keywords>Lee Eun Ji, Mimi, Lee Young Ji, An Yu Jin, Space Rice Cake</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lee-ju-myoung-in-talks-kim-young-kwang-reported-for-new-rom-/</loc>
     <news:news>
       <news:publication>
@@ -179,18 +203,6 @@
       <news:publication_date>2026-07-07T15:18:49.000Z</news:publication_date>
       <news:title>Watch: Stray Kids Unveils Surreal Comeback Trailer For “THIS &amp; THAT”</news:title>
       <news:keywords>Stray Kids, Comeback, Debut, Awards, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-members-thoughtless-actions-towards-jungkook-triggers-fu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T09:30:13.000Z</news:publication_date>
-      <news:title>BTS Member’s “Thoughtless” Actions Towards Jungkook Triggers Fury</news:title>
-      <news:keywords>BTS, Concert, Awards, Tour, Jungkook</news:keywords>
     </news:news>
   </url>
 </urlset>
