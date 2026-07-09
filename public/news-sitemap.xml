@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lee-ju-myoung-in-talks-kim-young-kwang-reported-for-new-rom-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T06:45:05.000Z</news:publication_date>
+      <news:title>Lee Ju Myoung In Talks + Kim Young Kwang Reported For New Rom-Com</news:title>
+      <news:keywords>Debut, K-Drama, Lee Ju Myoung, Kim Young Kwang, Queen of Taming</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-global-male-idol-under-fire-for-joking-about-the-typ/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T05:14:12.000Z</news:publication_date>
+      <news:title>Popular Global Male Idol Under Fire For Joking About The Typhoon</news:title>
+      <news:keywords>Debut, Awards, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/rookie-female-idols-middle-school-photos-surface-online-trig/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T04:42:02.000Z</news:publication_date>
+      <news:title>Rookie Female Idol’s Middle School Photos Surface Online, Triggers Massive Response</news:title>
+      <news:keywords>Comeback, Awards, Charts, Album, Rookie Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/riize-members-visuals-in-recent-airport-photos-go-viral/</loc>
     <news:news>
       <news:publication>
@@ -155,66 +191,6 @@
       <news:publication_date>2026-07-07T09:30:13.000Z</news:publication_date>
       <news:title>BTS Member’s “Thoughtless” Actions Towards Jungkook Triggers Fury</news:title>
       <news:keywords>BTS, Concert, Awards, Tour, Jungkook</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jo-hye-joo-kim-do-wan-lee-joon-hyuk-and-more-bring-diverse-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T07:52:27.000Z</news:publication_date>
-      <news:title>Jo Hye Joo, Kim Do Wan, Lee Joon Hyuk, And More Bring Diverse Charms To New Drama “Spooky In Love”</news:title>
-      <news:keywords>K-Drama, Spooky in Love, Jo Hye Joo, Kim Do Wan, Lee Joon Hyuk</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbang-to-release-new-song-for-the-first-time-in-4-years/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T07:02:04.000Z</news:publication_date>
-      <news:title>BIGBANG To Release New Song For The First Time In 4 Years</news:title>
-      <news:keywords>BIGBANG, Comeback, Awards, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-male-idols-sudden-absence-for-upcoming-event-devasta/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T06:23:17.000Z</news:publication_date>
-      <news:title>Popular Male Idol’s Sudden Absence For Upcoming Event Devastates Fans</news:title>
-      <news:keywords>K-Pop, Comeback, Idol Absence, Fan Reaction, K-Pop Industry</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cha-woo-min-shows-off-his-multi-talented-charm-as-k-pop-idol/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T06:22:21.000Z</news:publication_date>
-      <news:title>Cha Woo Min Shows Off His Multi-Talented Charm As K-Pop Idol, Actor, And Fashion Director In New Drama “My Bias, My Boss”</news:title>
-      <news:keywords>K-Drama, Cha Woo Min, K-Pop, My Bias, My Boss, tvN</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/two-popular-idols-serve-totally-different-visuals-filming-da/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T05:01:14.000Z</news:publication_date>
-      <news:title>Two Popular Idol’s Serve Totally Different Visuals Filming Dance Challenges</news:title>
-      <news:keywords>Charts, K-Pop, Dance Challenge, Idol Collaboration, Koreaboo</news:keywords>
     </news:news>
   </url>
 </urlset>
