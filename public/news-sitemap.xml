@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/riize-members-visuals-in-recent-airport-photos-go-viral/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T03:20:30.000Z</news:publication_date>
+      <news:title>RIIZE Member’s Visuals In Recent Airport Photos Go Viral</news:title>
+      <news:keywords>RIIZE, Debut, K-Pop, Airport Fashion, Visuals</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/infinites-kim-myung-soo-l-to-sit-out-upcoming-fan-meeting-to/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T22:00:15.000Z</news:publication_date>
+      <news:title>INFINITE’s Kim Myung Soo (L) To Sit Out Upcoming Fan Meeting Tour</news:title>
+      <news:keywords>Debut, Tour, INFINITE, Kim Myung Soo, L</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-to-release-1st-feature-film-wild-hearts-in-cinemas-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T13:40:53.000Z</news:publication_date>
+      <news:title>KATSEYE To Release 1st Feature Film “WILD HEARTS” In Cinemas Around The World</news:title>
+      <news:keywords>Debut, Concert, Album, KATSEYE, WILD HEARTS</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/brutal-difference-in-winwin-and-marks-statement-when-leaving/</loc>
     <news:news>
       <news:publication>
@@ -179,66 +215,6 @@
       <news:publication_date>2026-07-07T05:01:14.000Z</news:publication_date>
       <news:title>Two Popular Idol’s Serve Totally Different Visuals Filming Dance Challenges</news:title>
       <news:keywords>Charts, K-Pop, Dance Challenge, Idol Collaboration, Koreaboo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ateez-sans-honest-remarks-about-his-killing-part-dance-goes-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T02:30:31.000Z</news:publication_date>
-      <news:title>ATEEZ San’s Honest Remarks About His “Killing Part” Dance Goes Viral</news:title>
-      <news:keywords>ATEEZ, Debut, San, Killing Part, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/46-year-old-first-gen-idols-hot-girl-pictures-have-netizens-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T02:08:02.000Z</news:publication_date>
-      <news:title>46-Year-Old First-Gen Idol’s “Hot Girl” Pictures Have Netizens Suspect Procedures Again</news:title>
-      <news:keywords>Comeback, K-Pop, Plastic Surgery, First-Generation Idol, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-female-idols-drastic-weight-loss-spark-major-concern/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T02:02:59.000Z</news:publication_date>
-      <news:title>Popular Female Idol’s Drastic Weight Loss Spark Major Concern</news:title>
-      <news:keywords>Concert, K-Pop, Weight Loss, Body Image, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twice-members-stiff-dancing-triggers-heated-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T01:22:59.000Z</news:publication_date>
-      <news:title>TWICE Member’s “Stiff” Dancing Triggers Heated Debate</news:title>
-      <news:keywords>TWICE, Comeback, Debut, Awards, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-k-pop-idol-captivates-with-beautiful-backless-dress/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T16:21:10.000Z</news:publication_date>
-      <news:title>Female K-Pop Idol Captivates With Beautiful Backless Dress</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, Soyou</news:keywords>
     </news:news>
   </url>
 </urlset>
