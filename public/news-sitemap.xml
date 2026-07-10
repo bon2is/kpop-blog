@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/brutal-viral-post-criticizing-bts-members-natural-visuals-tr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T12:35:14.000Z</news:publication_date>
+      <news:title>Brutal Viral Post Criticizing BTS Members’ Natural Visuals Triggers Major Reactions</news:title>
+      <news:keywords>BTS, Concert, Awards, Album, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twices-jihyo-sparks-major-shock-with-raw-sexiness-in-new-mus/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T09:40:49.000Z</news:publication_date>
+      <news:title>TWICE’s Jihyo Sparks Major Shock With Raw Sexiness In New Music Video</news:title>
+      <news:keywords>TWICE, Awards, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainment-reveals-accounts-already-facing-legal-actio/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T08:44:49.000Z</news:publication_date>
+      <news:title>SM Entertainment Reveals Accounts Already Facing Legal Action Over Malicious Posts</news:title>
+      <news:keywords>EXO, Red Velvet, Girls Generation, Super Junior, SHINee</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nflying-announces-venue-change-for-upcoming-seoul-concert/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T07:47:54.000Z</news:publication_date>
+      <news:title>N.Flying Announces Venue Change For Upcoming Seoul Concert</news:title>
+      <news:keywords>Debut, Concert, Album, N.Flying, Seoul</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-male-idol-confesses-to-getting-hit-on-by-female-idol/</loc>
     <news:news>
       <news:publication>
@@ -179,42 +227,6 @@
       <news:publication_date>2026-07-08T13:40:53.000Z</news:publication_date>
       <news:title>KATSEYE To Release 1st Feature Film “WILD HEARTS” In Cinemas Around The World</news:title>
       <news:keywords>Debut, Concert, Album, KATSEYE, WILD HEARTS</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/brutal-difference-in-winwin-and-marks-statement-when-leaving/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T12:50:43.000Z</news:publication_date>
-      <news:title>Brutal Difference In WinWin And Mark’s Statement When Leaving NCT And SM Entertainment Sparks Shock</news:title>
-      <news:keywords>NCT, Debut, Charts, WinWin, Mark</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-sexy-tiktok-hit-with-wave-of-malicious-cri/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T09:45:22.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie’s Sexy TikTok Hit With Wave Of Malicious Criticism</news:title>
-      <news:keywords>BLACKPINK, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-seung-gi-and-lee-da-in-welcome-their-second-child/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T08:49:34.000Z</news:publication_date>
-      <news:title>Lee Seung Gi And Lee Da In Welcome Their Second Child</news:title>
-      <news:keywords>IU, Debut, K-Drama, Lee Seung Gi, Lee Da In</news:keywords>
     </news:news>
   </url>
 </urlset>
