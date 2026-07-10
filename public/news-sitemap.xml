@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/female-k-pop-idol-slays-with-sexy-hot-girl-photos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T16:12:10.000Z</news:publication_date>
+      <news:title>Female K-Pop Idol Slays With Sexy Hot Girl Photos</news:title>
+      <news:keywords>Debut, Album, MV, Hyolyn, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/brutal-viral-post-criticizing-bts-members-natural-visuals-tr/</loc>
     <news:news>
       <news:publication>
@@ -215,18 +227,6 @@
       <news:publication_date>2026-07-08T22:00:15.000Z</news:publication_date>
       <news:title>INFINITE’s Kim Myung Soo (L) To Sit Out Upcoming Fan Meeting Tour</news:title>
       <news:keywords>Debut, Tour, INFINITE, Kim Myung Soo, L</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-to-release-1st-feature-film-wild-hearts-in-cinemas-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T13:40:53.000Z</news:publication_date>
-      <news:title>KATSEYE To Release 1st Feature Film “WILD HEARTS” In Cinemas Around The World</news:title>
-      <news:keywords>Debut, Concert, Album, KATSEYE, WILD HEARTS</news:keywords>
     </news:news>
   </url>
 </urlset>

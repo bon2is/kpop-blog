@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 13:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:24:29 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Female K-Pop Idol Slays With Sexy Hot Girl Photos</title>
+      <link>https://kpop.andxo.com/article/female-k-pop-idol-slays-with-sexy-hot-girl-photos/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/female-k-pop-idol-slays-with-sexy-hot-girl-photos/</guid>
+      <description>Hyolyn stuns with sultry concept photos!</description>
+      <pubDate>Fri, 10 Jul 2026 16:12:10 GMT</pubDate>
+      <category>audition</category>
+      <category>Debut</category>
+      <category>Album</category>
+      <category>MV</category>
+      <category>Hyolyn</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-slays-with-sexy-hot-girl-photos.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-slays-with-sexy-hot-girl-photos.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-slays-with-sexy-hot-girl-photos.webp" />
+    </item>
     <item>
       <title>Brutal Viral Post Criticizing BTS Members’ Natural Visuals Triggers Major Reactions</title>
       <link>https://kpop.andxo.com/article/brutal-viral-post-criticizing-bts-members-natural-visuals-tr/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-illit-and-katseyes-iconic-by-mistake-rises-to-ne.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-illit-and-katseyes-iconic-by-mistake-rises-to-ne.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/le-sserafim-illit-and-katseyes-iconic-by-mistake-rises-to-ne.webp" />
-    </item>
-    <item>
-      <title>Watch: GIRLSET Teases Comeback With Mysterious Video</title>
-      <link>https://kpop.andxo.com/article/watch-girlset-teases-comeback-with-mysterious-video/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/watch-girlset-teases-comeback-with-mysterious-video/</guid>
-      <description>GIRLSET teases comeback with mysterious video!</description>
-      <pubDate>Tue, 30 Jun 2026 20:00:57 GMT</pubDate>
-      <category>drama</category>
-      <category>Comeback</category>
-      <category>Debut</category>
-      <category>GIRLSET</category>
-      <category>K-Pop</category>
-      <category>Teaser Video</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-girlset-teases-comeback-with-mysterious-video.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-girlset-teases-comeback-with-mysterious-video.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-girlset-teases-comeback-with-mysterious-video.webp" />
     </item>
   </channel>
 </rss>
