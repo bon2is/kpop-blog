@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-male-idol-confesses-to-getting-hit-on-by-female-idol/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T05:45:18.000Z</news:publication_date>
+      <news:title>Popular Male Idol Confesses To Getting Hit On By Female Idol, Sparking Debate</news:title>
+      <news:keywords>Awards, Charts, K-Pop, Idol, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/fifth-gen-female-idol-shocks-with-pre-debut-photos/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,30 @@
       <news:publication_date>2026-07-10T04:22:13.000Z</news:publication_date>
       <news:title>Fifth-Gen Female Idol Shocks With Pre-Debut Photos</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, ITZY, aespa</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/34-year-old-idol-joins-5th-gen-groups-stage-shocks-with-her-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T02:42:42.000Z</news:publication_date>
+      <news:title>34-Year-Old Idol Joins 5th Gen Group’s Stage, Shocks With Her Youthful Appearance</news:title>
+      <news:keywords>Comeback, Debut, K-Drama, K-Pop, Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/itzys-yuna-is-a-rising-actress-who-falls-for-her-co-star-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T00:56:00.000Z</news:publication_date>
+      <news:title>ITZY’s Yuna Is A Rising Actress Who Falls For Her Co-Star In New Drama “My Bias, My Boss”</news:title>
+      <news:keywords>ITZY, Debut, Awards, K-Drama, Yuna</news:keywords>
     </news:news>
   </url>
   <url>
@@ -179,30 +215,6 @@
       <news:publication_date>2026-07-08T08:49:34.000Z</news:publication_date>
       <news:title>Lee Seung Gi And Lee Da In Welcome Their Second Child</news:title>
       <news:keywords>IU, Debut, K-Drama, Lee Seung Gi, Lee Da In</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/winwin-leaves-nct-and-sm-entertainment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T06:40:15.000Z</news:publication_date>
-      <news:title>Winwin Leaves NCT And SM Entertainment</news:title>
-      <news:keywords>NCT, Debut, Winwin, SM Entertainment, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/actor-lee-jung-hyun-confirms-marriage-plans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T05:13:39.000Z</news:publication_date>
-      <news:title>Actor Lee Jung Hyun Confirms Marriage Plans</news:title>
-      <news:keywords>K-Drama, Lee Jung Hyun, Marriage, EPLE ENT, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
