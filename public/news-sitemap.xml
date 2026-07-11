@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/nmixx-postpones-todays-concert-in-kaohsiung-due-to-typhoon-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T05:59:23.000Z</news:publication_date>
+      <news:title>NMIXX Postpones Today’s Concert In Kaohsiung Due To Typhoon Bavi</news:title>
+      <news:keywords>NMIXX, Debut, Concert, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-actors-now-wife-rejected-him-twice-before-their-8-year-l/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T04:37:39.000Z</news:publication_date>
+      <news:title>Top Actor’s Now-Wife Rejected Him Twice Before Their 8-Year Love Story Began</news:title>
+      <news:keywords>Awards, Charts, K-Drama, Love Story, Marriage</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bigbang-g-dragons-former-teacher-reveals-what-he-was-really-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T04:15:35.000Z</news:publication_date>
+      <news:title>BIGBANG G-Dragon’s Former Teacher Reveals What He Was Really Like Before Fame</news:title>
+      <news:keywords>BIGBANG, Debut, Awards, Album, G-Dragon</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nct-dream-members-unconventional-airport-fashion-has-netizen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T04:02:00.000Z</news:publication_date>
+      <news:title>NCT DREAM Member’s Unconventional Airport Fashion Has Netizens At War</news:title>
+      <news:keywords>NCT, Debut, Charts, NCT DREAM, K-Pop Fashion</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/former-k-pop-boy-group-idol-becomes-a-father/</loc>
     <news:news>
       <news:publication>
@@ -203,42 +251,6 @@
       <news:publication_date>2026-07-09T10:15:02.000Z</news:publication_date>
       <news:title>Watch: Lee Eun Ji, Mimi, Lee Young Ji, And An Yu Jin Open A Rice Cake Shop In “Earth Arcade” Spin-Off “Space Rice Cake”</news:title>
       <news:keywords>Lee Eun Ji, Mimi, Lee Young Ji, An Yu Jin, Space Rice Cake</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-ju-myoung-in-talks-kim-young-kwang-reported-for-new-rom-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T06:45:05.000Z</news:publication_date>
-      <news:title>Lee Ju Myoung In Talks + Kim Young Kwang Reported For New Rom-Com</news:title>
-      <news:keywords>Debut, K-Drama, Lee Ju Myoung, Kim Young Kwang, Queen of Taming</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-global-male-idol-under-fire-for-joking-about-the-typ/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T05:14:12.000Z</news:publication_date>
-      <news:title>Popular Global Male Idol Under Fire For Joking About The Typhoon</news:title>
-      <news:keywords>Debut, Awards, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/rookie-female-idols-middle-school-photos-surface-online-trig/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T04:42:02.000Z</news:publication_date>
-      <news:title>Rookie Female Idol’s Middle School Photos Surface Online, Triggers Massive Response</news:title>
-      <news:keywords>Comeback, Awards, Charts, Album, Rookie Idol</news:keywords>
     </news:news>
   </url>
 </urlset>
