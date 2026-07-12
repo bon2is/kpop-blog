@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/beloved-k-pop-idol-offers-a-glimpse-of-her-honeymoon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T16:45:45.000Z</news:publication_date>
+      <news:title>Beloved K-Pop Idol Offers A Glimpse Of Her Honeymoon</news:title>
+      <news:keywords>Album, Linzy, Fiestar, Musical Theater, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/boy-group-idol-admits-to-feud-with-fellow-member-for-years/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T15:41:44.000Z</news:publication_date>
+      <news:title>Boy Group Idol Admits To Feud With Fellow Member For Years</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nmixx-postpones-todays-concert-in-kaohsiung-due-to-typhoon-b/</loc>
     <news:news>
       <news:publication>
@@ -167,66 +191,6 @@
       <news:publication_date>2026-07-10T04:22:13.000Z</news:publication_date>
       <news:title>Fifth-Gen Female Idol Shocks With Pre-Debut Photos</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, ITZY, aespa</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/34-year-old-idol-joins-5th-gen-groups-stage-shocks-with-her-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T02:42:42.000Z</news:publication_date>
-      <news:title>34-Year-Old Idol Joins 5th Gen Group’s Stage, Shocks With Her Youthful Appearance</news:title>
-      <news:keywords>Comeback, Debut, K-Drama, K-Pop, Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/itzys-yuna-is-a-rising-actress-who-falls-for-her-co-star-in-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T00:56:00.000Z</news:publication_date>
-      <news:title>ITZY’s Yuna Is A Rising Actress Who Falls For Her Co-Star In New Drama “My Bias, My Boss”</news:title>
-      <news:keywords>ITZY, Debut, Awards, K-Drama, Yuna</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-lisa-allegedly-spotted-on-family-dinner-with-myst/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T00:42:30.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Lisa Allegedly Spotted On Family Dinner With Mystery Man</news:title>
-      <news:keywords>BLACKPINK, Debut, Charts, Album, Lisa</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-stray-kids-introduces-tasy-the-official-character-for-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T23:20:08.000Z</news:publication_date>
-      <news:title>Watch: Stray Kids Introduces “TASY,” The Official Character For STAY</news:title>
-      <news:keywords>Stray Kids, Charts, TASY, STAY, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/dearalices-james-announces-he-is-leaving-the-group-in-heartf/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T23:01:27.000Z</news:publication_date>
-      <news:title>dearALICE’s James Announces He Is Leaving The Group In Heartfelt Letter</news:title>
-      <news:keywords>Debut, dearALICE, James, K-Pop, SM Entertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
