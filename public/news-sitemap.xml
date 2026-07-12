@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/girl-group-idol-wows-with-bikini-photos-at-the-beach/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T07:09:36.000Z</news:publication_date>
+      <news:title>Girl Group Idol Wows With Bikini Photos At The Beach</news:title>
+      <news:keywords>Debut, Album, K-Pop, Girl Group, Bikini Photos</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-idol-actress-divulges-meaningful-reason-for-relocating-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T06:00:56.000Z</news:publication_date>
+      <news:title>Top Idol-Actress Divulges Meaningful Reason For Relocating To Jeju Island</news:title>
+      <news:keywords>Charts, K-Pop, Jeju Island, Mental Health, Idol-Actress</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/beloved-k-pop-idol-offers-a-glimpse-of-her-honeymoon/</loc>
     <news:news>
       <news:publication>
@@ -167,30 +191,6 @@
       <news:publication_date>2026-07-10T07:47:54.000Z</news:publication_date>
       <news:title>N.Flying Announces Venue Change For Upcoming Seoul Concert</news:title>
       <news:keywords>Debut, Concert, Album, N.Flying, Seoul</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-male-idol-confesses-to-getting-hit-on-by-female-idol/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T05:45:18.000Z</news:publication_date>
-      <news:title>Popular Male Idol Confesses To Getting Hit On By Female Idol, Sparking Debate</news:title>
-      <news:keywords>Awards, Charts, K-Pop, Idol, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/fifth-gen-female-idol-shocks-with-pre-debut-photos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T04:22:13.000Z</news:publication_date>
-      <news:title>Fifth-Gen Female Idol Shocks With Pre-Debut Photos</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, ITZY, aespa</news:keywords>
     </news:news>
   </url>
 </urlset>
