@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-ioi-takes-4th-win-for-suddenly-on-inkigayo-performance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T14:44:19.000Z</news:publication_date>
+      <news:title>Watch: I.O.I Takes 4th Win For “Suddenly” On “Inkigayo”; Performances By i-dle, Yeonjun, BABYMONSTER, And More</news:title>
+      <news:keywords>aespa, BABYMONSTER, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/seventeen-fan-poops-their-diaper-while-waiting-in-line-for-m/</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       <news:publication_date>2026-07-10T15:16:04.000Z</news:publication_date>
       <news:title>Female Idol Speaks Out On Mixed Reactions To Her Mega Short Haircut</news:title>
       <news:keywords>Comeback, MV, K-Pop, Female Idol, Short Haircut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/brutal-viral-post-criticizing-bts-members-natural-visuals-tr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T12:35:14.000Z</news:publication_date>
-      <news:title>Brutal Viral Post Criticizing BTS Members’ Natural Visuals Triggers Major Reactions</news:title>
-      <news:keywords>BTS, Concert, Awards, Album, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
