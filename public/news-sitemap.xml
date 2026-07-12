@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/seventeen-fan-poops-their-diaper-while-waiting-in-line-for-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T09:54:24.000Z</news:publication_date>
+      <news:title>SEVENTEEN Fan Poops Their Diaper While Waiting In Line For Mingyu</news:title>
+      <news:keywords>SEVENTEEN, Debut, Concert, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-jays-blunt-comment-exposes-bad-blood-with-evan-heese/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T09:17:28.000Z</news:publication_date>
+      <news:title>ENHYPEN Jay’s Blunt Comment “Exposes” Bad Blood With EVAN (Heeseung)</news:title>
+      <news:keywords>ENHYPEN, Comeback, Charts, Album, Jay</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/girl-group-idol-wows-with-bikini-photos-at-the-beach/</loc>
     <news:news>
       <news:publication>
@@ -155,42 +179,6 @@
       <news:publication_date>2026-07-10T12:35:14.000Z</news:publication_date>
       <news:title>Brutal Viral Post Criticizing BTS Members’ Natural Visuals Triggers Major Reactions</news:title>
       <news:keywords>BTS, Concert, Awards, Album, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twices-jihyo-sparks-major-shock-with-raw-sexiness-in-new-mus/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T09:40:49.000Z</news:publication_date>
-      <news:title>TWICE’s Jihyo Sparks Major Shock With Raw Sexiness In New Music Video</news:title>
-      <news:keywords>TWICE, Awards, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sm-entertainment-reveals-accounts-already-facing-legal-actio/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T08:44:49.000Z</news:publication_date>
-      <news:title>SM Entertainment Reveals Accounts Already Facing Legal Action Over Malicious Posts</news:title>
-      <news:keywords>EXO, Red Velvet, Girls Generation, Super Junior, SHINee</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nflying-announces-venue-change-for-upcoming-seoul-concert/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T07:47:54.000Z</news:publication_date>
-      <news:title>N.Flying Announces Venue Change For Upcoming Seoul Concert</news:title>
-      <news:keywords>Debut, Concert, Album, N.Flying, Seoul</news:keywords>
     </news:news>
   </url>
 </urlset>
