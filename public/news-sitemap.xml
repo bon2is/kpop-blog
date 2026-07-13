@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/rude-fan-allegedly-scolding-evan-heeseung-triggers-massive-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T04:21:11.000Z</news:publication_date>
+      <news:title>Rude Fan Allegedly Scolding EVAN (Heeseung) Triggers Massive Backlash</news:title>
+      <news:keywords>ENHYPEN, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/youtubers-sasaeng-behavior-towards-blackpinks-jennie-hit-wit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T03:41:26.000Z</news:publication_date>
+      <news:title>YouTuber’s Sasaeng Behavior Towards BLACKPINK’s Jennie Hit With Scathing Criticism</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Jennie, Sasaeng Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/guardian-the-lonely-and-great-god-cast-concludes-10th-annive/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T02:08:32.000Z</news:publication_date>
+      <news:title>“Guardian: The Lonely And Great God” Cast Concludes 10th Anniversary Trip With Heartfelt Farewells</news:title>
+      <news:keywords>K-Drama, Goblin, Anniversary, Reunion, tvN</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-ioi-takes-4th-win-for-suddenly-on-inkigayo-performance/</loc>
     <news:news>
       <news:publication>
@@ -107,78 +143,6 @@
       <news:publication_date>2026-07-11T04:37:39.000Z</news:publication_date>
       <news:title>Top Actor’s Now-Wife Rejected Him Twice Before Their 8-Year Love Story Began</news:title>
       <news:keywords>Awards, Charts, K-Drama, Love Story, Marriage</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbang-g-dragons-former-teacher-reveals-what-he-was-really-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T04:15:35.000Z</news:publication_date>
-      <news:title>BIGBANG G-Dragon’s Former Teacher Reveals What He Was Really Like Before Fame</news:title>
-      <news:keywords>BIGBANG, Debut, Awards, Album, G-Dragon</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-dream-members-unconventional-airport-fashion-has-netizen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T04:02:00.000Z</news:publication_date>
-      <news:title>NCT DREAM Member’s Unconventional Airport Fashion Has Netizens At War</news:title>
-      <news:keywords>NCT, Debut, Charts, NCT DREAM, K-Pop Fashion</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/former-k-pop-boy-group-idol-becomes-a-father/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T03:02:17.000Z</news:publication_date>
-      <news:title>Former K-Pop Boy Group Idol Becomes A Father</news:title>
-      <news:keywords>Charts, K-Pop, Comeback, Idol Life, Family</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txts-yeonjun-achieves-highest-1st-day-sales-of-any-korean-so/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T02:33:57.000Z</news:publication_date>
-      <news:title>TXT’s Yeonjun Achieves Highest 1st-Day Sales Of Any Korean Soloist In 2026 With “NO LABELS: PART 02”</news:title>
-      <news:keywords>TXT, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-k-pop-idol-slays-with-sexy-hot-girl-photos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T16:12:10.000Z</news:publication_date>
-      <news:title>Female K-Pop Idol Slays With Sexy Hot Girl Photos</news:title>
-      <news:keywords>Debut, Album, MV, Hyolyn, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-idol-speaks-out-on-mixed-reactions-to-her-mega-short-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T15:16:04.000Z</news:publication_date>
-      <news:title>Female Idol Speaks Out On Mixed Reactions To Her Mega Short Haircut</news:title>
-      <news:keywords>Comeback, MV, K-Pop, Female Idol, Short Haircut</news:keywords>
     </news:news>
   </url>
 </urlset>
