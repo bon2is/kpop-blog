@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/riizes-sungchan-hearts2hearts-ian-and-nct-wishs-sion-confirm/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T06:30:22.000Z</news:publication_date>
+      <news:title>RIIZE’s Sungchan, Hearts2Hearts’ Ian, And NCT WISH’s Sion Confirmed To Host 2026 SBS Gayo Daejeon Summer</news:title>
+      <news:keywords>NCT, RIIZE, SBS Gayo Daejeon Summer, Hearts2Hearts, NCT WISH</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespas-karina-reveals-secret-to-losing-4-kg-in-just-one-day/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T06:05:11.000Z</news:publication_date>
+      <news:title>aespa’s Karina Reveals Secret To Losing 4 Kg In Just One Day</news:title>
+      <news:keywords>aespa, Debut, Karina, K-Pop, Weight Loss</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seventeen-officially-finalizes-contract-renewals-with-pledis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T05:59:14.000Z</news:publication_date>
+      <news:title>SEVENTEEN Officially Finalizes Contract Renewals With PLEDIS Entertainment</news:title>
+      <news:keywords>SEVENTEEN, Debut, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/rude-fan-allegedly-scolding-evan-heeseung-triggers-massive-b/</loc>
     <news:news>
       <news:publication>
@@ -26,6 +62,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/exos-do-and-chanyeol-allegedly-spotted-at-adult-oriented-hoo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T02:36:38.000Z</news:publication_date>
+      <news:title>EXO’s D.O And Chanyeol Allegedly Spotted At “Adult-Oriented” Hookah Bar</news:title>
+      <news:keywords>EXO, Debut, Awards, Album, D.O</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/guardian-the-lonely-and-great-god-cast-concludes-10th-annive/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +83,18 @@
       <news:publication_date>2026-07-13T02:08:32.000Z</news:publication_date>
       <news:title>“Guardian: The Lonely And Great God” Cast Concludes 10th Anniversary Trip With Heartfelt Farewells</news:title>
       <news:keywords>K-Drama, Goblin, Anniversary, Reunion, tvN</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-idol-receives-blistering-backlash-for-allegedly-mocking/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T01:10:51.000Z</news:publication_date>
+      <news:title>HYBE Idol Receives Blistering Backlash For Allegedly Mocking Black Women</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Debut, Charts</news:keywords>
     </news:news>
   </url>
   <url>
@@ -119,30 +179,6 @@
       <news:publication_date>2026-07-11T15:41:44.000Z</news:publication_date>
       <news:title>Boy Group Idol Admits To Feud With Fellow Member For Years</news:title>
       <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nmixx-postpones-todays-concert-in-kaohsiung-due-to-typhoon-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T05:59:23.000Z</news:publication_date>
-      <news:title>NMIXX Postpones Today’s Concert In Kaohsiung Due To Typhoon Bavi</news:title>
-      <news:keywords>NMIXX, Debut, Concert, Tour, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-actors-now-wife-rejected-him-twice-before-their-8-year-l/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T04:37:39.000Z</news:publication_date>
-      <news:title>Top Actor’s Now-Wife Rejected Him Twice Before Their 8-Year Love Story Began</news:title>
-      <news:keywords>Awards, Charts, K-Drama, Love Story, Marriage</news:keywords>
     </news:news>
   </url>
 </urlset>
