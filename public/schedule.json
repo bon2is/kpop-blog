@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T13:11:03.622Z",
+  "lastUpdated": "2026-07-13T16:33:37.399Z",
   "events": [
     {
       "id": "broadcast-show-champion-2026-07-15",
@@ -314,6 +314,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-08-13",
+      "date": "2026-08-13",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
