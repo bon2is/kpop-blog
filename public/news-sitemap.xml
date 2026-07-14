@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/seventeens-dino-confesses-he-wanted-to-leave-the-group/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T02:36:06.000Z</news:publication_date>
+      <news:title>SEVENTEEN’s Dino Confesses He Wanted To Leave The Group</news:title>
+      <news:keywords>SEVENTEEN, Comeback, Debut, Awards, Dino</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/47-year-old-gong-yoo-gets-proposed-to-by-a-20-year-old/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T19:02:36.000Z</news:publication_date>
+      <news:title>47-Year-Old Gong Yoo Gets Proposed To By A 20-Year-Old</news:title>
+      <news:keywords>Awards, K-Drama, Gong Yoo, Goblin, Proposal</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-hybe-idol-sparks-shock-by-seemingly-wearing-no-under/</loc>
     <news:news>
       <news:publication>
@@ -203,18 +227,6 @@
       <news:publication_date>2026-07-12T06:00:56.000Z</news:publication_date>
       <news:title>Top Idol-Actress Divulges Meaningful Reason For Relocating To Jeju Island</news:title>
       <news:keywords>Charts, K-Pop, Jeju Island, Mental Health, Idol-Actress</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/beloved-k-pop-idol-offers-a-glimpse-of-her-honeymoon/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T16:45:45.000Z</news:publication_date>
-      <news:title>Beloved K-Pop Idol Offers A Glimpse Of Her Honeymoon</news:title>
-      <news:keywords>Album, Linzy, Fiestar, Musical Theater, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
