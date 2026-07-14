@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T12:04:08.259Z",
+  "lastUpdated": "2026-07-14T15:23:57.467Z",
   "events": [
     {
       "id": "broadcast-show-champion-2026-07-15",
@@ -329,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-08-14",
+      "date": "2026-08-14",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
       }
     }
   ]

@@ -14,6 +14,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/more-details-about-twice-tzuyus-departure-from-jyp-entertain/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T11:08:10.000Z</news:publication_date>
+      <news:title>More Details About TWICE Tzuyu’s Departure From JYP Entertainment Exposed </news:title>
+      <news:keywords>TWICE, Debut, Awards, Tzuyu, JYP Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/major-announcement-about-17-jyp-entertainment-idols-sparks-h/</loc>
     <news:news>
       <news:publication>
@@ -251,18 +263,6 @@
       <news:publication_date>2026-07-13T01:10:51.000Z</news:publication_date>
       <news:title>HYBE Idol Receives Blistering Backlash For Allegedly Mocking Black Women</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-ioi-takes-4th-win-for-suddenly-on-inkigayo-performance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T14:44:19.000Z</news:publication_date>
-      <news:title>Watch: I.O.I Takes 4th Win For “Suddenly” On “Inkigayo”; Performances By i-dle, Yeonjun, BABYMONSTER, And More</news:title>
-      <news:keywords>aespa, BABYMONSTER, Debut, Awards, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
