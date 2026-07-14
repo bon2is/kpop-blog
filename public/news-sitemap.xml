@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/rescenes-shocking-live-singing-goes-viral-after-encore-perfo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T11:35:08.000Z</news:publication_date>
+      <news:title>RESCENE’s Shocking Live Singing Goes Viral After Encore Performance</news:title>
+      <news:keywords>Comeback, Debut, Concert, Tour, RESCENE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/major-announcement-about-17-jyp-entertainment-idols-sparks-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T09:55:24.000Z</news:publication_date>
+      <news:title>Major Announcement About 17 JYP Entertainment Idols Sparks Huge Criticism Linked To HYBE</news:title>
+      <news:keywords>BTS, TWICE, ITZY, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bae173s-yoojun-muzin-junseo-youngseo-and-bit-part-ways-with-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T09:32:54.000Z</news:publication_date>
+      <news:title>BAE173’s Yoojun, Muzin, Junseo, Youngseo, And Bit Part Ways With PocketDol Studio</news:title>
+      <news:keywords>Comeback, Debut, BAE173, PocketDol Studio, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-sooyoung-hijacks-a-cruise-ship-where-uhm-jung-hwa-bae-/</loc>
     <news:news>
       <news:publication>
@@ -227,42 +263,6 @@
       <news:publication_date>2026-07-12T14:44:19.000Z</news:publication_date>
       <news:title>Watch: I.O.I Takes 4th Win For “Suddenly” On “Inkigayo”; Performances By i-dle, Yeonjun, BABYMONSTER, And More</news:title>
       <news:keywords>aespa, BABYMONSTER, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeen-fan-poops-their-diaper-while-waiting-in-line-for-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T09:54:24.000Z</news:publication_date>
-      <news:title>SEVENTEEN Fan Poops Their Diaper While Waiting In Line For Mingyu</news:title>
-      <news:keywords>SEVENTEEN, Debut, Concert, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-jays-blunt-comment-exposes-bad-blood-with-evan-heese/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T09:17:28.000Z</news:publication_date>
-      <news:title>ENHYPEN Jay’s Blunt Comment “Exposes” Bad Blood With EVAN (Heeseung)</news:title>
-      <news:keywords>ENHYPEN, Comeback, Charts, Album, Jay</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girl-group-idol-wows-with-bikini-photos-at-the-beach/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T07:09:36.000Z</news:publication_date>
-      <news:title>Girl Group Idol Wows With Bikini Photos At The Beach</news:title>
-      <news:keywords>Debut, Album, K-Pop, Girl Group, Bikini Photos</news:keywords>
     </news:news>
   </url>
 </urlset>
