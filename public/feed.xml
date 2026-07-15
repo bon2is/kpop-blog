@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 12:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:26:38 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Watch: BTS Hits The Bathroom In MV Teaser For “NORMAL”</title>
+      <link>https://kpop.andxo.com/article/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal/</guid>
+      <description>BTS teases music video for &quot;NORMAL&quot; with a sneak peek of the group in a bathroom setting.</description>
+      <pubDate>Wed, 15 Jul 2026 15:19:31 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>Charts</category>
+      <category>Album</category>
+      <category>MV</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal.webp" />
+    </item>
     <item>
       <title>Popular Girl Group’s BTS TikTok Triggers Major Fighting</title>
       <link>https://kpop.andxo.com/article/popular-girl-groups-bts-tiktok-triggers-major-fighting/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-team-announces-1st-ever-korean-comeback-with-trailer-f.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-team-announces-1st-ever-korean-comeback-with-trailer-f.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-team-announces-1st-ever-korean-comeback-with-trailer-f.webp" />
-    </item>
-    <item>
-      <title>Male Star Confesses He Still Kisses His “We Got Married” Partner While Meeting Privately</title>
-      <link>https://kpop.andxo.com/article/male-star-confesses-he-still-kisses-his-we-got-married-partn/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/male-star-confesses-he-still-kisses-his-we-got-married-partn/</guid>
-      <description>K-Pop idol confesses to kissing &apos;We Got Married&apos; partner years later</description>
-      <pubDate>Sun, 05 Jul 2026 11:38:02 GMT</pubDate>
-      <category>drama</category>
-      <category>Concert</category>
-      <category>Awards</category>
-      <category>Charts</category>
-      <category>K-Pop</category>
-      <category>We Got Married</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/male-star-confesses-he-still-kisses-his-we-got-married-partn.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/male-star-confesses-he-still-kisses-his-we-got-married-partn.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/male-star-confesses-he-still-kisses-his-we-got-married-partn.webp" />
     </item>
   </channel>
 </rss>

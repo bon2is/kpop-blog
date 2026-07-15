@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T15:19:31.000Z</news:publication_date>
+      <news:title>Watch: BTS Hits The Bathroom In MV Teaser For “NORMAL”</news:title>
+      <news:keywords>BTS, Charts, Album, MV, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-girl-groups-bts-tiktok-triggers-major-fighting/</loc>
     <news:news>
       <news:publication>
@@ -251,30 +263,6 @@
       <news:publication_date>2026-07-13T19:02:36.000Z</news:publication_date>
       <news:title>47-Year-Old Gong Yoo Gets Proposed To By A 20-Year-Old</news:title>
       <news:keywords>Awards, K-Drama, Gong Yoo, Goblin, Proposal</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-hybe-idol-sparks-shock-by-seemingly-wearing-no-under/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T13:00:36.000Z</news:publication_date>
-      <news:title>Popular HYBE Idol Sparks Shock By Seemingly Wearing No Underwear During Concert</news:title>
-      <news:keywords>Debut, Concert, MV, HYBE, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeens-mingyu-begging-fans-in-viral-video-sparks-outrage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T12:50:10.000Z</news:publication_date>
-      <news:title>SEVENTEEN’s Mingyu Begging Fans In Viral Video Sparks Outrage</news:title>
-      <news:keywords>SEVENTEEN, Debut, Awards, Charts, Mingyu</news:keywords>
     </news:news>
   </url>
 </urlset>
