@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-girl-groups-bts-tiktok-triggers-major-fighting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T09:45:11.000Z</news:publication_date>
+      <news:title>Popular Girl Group’s BTS TikTok Triggers Major Fighting</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/red-velvet-announces-new-season-of-reality-show-level-up-pro/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T09:25:27.000Z</news:publication_date>
+      <news:title>Red Velvet Announces New Season Of Reality Show “Level Up Project”</news:title>
+      <news:keywords>Red Velvet, Debut, Awards, Charts, Level Up Project</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lee-jin-uk-joins-lim-yoona-in-talks-for-korean-remake-of-jap/</loc>
     <news:news>
       <news:publication>
@@ -251,30 +275,6 @@
       <news:publication_date>2026-07-13T12:50:10.000Z</news:publication_date>
       <news:title>SEVENTEEN’s Mingyu Begging Fans In Viral Video Sparks Outrage</news:title>
       <news:keywords>SEVENTEEN, Debut, Awards, Charts, Mingyu</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/heo-nam-jun-announces-1st-ever-fan-meeting-heos-next/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T11:36:51.000Z</news:publication_date>
-      <news:title>Heo Nam Jun Announces 1st-Ever Fan Meeting “HEO’s NEXT?”</news:title>
-      <news:keywords>Debut, Heo Nam Jun, K-Pop, Fan Meeting, HEO&apos;s NEXT?</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-members-visuals-hit-with-brutal-backlash-in-scathing-pos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T10:15:13.000Z</news:publication_date>
-      <news:title>BTS Member’s Visuals Hit With Brutal Backlash In Scathing Post</news:title>
-      <news:keywords>BTS, Concert, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>

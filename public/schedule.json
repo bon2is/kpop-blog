@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-07-15T07:08:30.293Z",
+  "lastUpdated": "2026-07-15T12:08:15.575Z",
   "events": [
+    {
+      "id": "soompi-3-2026-07-15",
+      "date": "2026-07-15",
+      "type": "concert",
+      "artist": "Watch",
+      "title": "Watch: Gong Yoo Announces Dates And Cities For 2026 Asia Fan Meeting Tour “The Long Take”",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1854933wpp/watch-gong-yoo-announces-dates-and-cities-for-2026-asia-fan-meeting-tour-the-long-take"
+      }
+    },
+    {
+      "id": "soompi-4-2026-07-15",
+      "date": "2026-07-15",
+      "type": "other",
+      "artist": "Red Velvet",
+      "title": "Red Velvet Announces New Season Of Reality Show “Level Up Project”",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1854799wpp/red-velvet-announces-new-season-of-reality-show-level-up-project"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-07-15",
       "date": "2026-07-15",
