@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/idol-turned-actress-confesses-the-reason-she-broke-up-with-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T03:35:12.000Z</news:publication_date>
+      <news:title>Idol-Turned-Actress Confesses The Reason She Broke Up With Her Boyfriend</news:title>
+      <news:keywords>Yewon, Jewelry, K-Pop, Breakup, Love War</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seo-yea-ji-signs-with-new-agency/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T02:27:31.000Z</news:publication_date>
+      <news:title>Seo Yea Ji Signs With New Agency</news:title>
+      <news:keywords>K-Drama, Seo Yea Ji, B.Wave Entertainment, Acting Career</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-kim-dong-jun-kim-min-ho-and-more-show-excitement-and-p/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T01:37:03.000Z</news:publication_date>
+      <news:title>Watch: Kim Dong Jun, Kim Min Ho, And More Show Excitement And Passion At Script Reading For “New Recruit 4”</news:title>
+      <news:keywords>K-Drama, Kim Dong Jun, Kim Min Ho, New Recruit 4, Script Reading</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ji-sung-starts-making-deliveries-in-order-to-win-his-neighbo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T22:18:39.000Z</news:publication_date>
+      <news:title>Ji Sung Starts Making Deliveries In Order To Win His Neighbors’ Hearts In “The Apartment Job”</news:title>
+      <news:keywords>K-Drama, Ji Sung, The Apartment Job, JTBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-nayeons-farewell-message-sparks-alarm-amid-contract-re/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T19:50:32.000Z</news:publication_date>
+      <news:title>TWICE Nayeon’s Farewell Message Sparks Alarm Amid Contract Renewal Reports</news:title>
+      <news:keywords>TWICE, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal/</loc>
     <news:news>
       <news:publication>
@@ -227,42 +287,6 @@
       <news:publication_date>2026-07-14T06:26:47.000Z</news:publication_date>
       <news:title>Jun Ji Hyun Wins Extraordinary Star Asia Award At The 25th New York Asian Film Festival (NYAFF)</news:title>
       <news:keywords>Debut, Awards, Jun Ji Hyun, NYAFF, Korean Cinema</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jyp-entertainment-comments-on-twice-tzuyus-contract-renewal-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T02:43:30.000Z</news:publication_date>
-      <news:title>JYP Entertainment Comments On TWICE Tzuyu’s Contract Renewal Status</news:title>
-      <news:keywords>TWICE, Comeback, Debut, Awards, Tzuyu</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeens-dino-confesses-he-wanted-to-leave-the-group/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T02:36:06.000Z</news:publication_date>
-      <news:title>SEVENTEEN’s Dino Confesses He Wanted To Leave The Group</news:title>
-      <news:keywords>SEVENTEEN, Comeback, Debut, Awards, Dino</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/47-year-old-gong-yoo-gets-proposed-to-by-a-20-year-old/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T19:02:36.000Z</news:publication_date>
-      <news:title>47-Year-Old Gong Yoo Gets Proposed To By A 20-Year-Old</news:title>
-      <news:keywords>Awards, K-Drama, Gong Yoo, Goblin, Proposal</news:keywords>
     </news:news>
   </url>
 </urlset>
