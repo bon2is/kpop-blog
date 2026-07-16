@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:38:22 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>K-Pop Idol-Turned-Actress Divulges Her Strict Self-Management Routine</title>
+      <link>https://kpop.andxo.com/article/k-pop-idol-turned-actress-divulges-her-strict-self-managemen/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-idol-turned-actress-divulges-her-strict-self-managemen/</guid>
+      <description>Son Naeun reveals her strict self-management routine.</description>
+      <pubDate>Thu, 16 Jul 2026 15:14:34 GMT</pubDate>
+      <category>drama</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <category>Son Naeun</category>
+      <category>Apink</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-idol-turned-actress-divulges-her-strict-self-managemen.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-idol-turned-actress-divulges-her-strict-self-managemen.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-idol-turned-actress-divulges-her-strict-self-managemen.webp" />
+    </item>
     <item>
       <title>Male Idol Gives Up Trying The “BAD” Challenge For The Most Unexpected Reason</title>
       <link>https://kpop.andxo.com/article/male-idol-gives-up-trying-the-bad-challenge-for-the-most-une/</link>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/46-year-old-first-gen-idols-hot-girl-pictures-have-netizens-.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/46-year-old-first-gen-idols-hot-girl-pictures-have-netizens-.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/46-year-old-first-gen-idols-hot-girl-pictures-have-netizens-.webp" />
-    </item>
-    <item>
-      <title>Popular Female Idol’s Drastic Weight Loss Spark Major Concern</title>
-      <link>https://kpop.andxo.com/article/popular-female-idols-drastic-weight-loss-spark-major-concern/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/popular-female-idols-drastic-weight-loss-spark-major-concern/</guid>
-      <description>K-Pop idol&apos;s drastic weight loss sparks concern!</description>
-      <pubDate>Tue, 07 Jul 2026 02:02:59 GMT</pubDate>
-      <category>tour</category>
-      <category>Concert</category>
-      <category>K-Pop</category>
-      <category>Weight Loss</category>
-      <category>Body Image</category>
-      <category>Mental Health</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-female-idols-drastic-weight-loss-spark-major-concern.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-female-idols-drastic-weight-loss-spark-major-concern.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-female-idols-drastic-weight-loss-spark-major-concern.webp" />
     </item>
   </channel>
 </rss>
