@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/babymonster-ahyeons-insanely-tiny-waist-goes-viral-but-spark/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T11:25:25.000Z</news:publication_date>
+      <news:title>BABYMONSTER Ahyeon’s Insanely Tiny Waist Goes Viral, But Sparks Mixed Reactions </news:title>
+      <news:keywords>BLACKPINK, ITZY, BABYMONSTER, Debut, Ahyeon</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-disgusting-activity-on-social-media-sparks-major-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T11:00:07.000Z</news:publication_date>
+      <news:title>BTS’s “Disgusting” Activity On Social Media Sparks Major Fury</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-seventeens-wonwoo-marks-his-birthday-with-heartfelt-ne/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T09:10:32.000Z</news:publication_date>
+      <news:title>Watch: SEVENTEEN’s Wonwoo Marks His Birthday With Heartfelt New Song “Spring, Summer, Fall, Winter”</news:title>
+      <news:keywords>SEVENTEEN, Debut, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/video-of-btss-jungkook-looking-annoyed-while-overseas-is-goi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T08:25:12.000Z</news:publication_date>
+      <news:title>Video Of BTS’s Jungkook Looking “Annoyed” While Overseas Is Going Viral</news:title>
+      <news:keywords>BTS, Charts, Album, Jungkook, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-recent-update-sparks-viral-debate-on-misogyny-fans-defe/</loc>
     <news:news>
       <news:publication>
@@ -215,42 +263,6 @@
       <news:publication_date>2026-07-15T15:19:31.000Z</news:publication_date>
       <news:title>Watch: BTS Hits The Bathroom In MV Teaser For “NORMAL”</news:title>
       <news:keywords>BTS, Charts, Album, MV, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-kim-hye-joon-has-her-boss-kang-hoon-and-her-bias-cha-w/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T11:58:24.000Z</news:publication_date>
-      <news:title>Watch: Kim Hye Joon Has Her Boss Kang Hoon And Her Bias Cha Woo Min Falling For Her In “My Bias, My Boss”</news:title>
-      <news:keywords>K-Drama, Kim Hye Joon, My Bias My Boss, Cha Woo Min, Kang Hoon</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-girl-groups-bts-tiktok-triggers-major-fighting/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T09:45:11.000Z</news:publication_date>
-      <news:title>Popular Girl Group’s BTS TikTok Triggers Major Fighting</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvet-announces-new-season-of-reality-show-level-up-pro/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T09:25:27.000Z</news:publication_date>
-      <news:title>Red Velvet Announces New Season Of Reality Show “Level Up Project”</news:title>
-      <news:keywords>Red Velvet, Debut, Awards, Charts, Level Up Project</news:keywords>
     </news:news>
   </url>
 </urlset>
