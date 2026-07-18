@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/boy-group-member-shocks-with-terrifying-experience-involving/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T06:31:49.000Z</news:publication_date>
+      <news:title>Boy Group Member Shocks With Terrifying Experience Involving Sasaengs</news:title>
+      <news:keywords>Concert, K-Pop, Sasaeng, Idol Safety, Fan Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-k-pop-idol-contemplates-freezing-her-eggs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T04:51:50.000Z</news:publication_date>
+      <news:title>Top K-Pop Idol Contemplates Freezing Her Eggs</news:title>
+      <news:keywords>Awards, Charts, K-Pop, Egg Freezing, Women&apos;s Rights</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/3-things-we-loved-2-things-we-didnt-about-the-premiere-of-dr/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-07-17T16:17:36.000Z</news:publication_date>
       <news:title>Idol-Turned-Actress Evokes Sympathy With Heartfelt Confession</news:title>
       <news:keywords>Debut, K-Drama, Son Naeun, Apink, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-ningnings-honest-take-on-being-an-idol-sparks-concerni/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T12:35:12.000Z</news:publication_date>
+      <news:title>aespa NingNing’s Honest Take On Being An Idol Sparks Concerning Speculations About Her Future</news:title>
+      <news:keywords>aespa, Charts, NingNing, K-Pop, Mental Health</news:keywords>
     </news:news>
   </url>
   <url>
@@ -59,6 +95,18 @@
       <news:publication_date>2026-07-17T09:10:32.000Z</news:publication_date>
       <news:title>Watch: SEVENTEEN’s Wonwoo Marks His Birthday With Heartfelt New Song “Spring, Summer, Fall, Winter”</news:title>
       <news:keywords>SEVENTEEN, Debut, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/revisit-these-3-ikon-hits-before-the-fourever-world-tour-lan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T08:55:28.000Z</news:publication_date>
+      <news:title>Revisit These 3 iKON Hits Before the FOUREVER World Tour Lands in Singapore</news:title>
+      <news:keywords>Debut, Concert, Awards, Album, Tour</news:keywords>
     </news:news>
   </url>
   <url>
