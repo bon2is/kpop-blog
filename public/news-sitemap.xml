@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/3-things-we-loved-2-things-we-didnt-about-the-premiere-of-dr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T01:35:00.000Z</news:publication_date>
+      <news:title>3 Things We Loved &amp; 2 Things We Didn’t About The Premiere Of “Dream To You” </news:title>
+      <news:keywords>K-Drama, Hyeri, Hwang In Youp, Dream To You, Romantic Comedy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/idol-turned-actress-evokes-sympathy-with-heartfelt-confessio/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T16:17:36.000Z</news:publication_date>
+      <news:title>Idol-Turned-Actress Evokes Sympathy With Heartfelt Confession</news:title>
+      <news:keywords>Debut, K-Drama, Son Naeun, Apink, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/babymonster-ahyeons-insanely-tiny-waist-goes-viral-but-spark/</loc>
     <news:news>
       <news:publication>
@@ -167,114 +191,6 @@
       <news:publication_date>2026-07-16T07:10:40.000Z</news:publication_date>
       <news:title>First Impressions: Taiwanese BL “Bittersweet Love” Delivers A Complicated Forbidden Romance</news:title>
       <news:keywords>K-Drama, Taiwanese BL, Bittersweet Love, LGBTQ+ Representation, Forbidden Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-turned-actress-confesses-the-reason-she-broke-up-with-h/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T03:35:12.000Z</news:publication_date>
-      <news:title>Idol-Turned-Actress Confesses The Reason She Broke Up With Her Boyfriend</news:title>
-      <news:keywords>Yewon, Jewelry, K-Pop, Breakup, Love War</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seo-yea-ji-signs-with-new-agency/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T02:27:31.000Z</news:publication_date>
-      <news:title>Seo Yea Ji Signs With New Agency</news:title>
-      <news:keywords>K-Drama, Seo Yea Ji, B.Wave Entertainment, Acting Career</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-kim-dong-jun-kim-min-ho-and-more-show-excitement-and-p/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T01:37:03.000Z</news:publication_date>
-      <news:title>Watch: Kim Dong Jun, Kim Min Ho, And More Show Excitement And Passion At Script Reading For “New Recruit 4”</news:title>
-      <news:keywords>K-Drama, Kim Dong Jun, Kim Min Ho, New Recruit 4, Script Reading</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ji-sung-starts-making-deliveries-in-order-to-win-his-neighbo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T22:18:39.000Z</news:publication_date>
-      <news:title>Ji Sung Starts Making Deliveries In Order To Win His Neighbors’ Hearts In “The Apartment Job”</news:title>
-      <news:keywords>K-Drama, Ji Sung, The Apartment Job, JTBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T21:14:46.000Z</news:publication_date>
-      <news:title>4th Gen Idol Apologizes After “Sugar Mommy”’s Exposé Shows Him Sh*t Talking Group Mate</news:title>
-      <news:keywords>Debut, K-Pop, 4th Generation Idol, Controversy, Apology</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twice-nayeons-farewell-message-sparks-alarm-amid-contract-re/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T19:50:32.000Z</news:publication_date>
-      <news:title>TWICE Nayeon’s Farewell Message Sparks Alarm Amid Contract Renewal Reports</news:title>
-      <news:keywords>TWICE, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-mnet-idol-horror-show-sumbakkokjil-2-unveils-spooky-te/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T17:10:00.000Z</news:publication_date>
-      <news:title>Watch: Mnet Idol Horror Show “SUMBAKKOKJIL 2” Unveils Spooky Teasers For Season 2 With New Format</news:title>
-      <news:keywords>NCT, Stray Kids, ITZY, TXT, TREASURE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-boynextdoor-oh-my-girl-btob-and-tvxqs-leaders-come-tog/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T16:06:00.000Z</news:publication_date>
-      <news:title>Watch: BOYNEXTDOOR, OH MY GIRL, BTOB, And TVXQ’s Leaders Come Together In “Knowing Bros” Preview</news:title>
-      <news:keywords>BOYNEXTDOOR, Debut, K-Pop, TVXQ, BTOB</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-bts-hits-the-bathroom-in-mv-teaser-for-normal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T15:19:31.000Z</news:publication_date>
-      <news:title>Watch: BTS Hits The Bathroom In MV Teaser For “NORMAL”</news:title>
-      <news:keywords>BTS, Charts, Album, MV, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
