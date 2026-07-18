@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-5th-gen-idol-gets-mocked-for-bad-body-proportions/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T11:39:31.000Z</news:publication_date>
+      <news:title>Top 5th Gen Idol Gets Mocked For Bad Body Proportions</news:title>
+      <news:keywords>K-Pop, Body Image, 5th Generation Idols, Mental Health, Fan Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-female-idols-shocking-house-reveal-hit-with-heated-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T09:25:48.000Z</news:publication_date>
+      <news:title>Popular Female Idol’s Shocking House Reveal Hit With Heated Criticism</news:title>
+      <news:keywords>Awards, Charts, MV, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/boy-group-member-shocks-with-terrifying-experience-involving/</loc>
     <news:news>
       <news:publication>
@@ -179,66 +203,6 @@
       <news:publication_date>2026-07-16T14:44:50.000Z</news:publication_date>
       <news:title>Update: JYP Label Girl Group OURBIRTHDAY Drops Concept Photo Of First 3 Members For “HUNGRY”</news:title>
       <news:keywords>TWICE, ITZY, Debut, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/male-idol-gives-up-trying-the-bad-challenge-for-the-most-une/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T11:34:53.000Z</news:publication_date>
-      <news:title>Male Idol Gives Up Trying The “BAD” Challenge For The Most Unexpected Reason</news:title>
-      <news:keywords>K-Pop, BAD Challenge, Male Idol, Humor, Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/evans-heeseung-shady-comment-related-to-enhypen-stirs-up-fur/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T10:45:08.000Z</news:publication_date>
-      <news:title>EVAN’s (Heeseung) “Shady” Comment Related To ENHYPEN Stirs Up Fury</news:title>
-      <news:keywords>ENHYPEN, Comeback, Debut, Charts, Heeseung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-member-hit-with-brutal-plastic-surgery-accusations-in-ne/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T10:20:30.000Z</news:publication_date>
-      <news:title>BTS Member Hit With Brutal Plastic Surgery Accusations In New Photo</news:title>
-      <news:keywords>BTS, Charts, Plastic Surgery, K-Pop, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-member-exposes-starship-for-trying-to-force-her-into-a-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T07:55:23.000Z</news:publication_date>
-      <news:title>IVE Member Exposes Starship For Trying To Force Her Into A Cosmetic Procedure</news:title>
-      <news:keywords>IVE, MONSTA X, Debut, Starship Entertainment, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/first-impressions-taiwanese-bl-bittersweet-love-delivers-a-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T07:10:40.000Z</news:publication_date>
-      <news:title>First Impressions: Taiwanese BL “Bittersweet Love” Delivers A Complicated Forbidden Romance</news:title>
-      <news:keywords>K-Drama, Taiwanese BL, Bittersweet Love, LGBTQ+ Representation, Forbidden Romance</news:keywords>
     </news:news>
   </url>
 </urlset>
