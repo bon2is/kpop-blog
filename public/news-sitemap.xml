@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/just-how-intense-is-the-rivalry-between-k-pop-groups-idols-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T11:24:06.000Z</news:publication_date>
+      <news:title>Just How Intense Is The Rivalry Between K-Pop Groups? Idols Tell All</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Girls Generation, Super Junior</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/k-pop-star-gets-forcibly-hospitalized-for-bipolar-disorder-a/</loc>
     <news:news>
       <news:publication>
@@ -131,66 +143,6 @@
       <news:publication_date>2026-07-17T12:35:12.000Z</news:publication_date>
       <news:title>aespa NingNing’s Honest Take On Being An Idol Sparks Concerning Speculations About Her Future</news:title>
       <news:keywords>aespa, Charts, NingNing, K-Pop, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonster-ahyeons-insanely-tiny-waist-goes-viral-but-spark/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T11:25:25.000Z</news:publication_date>
-      <news:title>BABYMONSTER Ahyeon’s Insanely Tiny Waist Goes Viral, But Sparks Mixed Reactions </news:title>
-      <news:keywords>BLACKPINK, ITZY, BABYMONSTER, Debut, Ahyeon</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-disgusting-activity-on-social-media-sparks-major-fury/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T11:00:07.000Z</news:publication_date>
-      <news:title>BTS’s “Disgusting” Activity On Social Media Sparks Major Fury</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-seventeens-wonwoo-marks-his-birthday-with-heartfelt-ne/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T09:10:32.000Z</news:publication_date>
-      <news:title>Watch: SEVENTEEN’s Wonwoo Marks His Birthday With Heartfelt New Song “Spring, Summer, Fall, Winter”</news:title>
-      <news:keywords>SEVENTEEN, Debut, Awards, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/revisit-these-3-ikon-hits-before-the-fourever-world-tour-lan/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T08:55:28.000Z</news:publication_date>
-      <news:title>Revisit These 3 iKON Hits Before the FOUREVER World Tour Lands in Singapore</news:title>
-      <news:keywords>Debut, Concert, Awards, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/video-of-btss-jungkook-looking-annoyed-while-overseas-is-goi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T08:25:12.000Z</news:publication_date>
-      <news:title>Video Of BTS’s Jungkook Looking “Annoyed” While Overseas Is Going Viral</news:title>
-      <news:keywords>BTS, Charts, Album, Jungkook, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 07:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:46:38 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Just How Intense Is The Rivalry Between K-Pop Groups? Idols Tell All</title>
+      <link>https://kpop.andxo.com/article/just-how-intense-is-the-rivalry-between-k-pop-groups-idols-t/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/just-how-intense-is-the-rivalry-between-k-pop-groups-idols-t/</guid>
+      <description>K-Pop idols share intense rivalry stories</description>
+      <pubDate>Sun, 19 Jul 2026 11:24:06 GMT</pubDate>
+      <category>award</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>EXO</category>
+      <category>Girls Generation</category>
+      <category>Super Junior</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/just-how-intense-is-the-rivalry-between-k-pop-groups-idols-t.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/just-how-intense-is-the-rivalry-between-k-pop-groups-idols-t.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/just-how-intense-is-the-rivalry-between-k-pop-groups-idols-t.webp" />
+    </item>
     <item>
       <title>K-Pop Star Gets Forcibly Hospitalized For Bipolar Disorder At The Height Of His Career</title>
       <link>https://kpop.andxo.com/article/k-pop-star-gets-forcibly-hospitalized-for-bipolar-disorder-a/</link>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-global-male-idol-under-fire-for-joking-about-the-typ.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-global-male-idol-under-fire-for-joking-about-the-typ.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-global-male-idol-under-fire-for-joking-about-the-typ.webp" />
-    </item>
-    <item>
-      <title>Rookie Female Idol’s Middle School Photos Surface Online, Triggers Massive Response</title>
-      <link>https://kpop.andxo.com/article/rookie-female-idols-middle-school-photos-surface-online-trig/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/rookie-female-idols-middle-school-photos-surface-online-trig/</guid>
-      <description>Rookie idol&apos;s middle school photos stun fans!</description>
-      <pubDate>Thu, 09 Jul 2026 04:42:02 GMT</pubDate>
-      <category>award</category>
-      <category>Comeback</category>
-      <category>Awards</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <category>Rookie Idol</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/rookie-female-idols-middle-school-photos-surface-online-trig.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/rookie-female-idols-middle-school-photos-surface-online-trig.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/rookie-female-idols-middle-school-photos-surface-online-trig.webp" />
     </item>
   </channel>
 </rss>
