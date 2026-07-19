@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-star-gets-forcibly-hospitalized-for-bipolar-disorder-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T02:09:25.000Z</news:publication_date>
+      <news:title>K-Pop Star Gets Forcibly Hospitalized For Bipolar Disorder At The Height Of His Career</news:title>
+      <news:keywords>Awards, K-Pop, Mental Health, Bipolar Disorder, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-txts-yeonjun-takes-2nd-win-for-ice-cream-on-music-core/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T23:38:00.000Z</news:publication_date>
+      <news:title>Watch: TXT’s Yeonjun Takes 2nd Win For “Ice Cream” On “Music Core”; Performances By SUPER JUNIOR-83z, GIRLSET, And More</news:title>
+      <news:keywords>aespa, TXT, Super Junior, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainment-idol-draws-attention-for-getting-recruited-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T16:23:01.000Z</news:publication_date>
+      <news:title>SM Entertainment Idol Draws Attention For Getting Recruited By An Adult Entertainment Establishment</news:title>
+      <news:keywords>EXO, Girls Generation, Debut, SM Entertainment, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-5th-gen-idol-gets-mocked-for-bad-body-proportions/</loc>
     <news:news>
       <news:publication>
@@ -143,54 +179,6 @@
       <news:publication_date>2026-07-17T08:25:12.000Z</news:publication_date>
       <news:title>Video Of BTS’s Jungkook Looking “Annoyed” While Overseas Is Going Viral</news:title>
       <news:keywords>BTS, Charts, Album, Jungkook, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-recent-update-sparks-viral-debate-on-misogyny-fans-defe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T23:53:39.000Z</news:publication_date>
-      <news:title>BTS’s Recent Update Sparks Viral Debate On Misogyny, Fans Defend</news:title>
-      <news:keywords>BTS, TWICE, Red Velvet, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-female-idol-getting-caught-with-a-vape-has-unforesee/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T20:38:10.000Z</news:publication_date>
-      <news:title>Popular Female Idol Getting Caught With A Vape Has Unforeseen Results</news:title>
-      <news:keywords>Awards, Charts, Album, K-Pop, Vape</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4th-gen-k-pop-idol-comes-out-as-gay-in-an-nsfw-ish-way/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T17:55:48.000Z</news:publication_date>
-      <news:title>4th Gen K-Pop Idol Comes Out As Gay In An NSFW-Ish Way</news:title>
-      <news:keywords>Debut, Awards, Charts, Album, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-turned-actress-divulges-her-strict-self-managemen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T15:14:34.000Z</news:publication_date>
-      <news:title>K-Pop Idol-Turned-Actress Divulges Her Strict Self-Management Routine</news:title>
-      <news:keywords>Debut, Awards, Son Naeun, Apink, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
