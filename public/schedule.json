@@ -1,19 +1,26 @@
 {
-  "lastUpdated": "2026-07-19T14:54:44.827Z",
+  "lastUpdated": "2026-07-20T04:33:56.325Z",
   "events": [
     {
-      "id": "broadcast-inkigayo-2026-07-19",
-      "date": "2026-07-19",
-      "time": "15:40",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Inkigayo",
-      "description": "SBS Inkigayo weekly music show",
-      "source": "recurring",
+      "id": "soompi-16-2026-07-20",
+      "date": "2026-07-20",
+      "type": "concert",
+      "artist": "DAY6",
+      "title": "DAY6&#8217;s Young K Announces Dates And Cities For Solo Tour &#8220;YOUNGEST&#8221;",
+      "source": "soompi",
       "links": {
-        "youtube": "https://www.youtube.com/@SBSenter",
-        "official": "https://programs.sbs.co.kr"
+        "official": "https://www.soompi.com/article/1855687wpp/day6s-young-k-announces-dates-and-cities-for-solo-tour-youngest"
+      }
+    },
+    {
+      "id": "soompi-17-2026-07-20",
+      "date": "2026-07-20",
+      "type": "comeback",
+      "artist": "KISS OF LIFE",
+      "title": "Watch: KISS OF LIFE Announces Comeback Date With Preview Of &#8220;SWEAT EQUITY&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1855683wpp/watch-kiss-of-life-announces-comeback-date-with-preview-of-sweat-equity"
       }
     },
     {
@@ -314,6 +321,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-08-19",
+      "date": "2026-08-19",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
