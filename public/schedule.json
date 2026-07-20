@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-20T07:53:23.310Z",
+  "lastUpdated": "2026-07-20T12:59:11.945Z",
   "events": [
     {
-      "id": "soompi-0-2026-07-20",
+      "id": "soompi-4-2026-07-20",
+      "date": "2026-07-20",
+      "type": "concert",
+      "artist": "IU",
+      "title": "IU Announces Change In Album And Concert Plans Due To Health",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1856062wpp/iu-announces-change-in-album-and-concert-plans-due-to-health"
+      }
+    },
+    {
+      "id": "soompi-8-2026-07-20",
       "date": "2026-07-20",
       "type": "other",
       "artist": "MEOVV",
@@ -13,7 +24,7 @@
       }
     },
     {
-      "id": "soompi-23-2026-07-20",
+      "id": "soompi-31-2026-07-20",
       "date": "2026-07-20",
       "type": "concert",
       "artist": "DAY6",
@@ -24,7 +35,7 @@
       }
     },
     {
-      "id": "soompi-24-2026-07-20",
+      "id": "soompi-32-2026-07-20",
       "date": "2026-07-20",
       "type": "comeback",
       "artist": "KISS OF LIFE",

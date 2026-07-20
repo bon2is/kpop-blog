@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-members-behavior-towards-jimin-criticized-after-2026-fif/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T11:25:08.000Z</news:publication_date>
+      <news:title>BTS Members’ Behavior Towards Jimin Criticized After “2026 FIFA World Cup” Performance</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/big-3-girl-group-shocks-with-comeback-teasers-after-2-year-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T10:20:33.000Z</news:publication_date>
+      <news:title>“Big 3” Girl Group Shocks With Comeback Teasers After 2 Year Hiatus</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybes-new-girl-group-suffers-backlash-before-even-debuting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T09:13:24.000Z</news:publication_date>
+      <news:title>HYBE’s New Girl Group Suffers Backlash Before Even Debuting</news:title>
+      <news:keywords>BTS, BLACKPINK, SEVENTEEN, ITZY, (G)I-DLE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespas-giselle-shows-off-zero-fat-figure-in-recent-photos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T08:46:56.000Z</news:publication_date>
+      <news:title>aespa’s Giselle Shows Off “Zero-Fat” Figure In Recent Photos</news:title>
+      <news:keywords>aespa, Debut, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-idol-receives-offer-to-work-at-a-male-escort-bar/</loc>
     <news:news>
       <news:publication>
@@ -167,30 +215,6 @@
       <news:publication_date>2026-07-18T16:23:01.000Z</news:publication_date>
       <news:title>SM Entertainment Idol Draws Attention For Getting Recruited By An Adult Entertainment Establishment</news:title>
       <news:keywords>EXO, Girls Generation, Debut, SM Entertainment, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-5th-gen-idol-gets-mocked-for-bad-body-proportions/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-18T11:39:31.000Z</news:publication_date>
-      <news:title>Top 5th Gen Idol Gets Mocked For Bad Body Proportions</news:title>
-      <news:keywords>K-Pop, Body Image, 5th Generation Idols, Mental Health, Fan Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-female-idols-shocking-house-reveal-hit-with-heated-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-18T09:25:48.000Z</news:publication_date>
-      <news:title>Popular Female Idol’s Shocking House Reveal Hit With Heated Criticism</news:title>
-      <news:keywords>Awards, Charts, MV, Tour, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
