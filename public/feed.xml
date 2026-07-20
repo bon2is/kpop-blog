@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:59:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:51:05 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Jennie Announces Release Date For New Single “Less than a Lover”</title>
+      <link>https://kpop.andxo.com/article/jennie-announces-release-date-for-new-single-less-than-a-lov/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/jennie-announces-release-date-for-new-single-less-than-a-lov/</guid>
+      <description>Jennie&apos;s new single &apos;Less than a Lover&apos; drops July 24!</description>
+      <pubDate>Mon, 20 Jul 2026 15:20:36 GMT</pubDate>
+      <category>audition</category>
+      <category>BLACKPINK</category>
+      <category>Debut</category>
+      <category>Charts</category>
+      <category>MV</category>
+      <category>Jennie</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-announces-release-date-for-new-single-less-than-a-lov.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-announces-release-date-for-new-single-less-than-a-lov.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jennie-announces-release-date-for-new-single-less-than-a-lov.webp" />
+    </item>
     <item>
       <title>BTS Members’ Behavior Towards Jimin Criticized After “2026 FIFA World Cup” Performance</title>
       <link>https://kpop.andxo.com/article/bts-members-behavior-towards-jimin-criticized-after-2026-fif/</link>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/brutal-viral-post-criticizing-bts-members-natural-visuals-tr.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/brutal-viral-post-criticizing-bts-members-natural-visuals-tr.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/brutal-viral-post-criticizing-bts-members-natural-visuals-tr.webp" />
-    </item>
-    <item>
-      <title>TWICE’s Jihyo Sparks Major Shock With Raw Sexiness In New Music Video</title>
-      <link>https://kpop.andxo.com/article/twices-jihyo-sparks-major-shock-with-raw-sexiness-in-new-mus/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/twices-jihyo-sparks-major-shock-with-raw-sexiness-in-new-mus/</guid>
-      <description>TWICE&apos;s Jihyo sizzles in a new music video, leaving fans stunned.</description>
-      <pubDate>Fri, 10 Jul 2026 09:40:49 GMT</pubDate>
-      <category>award</category>
-      <category>TWICE</category>
-      <category>Awards</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <category>MV</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twices-jihyo-sparks-major-shock-with-raw-sexiness-in-new-mus.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twices-jihyo-sparks-major-shock-with-raw-sexiness-in-new-mus.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twices-jihyo-sparks-major-shock-with-raw-sexiness-in-new-mus.webp" />
     </item>
   </channel>
 </rss>

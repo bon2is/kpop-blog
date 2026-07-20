@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jennie-announces-release-date-for-new-single-less-than-a-lov/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T15:20:36.000Z</news:publication_date>
+      <news:title>Jennie Announces Release Date For New Single “Less than a Lover”</news:title>
+      <news:keywords>BLACKPINK, Debut, Charts, MV, Jennie</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-members-behavior-towards-jimin-criticized-after-2026-fif/</loc>
     <news:news>
       <news:publication>

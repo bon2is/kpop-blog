@@ -1,50 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T12:59:11.945Z",
+  "lastUpdated": "2026-07-20T15:51:03.667Z",
   "events": [
-    {
-      "id": "soompi-4-2026-07-20",
-      "date": "2026-07-20",
-      "type": "concert",
-      "artist": "IU",
-      "title": "IU Announces Change In Album And Concert Plans Due To Health",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1856062wpp/iu-announces-change-in-album-and-concert-plans-due-to-health"
-      }
-    },
-    {
-      "id": "soompi-8-2026-07-20",
-      "date": "2026-07-20",
-      "type": "other",
-      "artist": "MEOVV",
-      "title": "2026 SBS Gayo Daejeon Summer Announces Special Collab Stage Featuring Hearts2Hearts, izna, And MEOVV Members",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1856012wpp/2026-sbs-gayo-daejeon-summer-announces-special-collab-stage-featuring-hearts2hearts-izna-and-meovv-members"
-      }
-    },
-    {
-      "id": "soompi-31-2026-07-20",
-      "date": "2026-07-20",
-      "type": "concert",
-      "artist": "DAY6",
-      "title": "DAY6&#8217;s Young K Announces Dates And Cities For Solo Tour &#8220;YOUNGEST&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1855687wpp/day6s-young-k-announces-dates-and-cities-for-solo-tour-youngest"
-      }
-    },
-    {
-      "id": "soompi-32-2026-07-20",
-      "date": "2026-07-20",
-      "type": "comeback",
-      "artist": "KISS OF LIFE",
-      "title": "Watch: KISS OF LIFE Announces Comeback Date With Preview Of &#8220;SWEAT EQUITY&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1855683wpp/watch-kiss-of-life-announces-comeback-date-with-preview-of-sweat-equity"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-07-22",
       "date": "2026-07-22",
@@ -358,6 +314,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-08-20",
+      "date": "2026-08-20",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
