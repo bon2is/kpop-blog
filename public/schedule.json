@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-20T04:33:56.325Z",
+  "lastUpdated": "2026-07-20T07:53:23.310Z",
   "events": [
     {
-      "id": "soompi-16-2026-07-20",
+      "id": "soompi-0-2026-07-20",
+      "date": "2026-07-20",
+      "type": "other",
+      "artist": "MEOVV",
+      "title": "2026 SBS Gayo Daejeon Summer Announces Special Collab Stage Featuring Hearts2Hearts, izna, And MEOVV Members",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1856012wpp/2026-sbs-gayo-daejeon-summer-announces-special-collab-stage-featuring-hearts2hearts-izna-and-meovv-members"
+      }
+    },
+    {
+      "id": "soompi-23-2026-07-20",
       "date": "2026-07-20",
       "type": "concert",
       "artist": "DAY6",
@@ -13,7 +24,7 @@
       }
     },
     {
-      "id": "soompi-17-2026-07-20",
+      "id": "soompi-24-2026-07-20",
       "date": "2026-07-20",
       "type": "comeback",
       "artist": "KISS OF LIFE",
