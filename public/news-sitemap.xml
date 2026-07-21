@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-idols-baffling-visual-transformation-after-becoming-a-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T11:38:25.000Z</news:publication_date>
+      <news:title>HYBE Idol’s Baffling Visual Transformation After Becoming A Soldier Sparks Shock</news:title>
+      <news:keywords>Debut, Awards, Charts, Album, HYBE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainment-idols-comment-about-newjeans-sparks-shock/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T11:03:43.000Z</news:publication_date>
+      <news:title>SM Entertainment Idol’s Comment About NewJeans Sparks Shock</news:title>
+      <news:keywords>Red Velvet, NewJeans, Girls Generation, Super Junior, SM Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/50-year-old-male-idols-provocative-half-naked-photos-spark-o/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T10:25:13.000Z</news:publication_date>
+      <news:title>50-Year-Old Male Idol’s “Provocative” Half-Naked Photos Spark Outrage</news:title>
+      <news:keywords>Album, MV, K-Pop, Ageism, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/cross-dressing-idol-group-is-going-viral-shocking-with-visua/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T09:55:10.000Z</news:publication_date>
+      <news:title>Cross-Dressing Idol Group Is Going Viral — Shocking With Visuals</news:title>
+      <news:keywords>Awards, K-Pop, Cross-Dressing, Idol Group, LGBTQ+</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/viral-proof-of-bts-jimins-tiny-waist-sparks-major-shock/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T08:45:33.000Z</news:publication_date>
+      <news:title>Viral “Proof” Of BTS Jimin’s Tiny Waist Sparks Major Shock</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-ji-hyun-gives-seo-in-guk-a-sweet-back-hug-as-he-prepare/</loc>
     <news:news>
       <news:publication>
@@ -263,18 +323,6 @@
       <news:publication_date>2026-07-19T15:23:35.000Z</news:publication_date>
       <news:title>BLACKPINK’s Jennie Drops Teaser For “Less Than A LOVER”</news:title>
       <news:keywords>BTS, BLACKPINK, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/just-how-intense-is-the-rivalry-between-k-pop-groups-idols-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T11:24:06.000Z</news:publication_date>
-      <news:title>Just How Intense Is The Rivalry Between K-Pop Groups? Idols Tell All</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Girls Generation, Super Junior</news:keywords>
     </news:news>
   </url>
 </urlset>
