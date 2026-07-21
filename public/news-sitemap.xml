@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-newjeans-announces-return-as-4-member-group-with-2026-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T15:25:35.000Z</news:publication_date>
+      <news:title>Watch: NewJeans Announces Return As 4-Member Group With “2026 Summer Of NewJeans” Films And Photos</news:title>
+      <news:keywords>NewJeans, Comeback, Debut, Awards, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-idols-baffling-visual-transformation-after-becoming-a-s/</loc>
     <news:news>
       <news:publication>
@@ -311,18 +323,6 @@
       <news:publication_date>2026-07-19T16:00:50.000Z</news:publication_date>
       <news:title>WayV Announces August Comeback Date With Teaser For “Vision Wings”</news:title>
       <news:keywords>NCT, Comeback, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jennie-drops-teaser-for-less-than-a-lover/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:23:35.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Jennie Drops Teaser For “Less Than A LOVER”</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Concert, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
