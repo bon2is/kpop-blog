@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-ji-hyun-gives-seo-in-guk-a-sweet-back-hug-as-he-prepare/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T07:09:40.000Z</news:publication_date>
+      <news:title>Park Ji Hyun Gives Seo In Guk A Sweet Back Hug As He Prepares Breakfast In “See You At Work Tomorrow!”</news:title>
+      <news:keywords>K-Drama, Park Ji Hyun, Seo In Guk, See You at Work Tomorrow, Romance</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-nct-member-encourages-dangerous-diet-tips-sparks-bac/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T06:07:50.000Z</news:publication_date>
+      <news:title>Popular NCT Member Encourages Dangerous Diet Tips, Sparks Backlash</news:title>
+      <news:keywords>NCT, Debut, Album, K-Pop, Diet Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-idol-follows-a-fan-at-the-train-station-sparks-massi/</loc>
     <news:news>
       <news:publication>
@@ -71,6 +95,18 @@
       <news:publication_date>2026-07-20T15:20:36.000Z</news:publication_date>
       <news:title>Jennie Announces Release Date For New Single “Less than a Lover”</news:title>
       <news:keywords>BLACKPINK, Debut, Charts, MV, Jennie</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/cortis-announced-as-1st-players-for-mnets-idol-horror-show-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T11:26:02.000Z</news:publication_date>
+      <news:title>CORTIS Announced As 1st Players For Mnet’s Idol Horror Show “SUMBAKKOKJIL 2”</news:title>
+      <news:keywords>NCT, TXT, TREASURE, RIIZE, ZEROBASEONE</news:keywords>
     </news:news>
   </url>
   <url>
