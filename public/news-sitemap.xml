@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-female-idol-immediately-shuts-down-rumors-regarding-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T06:15:23.000Z</news:publication_date>
+      <news:title>Popular Female Idol Immediately Shuts Down Rumors Regarding Viral Clip</news:title>
+      <news:keywords>Comeback, Awards, Album, MV, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-hyun-bin-and-jung-woo-sung-face-off-once-again-in-made/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-07-22T02:07:40.000Z</news:publication_date>
       <news:title>Watch: Hyun Bin And Jung Woo Sung Face Off Once Again In “Made In Korea 2” Teaser</news:title>
       <news:keywords>K-Drama, Hyun Bin, Jung Woo Sung, Made In Korea, Disney+</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/txts-yeonjun-and-cortis-earn-double-crowns-on-circle-weekly-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T22:15:46.000Z</news:publication_date>
+      <news:title>TXT’s Yeonjun And CORTIS Earn Double Crowns On Circle Weekly Charts</news:title>
+      <news:keywords>aespa, TXT, Debut, Awards, Charts</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,18 +311,6 @@
       <news:publication_date>2026-07-20T08:46:56.000Z</news:publication_date>
       <news:title>aespa’s Giselle Shows Off “Zero-Fat” Figure In Recent Photos</news:title>
       <news:keywords>aespa, Debut, Awards, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idol-receives-offer-to-work-at-a-male-escort-bar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T05:15:10.000Z</news:publication_date>
-      <news:title>Popular Idol Receives Offer To Work At A Male Escort Bar</news:title>
-      <news:keywords>Comeback, Charts, MV, K-Pop, Idol</news:keywords>
     </news:news>
   </url>
 </urlset>
