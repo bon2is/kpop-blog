@@ -6,7 +6,16 @@ import { estimateReadingTime } from '@/lib/utils';
 
 const contentDirectory = path.join(process.cwd(), 'content/posts');
 
+// 모듈 레벨 캐시: 빌드 시 수백 개 페이지가 getAllArticles를 호출하고,
+// ISR 런타임에서도 하나의 람다가 여러 페이지를 렌더링할 수 있다.
+// 프로세스 수명 동안 1,452개 마크다운을 한 번만 읽어 파싱하도록 캐시한다.
+let articlesCache: Article[] | null = null;
+
 export function getAllArticles(): Article[] {
+  if (articlesCache) {
+    return articlesCache;
+  }
+
   if (!fs.existsSync(contentDirectory)) {
     return [];
   }
@@ -43,9 +52,10 @@ export function getAllArticles(): Article[] {
   }
 
   // Sort by published date (newest first)
-  return articles.sort(
+  articlesCache = articles.sort(
     (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   );
+  return articlesCache;
 }
 
 export function getArticleBySlug(slug: string): Article | undefined {

@@ -12,6 +12,9 @@ interface ArtistPageProps {
   params: { slug: string };
 }
 
+export const dynamicParams = true;
+export const revalidate = false;
+
 export async function generateStaticParams() {
   return getAllArtistSlugs().map((slug) => ({ slug }));
 }

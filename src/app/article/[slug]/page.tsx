@@ -28,9 +28,17 @@ interface ArticlePageProps {
   params: { slug: string };
 }
 
+// 빌드 시에는 최신 30개 글만 미리 생성한다. 나머지 글은 첫 요청 시
+// 온디맨드로 생성되어 CDN에 캐시된다(dynamicParams). 이 조합이 배포를
+// 글 개수와 무관하게 가볍게 유지하는 핵심이다.
+export const dynamicParams = true;
+export const revalidate = false; // 한 번 생성되면 다음 배포 전까지 CDN 캐시 유지
+
+const PREBUILD_RECENT_COUNT = 30;
+
 export async function generateStaticParams() {
   const articles = getAllArticles();
-  return articles.map((article) => ({
+  return articles.slice(0, PREBUILD_RECENT_COUNT).map((article) => ({
     slug: article.slug,
   }));
 }
