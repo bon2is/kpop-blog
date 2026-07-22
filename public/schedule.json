@@ -1,32 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T12:18:58.602Z",
+  "lastUpdated": "2026-07-22T15:41:14.789Z",
   "events": [
-    {
-      "id": "soompi-24-2026-07-22",
-      "date": "2026-07-22",
-      "type": "comeback",
-      "artist": "NewJeans",
-      "title": "Watch: NewJeans Announces Return As 4-Member Group With &#8220;2026 Summer Of NewJeans&#8221; Films And Photos",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1856451wpp/watch-newjeans-announces-return-as-4-member-group-with-2026-summer-of-newjeans-films"
-      }
-    },
-    {
-      "id": "broadcast-show-champion-2026-07-22",
-      "date": "2026-07-22",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show Champion",
-      "description": "MBC M weekly music show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MBCkpop",
-        "official": "https://www.imbc.com"
-      }
-    },
     {
       "id": "broadcast-m-countdown-2026-07-23",
       "date": "2026-07-23",
@@ -355,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@KBSKpop",
         "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-08-22",
+      "date": "2026-08-22",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
