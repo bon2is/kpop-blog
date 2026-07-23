@@ -133,25 +133,11 @@ ${urls.join('\n')}
 </urlset>`;
 }
 
-async function pingSitemaps(): Promise<void> {
-  const sitemapUrl = encodeURIComponent(`${SITE_URL}/sitemap.xml`);
-  const newsSitemapUrl = encodeURIComponent(`${SITE_URL}/news-sitemap.xml`);
-  const pingTargets = [
-    `https://www.google.com/ping?sitemap=${sitemapUrl}`,
-    `https://www.bing.com/ping?sitemap=${sitemapUrl}`,
-    `https://www.google.com/ping?sitemap=${newsSitemapUrl}`,
-  ];
-
-  console.log('\nPinging search engines...');
-  for (const url of pingTargets) {
-    try {
-      const res = await fetch(url, { method: 'GET' });
-      console.log(`  ${res.ok ? '✓' : '✗'} ${url.split('?')[0]} (${res.status})`);
-    } catch {
-      console.log(`  ✗ Failed: ${url.split('?')[0]}`);
-    }
-  }
-}
+// NOTE: The legacy google.com/ping and bing.com/ping sitemap endpoints were
+// removed by both engines (Google 2023 → 404, Bing 2021 → 410 Gone), so pinging
+// them did nothing. New-article notification now happens via IndexNow
+// (scripts/ping-indexnow.ts) run AFTER deploy — it covers Bing, Yahoo and Naver.
+// Google/Daum discover new posts by crawling the fresh news-sitemap.xml below.
 
 async function main() {
   const articles = loadArticles();
@@ -169,9 +155,6 @@ async function main() {
   twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
   const recentCount = articles.filter((a) => new Date(a.publishedAt) >= twoDaysAgo).length;
   console.log(`✓ Generated news-sitemap.xml (${recentCount} recent articles)`);
-
-  // Ping search engines
-  await pingSitemaps();
 }
 
 main();

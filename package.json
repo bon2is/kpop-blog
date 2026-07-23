@@ -7,6 +7,7 @@
     "generate-feeds": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/generate-feeds.ts",
     "fetch-charts": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/fetch-charts.ts",
     "fetch-schedule": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/fetch-schedule.ts",
+    "ping-indexnow": "npx ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/ping-indexnow.ts",
     "build": "npm run generate-feeds && npm run fetch-charts && next build",
     "start": "next start",
     "lint": "next lint",

@@ -155,6 +155,16 @@ jobs:
         run: npm run post-discord
         continue-on-error: true
 
+      - name: Notify IndexNow (Bing, Yahoo, Naver)
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          # Wait for the Vercel deploy (triggered by the earlier push) to go live
+          # so crawlers fetching the submitted URLs get a 200, not a 404.
+          echo "Waiting 120s for Vercel deploy before pinging IndexNow..."
+          sleep 120
+          npm run ping-indexnow
+        continue-on-error: true
+
       - name: Commit social tracking files
         if: steps.git-check.outputs.changes == 'true'
         run: |
