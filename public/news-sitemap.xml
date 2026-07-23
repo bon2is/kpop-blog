@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/political-news-podcast-criticizes-btss-world-cup-performance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T07:20:50.000Z</news:publication_date>
+      <news:title>Political News Podcast Criticizes BTS’s World Cup Performance, Sparks Heated Deabte</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/agent-kim-reactivated-finale-to-air-earlier-with-extended-ru/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T06:34:55.000Z</news:publication_date>
+      <news:title>“Agent Kim Reactivated” Finale To Air Earlier With Extended Runtime</news:title>
+      <news:keywords>K-Drama, So Ji Sub, Agent Kim Reactivated, Webtoon Adaptation, Finale</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-singer-copies-hybe-idols-solo-promotions-k-netizens-/</loc>
     <news:news>
       <news:publication>
@@ -263,30 +287,6 @@
       <news:publication_date>2026-07-21T08:45:33.000Z</news:publication_date>
       <news:title>Viral “Proof” Of BTS Jimin’s Tiny Waist Sparks Major Shock</news:title>
       <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-ji-hyun-gives-seo-in-guk-a-sweet-back-hug-as-he-prepare/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T07:09:40.000Z</news:publication_date>
-      <news:title>Park Ji Hyun Gives Seo In Guk A Sweet Back Hug As He Prepares Breakfast In “See You At Work Tomorrow!”</news:title>
-      <news:keywords>K-Drama, Park Ji Hyun, Seo In Guk, See You at Work Tomorrow, Romance</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-nct-member-encourages-dangerous-diet-tips-sparks-bac/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T06:07:50.000Z</news:publication_date>
-      <news:title>Popular NCT Member Encourages Dangerous Diet Tips, Sparks Backlash</news:title>
-      <news:keywords>NCT, Debut, Album, K-Pop, Diet Culture</news:keywords>
     </news:news>
   </url>
 </urlset>
