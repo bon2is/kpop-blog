@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-ateez-takes-4th-win-for-bad-on-m-countdown-performance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T11:28:59.000Z</news:publication_date>
+      <news:title>Watch: ATEEZ Takes 4th Win For “BAD” On “M Countdown”; Performances By fromis_9, OURBIRTHDAY, And More</news:title>
+      <news:keywords>TXT, ATEEZ, Debut, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-winters-alleged-new-nose-job-triggers-heated-debate-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T11:13:50.000Z</news:publication_date>
+      <news:title>aespa Winter’s Alleged New Nose Job Triggers Heated Debate </news:title>
+      <news:keywords>aespa, Debut, Winter, Nose Job, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-hye-joon-gong-jiho-and-kim-ah-young-are-lifelong-fangirl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T09:16:21.000Z</news:publication_date>
+      <news:title>Kim Hye Joon, Gong Jiho, And Kim Ah Young Are Lifelong Fangirl Besties In “My Bias, My Boss”</news:title>
+      <news:keywords>K-Drama, My Bias My Boss, Kim Hye Joon, K-Pop, Fandom</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/political-news-podcast-criticizes-btss-world-cup-performance/</loc>
     <news:news>
       <news:publication>
@@ -227,66 +263,6 @@
       <news:publication_date>2026-07-21T15:25:35.000Z</news:publication_date>
       <news:title>Watch: NewJeans Announces Return As 4-Member Group With “2026 Summer Of NewJeans” Films And Photos</news:title>
       <news:keywords>NewJeans, Comeback, Debut, Awards, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-idols-baffling-visual-transformation-after-becoming-a-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T11:38:25.000Z</news:publication_date>
-      <news:title>HYBE Idol’s Baffling Visual Transformation After Becoming A Soldier Sparks Shock</news:title>
-      <news:keywords>Debut, Awards, Charts, Album, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sm-entertainment-idols-comment-about-newjeans-sparks-shock/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T11:03:43.000Z</news:publication_date>
-      <news:title>SM Entertainment Idol’s Comment About NewJeans Sparks Shock</news:title>
-      <news:keywords>Red Velvet, NewJeans, Girls Generation, Super Junior, SM Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/50-year-old-male-idols-provocative-half-naked-photos-spark-o/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T10:25:13.000Z</news:publication_date>
-      <news:title>50-Year-Old Male Idol’s “Provocative” Half-Naked Photos Spark Outrage</news:title>
-      <news:keywords>Album, MV, K-Pop, Ageism, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cross-dressing-idol-group-is-going-viral-shocking-with-visua/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T09:55:10.000Z</news:publication_date>
-      <news:title>Cross-Dressing Idol Group Is Going Viral — Shocking With Visuals</news:title>
-      <news:keywords>Awards, K-Pop, Cross-Dressing, Idol Group, LGBTQ+</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/viral-proof-of-bts-jimins-tiny-waist-sparks-major-shock/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T08:45:33.000Z</news:publication_date>
-      <news:title>Viral “Proof” Of BTS Jimin’s Tiny Waist Sparks Major Shock</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
