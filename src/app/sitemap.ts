@@ -7,45 +7,49 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://kpop.andxo.com';
 
   // Static pages
+  // NOTE: All URLs MUST end with a trailing slash to match next.config
+  // trailingSlash: true. The page canonicals use the trailing-slash form, so a
+  // no-slash sitemap URL 308-redirects and Google buckets it as
+  // "Alternate page with proper canonical tag" instead of indexing it.
   const staticPages: MetadataRoute.Sitemap = [
     {
-      url: baseUrl,
+      url: `${baseUrl}/`,
       lastModified: new Date(),
       changeFrequency: 'hourly',
       priority: 1,
     },
     {
-      url: `${baseUrl}/articles`,
+      url: `${baseUrl}/articles/`,
       lastModified: new Date(),
       changeFrequency: 'hourly',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/artists`,
+      url: `${baseUrl}/artists/`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/chart`,
+      url: `${baseUrl}/chart/`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/categories`,
+      url: `${baseUrl}/categories/`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/search`,
+      url: `${baseUrl}/search/`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/about`,
+      url: `${baseUrl}/about/`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.6,
@@ -54,7 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Category pages
   const categoryPages: MetadataRoute.Sitemap = categories.map((category) => ({
-    url: `${baseUrl}/category/${category.slug}`,
+    url: `${baseUrl}/category/${category.slug}/`,
     lastModified: new Date(),
     changeFrequency: 'hourly',
     priority: 0.9,
@@ -68,7 +72,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const age = now - new Date(article.publishedAt).getTime();
     const priority = age < dayMs ? 0.9 : age < 7 * dayMs ? 0.8 : age < 30 * dayMs ? 0.75 : 0.65;
     return {
-      url: `${baseUrl}/article/${article.slug}`,
+      url: `${baseUrl}/article/${article.slug}/`,
       lastModified: new Date(article.updatedAt),
       changeFrequency: age < 7 * dayMs ? 'daily' : 'weekly',
       priority,
@@ -86,7 +90,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const tagPages: MetadataRoute.Sitemap = Object.entries(tagFreq)
     .filter(([, count]) => count >= 3)
     .map(([tag]) => ({
-      url: `${baseUrl}/tag/${tag}`,
+      url: `${baseUrl}/tag/${tag}/`,
       lastModified: new Date(),
       changeFrequency: 'daily' as const,
       priority: 0.6,
@@ -94,7 +98,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Artist pages
   const artistPages: MetadataRoute.Sitemap = getAllArtistSlugs().map((slug) => ({
-    url: `${baseUrl}/artist/${slug}`,
+    url: `${baseUrl}/artist/${slug}/`,
     lastModified: new Date(),
     changeFrequency: 'daily',
     priority: 0.8,
