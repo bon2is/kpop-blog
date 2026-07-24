@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/so-ji-sub-choi-dae-hoon-and-yoon-kyung-ho-fight-their-way-th/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T05:49:54.000Z</news:publication_date>
+      <news:title>So Ji Sub, Choi Dae Hoon, And Yoon Kyung Ho Fight Their Way Through Enemy Territory In “Agent Kim Reactivated”</news:title>
+      <news:keywords>K-Drama, So Ji Sub, Action, Suspense, Agent Kim Reactivated</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/38-year-old-woman-gets-indicted-for-sexually-harassing-boa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T04:32:53.000Z</news:publication_date>
+      <news:title>38-Year-Old Woman Gets Indicted For Sexually Harassing BoA</news:title>
+      <news:keywords>TWICE, Red Velvet, Girls Generation, Awards, BoA</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-kim-min-ho-kim-dong-jun-kim-hyun-kyu-and-more-return-f/</loc>
     <news:news>
       <news:publication>
@@ -203,30 +227,6 @@
       <news:publication_date>2026-07-22T07:34:37.000Z</news:publication_date>
       <news:title>Disney+ Unveils AI-Powered Mystery Variety Show “Murder Club: Liar’s Table,” Premiering July 29</news:title>
       <news:keywords>Disney+, Korean Variety Show, AI-Powered Entertainment, Murder Mystery Game, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/flex-x-cop-season-2-turns-up-the-heat-with-bigger-cases-and-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T07:12:38.000Z</news:publication_date>
-      <news:title>“Flex X Cop Season 2” Turns Up the Heat with Bigger Cases and a Tense New Partnership This August</news:title>
-      <news:keywords>K-Drama, Flex X Cop, Ahn Bo Hyun, Disney+, Season 2</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-female-idol-immediately-shuts-down-rumors-regarding-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T06:15:23.000Z</news:publication_date>
-      <news:title>Popular Female Idol Immediately Shuts Down Rumors Regarding Viral Clip</news:title>
-      <news:keywords>Comeback, Awards, Album, MV, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
