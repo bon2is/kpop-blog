@@ -93,6 +93,12 @@ export default function RootLayout({
     <html lang="en">
       <head>
           <meta name="google-adsense-account" content="ca-pub-7999144867236526" />
+          {/* AdSense 도메인 사전 연결 — 광고 스크립트/광고 서버 TCP+TLS 핸드셰이크를
+              미리 열어 첫 광고 fill 을 앞당긴다(viewability/RPM 개선, LCP 영향 미미). */}
+          <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
+          <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+          <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net" />
+          <link rel="dns-prefetch" href="https://tpc.googlesyndication.com" />
           <meta name="naver-site-verification" content="a156ba871d90bd061a576b944f0a37bd8eac4e17" />
           <meta name="theme-color" content="#EC4899" />
           <meta name="mobile-web-app-capable" content="yes" />

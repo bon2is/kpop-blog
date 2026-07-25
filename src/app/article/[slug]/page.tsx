@@ -88,7 +88,9 @@ export default function ArticlePage({ params }: ArticlePageProps) {
     notFound();
   }
 
-  const rawRelated = getRelatedArticles(article, 4);
+  // 세션 깊이(세션당 페이지수) 향상용: 관련글을 8개로 노출해 내부 회유를 늘린다.
+  // 페이지수가 늘면 지역/CPM과 무관하게 광고 임프레션이 증가한다. grid-cols-4 → 2행.
+  const rawRelated = getRelatedArticles(article, 8);
   const relatedArticles: ArticleSummary[] = rawRelated.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
   const categoryColor = getCategoryColor(article.category);
   // Look up artist from primary tag for cross-linking
