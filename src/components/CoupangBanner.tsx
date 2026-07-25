@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { searchCoupangProducts, getCoupangKeyword, CoupangProduct } from '@/lib/coupang';
+import CoupangFallbackLink from './CoupangFallbackLink';
 
 interface Props {
   category?: string;
@@ -70,22 +71,10 @@ export default async function CoupangBanner({
   const products = await searchCoupangProducts(searchKeyword, limit);
 
   if (products.length === 0) {
-    const searchUrl = `https://www.coupang.com/np/search?q=${encodeURIComponent(searchKeyword)}`;
+    // ISR 빌드(비한국 IP)에서는 항상 여기로 온다. Coupang 은 한국 전용이므로
+    // 폴백 링크를 한국 방문자에게만 노출한다(글로벌은 null → AmazonBanner 로 커버).
     return (
-      <a
-        href={searchUrl}
-        target="_blank"
-        rel="noopener noreferrer nofollow"
-        className={`flex items-center justify-between p-4 rounded-xl border border-orange-100 bg-orange-50 hover:bg-orange-100 transition-colors group ${className}`}
-      >
-        <div>
-          <p className="text-sm font-semibold text-gray-800">{title ?? searchKeyword}</p>
-          <p className="text-xs text-gray-500 mt-0.5">Browse on Coupang →</p>
-        </div>
-        <span className="text-xs font-bold text-orange-500 bg-white px-2 py-1 rounded-full border border-orange-200">
-          Coupang
-        </span>
-      </a>
+      <CoupangFallbackLink keyword={searchKeyword} title={title} className={className} />
     );
   }
 
