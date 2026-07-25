@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/korean-singer-who-worked-with-numerous-idols-sparks-heartbre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T05:21:51.000Z</news:publication_date>
+      <news:title>Korean Singer Who Worked With Numerous Idols Sparks Heartbreak With Why He Suddenly Disappeared</news:title>
+      <news:keywords>Charts, K-Pop, Mental Health, Korean Singer, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/sm-entertainment-idol-feels-burdened-by-his-own-name/</loc>
     <news:news>
       <news:publication>
@@ -38,6 +50,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/nct-members-now-deleted-shade-involving-groupmate-raises-eye/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T22:18:22.000Z</news:publication_date>
+      <news:title>NCT Member’s Now-Deleted “Shade” Involving Groupmate Raises Eyebrows</news:title>
+      <news:keywords>NCT, Comeback, Charts, K-Pop, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/4th-gen-idols-kiss-during-sexy-2026-waterbomb-seoul-performa/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +71,18 @@
       <news:publication_date>2026-07-24T20:14:44.000Z</news:publication_date>
       <news:title>4th Gen Idols Kiss During Sexy “2026 WATERBOMB Seoul” Performance, Sparking Mixed Reactions </news:title>
       <news:keywords>Debut, Charts, Album, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jyp-entertainment-idol-wows-with-slim-figure-and-tiny-waist/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T16:29:08.000Z</news:publication_date>
+      <news:title>JYP Entertainment Idol Wows With Slim Figure And Tiny Waist</news:title>
+      <news:keywords>TWICE, ITZY, Charts, Tour, JYP Entertainment</news:keywords>
     </news:news>
   </url>
   <url>
@@ -227,18 +263,6 @@
       <news:publication_date>2026-07-23T07:20:50.000Z</news:publication_date>
       <news:title>Political News Podcast Criticizes BTS’s World Cup Performance, Sparks Heated Deabte</news:title>
       <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/agent-kim-reactivated-finale-to-air-earlier-with-extended-ru/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T06:34:55.000Z</news:publication_date>
-      <news:title>“Agent Kim Reactivated” Finale To Air Earlier With Extended Runtime</news:title>
-      <news:keywords>K-Drama, So Ji Sub, Agent Kim Reactivated, Webtoon Adaptation, Finale</news:keywords>
     </news:news>
   </url>
 </urlset>
