@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 11:54:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:02:04 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Girl Group Idol Exudes Innocent Beauty In Latest Update</title>
+      <link>https://kpop.andxo.com/article/girl-group-idol-exudes-innocent-beauty-in-latest-update/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/girl-group-idol-exudes-innocent-beauty-in-latest-update/</guid>
+      <description>K-Pop idol Ki Huihyeon stuns with innocent beauty in latest vacation update.</description>
+      <pubDate>Sat, 25 Jul 2026 14:43:53 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>TWICE</category>
+      <category>Red Velvet</category>
+      <category>Comeback</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/girl-group-idol-exudes-innocent-beauty-in-latest-update.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/girl-group-idol-exudes-innocent-beauty-in-latest-update.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/girl-group-idol-exudes-innocent-beauty-in-latest-update.webp" />
+    </item>
     <item>
       <title>Beloved Star Opens Up On Her Journey In Overcoming Missed Miscarriage</title>
       <link>https://kpop.andxo.com/article/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi/</link>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ji-sung-starts-making-deliveries-in-order-to-win-his-neighbo.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ji-sung-starts-making-deliveries-in-order-to-win-his-neighbo.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/ji-sung-starts-making-deliveries-in-order-to-win-his-neighbo.webp" />
-    </item>
-    <item>
-      <title>4th Gen Idol Apologizes After “Sugar Mommy”’s Exposé Shows Him Sh*t Talking Group Mate</title>
-      <link>https://kpop.andxo.com/article/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s/</guid>
-      <description>4th Gen Idol apologizes after exposé reveals him sh*t talking group mate</description>
-      <pubDate>Wed, 15 Jul 2026 21:14:46 GMT</pubDate>
-      <category>audition</category>
-      <category>Debut</category>
-      <category>K-Pop</category>
-      <category>4th Generation Idol</category>
-      <category>Controversy</category>
-      <category>Apology</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s.webp" />
     </item>
   </channel>
 </rss>

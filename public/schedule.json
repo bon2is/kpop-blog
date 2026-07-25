@@ -1,32 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T11:54:30.197Z",
+  "lastUpdated": "2026-07-25T15:02:02.753Z",
   "events": [
-    {
-      "id": "soompi-14-2026-07-25",
-      "date": "2026-07-25",
-      "type": "comeback",
-      "artist": "IVE",
-      "title": "Watch: ALPHA DRIVE ONE Announces Comeback Date With &#8220;UNBREAKABLE : 少年BEAST&#8221; Title Sequence",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1857246wpp/watch-alpha-drive-one-announces-comeback-date-with-unbreakable-%e5%b0%91%e5%b9%b4beast-title-sequence"
-      }
-    },
-    {
-      "id": "broadcast-show--music-core-2026-07-25",
-      "date": "2026-07-25",
-      "time": "17:15",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show! Music Core",
-      "description": "MBC Show! Music Core weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@mbckpop",
-        "official": "https://www.imbc.com"
-      }
-    },
     {
       "id": "broadcast-inkigayo-2026-07-26",
       "date": "2026-07-26",
