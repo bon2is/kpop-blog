@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 07:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 11:54:32 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Beloved Star Opens Up On Her Journey In Overcoming Missed Miscarriage</title>
+      <link>https://kpop.andxo.com/article/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi/</guid>
+      <description>Korean star opens up about her IVF journey</description>
+      <pubDate>Sat, 25 Jul 2026 08:54:11 GMT</pubDate>
+      <category>drama</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <category>K-Drama</category>
+      <category>Korean Star</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi.webp" />
+    </item>
     <item>
       <title>Korean Singer Who Worked With Numerous Idols Sparks Heartbreak With Why He Suddenly Disappeared</title>
       <link>https://kpop.andxo.com/article/korean-singer-who-worked-with-numerous-idols-sparks-heartbre/</link>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/4th-gen-idol-apologizes-after-sugar-mommys-expos-shows-him-s.webp" />
-    </item>
-    <item>
-      <title>TWICE Nayeon’s Farewell Message Sparks Alarm Amid Contract Renewal Reports</title>
-      <link>https://kpop.andxo.com/article/twice-nayeons-farewell-message-sparks-alarm-amid-contract-re/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/twice-nayeons-farewell-message-sparks-alarm-amid-contract-re/</guid>
-      <description>TWICE Nayeon sparks alarm with farewell message amid contract renewal reports</description>
-      <pubDate>Wed, 15 Jul 2026 19:50:32 GMT</pubDate>
-      <category>award</category>
-      <category>TWICE</category>
-      <category>Debut</category>
-      <category>Awards</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twice-nayeons-farewell-message-sparks-alarm-amid-contract-re.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twice-nayeons-farewell-message-sparks-alarm-amid-contract-re.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/twice-nayeons-farewell-message-sparks-alarm-amid-contract-re.webp" />
     </item>
   </channel>
 </rss>

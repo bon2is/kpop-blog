@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T08:54:11.000Z</news:publication_date>
+      <news:title>Beloved Star Opens Up On Her Journey In Overcoming Missed Miscarriage</news:title>
+      <news:keywords>Debut, Awards, Charts, K-Drama, Korean Star</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/korean-singer-who-worked-with-numerous-idols-sparks-heartbre/</loc>
     <news:news>
       <news:publication>
@@ -215,54 +227,6 @@
       <news:publication_date>2026-07-23T16:43:08.000Z</news:publication_date>
       <news:title>Top Korean Actor Shows Off His Impressive Muscles</news:title>
       <news:keywords>K-Drama, Nam Joo Hyuk, Korean Actor, Fitness, Physical Transformation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-ateez-takes-4th-win-for-bad-on-m-countdown-performance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T11:28:59.000Z</news:publication_date>
-      <news:title>Watch: ATEEZ Takes 4th Win For “BAD” On “M Countdown”; Performances By fromis_9, OURBIRTHDAY, And More</news:title>
-      <news:keywords>TXT, ATEEZ, Debut, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-winters-alleged-new-nose-job-triggers-heated-debate-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T11:13:50.000Z</news:publication_date>
-      <news:title>aespa Winter’s Alleged New Nose Job Triggers Heated Debate </news:title>
-      <news:keywords>aespa, Debut, Winter, Nose Job, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kim-hye-joon-gong-jiho-and-kim-ah-young-are-lifelong-fangirl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T09:16:21.000Z</news:publication_date>
-      <news:title>Kim Hye Joon, Gong Jiho, And Kim Ah Young Are Lifelong Fangirl Besties In “My Bias, My Boss”</news:title>
-      <news:keywords>K-Drama, My Bias My Boss, Kim Hye Joon, K-Pop, Fandom</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/political-news-podcast-criticizes-btss-world-cup-performance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T07:20:50.000Z</news:publication_date>
-      <news:title>Political News Podcast Criticizes BTS’s World Cup Performance, Sparks Heated Deabte</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
