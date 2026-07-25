@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainment-idol-feels-burdened-by-his-own-name/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T03:17:50.000Z</news:publication_date>
+      <news:title>SM Entertainment Idol Feels Burdened By His Own Name</news:title>
+      <news:keywords>EXO, Girls Generation, Debut, SM Entertainment, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-ddu-du-ddu-du-becomes-1st-k-pop-group-mv-ever-to-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T02:12:00.000Z</news:publication_date>
+      <news:title>BLACKPINK’s “DDU-DU DDU-DU” Becomes 1st K-Pop Group MV Ever To Hit 2.4 Billion Views</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/indecent-35-year-old-idols-bra-less-2026-waterbomb-performan/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T00:57:29.000Z</news:publication_date>
+      <news:title>“Indecent!” 35-Year-Old Idol’s “Bra-Less” “2026 WATERBOMB” Performance Goes Viral</news:title>
+      <news:keywords>Awards, Charts, Album, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/4th-gen-idols-kiss-during-sexy-2026-waterbomb-seoul-performa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T20:14:44.000Z</news:publication_date>
+      <news:title>4th Gen Idols Kiss During Sexy “2026 WATERBOMB Seoul” Performance, Sparking Mixed Reactions </news:title>
+      <news:keywords>Debut, Charts, Album, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/female-idols-new-bold-tiktok-video-sparks-debate-on-sexualiz/</loc>
     <news:news>
       <news:publication>
@@ -191,42 +239,6 @@
       <news:publication_date>2026-07-23T06:34:55.000Z</news:publication_date>
       <news:title>“Agent Kim Reactivated” Finale To Air Earlier With Extended Runtime</news:title>
       <news:keywords>K-Drama, So Ji Sub, Agent Kim Reactivated, Webtoon Adaptation, Finale</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-singer-copies-hybe-idols-solo-promotions-k-netizens-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T03:55:27.000Z</news:publication_date>
-      <news:title>Popular Singer Copies HYBE Idol’s Solo Promotions, K-Netizens React</news:title>
-      <news:keywords>Debut, Charts, MV, K-Pop, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gay-k-pop-star-listened-to-stray-kids-idolized-bts-to-seem-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T01:59:13.000Z</news:publication_date>
-      <news:title>Gay K-Pop Star Listened To Stray Kids, Idolized BTS To Seem Straight</news:title>
-      <news:keywords>BTS, Stray Kids, K-Pop, LGBTQ+, Korean Pop Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seven-years-of-incessant-stalking-iconic-girl-group-idol-fin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T00:55:36.000Z</news:publication_date>
-      <news:title>Seven Years Of Incessant Stalking— Iconic Girl Group Idol Finally Lets Out Her Terrifying Experience</news:title>
-      <news:keywords>Debut, Awards, Charts, K-Pop, Stalking</news:keywords>
     </news:news>
   </url>
 </urlset>
