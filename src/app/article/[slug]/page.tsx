@@ -22,6 +22,7 @@ import ReadingProgressBar from '@/components/ReadingProgressBar';
 import TableOfContents from '@/components/TableOfContents';
 import ArticleNavigation from '@/components/ArticleNavigation';
 import CoupangBanner from '@/components/CoupangBanner';
+import AmazonBanner from '@/components/AmazonBanner';
 import DisqusComments from '@/components/DisqusComments';
 
 interface ArticlePageProps {
@@ -412,6 +413,8 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
       {/* Coupang Partners — article-category-aware product recommendations */}
       <CoupangBanner category={article.category} tags={article.tags} />
+      {/* 글로벌 방문자용 제휴 배너 (Amazon). NEXT_PUBLIC_AMAZON_ASSOC_TAG 설정 시 활성화. */}
+      <AmazonBanner tags={article.tags} />
 
       {/* Disqus Comments */}
       <DisqusComments

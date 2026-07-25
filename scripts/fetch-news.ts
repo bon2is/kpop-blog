@@ -1559,6 +1559,12 @@ async function generateSafeContent(
 Write a DETAILED, INFORMATIVE article (700-1000 words) about this news story.
 Use "\\n\\n" to separate paragraphs. Use "## Heading" for section headers.
 
+HIGH-VALUE SEARCH ANGLE (only where factually relevant — NEVER invent details):
+- Favor phrasing that matches high-CPM English search intent from the US/UK/Canada/Australia: "where to watch", "how to stream", "where to buy tickets", and named platforms (Netflix, Disney+, Prime Video, Spotify, Apple Music, YouTube, Hulu).
+- When the story is a comeback, single/album, K-Drama, film, or tour, briefly note where global readers can watch/stream/listen or get tickets — this attracts high-value Western search traffic.
+- Reference Billboard, Hot 100 / Billboard 200, Circle/Hanteo charts, or streaming records when the story involves rankings or sales.
+- Do NOT fabricate dates, platforms, ticket links, or availability. If unknown, stay general (e.g., "expected on major streaming platforms"). Accuracy first.
+
 RESPOND IN JSON with these exact keys:
 
 excerpt: A single compelling sentence (under 160 chars) that summarizes the story and hooks readers.
