@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/winners-of-the-km-chart-awards-kma-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T03:05:20.000Z</news:publication_date>
+      <news:title>Winners Of The KM Chart Awards (KMA) 2026</news:title>
+      <news:keywords>BTS, TXT, MAMAMOO, ZEROBASEONE, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/sm-entertainment-idol-speaks-out-on-fighting-with-a-fellow-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T02:34:58.000Z</news:publication_date>
+      <news:title>SM Entertainment Idol Speaks Out On Fighting With A Fellow Member While Others Gathered Excitedly To Watch</news:title>
+      <news:keywords>EXO, Red Velvet, Girls Generation, Super Junior, SHINee</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/girl-group-idol-exudes-innocent-beauty-in-latest-update/</loc>
     <news:news>
       <news:publication>
@@ -191,54 +215,6 @@
       <news:publication_date>2026-07-24T04:32:53.000Z</news:publication_date>
       <news:title>38-Year-Old Woman Gets Indicted For Sexually Harassing BoA</news:title>
       <news:keywords>TWICE, Red Velvet, Girls Generation, Awards, BoA</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-kim-min-ho-kim-dong-jun-kim-hyun-kyu-and-more-return-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T03:13:41.000Z</news:publication_date>
-      <news:title>Watch: Kim Min Ho, Kim Dong Jun, Kim Hyun Kyu, And More Return For Another Round Of Military Life In “New Recruit 4” Teaser</news:title>
-      <news:keywords>K-Drama, Kim Min Ho, Kim Dong Jun, New Recruit 4, Military Life</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5th-gen-boy-group-idol-caught-flirting-with-female-fan-stirs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T00:21:38.000Z</news:publication_date>
-      <news:title>5th-Gen Boy Group Idol Caught Flirting With Female Fan, Stirs Up Strong Reactions</news:title>
-      <news:keywords>Debut, Charts, Rise, K-Pop, 5th-Gen</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/korean-star-gets-slammed-for-her-bone-thin-figure-gives-no-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T17:16:46.000Z</news:publication_date>
-      <news:title>Korean Star Gets Slammed For Her Bone-Thin Figure, Gives No F*cks</news:title>
-      <news:keywords>Comeback, Awards, K-Pop, Body Image, Beauty Standards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-korean-actor-shows-off-his-impressive-muscles/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T16:43:08.000Z</news:publication_date>
-      <news:title>Top Korean Actor Shows Off His Impressive Muscles</news:title>
-      <news:keywords>K-Drama, Nam Joo Hyuk, Korean Actor, Fitness, Physical Transformation</news:keywords>
     </news:news>
   </url>
 </urlset>
