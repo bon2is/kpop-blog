@@ -69,11 +69,17 @@ This is a **Next.js 14 site using ISR / on-demand rendering** deployed on Vercel
 
 `scripts/lib/social-url.ts` manages a YAML tracker file to prevent duplicate social posts. Each platform records which article slugs have been posted. `post-backlog.ts` posts untracked articles retroactively (Twitter/Bluesky only — Threads is excluded from backlog to avoid duplicates).
 
-### GA4 Hardcoded in `layout.tsx`
+### GA4 Hardcoded in `layout.tsx` and `GoogleAnalytics.tsx`
 
-GA4 ID (`G-YQYVZJ28RZ`) is **hardcoded** directly in `src/app/layout.tsx`, not via `NEXT_PUBLIC_GA_ID`. This is intentional: `NEXT_PUBLIC_*` variables bind at build time, and a missing Vercel env var causes `undefined` to be bundled permanently. For any public tracking IDs (GA, AdSense), hardcode them directly rather than relying on env vars.
+GA4 ID (`G-YQYVZJ28RZ`) is **hardcoded** directly in `src/app/layout.tsx` and `src/components/GoogleAnalytics.tsx`, not via `NEXT_PUBLIC_GA_ID`. This is intentional: `NEXT_PUBLIC_*` variables bind at build time, and a missing Vercel env var causes `undefined` to be bundled permanently. For any public tracking IDs (GA, AdSense), hardcode them directly rather than relying on env vars.
 
 A separate `GoogleAnalytics` client component uses `usePathname()` to fire `gtag('config')` on SPA route changes.
+
+### AdSense Auto Ads Compatibility
+
+`src/app/layout.tsx` loads the AdSense script once in production with id `adsbygoogle-js`. This supports AdSense Auto Ads overlay formats configured in the AdSense console. Manual ad units in `src/components/AdBanner.tsx` still render their `<ins>` tags and call `push({})`; `ensureAdsScript()` checks for the same script id and will not inject a duplicate loader.
+
+Recommended console setup for this codebase: Auto Ads ON, Overlay formats ON, In-page formats OFF. The code already controls in-page/manual placements.
 
 ## Gotchas
 

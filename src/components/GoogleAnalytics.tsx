@@ -3,7 +3,9 @@
 import { useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
+// Keep this in sync with src/app/layout.tsx. Public analytics IDs are intentionally
+// hardcoded in this project so a missing Vercel env var cannot disable tracking.
+const GA_ID = 'G-YQYVZJ28RZ';
 
 declare global {
   interface Window {

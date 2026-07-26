@@ -6,6 +6,10 @@ import ScrollToTop from '@/components/ScrollToTop';
 import { siteConfig } from '@/lib/config';
 import './globals.css';
 
+const IS_PROD = process.env.NODE_ENV === 'production';
+const ADSENSE_CLIENT = 'ca-pub-7999144867236526';
+const GA_ID = 'G-YQYVZJ28RZ';
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
@@ -92,7 +96,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-          <meta name="google-adsense-account" content="ca-pub-7999144867236526" />
+          <meta name="google-adsense-account" content={ADSENSE_CLIENT} />
           {/* AdSense 도메인 사전 연결 — 광고 스크립트/광고 서버 TCP+TLS 핸드셰이크를
               미리 열어 첫 광고 fill 을 앞당긴다(viewability/RPM 개선, LCP 영향 미미). */}
           <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
@@ -107,6 +111,18 @@ export default function RootLayout({
           <meta name="apple-mobile-web-app-title" content="KPOP Daily" />
           <link rel="alternate" type="application/rss+xml" title="KPOP Daily RSS" href="/feed.xml" />
           <link rel="search" type="application/opensearchdescription+xml" title="KPOP Daily Search" href="/opensearch.xml" />
+          {/* Production-only AdSense loader.
+              This single global tag enables AdSense Auto Ads overlay formats when
+              configured in the AdSense console. Manual <ins> units still push from
+              AdBanner.tsx, and ensureAdsScript() detects this id to avoid duplicates. */}
+          {IS_PROD && (
+            <script
+              id="adsbygoogle-js"
+              async
+              crossOrigin="anonymous"
+              src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
+            />
+          )}
           {/* Google Analytics 4 — init script must run before async gtag.js */}
           <script
             // eslint-disable-next-line react/no-danger
@@ -115,13 +131,13 @@ export default function RootLayout({
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
-                gtag('config', 'G-YQYVZJ28RZ');
+                gtag('config', '${GA_ID}');
               `,
             }}
           />
           <script
             async
-            src="https://www.googletagmanager.com/gtag/js?id=G-YQYVZJ28RZ"
+            src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
           />
           {/* Organization structured data */}
           <script
@@ -132,8 +148,9 @@ export default function RootLayout({
         </head>
       <body className="min-h-screen bg-gray-50 flex flex-col">
         <GoogleAnalytics />
-        {/* AdSense 스크립트는 광고 컴포넌트(AdBanner.tsx ensureAdsScript)가 lazy 로 자체 주입한다.
-            광고 없는 페이지(/privacy, /terms, /about 등)의 LCP 보호용. */}
+        {/* AdSense 스크립트는 production head 에서 1회 로드한다.
+            Auto Ads overlay formats 활성화용이며, 광고 컴포넌트의 ensureAdsScript()는
+            같은 id를 감지해 중복 삽입하지 않는다. */}
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
