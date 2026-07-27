@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-27T13:31:16.900Z",
+  "lastUpdated": "2026-07-27T16:18:18.033Z",
   "events": [
     {
-      "id": "soompi-11-2026-07-27",
-      "date": "2026-07-27",
+      "id": "soompi-0-2026-07-28",
+      "date": "2026-07-28",
       "type": "concert",
       "artist": "IVE",
-      "title": "SUPER JUNIOR&#8217;s Yesung Announces Stops For 10th Anniversary Tour &#8220;ABOUT THE THINGS WE CALLED ORDINARY&#8221;",
+      "title": "VERIVERY Announces Schedule For &#8220;GIVE ME FIVE, KEEP THAT VIBE&#8221; Tour",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary"
+        "official": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour"
       }
     },
     {
@@ -325,6 +325,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-08-27",
+      "date": "2026-08-27",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
