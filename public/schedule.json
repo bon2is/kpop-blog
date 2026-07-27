@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-07-27T04:30:53.630Z",
+  "lastUpdated": "2026-07-27T08:23:16.824Z",
   "events": [
+    {
+      "id": "soompi-4-2026-07-27",
+      "date": "2026-07-27",
+      "type": "concert",
+      "artist": "IVE",
+      "title": "SUPER JUNIOR&#8217;s Yesung Announces Stops For 10th Anniversary Tour &#8220;ABOUT THE THINGS WE CALLED ORDINARY&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-07-29",
       "date": "2026-07-29",

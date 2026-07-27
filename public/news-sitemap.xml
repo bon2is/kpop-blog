@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/red-velvets-wendy-reveals-reason-for-sudden-dramatic-weight-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T07:47:30.000Z</news:publication_date>
+      <news:title>Red Velvet’s Wendy Reveals Reason For Sudden Dramatic Weight Loss</news:title>
+      <news:keywords>Red Velvet, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-male-idols-touchy-photos-with-fan-hit-with-scathing-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T06:54:58.000Z</news:publication_date>
+      <news:title>Popular Male Idol’s “Touchy” Photos With Fan Hit With Scathing Criticism</news:title>
+      <news:keywords>Awards, K-Pop, Fan Culture, Idol Boundary, Social Media</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/alpha-drive-ones-agency-releases-statement-on-sanghyeons-hea/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T05:36:05.000Z</news:publication_date>
+      <news:title>ALPHA DRIVE ONE’s Agency Releases Statement On Sanghyeon’s Health</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-idol-allegedly-brings-girlfriend-to-concert-sparks-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T05:11:13.000Z</news:publication_date>
+      <news:title>Popular Idol Allegedly Brings Girlfriend To Concert, Sparks Major Backlash</news:title>
+      <news:keywords>Comeback, Concert, Charts, K-Pop, Backlash</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kang-hoon-exudes-completely-different-vibes-inside-and-outsi/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +83,18 @@
       <news:publication_date>2026-07-27T02:19:43.000Z</news:publication_date>
       <news:title>3rd Gen Idol’s Cozy Interaction With Older Male Star Sparks Dating Rumors</news:title>
       <news:keywords>Comeback, Awards, K-Pop, Dating Rumors, 3rd Generation Idol</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/babymonster-unveils-teaser-for-moon-mv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T15:35:34.000Z</news:publication_date>
+      <news:title>BABYMONSTER Unveils Teaser For “MOON” MV</news:title>
+      <news:keywords>BLACKPINK, BIGBANG, BABYMONSTER, Debut, Charts</news:keywords>
     </news:news>
   </url>
   <url>
@@ -95,18 +155,6 @@
       <news:publication_date>2026-07-25T08:54:11.000Z</news:publication_date>
       <news:title>Beloved Star Opens Up On Her Journey In Overcoming Missed Miscarriage</news:title>
       <news:keywords>Debut, Awards, Charts, K-Drama, Korean Star</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/korean-singer-who-worked-with-numerous-idols-sparks-heartbre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T05:21:51.000Z</news:publication_date>
-      <news:title>Korean Singer Who Worked With Numerous Idols Sparks Heartbreak With Why He Suddenly Disappeared</news:title>
-      <news:keywords>Charts, K-Pop, Mental Health, Korean Singer, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
