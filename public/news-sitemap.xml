@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-female-idols-relationship-with-chatgpt-post-sparks-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T11:31:18.000Z</news:publication_date>
+      <news:title>Popular Female Idol’s “Relationship With ChatGPT” Post Sparks Shock</news:title>
+      <news:keywords>Charts, K-Pop, ChatGPT, Mental Health, Technology</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/female-idol-kissing-underage-member-on-lips-sparks-major-dis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T10:55:12.000Z</news:publication_date>
+      <news:title>Female Idol Kissing Underage Member On Lips Sparks Major Disgust</news:title>
+      <news:keywords>K-Pop, Idol, Scandal, Consent, Exploitation</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/photos-from-newjeans-haerins-alleged-cosmetic-procedure-expo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T09:00:17.000Z</news:publication_date>
+      <news:title>Photos From NewJeans Haerin’s Alleged Cosmetic Procedure “Exposes” A-List Celebrities Who Had Treatment</news:title>
+      <news:keywords>NewJeans, Tour, Haerin, Cosmetic Procedure, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-karinas-waterbomb-body-proportions-after-weight-gain-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T08:25:30.000Z</news:publication_date>
+      <news:title>aespa Karina’s “WATERBOMB” Body Proportions After “Weight Gain” Sparks Major Reactions</news:title>
+      <news:keywords>aespa, Debut, Charts, Karina, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/red-velvets-wendy-reveals-reason-for-sudden-dramatic-weight-/</loc>
     <news:news>
       <news:publication>
@@ -143,18 +191,6 @@
       <news:publication_date>2026-07-25T14:43:53.000Z</news:publication_date>
       <news:title>Girl Group Idol Exudes Innocent Beauty In Latest Update</news:title>
       <news:keywords>BTS, BLACKPINK, TWICE, Red Velvet, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/beloved-star-opens-up-on-her-journey-in-overcoming-missed-mi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T08:54:11.000Z</news:publication_date>
-      <news:title>Beloved Star Opens Up On Her Journey In Overcoming Missed Miscarriage</news:title>
-      <news:keywords>Debut, Awards, Charts, K-Drama, Korean Star</news:keywords>
     </news:news>
   </url>
 </urlset>
