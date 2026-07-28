@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-v-scouting-hybes-next-girl-group-idol-on-instagram/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T09:01:07.000Z</news:publication_date>
+      <news:title>BTS’s V Scouting HYBE’s Next Girl Group Idol On Instagram</news:title>
+      <news:keywords>BTS, BLACKPINK, (G)I-DLE, Charts, V</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkooks-public-shoutout-immediately-reaches-film-direc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T08:57:07.000Z</news:publication_date>
+      <news:title>BTS Jungkook’s Public Shoutout Immediately Reaches Film Director</news:title>
+      <news:keywords>BTS, Debut, Charts, MV, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ador-slapped-with-criminal-action-for-alleged-mistreatment-o/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T08:52:47.000Z</news:publication_date>
+      <news:title>ADOR Slapped With Criminal Action For Alleged Mistreatment Of NewJeans Hanni</news:title>
+      <news:keywords>NewJeans, Awards, Charts, ADOR, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jeon-do-yeon-sul-kyung-gu-zo-in-sung-and-cho-yeo-jeongs-new-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T07:56:07.000Z</news:publication_date>
+      <news:title>Jeon Do Yeon, Sul Kyung Gu, Zo In Sung, And Cho Yeo Jeong’s New Film “Possible Love” Announces Premiere Date With Intriguing Poster</news:title>
+      <news:keywords>Awards, K-Drama, Jeon Do Yeon, Sul Kyung Gu, Zo In Sung</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/3rd-gen-girl-group-idol-seemingly-supports-accusations-again/</loc>
     <news:news>
       <news:publication>
@@ -215,18 +263,6 @@
       <news:publication_date>2026-07-26T15:35:34.000Z</news:publication_date>
       <news:title>BABYMONSTER Unveils Teaser For “MOON” MV</news:title>
       <news:keywords>BLACKPINK, BIGBANG, BABYMONSTER, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvet-wendys-real-appearance-sparks-massive-shock-and-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T10:41:45.000Z</news:publication_date>
-      <news:title>Red Velvet Wendy’s “Real” Appearance Sparks Massive Shock And Concern </news:title>
-      <news:keywords>BTS, BLACKPINK, Red Velvet, Charts, Wendy</news:keywords>
     </news:news>
   </url>
 </urlset>
