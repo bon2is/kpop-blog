@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/3rd-gen-girl-group-idol-seemingly-supports-accusations-again/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T02:19:35.000Z</news:publication_date>
+      <news:title>3rd-Gen Girl Group Idol Seemingly Supports Accusations Against KATSEYE</news:title>
+      <news:keywords>Debut, Charts, K-Pop, 3rd-Gen Girl Group, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/zerobaseones-kim-ji-woong-to-partially-sit-out-group-activit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T01:53:56.000Z</news:publication_date>
+      <news:title>ZEROBASEONE’s Kim Ji Woong To Partially Sit Out Group Activities Due To Scheduling Conflicts</news:title>
+      <news:keywords>ZEROBASEONE, Charts, Kim Ji Woong, K-Pop, Acting Career</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/2ne1s-sandara-park-opens-up-on-her-struggles-while-living-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T16:32:08.000Z</news:publication_date>
+      <news:title>2NE1’s Sandara Park Opens Up On Her Struggles While Living In The Philippines</news:title>
+      <news:keywords>2NE1, Sandara Park, K-Pop, Comeback, Inspiration</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-female-idols-relationship-with-chatgpt-post-sparks-s/</loc>
     <news:news>
       <news:publication>
@@ -26,6 +62,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/new-to-the-rose-here-are-five-reasons-rosetopia-is-worth-you/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T09:20:47.000Z</news:publication_date>
+      <news:title>New to The Rose? Here are Five Reasons ROSETOPIA is Worth Your Time</news:title>
+      <news:keywords>Charts, MV, The Rose, ROSETOPIA, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/photos-from-newjeans-haerins-alleged-cosmetic-procedure-expo/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +83,18 @@
       <news:publication_date>2026-07-27T09:00:17.000Z</news:publication_date>
       <news:title>Photos From NewJeans Haerin’s Alleged Cosmetic Procedure “Exposes” A-List Celebrities Who Had Treatment</news:title>
       <news:keywords>NewJeans, Tour, Haerin, Cosmetic Procedure, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ateezs-seonghwa-talks-about-constantly-reinventing-himself-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T08:49:54.000Z</news:publication_date>
+      <news:title>ATEEZ’s Seonghwa Talks About Constantly Reinventing Himself, Building His Own Identity, And More</news:title>
+      <news:keywords>ATEEZ, Debut, Charts, Seonghwa, K-Pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -155,30 +215,6 @@
       <news:publication_date>2026-07-26T10:41:45.000Z</news:publication_date>
       <news:title>Red Velvet Wendy’s “Real” Appearance Sparks Massive Shock And Concern </news:title>
       <news:keywords>BTS, BLACKPINK, Red Velvet, Charts, Wendy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/winners-of-the-km-chart-awards-kma-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T03:05:20.000Z</news:publication_date>
-      <news:title>Winners Of The KM Chart Awards (KMA) 2026</news:title>
-      <news:keywords>BTS, TXT, MAMAMOO, ZEROBASEONE, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/sm-entertainment-idol-speaks-out-on-fighting-with-a-fellow-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T02:34:58.000Z</news:publication_date>
-      <news:title>SM Entertainment Idol Speaks Out On Fighting With A Fellow Member While Others Gathered Excitedly To Watch</news:title>
-      <news:keywords>EXO, Red Velvet, Girls Generation, Super Junior, SHINee</news:keywords>
     </news:news>
   </url>
 </urlset>
