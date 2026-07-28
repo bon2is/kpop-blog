@@ -1,17 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T12:28:36.082Z",
+  "lastUpdated": "2026-07-28T16:05:53.555Z",
   "events": [
-    {
-      "id": "soompi-19-2026-07-28",
-      "date": "2026-07-28",
-      "type": "concert",
-      "artist": "IVE",
-      "title": "VERIVERY Announces Schedule For &#8220;GIVE ME FIVE, KEEP THAT VIBE&#8221; Tour",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-07-29",
       "date": "2026-07-29",
@@ -340,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-08-28",
+      "date": "2026-08-28",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
       }
     }
   ]

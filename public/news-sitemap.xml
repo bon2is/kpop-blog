@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/payola-hybe-groups-recent-achievement-sparks-backlash-linked/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T10:05:21.000Z</news:publication_date>
+      <news:title>“Payola” HYBE Group’s Recent Achievement Sparks Backlash Linked To BTS</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, HYBE Group</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-v-scouting-hybes-next-girl-group-idol-on-instagram/</loc>
     <news:news>
       <news:publication>
@@ -251,18 +263,6 @@
       <news:publication_date>2026-07-27T02:19:43.000Z</news:publication_date>
       <news:title>3rd Gen Idol’s Cozy Interaction With Older Male Star Sparks Dating Rumors</news:title>
       <news:keywords>Comeback, Awards, K-Pop, Dating Rumors, 3rd Generation Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonster-unveils-teaser-for-moon-mv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T15:35:34.000Z</news:publication_date>
-      <news:title>BABYMONSTER Unveils Teaser For “MOON” MV</news:title>
-      <news:keywords>BLACKPINK, BIGBANG, BABYMONSTER, Debut, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>

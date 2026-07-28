@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:28:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:05:55 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>“Payola” HYBE Group’s Recent Achievement Sparks Backlash Linked To BTS</title>
+      <link>https://kpop.andxo.com/article/payola-hybe-groups-recent-achievement-sparks-backlash-linked/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/payola-hybe-groups-recent-achievement-sparks-backlash-linked/</guid>
+      <description>HYBE Group sparks backlash over recent achievement</description>
+      <pubDate>Tue, 28 Jul 2026 10:05:21 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <category>HYBE Group</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/payola-hybe-groups-recent-achievement-sparks-backlash-linked.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/payola-hybe-groups-recent-achievement-sparks-backlash-linked.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/payola-hybe-groups-recent-achievement-sparks-backlash-linked.webp" />
+    </item>
     <item>
       <title>BTS’s V Scouting HYBE’s Next Girl Group Idol On Instagram</title>
       <link>https://kpop.andxo.com/article/btss-v-scouting-hybes-next-girl-group-idol-on-instagram/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-txts-yeonjun-takes-2nd-win-for-ice-cream-on-music-core.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-txts-yeonjun-takes-2nd-win-for-ice-cream-on-music-core.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-txts-yeonjun-takes-2nd-win-for-ice-cream-on-music-core.webp" />
-    </item>
-    <item>
-      <title>BLACKPINK Jennie’s Shocking Photo With Mystery Man Sparks Major Speculations</title>
-      <link>https://kpop.andxo.com/article/blackpink-jennies-shocking-photo-with-mystery-man-sparks-maj/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpink-jennies-shocking-photo-with-mystery-man-sparks-maj/</guid>
-      <description>BLACKPINK&apos;s Jennie sparks speculation with a mysterious photo</description>
-      <pubDate>Sat, 18 Jul 2026 17:40:53 GMT</pubDate>
-      <category>tour</category>
-      <category>BLACKPINK</category>
-      <category>Debut</category>
-      <category>Charts</category>
-      <category>Jennie</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-jennies-shocking-photo-with-mystery-man-sparks-maj.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-jennies-shocking-photo-with-mystery-man-sparks-maj.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-jennies-shocking-photo-with-mystery-man-sparks-maj.webp" />
     </item>
   </channel>
 </rss>
