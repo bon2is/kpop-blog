@@ -22,9 +22,8 @@ function requestCountry(request: NextRequest): string {
 
 export function middleware(request: NextRequest) {
   const host = request.headers.get('host') ?? '';
-  const cfRay = request.headers.get('cf-ray');
 
-  if (host.includes('vercel.app') || !cfRay) {
+  if (host.includes('vercel.app')) {
     return new NextResponse('Forbidden', {
       status: 403,
       headers: {
