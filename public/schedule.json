@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-29T07:39:07.643Z",
+  "lastUpdated": "2026-07-29T12:52:59.791Z",
   "events": [
     {
       "id": "soompi-1-2026-07-29",
+      "date": "2026-07-29",
+      "type": "concert",
+      "artist": "fromis_9",
+      "title": "fromis_9 Announces 2026 Asia Tour “TOMORROW GLOW.”",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow"
+      }
+    },
+    {
+      "id": "soompi-8-2026-07-29",
       "date": "2026-07-29",
       "type": "other",
       "artist": "BTS",

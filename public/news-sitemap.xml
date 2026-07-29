@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hybe-dethroned-by-rival-company-as-highest-earner-in-south-k/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T12:41:38.000Z</news:publication_date>
+      <news:title>HYBE Dethroned By Rival Company As Highest Earner In South Korea</news:title>
+      <news:keywords>BTS, EXO, Red Velvet, aespa, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/fromis_9-announces-2026-asia-tour-tomorrow-glow/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T11:32:15.000Z</news:publication_date>
+      <news:title>fromis_9 Announces 2026 Asia Tour “TOMORROW GLOW.”</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Concert, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/shes-on-vacation-katseyes-sophia-blasted-after-cancelling-sc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T11:03:43.000Z</news:publication_date>
+      <news:title>“She’s On Vacation…”  — KATSEYE’s Sophia Blasted After Cancelling Schedule Citing Illness</news:title>
+      <news:keywords>Awards, Charts, KATSEYE, Sophia, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-announces-decision-to-forgo-grammy-submission/</loc>
     <news:news>
       <news:publication>
@@ -215,102 +251,6 @@
       <news:publication_date>2026-07-27T16:32:08.000Z</news:publication_date>
       <news:title>2NE1’s Sandara Park Opens Up On Her Struggles While Living In The Philippines</news:title>
       <news:keywords>2NE1, Sandara Park, K-Pop, Comeback, Inspiration</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-female-idols-relationship-with-chatgpt-post-sparks-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T11:31:18.000Z</news:publication_date>
-      <news:title>Popular Female Idol’s “Relationship With ChatGPT” Post Sparks Shock</news:title>
-      <news:keywords>Charts, K-Pop, ChatGPT, Mental Health, Technology</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-idol-kissing-underage-member-on-lips-sparks-major-dis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T10:55:12.000Z</news:publication_date>
-      <news:title>Female Idol Kissing Underage Member On Lips Sparks Major Disgust</news:title>
-      <news:keywords>K-Pop, Idol, Scandal, Consent, Exploitation</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jung-hae-in-and-ha-young-navigate-romance-mystery-and-mayhem/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T09:24:32.000Z</news:publication_date>
-      <news:title>Jung Hae In and Ha Young Navigate Romance, Mystery, and Mayhem in Our Sticky Love</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Charts, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/new-to-the-rose-here-are-five-reasons-rosetopia-is-worth-you/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T09:20:47.000Z</news:publication_date>
-      <news:title>New to The Rose? Here are Five Reasons ROSETOPIA is Worth Your Time</news:title>
-      <news:keywords>Charts, MV, The Rose, ROSETOPIA, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/photos-from-newjeans-haerins-alleged-cosmetic-procedure-expo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T09:00:17.000Z</news:publication_date>
-      <news:title>Photos From NewJeans Haerin’s Alleged Cosmetic Procedure “Exposes” A-List Celebrities Who Had Treatment</news:title>
-      <news:keywords>NewJeans, Tour, Haerin, Cosmetic Procedure, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ateezs-seonghwa-talks-about-constantly-reinventing-himself-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T08:49:54.000Z</news:publication_date>
-      <news:title>ATEEZ’s Seonghwa Talks About Constantly Reinventing Himself, Building His Own Identity, And More</news:title>
-      <news:keywords>ATEEZ, Debut, Charts, Seonghwa, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-karinas-waterbomb-body-proportions-after-weight-gain-s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T08:25:30.000Z</news:publication_date>
-      <news:title>aespa Karina’s “WATERBOMB” Body Proportions After “Weight Gain” Sparks Major Reactions</news:title>
-      <news:keywords>aespa, Debut, Charts, Karina, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvets-wendy-reveals-reason-for-sudden-dramatic-weight-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T07:47:30.000Z</news:publication_date>
-      <news:title>Red Velvet’s Wendy Reveals Reason For Sudden Dramatic Weight Loss</news:title>
-      <news:keywords>Red Velvet, Comeback, Debut, Concert, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
