@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-07-29T03:58:16.825Z",
+  "lastUpdated": "2026-07-29T07:39:07.643Z",
   "events": [
+    {
+      "id": "soompi-1-2026-07-29",
+      "date": "2026-07-29",
+      "type": "other",
+      "artist": "BTS",
+      "title": "BTS Announces Decision To Forgo Grammy Submission",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1858323wpp/bts-announces-decision-to-forgo-grammy-submission"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-07-29",
       "date": "2026-07-29",

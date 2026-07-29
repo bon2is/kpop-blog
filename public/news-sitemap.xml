@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-announces-decision-to-forgo-grammy-submission/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T06:39:26.000Z</news:publication_date>
+      <news:title>BTS Announces Decision To Forgo Grammy Submission</news:title>
+      <news:keywords>BTS, Awards, Charts, Album, Grammy Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-idol-fans-flood-another-idols-account-with-malicious-co/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T04:52:33.000Z</news:publication_date>
+      <news:title>HYBE Idol Fans Flood Another Idol’s Account With Malicious Comments</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, K-Pop, HYBE</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/legendary-idol-confesses-to-secretly-divorcing-his-wife-year/</loc>
     <news:news>
       <news:publication>
@@ -26,6 +50,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/fujoshi-queen-viral-k-pop-star-draws-gay-fan-art-along-with-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T21:57:44.000Z</news:publication_date>
+      <news:title>“Fujoshi Queen” — Viral K-Pop Star Draws Gay Fan Art Along With Her Idol Career</news:title>
+      <news:keywords>BTS, BLACKPINK, Charts, K-Pop, Fujoshi Queen</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ives-jang-wonyoung-captivates-with-her-flawless-figure/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +83,18 @@
       <news:publication_date>2026-07-28T13:41:49.000Z</news:publication_date>
       <news:title>NiziU’s Rio Announces Temporary Hiatus Ahead Of Korean Comeback</news:title>
       <news:keywords>ITZY, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-idntt-takes-3rd-win-for-kids-return-on-the-show/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T12:26:41.000Z</news:publication_date>
+      <news:title>Watch: idntt Takes 3rd Win For “Kids Return” On “The Show”</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, MV</news:keywords>
     </news:news>
   </url>
   <url>
@@ -95,6 +143,18 @@
       <news:publication_date>2026-07-28T08:52:47.000Z</news:publication_date>
       <news:title>ADOR Slapped With Criminal Action For Alleged Mistreatment Of NewJeans Hanni</news:title>
       <news:keywords>NewJeans, Awards, Charts, ADOR, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5-perfect-bls-to-watch-if-youre-missing-love-class-3/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T08:50:54.000Z</news:publication_date>
+      <news:title>5 Perfect BLs To Watch If You’re Missing “Love Class 3”</news:title>
+      <news:keywords>BTS, BLACKPINK, Charts, K-Drama, K-pop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -251,54 +311,6 @@
       <news:publication_date>2026-07-27T07:47:30.000Z</news:publication_date>
       <news:title>Red Velvet’s Wendy Reveals Reason For Sudden Dramatic Weight Loss</news:title>
       <news:keywords>Red Velvet, Comeback, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-male-idols-touchy-photos-with-fan-hit-with-scathing-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T06:54:58.000Z</news:publication_date>
-      <news:title>Popular Male Idol’s “Touchy” Photos With Fan Hit With Scathing Criticism</news:title>
-      <news:keywords>Awards, K-Pop, Fan Culture, Idol Boundary, Social Media</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/alpha-drive-ones-agency-releases-statement-on-sanghyeons-hea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T05:36:05.000Z</news:publication_date>
-      <news:title>ALPHA DRIVE ONE’s Agency Releases Statement On Sanghyeon’s Health</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idol-allegedly-brings-girlfriend-to-concert-sparks-m/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T05:11:13.000Z</news:publication_date>
-      <news:title>Popular Idol Allegedly Brings Girlfriend To Concert, Sparks Major Backlash</news:title>
-      <news:keywords>Comeback, Concert, Charts, K-Pop, Backlash</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kang-hoon-exudes-completely-different-vibes-inside-and-outsi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T04:17:50.000Z</news:publication_date>
-      <news:title>Kang Hoon Exudes Completely Different Vibes Inside And Outside Of The Office In New Drama “My Bias, My Boss”</news:title>
-      <news:keywords>K-Drama, Kang Hoon, My Bias My Boss, Romance, Webtoon</news:keywords>
     </news:news>
   </url>
 </urlset>
