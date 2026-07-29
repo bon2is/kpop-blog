@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 12:53:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:49:16 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>The K-Pop Groups That Really Make The Most Money For HYBE, SM, JYP, And YG… Exposed </title>
+      <link>https://kpop.andxo.com/article/the-k-pop-groups-that-really-make-the-most-money-for-hybe-sm/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/the-k-pop-groups-that-really-make-the-most-money-for-hybe-sm/</guid>
+      <description>BTS and BLACKPINK top HYBE and YG&apos;s money-making groups</description>
+      <pubDate>Wed, 29 Jul 2026 13:30:47 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>TWICE</category>
+      <category>EXO</category>
+      <category>Red Velvet</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-k-pop-groups-that-really-make-the-most-money-for-hybe-sm.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-k-pop-groups-that-really-make-the-most-money-for-hybe-sm.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/the-k-pop-groups-that-really-make-the-most-money-for-hybe-sm.webp" />
+    </item>
     <item>
       <title>HYBE Dethroned By Rival Company As Highest Earner In South Korea</title>
       <link>https://kpop.andxo.com/article/hybe-dethroned-by-rival-company-as-highest-earner-in-south-k/</link>
@@ -1697,23 +1714,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/big-3-girl-group-shocks-with-comeback-teasers-after-2-year-h.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/big-3-girl-group-shocks-with-comeback-teasers-after-2-year-h.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/big-3-girl-group-shocks-with-comeback-teasers-after-2-year-h.webp" />
-    </item>
-    <item>
-      <title>HYBE’s New Girl Group Suffers Backlash Before Even Debuting</title>
-      <link>https://kpop.andxo.com/article/hybes-new-girl-group-suffers-backlash-before-even-debuting/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/hybes-new-girl-group-suffers-backlash-before-even-debuting/</guid>
-      <description>HYBE&apos;s new girl group faces backlash before debut.</description>
-      <pubDate>Mon, 20 Jul 2026 09:13:24 GMT</pubDate>
-      <category>audition</category>
-      <category>BTS</category>
-      <category>BLACKPINK</category>
-      <category>SEVENTEEN</category>
-      <category>ITZY</category>
-      <category>(G)I-DLE</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybes-new-girl-group-suffers-backlash-before-even-debuting.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybes-new-girl-group-suffers-backlash-before-even-debuting.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybes-new-girl-group-suffers-backlash-before-even-debuting.webp" />
     </item>
   </channel>
 </rss>

@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/the-k-pop-groups-that-really-make-the-most-money-for-hybe-sm/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T13:30:47.000Z</news:publication_date>
+      <news:title>The K-Pop Groups That Really Make The Most Money For HYBE, SM, JYP, And YG… Exposed </news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, EXO, Red Velvet</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-dethroned-by-rival-company-as-highest-earner-in-south-k/</loc>
     <news:news>
       <news:publication>
