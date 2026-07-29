@@ -1730,5 +1730,20 @@
       "destination": "/article/zerobaseones-seok-matthew-and-park-gun-wook-sign-with-wakeon",
       "permanent": true
     }
+  ],
+  "headers": [
+    {
+      "source": "/api/syndication-kpop-2026",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/rss+xml; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, s-maxage=3600, stale-while-revalidate=600"
+        }
+      ]
+    }
   ]
 }

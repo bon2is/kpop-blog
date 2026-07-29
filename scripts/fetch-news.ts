@@ -1556,7 +1556,7 @@ async function generateSafeContent(
   try {
     const prompt = `You are a K-Pop journalist writing full-length articles for kpop.andxo.com, an English K-Pop news blog.
 
-Write a DETAILED, INFORMATIVE article (700-1000 words) about this news story.
+Write a DETAILED, INFORMATIVE article (800-1200 words) about this news story.
 Use "\\n\\n" to separate paragraphs. Use "## Heading" for section headers.
 
 HIGH-VALUE SEARCH ANGLE (only where factually relevant — NEVER invent details):
@@ -1580,7 +1580,9 @@ body: The full article in markdown format. Structure it as follows:
   ## Why This Matters\\n\\n
   [Significance for the artist, the K-Pop industry, and fans. Industry context and comparisons. Career impact. 2-3 paragraphs.]\\n\\n
   ## What Fans Can Expect\\n\\n
-  [What fans are excited about, upcoming releases or events, what to look forward to. 1-2 paragraphs.]
+  [What fans are excited about, upcoming releases or events, what to look forward to. 1-2 paragraphs.]\\n\\n
+  ## 💭 Editor's Take\\n\\n
+  [Write 1-2 paragraphs of opinionated, enthusiastic commentary about this story. Share your personal perspective as a K-Pop fan and journalist. Be genuine, passionate, and insightful. Start with "💭 Editor's Take:" — this is YOUR original analysis that adds unique value. Express excitement, concern, speculation, or appreciation. Make the reader feel like they're talking to a friend who deeply understands K-Pop.]
 
 tags: Array of 3-5 keyword tags. Include artist/group names (e.g., "BTS", "BLACKPINK") and topic keywords (e.g., "Comeback", "Concert", "Album", "Charts", "Awards", "K-Drama").
 
@@ -1588,7 +1590,7 @@ Original Title: ${title}
 Source Content: ${content.slice(0, 800)}
 Source: ${source}
 
-IMPORTANT: Write each section thoroughly. Target 700-1000 words total in the body field. Use "\\n\\n" between ALL paragraphs.`;
+IMPORTANT: Write each section thoroughly. Target 800-1200 words total in the body field. Use "\\n\\n" between ALL paragraphs.`;
 
     let response;
     for (let attempt = 0; attempt < 3; attempt++) {

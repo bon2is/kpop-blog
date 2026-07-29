@@ -23,7 +23,7 @@ import TableOfContents from '@/components/TableOfContents';
 import ArticleNavigation from '@/components/ArticleNavigation';
 import CoupangBanner from '@/components/CoupangBanner';
 import AmazonBanner from '@/components/AmazonBanner';
-import DisqusComments from '@/components/DisqusComments';
+import Comments from '@/components/Comments';
 
 interface ArticlePageProps {
   params: { slug: string };
@@ -416,8 +416,8 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       {/* 글로벌 방문자용 제휴 배너 (Amazon). NEXT_PUBLIC_AMAZON_ASSOC_TAG 설정 시 활성화. */}
       <AmazonBanner tags={article.tags} />
 
-      {/* Disqus Comments */}
-      <DisqusComments
+      {/* Supabase Comments */}
+      <Comments
         slug={article.slug}
         title={article.title}
         url={`${siteConfig.url}/article/${article.slug}`}

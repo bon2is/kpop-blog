@@ -21,6 +21,19 @@ function requestCountry(request: NextRequest): string {
 }
 
 export function middleware(request: NextRequest) {
+  const host = request.headers.get('host') ?? '';
+  const cfRay = request.headers.get('cf-ray');
+
+  if (host.includes('vercel.app') || !cfRay) {
+    return new NextResponse('Forbidden', {
+      status: 403,
+      headers: {
+        'content-type': 'text/plain; charset=utf-8',
+        'cache-control': 'no-store',
+      },
+    });
+  }
+
   const country = requestCountry(request);
   const blocked = blockedCountries();
 
@@ -46,6 +59,6 @@ export function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    '/((?!_next/static|_next/image|favicon.ico|robots.txt|sitemap.xml|feed.xml|news-sitemap.xml|ads.txt|opensearch.xml|manifest.webmanifest|images/|data/).*)',
+    '/((?!_next/static|_next/image|favicon.ico).*)',
   ],
 };
