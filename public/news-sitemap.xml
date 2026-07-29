@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/legendary-idol-confesses-to-secretly-divorcing-his-wife-year/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T02:28:32.000Z</news:publication_date>
+      <news:title>Legendary Idol Confesses To Secretly Divorcing His Wife Years Ago</news:title>
+      <news:keywords>BTS, BLACKPINK, Charts, Album, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-k-pop-idol-addresses-dating-rumors-but-new-evidence-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T00:34:26.000Z</news:publication_date>
+      <news:title>Popular K-Pop Idol Addresses Dating Rumors But New Evidence Surfaces, Sparking Outrage</news:title>
+      <news:keywords>Debut, Concert, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-jang-wonyoung-captivates-with-her-flawless-figure/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T16:25:58.000Z</news:publication_date>
+      <news:title>IVE’s Jang Wonyoung Captivates With Her Flawless Figure</news:title>
+      <news:keywords>IVE, Comeback, Awards, Charts, Jang Wonyoung</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/nizius-rio-announces-temporary-hiatus-ahead-of-korean-comeba/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T13:41:49.000Z</news:publication_date>
+      <news:title>NiziU’s Rio Announces Temporary Hiatus Ahead Of Korean Comeback</news:title>
+      <news:keywords>ITZY, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/payola-hybe-groups-recent-achievement-sparks-backlash-linked/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +95,18 @@
       <news:publication_date>2026-07-28T08:52:47.000Z</news:publication_date>
       <news:title>ADOR Slapped With Criminal Action For Alleged Mistreatment Of NewJeans Hanni</news:title>
       <news:keywords>NewJeans, Awards, Charts, ADOR, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-rose-playlist-12-songs-to-experience-before-rosetopia-as/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T08:31:37.000Z</news:publication_date>
+      <news:title>THE ROSE Playlist: 12 Songs to Experience Before “ROSETOPIA ASIA TOUR 2026 IN MANILA”</news:title>
+      <news:keywords>Debut, Charts, Album, Tour, The Rose</news:keywords>
     </news:news>
   </url>
   <url>
@@ -239,30 +299,6 @@
       <news:publication_date>2026-07-27T04:17:50.000Z</news:publication_date>
       <news:title>Kang Hoon Exudes Completely Different Vibes Inside And Outside Of The Office In New Drama “My Bias, My Boss”</news:title>
       <news:keywords>K-Drama, Kang Hoon, My Bias My Boss, Romance, Webtoon</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-jang-wonyoung-serves-body-tea-in-new-york/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T03:30:53.000Z</news:publication_date>
-      <news:title>IVE’s Jang Wonyoung Serves “Body Tea” In New York</news:title>
-      <news:keywords>IVE, Comeback, Debut, Charts, Jang Wonyoung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/3rd-gen-idols-cozy-interaction-with-older-male-star-sparks-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T02:19:43.000Z</news:publication_date>
-      <news:title>3rd Gen Idol’s Cozy Interaction With Older Male Star Sparks Dating Rumors</news:title>
-      <news:keywords>Comeback, Awards, K-Pop, Dating Rumors, 3rd Generation Idol</news:keywords>
     </news:news>
   </url>
 </urlset>
