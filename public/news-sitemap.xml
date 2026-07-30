@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/grammy-ceos-response-to-btss-decision-sparks-more-fury/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T02:36:36.000Z</news:publication_date>
+      <news:title>Grammy CEO’s Response To BTS’s Decision Sparks More Fury</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Grammy Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-kim-hye-joon-is-a-successful-fan-who-faces-an-impossib/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T18:27:23.000Z</news:publication_date>
+      <news:title>Watch: Kim Hye Joon Is A Successful Fan Who Faces An Impossible Choice In “My Bias, My Boss” Highlight Trailer</news:title>
+      <news:keywords>K-Drama, Kim Hye Joon, My Bias My Boss, tvN, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ives-ahn-yujin-turns-the-us-upside-down-with-her-beauty/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T16:37:22.000Z</news:publication_date>
+      <news:title>IVE’s Ahn Yujin Turns The US Upside Down With Her Beauty</news:title>
+      <news:keywords>BTS, BLACKPINK, IVE, Comeback, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseyes-sophia-to-sit-out-hinterland-music-festival-due-to-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T16:36:33.000Z</news:publication_date>
+      <news:title>KATSEYE’s Sophia To Sit Out Hinterland Music Festival Due To Illness</news:title>
+      <news:keywords>Debut, Charts, KATSEYE, Hinterland Music Festival, Sophia</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/the-k-pop-groups-that-really-make-the-most-money-for-hybe-sm/</loc>
     <news:news>
       <news:publication>
@@ -227,42 +275,6 @@
       <news:publication_date>2026-07-28T07:56:07.000Z</news:publication_date>
       <news:title>Jeon Do Yeon, Sul Kyung Gu, Zo In Sung, And Cho Yeo Jeong’s New Film “Possible Love” Announces Premiere Date With Intriguing Poster</news:title>
       <news:keywords>Awards, K-Drama, Jeon Do Yeon, Sul Kyung Gu, Zo In Sung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/3rd-gen-girl-group-idol-seemingly-supports-accusations-again/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T02:19:35.000Z</news:publication_date>
-      <news:title>3rd-Gen Girl Group Idol Seemingly Supports Accusations Against KATSEYE</news:title>
-      <news:keywords>Debut, Charts, K-Pop, 3rd-Gen Girl Group, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/zerobaseones-kim-ji-woong-to-partially-sit-out-group-activit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T01:53:56.000Z</news:publication_date>
-      <news:title>ZEROBASEONE’s Kim Ji Woong To Partially Sit Out Group Activities Due To Scheduling Conflicts</news:title>
-      <news:keywords>ZEROBASEONE, Charts, Kim Ji Woong, K-Pop, Acting Career</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/2ne1s-sandara-park-opens-up-on-her-struggles-while-living-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T16:32:08.000Z</news:publication_date>
-      <news:title>2NE1’s Sandara Park Opens Up On Her Struggles While Living In The Philippines</news:title>
-      <news:keywords>2NE1, Sandara Park, K-Pop, Comeback, Inspiration</news:keywords>
     </news:news>
   </url>
 </urlset>
