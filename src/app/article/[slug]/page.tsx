@@ -119,18 +119,26 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
   // JSON-LD structured data for Google rich snippets & News
   // Safe: all values come from server-side frontmatter, not user input
+  // R2 thumbnails are already absolute URLs — avoid double-prefixing with siteConfig.url
   const articleImageUrl = article.thumbnail
-    ? `${siteConfig.url}${article.thumbnail}`
+    ? (article.thumbnail.startsWith('http') ? article.thumbnail : `${siteConfig.url}${article.thumbnail}`)
     : `${siteConfig.url}/og-image.png`;
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
     headline: article.title,
     description: article.excerpt,
-    image: [articleImageUrl],
+    image: [{
+      '@type': 'ImageObject',
+      url: articleImageUrl,
+      width: 1200,
+      height: 630,
+    }],
     datePublished: article.publishedAt,
-    dateModified: article.updatedAt,
-    author: { '@type': 'Organization', name: article.author, url: siteConfig.url },
+    dateModified: article.updatedAt ?? article.publishedAt,
+    inLanguage: 'en-US',
+    isAccessibleForFree: true,
+    author: { '@type': 'Organization', name: siteConfig.name, url: siteConfig.url },
     publisher: {
       '@type': 'Organization',
       name: siteConfig.name,
