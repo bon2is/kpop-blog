@@ -14,6 +14,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/bts-grammy-battle-celebrities-who-stands-with-bts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T12:00:00.000Z</news:publication_date>
+      <news:title>Grammys vs. BTS: Which Celebrities Are Standing With BTS — and Who&apos;s Defending the Academy</news:title>
+      <news:keywords>BTS, Grammy, Boycott, Tablo, EpikHigh, ARMY, AsianPop, HYBE, MikeWiLLMadeIt</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/israeli-flag-viral-clip-of-bts-leads-to-intense-criticism-to/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +59,18 @@
       <news:publication_date>2026-07-30T09:30:07.000Z</news:publication_date>
       <news:title>BLACKPINK’s Jisoo Hit With Brutal Criticism After Teasers For Upcoming Appearance</news:title>
       <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-grammy-boycott-2027-army-reacts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T09:00:00.000Z</news:publication_date>
+      <news:title>BTS Declares Grammy Boycott: ARMY Around the World Unites</news:title>
+      <news:keywords>BTS, Grammy, Boycott, ARMY, HYBE, AsianPop, kpop</news:keywords>
     </news:news>
   </url>
   <url>
@@ -275,30 +299,6 @@
       <news:publication_date>2026-07-28T16:25:58.000Z</news:publication_date>
       <news:title>IVE’s Jang Wonyoung Captivates With Her Flawless Figure</news:title>
       <news:keywords>IVE, Comeback, Awards, Charts, Jang Wonyoung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nizius-rio-announces-temporary-hiatus-ahead-of-korean-comeba/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T13:41:49.000Z</news:publication_date>
-      <news:title>NiziU’s Rio Announces Temporary Hiatus Ahead Of Korean Comeback</news:title>
-      <news:keywords>ITZY, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-idntt-takes-3rd-win-for-kids-return-on-the-show/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T12:26:41.000Z</news:publication_date>
-      <news:title>Watch: idntt Takes 3rd Win For “Kids Return” On “The Show”</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, MV</news:keywords>
     </news:news>
   </url>
 </urlset>
