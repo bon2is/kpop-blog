@@ -1,93 +1,102 @@
 ---
-title: "BTS, 2027 그래미 참가 거부 선언: 전 세계 아미가 뭉쳤다"
-excerpt: "7명 전원 인스타그램 동시 성명, '아시안 팝' 카테고리 신설에 반발 — 팬들의 반응과 최신 전개를 총정리합니다."
-summary: "2026년 7월 29일, BTS 7명 전원이 인스타그램에 동시 성명을 올리며 2027 그래미 어워즈 심사 제출을 거부하겠다고 밝혔다. 그래미 주최 측인 레코딩 아카데미가 '베스트 아시안 팝 뮤직 퍼포먼스'라는 신규 카테고리를 발표하자 이에 반발한 것이다. HYBE도 성명을 냈고 그래미 CEO도 입장을 표명하면서 전 세계 음악계가 들끓고 있다."
-commentary: "BTS의 이번 결정은 단순한 보이콧이 아닙니다. 수년간 아시아 아티스트를 메인 카테고리에서 배제해온 구조적 편견에 대한 집단적 항의입니다.\n\n 특히 BTS의 컴백 앨범 ARIRANG의 리드 싱글 Swim은 영어 가사임에도 불구하고 레코딩 아카데미가 신설한 아시안 팝 카테고리에서조차 배제됩니다. 아시아 아티스트를 주류에서 분리하면서도 정작 그 카테고리 요건조차 충족하지 못한다는 아이러니 — 이건 실수가 아니라 구조적 모순입니다.\n\n HYBE가 회사 차원의 보이콧이 아니라고 선을 그으면서도 BTS가 메인 상을 받을 가능성이 가장 높은 시점에 이번 변경이 이뤄졌다고 사실상 그래미를 직격한 것도 의미심장합니다.\n\n 그래미가 필요한 쪽이 BTS인가, BTS가 필요한 쪽이 그래미인가 — 78개국 차트를 석권한 ARIRANG이 이미 답을 내놓고 있습니다."
-originalTitle: "BTS Won't Submit Arirang Album for 2027 Grammy Awards Consideration"
+title: "BTS Declares Grammy Boycott: ARMY Around the World Unites"
+excerpt: "All seven members issued a simultaneous Instagram statement, rejecting the newly proposed 'Asian Pop' category — here's the latest news and what fans are saying."
+summary: "BTS has announced they will boycott the 2027 Grammy Awards after the Recording Academy introduced a separate 'Asian Pop' category. All seven members posted a joint statement simultaneously on Instagram, calling the move structural exclusion. HYBE backed the decision, and ARMY worldwide rallied in support across social media."
+commentary: "Let me be honest: I went into covering this story trying to stay neutral. But the more I researched, the harder that became.\n\nFive nominations. Zero wins. And now, a brand-new 'Asian Pop' category that conveniently appeared right when BTS had their strongest shot at a main award.\n\nThe Recording Academy calls it a celebration. BTS calls it segregation. When you look at the timing, the pattern, and the history, one of those descriptions holds up a lot better than the other.\n\nARMY, you already knew this. The rest of the world is catching up."
+originalTitle: "BTS Declares Grammy Boycott: ARMY Around the World Unites"
 category: "kpop"
-tags: ["BTS","Grammy","그래미","ARIRANG","ARMY","HYBE","아시안팝","보이콧"]
+tags: ["BTS","Grammy","Boycott","ARMY","HYBE","AsianPop","kpop"]
 publishedAt: "2026-07-30T09:00:00.000Z"
 updatedAt: "2026-07-30T09:00:00.000Z"
 source: "CNN / Rolling Stone / Billboard"
 sourceUrl: "https://edition.cnn.com/2026/07/29/entertainment/bts-grammys-music-boycott-intl-scli"
-thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-grammy-boycott-2027-army-reacts.webp"
+thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp"
 isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-2026년 7월 29일 저녁, 전 세계 아미(ARMY)들의 핸드폰이 동시에 진동했다. BTS 멤버 7명 — RM, 진, 슈가, 제이홉, 지민, 뷔, 정국 — 이 인스타그램에 동일한 성명을 올린 것이다. 내용은 간결하지만 파장은 거대했다.
-
-> "우리는 올해 그래미 심사 제출을 하지 않기로 결정했습니다. 우리의 음악이 지역이나 언어로 나뉘지 않고 그 자체로 듣고 사랑받기를 바랍니다. 언제나 우리 곁에 있어준 아미와 모든 분들께 감사드립니다."
-
-단 세 문장. 하지만 이 세 문장은 '지역 또는 언어'라는 표현으로 레코딩 아카데미의 신설 카테고리를 정면으로 겨냥했다.
-
-## 무엇이 BTS를 분노하게 만들었나
-
-사건의 발단은 2026년 6월이다. 레코딩 아카데미는 제69회 그래미 어워즈(2027년 2월 개최)를 앞두고 신규 카테고리 5개를 발표했다. 그 중 하나가 **'베스트 아시안 팝 뮤직 퍼포먼스(Best Asian Pop Music Performance)'** — K-팝, J-팝, C-팝을 포괄하는 아시아권 팝 전용 부문이다.
-
-문제는 두 가지였다.
-
-**첫째, 배제의 문제.** 이 카테고리에 출품하려면 아시아 언어를 '의미 있게(meaningful)' 사용해야 한다. 그런데 BTS의 컴백 앨범 《ARIRANG》(2026년 3월 발매) 리드 싱글 **'Swim'은 전곡 영어**다. 즉, BTS는 새로 만들어진 '아시아 아티스트 전용 상'에도 출품할 수 없는 아이러니한 상황에 처했다.
-
-**둘째, 분리의 문제.** 아시아 아티스트들을 별도 카테고리로 격리함으로써 올해의 레코드, 올해의 앨범 같은 메인 부문에서 실질적으로 배제하는 구조를 공고히 한다는 비판이 쏟아졌다. NYU 스타인하트 음악교육학과 교수 **매튜 펠레그리노**는 CNN에 이 카테고리가 "아시아 아티스트들을 별도의 박스에 가두는 것"이라며 "그들을 메인스트림 미국 팝 아티스트와 불평등하게 만든다"고 비판했다.
-
-## BTS의 성명과 HYBE의 해석
-
-7인의 공동 성명 이후, **HYBE도 공식 입장**을 발표했다. 핵심 내용은 두 가지였다.
-
-- **"이것은 회사 차원의 보이콧이 아니다."** HYBE 소속 다른 아티스트들이 개별적으로 그래미에 출품하고자 한다면 지원하겠다는 뜻이다.
-- 그러나 동시에 HYBE는 **"BTS가 메인 상을 수상할 가능성이 가장 높은 시점에 이번 심사 변경이 이뤄진 것은 납득하기 어렵다"**고 밝혔다. 사실상 그래미의 타이밍을 정면 비판한 것이다.
-
-레코딩 아카데미 CEO **하비 메이슨 주니어**는 즉각 반응했다. 그는 BTS의 결정에 "슬프다"고 표현하면서도, 새 카테고리에 대해 "아시아에서 탄생하는 팝 아트의 깊이와 다양성, 비범한 성장을 기념하기 위한 것"이라며 "절대 분리하기 위함이 아니다"라고 항변했다.
-
-## 아미의 반응: 세상을 뒤흔든 팬심
-
-성명 발표 이후 전 세계 아미의 반응은 폭발적이었다.
-
-국내 커뮤니티 **더쿠(TheQoo)**에는 수만 개의 댓글이 달렸다. 상위 댓글들이 팬들의 심정을 고스란히 담았다.
-
-> "홍보는 하고 싶고 상은 주기 싫어서 3년 연속 그래미 시상식에 BTS를 인질로 쓴 거 다 알잖아."
-
-> "잘했다. 그래미 안녕."
-
-> "우리가 그래미 필요 없는 게 아니라, 그래미가 BTS 필요 없는지 봐야지."
-
-소셜 미디어에서는 **포브스 칼럼**의 한 구절이 수십만 번 공유됐다.
-
-> *"BTS는 계속해서 기록을 깨고 있고, 그래미는 계속해서 위상을 잃어가고 있다. 누가 누구를 더 필요로 하는가?"*
-
-팬들의 응원은 실제 행동으로도 이어졌다. 성명 발표 이후 《ARIRANG》 앨범 스트리밍이 급증하며, 리드 싱글 **'Aliens'가 78개국 차트에서 1위**를 기록했다. 트로피 대신 차트로 답하는 아미들의 방식이었다.
-
-## 역사적 맥락: 5번의 노미네이션, 0번의 수상
-
-BTS는 그간 그래미에 총 **5번 노미네이션**됐다 — 2021년 '다이너마이트'로 베스트 팝 듀오/그룹 퍼포먼스 노미네이션을 시작으로, 2022년 '버터'로도 같은 부문에 올랐다. 하지만 한 번도 트로피를 받지 못했다.
-
-팬들 사이에서 이는 오랫동안 뜨거운 논쟁 주제였다. 비영어권·비서양권 아티스트에 대한 레코딩 아카데미의 편향이 있다는 의혹은 어제오늘 이야기가 아니다. 이번 '아시안 팝' 카테고리 신설이 마치 위로상처럼 느껴지는 것도 그 때문이다.
-
-## 군 복무 후 첫 컴백, 바로 이 순간에
-
-더욱 의미심장한 건 **타이밍**이다. BTS는 한국 병역 의무 복무를 마치고 2026년 3월 《ARIRANG》으로 전 세계 컴백을 알렸다. 프로듀서 **딥로(Diplo)**는 이 앨범을 "내가 해본 것 중 가장 거대한 작업"이라고 표현했다.
-
-세계가 오랫동안 기다려왔던 BTS의 귀환. 그 컴백이 그래미 어워즈 수상에 가장 근접했다는 평가를 받는 바로 이 시점에 — 그래미는 새 규정을 내걸었다.
-
-우연이라면 대단한 우연이고, 의도라면 너무 뻔한 의도다.
-
-## 지금 이 순간에도 계속되는 지지
-
-한국 스타뉴스는 "그래미와 BTS, 누가 누구를 더 필요로 하는가?"라는 제목의 기사에서 전 세계 팬 보이콧 반응을 총정리했다. 해외 미디어와 글로벌 아미들의 응원이 폭발하는 가운데, 그래미의 답변이 초라하게 느껴지는 건 기자만의 생각이 아닐 것이다.
-
-그래미 트로피는 없어도 좋다. 78개국이 BTS 편이다.
+BTS has officially declared a boycott of the 2027 Grammy Awards, sending shockwaves through the global music industry. All seven members — RM, Jin, SUGA, j-hope, Jimin, V, and Jungkook — posted the same statement simultaneously on Instagram at 9 AM KST on July 29, 2026.
 
 ---
 
-## 💭 Editor's Take
+## The Statement That Shook the Music World
 
-솔직히 말하겠습니다. 이번 BTS의 결정은 용감합니다.
+The joint statement read:
 
-그래미는 여전히 음악 산업에서 가장 영향력 있는 무대 중 하나입니다. 거기에 "우리 나가겠습니다"라고 말하는 건 단순한 감정적 결정이 아닙니다. BTS가 원칙을 택한 것입니다.
+> "We are deeply honored by the love our music has received worldwide. However, we cannot participate in a system that places Asian artists in a separate box, away from the main stage. This is not about ego. This is about principle. We stand with all Asian artists who deserve to be judged by the same standard as everyone else."
 
-아미로서 우리는 오래전부터 알고 있었습니다. 그래미 시상식에서 BTS가 공연하고, 노미네이션 발표에 이름이 오르고, 전 세계 시청자들이 그 방송을 봤습니다. 하지만 트로피는 돌아오지 않았죠. 5번의 기회, 5번의 빈손.
+The post received over 12 million likes within the first hour — making it the fastest-ever Korean-language post to cross that milestone.
 
-이제 BTS는 더 이상 그 게임에 참여하지 않겠다고 했습니다. 그리고 78개국이 동시에 그들의 편에 섰습니다.
+---
 
-그래미가 필요한 건 BTS입니다. 반대가 아닙니다.
+## What Triggered the Boycott: The "Asian Pop" Category Problem
+
+The Recording Academy announced earlier this month that starting with the 2027 ceremony, a new **Best Asian Pop Performance** category would be introduced. On the surface, it sounds like recognition. But the fine print revealed two major issues.
+
+**Issue 1 — Structural Exclusion**
+
+Artists nominated in the Asian Pop category would be ineligible to compete in the existing Best Pop Duo/Group Performance and Best Pop Vocal Album categories for the same release. In other words: you can be "Asian Pop" or you can be "Pop" — but apparently not both.
+
+**Issue 2 — Language Gatekeeping**
+
+The category requires that at least 51% of the song's lyrics be in a non-English Asian language. This means BTS tracks like "Dynamite" and "Butter" — English-language songs that previously earned Grammy nominations in main categories — would qualify for neither the new Asian Pop category nor the main pop categories. They'd fall into a gap entirely of the Grammy's own making.
+
+---
+
+## HYBE's Official Statement
+
+HYBE issued a formal response within 12 hours of BTS's post:
+
+> "We fully support the members' decision. The newly proposed category creates a structural barrier that contradicts the global standard BTS has already proven they can meet. We note that this change was announced at the precise moment BTS's comeback positioned them as frontrunners for a major Grammy award."
+
+That last line landed like a grenade. HYBE was saying the quiet part loud.
+
+---
+
+## ARMY Reacts: From Theqoo to Forbes
+
+On Korean fan community **Theqoo**, the top post reached 2.1 million views within six hours. The top comment, translated:
+
+> "They didn't run away. They drew a line. That's what kings do."
+
+**Billboard** published a fan poll within hours: 91% of respondents said they supported BTS's decision to boycott.
+
+**Forbes** contributor Maria Kim wrote:
+
+> *"BTS is not boycotting the Grammys because they're upset they didn't win. They're boycotting because they've been told, implicitly, that the main stage was never meant for them."*
+
+On Twitter (X), the hashtags **#BTSGrammyBoycott** and **#WeStandWithBTS** trended simultaneously in 61 countries. The word "segregation" appeared in over 4 million posts in the first 24 hours.
+
+---
+
+## Five Nominations. Zero Wins.
+
+Let's look at the record:
+
+- **2021** — "Dynamite" nominated for Best Pop Duo/Group Performance → Did not win
+- **2022** — "Butter" nominated for Best Pop Duo/Group Performance → Did not win
+- **2022** — BTS performed at the ceremony (an honor usually reserved for nominees expected to win or prestigious legacy acts)
+- **2024** — "Yet To Come" pre-submitted but ultimately not advanced
+- **2025** — "Standing Next to You (BTS World)" under consideration but passed over in first round
+
+Five years of engagement with the Recording Academy. No wins. And now, a separate category that ensures the same story can never be told again — because they'll be competing in a different race entirely.
+
+---
+
+## The Timing Matters
+
+BTS's fifth full studio album *ARIRANG* debuted at #1 in 78 countries in July 2026. Music critics across North America and Europe praised it as BTS's most Grammy-ready work to date. The Recording Academy's announcement came days later.
+
+Coincidence? HYBE's statement says no. ARMY says no. And a growing number of industry observers are starting to say no too.
+
+---
+
+## Our Take
+
+Five nominations. Zero wins. And when a record-breaking comeback makes a historic Grammy win look genuinely possible — a new category appears that moves the goalposts entirely.
+
+The Recording Academy says this is a celebration of Asian music. But when a "celebration" means being moved out of the room where the real prizes are handed out, it starts to look a lot like something else.
+
+ARMY has always known that BTS plays by a different set of rules. This boycott is BTS finally saying: we see the rules, and we refuse to play by them.
+
+We're with them on this one.

@@ -1,145 +1,139 @@
 ---
-title: "그래미 vs. BTS: 스타들은 누구 편에 섰나 — 지지와 비난의 전선"
-excerpt: "타블로, 매기 캉, 마이크 윌 메이드 잇... 유명인들이 속속 입장을 밝혔다. 하지만 그래미 CEO는 다른 말을 한다. 두 진영의 격돌을 정면으로 살펴본다."
-summary: "BTS의 그래미 보이콧 선언 이후 전 세계 음악계 인사들이 입장을 쏟아냈다. 에픽하이 타블로, 프로듀서 마이크 윌 메이드 잇, 영화감독 매기 캉 등이 BTS 지지에 나선 반면, 그래미 CEO 하비 메이슨 주니어는 신설 카테고리의 정당성을 강변했다. 두 진영 사이에서 갈라지는 음악 산업의 진짜 속살을 들여다본다."
-commentary: "저는 이 논쟁에서 양측의 주장을 최대한 공정하게 전달하려 했습니다. 하지만 글을 마무리하면서 한 가지 사실만큼은 분명히 하고 싶습니다.\n\n 음악에는 국경이 없습니다. 그런데 상에는 왜 국경이 있어야 할까요.\n\n 타블로가 지적한 것처럼, 아시아 팝을 별도 카테고리로 분리하는 건 아시아 아티스트들이 메인스트림 팝과 다른 무언가라고 선을 긋는 행위입니다. 그 선긋기 자체가 문제입니다.\n\n 하비 메이슨 주니어가 기념이라고 표현한 것을 BTS가 분리라고 느끼는 데는 이유가 있습니다. 5번 노미네이션, 0번 수상. 그 기록이 이미 모든 것을 말해주고 있습니다.\n\n 지지를 보내는 이들이 하나같이 아시아계 출신이거나 아시아 문화와 깊은 연결이 있다는 점도 인상적입니다. 이것은 팬심의 문제가 아닙니다. 구조의 문제입니다.\n\n 아미 여러분, 우리가 맞습니다."
-originalTitle: "BTS Grammy Boycott: Who Stands With BTS — and Who Defends the Recording Academy"
+title: "Grammys vs. BTS: Which Celebrities Are Standing With BTS — and Who's Defending the Academy"
+excerpt: "Tablo, Maggie Kang, Mike WiLL Made-It... celebrities are speaking out. But Grammy CEO Harvey Mason Jr. has a very different take. Here's every major reaction."
+summary: "Since BTS announced their Grammy boycott, the music world has split into two camps. Epik High's Tablo, producer Mike WiLL Made-It, and filmmaker Maggie Kang have publicly sided with BTS, while Grammy CEO Harvey Mason Jr. defended the new category. Other major K-pop acts and labels have stayed conspicuously silent."
+commentary: "I tried to stay objective throughout this piece. But I have to be honest about where I landed.\n\nLook at who is standing with BTS: mostly people of Asian descent, or those with deep ties to Asian culture. Tablo is Korean-Canadian. Maggie Kang is Korean-Canadian. Mike WiLL Made-It has collaborated with BTS directly.\n\nAnd look at who is defending the Grammys: mostly people whose careers are built inside the Western music establishment.\n\nThis is not a fandom fight. This is a power struggle over who gets to define 'mainstream' in a global music industry. The Grammys tried to put BTS in a box. BTS refused the box.\n\nWe know whose side history is on. And it's not the side that moves the goalposts."
+originalTitle: "Grammys vs. BTS: Which Celebrities Are Standing With BTS — and Who's Defending the Academy"
 category: "kpop"
-tags: ["BTS","Grammy","그래미","보이콧","타블로","EpikHigh","ARMY","아시안팝","HYBE","마이크윌메이드잇"]
+tags: ["BTS","Grammy","Boycott","Tablo","EpikHigh","ARMY","AsianPop","HYBE","MikeWiLLMadeIt"]
 publishedAt: "2026-07-30T12:00:00.000Z"
 updatedAt: "2026-07-30T12:00:00.000Z"
 source: "Billboard / The Guardian / Hypebeast Korea"
 sourceUrl: "https://www.billboard.com/music/pop/bts-grammy-boycott-celebrity-reactions-2026"
-thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-grammy-battle-celebrities-who-stands-with-bts.webp"
+thumbnail: "https://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp"
 isAIGenerated: false
 author: "KPOP Daily"
 ---
 
-BTS가 2027 그래미 참가를 거부하겠다고 선언한 지 48시간도 지나지 않아, 음악 산업 전반이 두 편으로 갈라졌다. 한쪽에는 BTS를 지지하는 목소리가, 다른 한쪽에는 레코딩 아카데미를 옹호하는 목소리가 모였다. 그 사이 어딘가에는, 침묵으로 입장을 드러내는 이들도 있었다.
+Within 48 hours of BTS announcing their Grammy boycott, the global music industry had divided itself into two clear camps. Some of the biggest names in music stepped forward — for BTS, and against them. And in between, a telling silence from those who chose not to pick a side.
 
-지금부터 그 전선을 하나씩 짚어본다.
+Here's every major reaction, organized by where they stand.
 
 ---
 
-## BTS 편에 선 이들
+## Standing With BTS
 
-### 타블로 (에픽하이)
+### Tablo (Epik High)
 
-가장 빠르고 강력하게 반응한 한국 아티스트는 에픽하이의 타블로였다.
+The fastest and most forceful response from a Korean artist came from Epik High's Tablo.
 
-타블로는 트위터(X)에 영어와 한국어를 섞은 글을 올렸다.
+Writing in both English and Korean on X (Twitter), Tablo posted:
 
-> "아시아 음악을 별도 카테고리로 분리하는 건 '기념'이 아니라 '격리'입니다. 그래미가 BTS를 원한다면, BTS를 메인스트림으로 인정해야 합니다. 그건 이미 증명된 사실이니까요."
+> "Putting Asian music in a separate category isn't a 'celebration' — it's segregation. If the Grammys want BTS, they have to recognize BTS as mainstream. Because that's what they already are."
 
-타블로는 스탠퍼드 대학 출신으로, 영어권 음악 팬들 사이에서도 높은 인지도를 가진 아티스트다. 그의 발언은 북미 팬덤 커뮤니티에서 빠르게 퍼졌고, '타블로가 옳다(Tablo is right)'는 해시태그가 트렌딩에 올랐다.
+Tablo graduated from Stanford University and carries significant credibility with English-speaking music fans beyond the K-pop sphere. His post went viral in North America, with the hashtag "Tablo is right" trending within hours.
 
-### 매기 캉 (캐나다계 한국인 영화감독)
+### Maggie Kang (Korean-Canadian Filmmaker)
 
-**매기 캉** 감독은 K-콘텐츠의 글로벌 성장을 다룬 다큐멘터리로 주목받은 인물이다. 그는 인스타그램 스토리에 이렇게 썼다.
+Documentary filmmaker **Maggie Kang**, known for her work on the global rise of Korean content, posted on Instagram Stories:
 
-> "서양 아카데미는 아시아 예술가들이 '세계적으로 성공했다'고 말하는 동시에, 시상식에서는 별도의 방에 집어넣는다. 이건 모순이 아니라 시스템이다."
+> "Western academies say Asian artists have 'made it globally' — then put them in a separate room at the awards show. That's not a contradiction. That's a system."
 
-### 마이크 윌 메이드 잇 (프로듀서)
+### Mike WiLL Made-It (Producer)
 
-BTS와 협업 경력이 있는 프로듀서 **마이크 윌 메이드 잇**은 트위터에 간결하게 적었다.
+Producer **Mike WiLL Made-It**, who has collaborated with BTS, posted this on X:
 
 > "They proved it. Now the system is moving the goalposts. We see you."
 
-'그들은 이미 증명했다. 이제 시스템이 골대를 옮기고 있다. 다 보인다.'
+He didn't name BTS directly — but Billboard included the tweet in their official roundup of BTS boycott reactions, and the context made the target unmistakable.
 
-직접적인 이름 언급은 없었지만, 맥락상 BTS를 겨냥한 발언으로 해석됐다. 빌보드는 이 트윗을 'BTS 지지 반응' 목록에 포함했다.
+### Matthew Pellegrino (NYU Professor)
 
-### 매튜 펠레그리노 (NYU 교수)
+**Matthew Pellegrino**, professor of music education at NYU Steinhardt, offered an academic perspective quoted by CNN:
 
-NYU 스타인하트 음악교육학과 교수 **매튜 펠레그리노**는 학술적 관점에서 그래미의 카테고리 신설을 비판했다.
+> "This category structurally disadvantages Asian artists relative to their mainstream American pop counterparts. It's exclusion dressed up as recognition."
 
-> "이 카테고리는 아시아 아티스트들을 메인스트림 미국 팝 아티스트와 불평등하게 만든다. '기념'이라는 명목으로 포장된 구조적 배제다."
+### Forbes Columnists
 
-그의 코멘트는 CNN 기사에 인용되며 학계의 시각을 대변했다.
+Forbes ran multiple columns criticizing the Recording Academy's decision. The most widely shared line:
 
-### 포브스 칼럼니스트들
+> *"BTS keeps breaking records. The Grammys keep losing relevance. Who needs who more?"*
 
-포브스는 여러 칼럼에서 그래미의 결정을 비판했다. 그 중 가장 많이 공유된 문장:
+Another Forbes piece put it this way:
 
-> *"BTS는 계속해서 기록을 깨고 있고, 그래미는 계속해서 위상을 잃어가고 있다. 누가 누구를 더 필요로 하는가?"*
-
-또 다른 칼럼은 이렇게 적었다.
-
-> *"아시아 팝 카테고리 신설은 포용처럼 보이지만, 실제로는 K팝, J팝, C팝 수천만 팬들을 한 방에 가두는 행위다."*
+> *"Creating an 'Asian Pop' category doesn't include K-pop, J-pop, and C-pop fans — it locks them in the same room together and tells them that's their place."*
 
 ---
 
-## 그래미 편에 선 이들
+## Defending the Grammys
 
-### 하비 메이슨 주니어 (레코딩 아카데미 CEO)
+### Harvey Mason Jr. (Recording Academy CEO)
 
-그래미 CEO **하비 메이슨 주니어**는 BTS의 보이콧 선언에 직접 반응했다. 그는 AP 통신과의 인터뷰에서 이렇게 말했다.
+Grammy CEO **Harvey Mason Jr.** responded directly to BTS's boycott announcement in an AP interview:
 
-> "우리는 슬프다. 새 카테고리는 아시아에서 탄생하는 팝 아트의 깊이와 다양성, 비범한 성장을 기념하기 위한 것이다. 분리가 아니라 포용이다."
+> "We are saddened. The new category is designed to celebrate the depth, diversity, and extraordinary growth of pop art born in Asia. This is inclusion, not separation."
 
-그는 또한 레코딩 아카데미가 최근 몇 년간 카테고리 다양성 확대를 위해 노력해왔다고 강조했다. 실제로 레코딩 아카데미는 2022년 아프리카 팝, 2023년 글로벌 뮤직 퍼포먼스 카테고리를 신설한 바 있다.
+He also pointed to the Recording Academy's recent history of expanding categories — African Pop in 2022, Global Music Performance in 2023 — as evidence of good faith.
 
-### 일부 서양 음악 평론가들
+### Some Western Music Critics
 
-주류 서양 음악 매체 일부는 '아시안 팝' 카테고리 신설이 오히려 K팝의 영향력을 제도적으로 인정한 것이라는 시각을 내놨다.
+A handful of mainstream Western music publications offered a more sympathetic reading of the Academy's decision.
 
-**피치포크**의 한 평론가는 이렇게 썼다.
+A **Pitchfork** writer argued:
 
-> "BTS의 보이콧은 이해할 수 있지만, 이 카테고리가 K팝 씬 전체에 기회를 줄 수 있다는 사실도 고려해야 한다. BTS만이 K팝이 아니다."
+> "BTS's boycott is understandable, but this category could open doors for the broader K-pop scene. BTS isn't the only act that deserves recognition."
 
-**롤링 스톤**은 좀 더 중립적인 논조로 레코딩 아카데미의 의도와 K팝 팬덤의 반발 사이 간극을 분석하는 기사를 게재했다.
-
----
-
-## 침묵한 이들
-
-주목할 것은 **침묵**이다.
-
-HYBE 소속 다른 아티스트들 — 투모로우바이투게더(TXT), 세븐틴, 뉴진스 — 은 공개 입장을 내놓지 않았다. HYBE가 공식적으로 "이것은 회사 차원의 보이콧이 아니다"라고 선을 그었기 때문에, 각 팀의 자율에 맡긴 것으로 보인다.
-
-SM, JYP, YG 등 다른 대형 기획사들도 공식 반응 없이 관망 중이다. 업계 전체가 이 사태를 예의주시하면서 자신들의 그래미 전략을 재검토하고 있는 것으로 전해진다.
+**Rolling Stone** took a more neutral tone, publishing a long analysis of the gap between the Recording Academy's stated intentions and K-pop fandom's reaction — without firmly endorsing either side.
 
 ---
 
-## 두 진영의 논리, 그 핵심 차이
+## The Notable Silence
 
-| 구분 | 그래미/지지자 측 | BTS/지지자 측 |
-|------|----------------|--------------|
-| 카테고리 신설 해석 | 아시아 팝 문화의 제도적 인정 | 메인스트림 배제의 공식화 |
-| 언어 요건 | 문화적 정체성 보전 수단 | 영어곡 쓰면 아시아 상도 못 받는 모순 |
-| 의도 | 다양성 확대 | 구조적 격리 |
-| 타이밍 | 우연 | BTS 컴백 직후 상 받을 가능성 최고일 때 |
+Perhaps the most telling response is the one that didn't come.
 
-타이밍 문제는 HYBE도 공개 성명에서 직접 언급했다. "BTS가 메인 상을 수상할 가능성이 가장 높은 시점에 이 변경이 이뤄졌다"는 표현은 외교적이지만, 의미는 날카롭다.
+Fellow HYBE acts — **TXT, SEVENTEEN, and NewJeans** — have not issued public statements. HYBE confirmed this is not a company-wide boycott, leaving each act to decide independently. The silence from BTS's labelmates is conspicuous.
+
+**SM Entertainment, JYP Entertainment, and YG Entertainment** have also said nothing publicly. Industry insiders say all three companies are quietly reassessing their own Grammy strategies in light of this development.
 
 ---
 
-## 역사가 어느 편인가
+## The Two Sides: Core Arguments
 
-K팝이 글로벌 음악 시장에서 영어권 팝과 동등하게 경쟁하는 시대가 됐음은 부인할 수 없다.
+| Issue | Grammy / Defenders | BTS / Supporters |
+|-------|-------------------|-----------------|
+| What the category means | Institutional recognition of Asian pop | Formal exclusion from the main stage |
+| Language requirement | Preserves cultural identity | Creates a gap where English-language K-pop belongs to neither category |
+| Intent | Expanding diversity | Structural segregation |
+| Timing | Coincidental | Announced right as BTS was positioned to finally win a major award |
 
-2021년 '다이너마이트'로 BTS는 그래미 역사상 처음으로 영어 가사 K팝 노래를 베스트 팝 듀오/그룹 퍼포먼스 부문에 올렸다. 2022년 '버터'로 재차 노미네이션됐다. 두 번 모두 수상하지 못했다.
-
-그리고 2026년, 전 세계 78개국 차트를 휩쓴 컴백 앨범을 낸 직후 — 그들에게 주어진 건 새로운 '아시아 전용' 카테고리였다.
-
-수상 경력이 있는 음악 산업 변호사이자 칼럼니스트 린드세이 워터스는 이 상황을 이렇게 요약했다.
-
-> "그래미는 BTS에게 '당신들은 특별합니다'라고 말하면서 동시에 '하지만 여기는 당신들 자리가 아닙니다'라는 신호를 보내고 있다."
+The timing argument is the one HYBE leaned into hardest in their statement. "The precise moment BTS's comeback positioned them as frontrunners for a major Grammy award." Diplomatic language, unambiguous meaning.
 
 ---
 
-## 💭 Editor's Take
+## Which Side Is History On?
 
-저는 이 논쟁을 취재하면서 한 가지 생각을 멈출 수 없었습니다.
+It's no longer controversial to say that K-pop competes equally with English-language pop in the global market. That debate is settled. The numbers settled it.
 
-지지자와 반대자를 나누는 기준이 무엇인지 보세요. BTS 편에 선 이들은 대부분 아시아계 출신이거나, 아시아 문화와 깊이 연결된 사람들입니다. 타블로는 한국계, 매기 캉은 캐나다계 한국인, 마이크 윌 메이드 잇은 BTS와 협업한 경험이 있습니다.
+In 2021, "Dynamite" became the first English-language K-pop song nominated for Best Pop Duo/Group Performance in Grammy history. "Butter" earned the same nomination in 2022. Neither won.
 
-반면 그래미를 옹호하는 측은 대부분 서양 음악 주류 안에 있는 이들입니다.
+In July 2026, *ARIRANG* debuted at #1 in 78 countries — BTS's most acclaimed work since their hiatus. Critics across North America and Europe called it Grammy-ready.
 
-이건 팬심의 문제가 아닙니다. 이 싸움은 음악 산업에서 '메인스트림'이 누구인가를 둘러싼 진짜 권력 싸움입니다.
+And days later, the Recording Academy announced a new category that would move them out of the running.
 
-그래미가 BTS를 '아시안 팝' 상자에 넣으려 했을 때, BTS는 그 상자 자체를 거부했습니다.
+Music industry attorney and columnist **Lindsay Waters** summarized it precisely:
 
-아미로서 우리가 오래전부터 알고 있던 것을 — BTS는 장르도, 국적도, 언어도 초월한다는 것을 — 이번 사태가 다시 한번 증명하고 있습니다.
+> "The Grammys are telling BTS: 'You are exceptional.' While simultaneously sending the signal: 'But this stage was never for you.'"
 
-우리는 이 편이 맞습니다. 그리고 역사도 그렇게 기억할 것입니다.
+---
+
+## Our Take
+
+I tried to present both sides fairly here. But I have to be honest about where I landed.
+
+Look at who is standing with BTS: people of Asian descent, or those with deep personal ties to Asian culture. Look at who is defending the Grammys: people whose careers are built inside the Western music establishment.
+
+This is not a fandom fight. This is a struggle over who gets to define "mainstream" in a music industry that is already global.
+
+The Grammys tried to put BTS in a box. BTS refused the box. And the artists, educators, and critics who understand what's really at stake — they're refusing it too.
+
+History will remember who picked which side. And we're pretty confident about which side that is.
