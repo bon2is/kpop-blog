@@ -71,7 +71,7 @@ export const metadata: Metadata = {
 
 const organizationLd = {
   '@context': 'https://schema.org',
-  '@type': 'Organization',
+  '@type': 'NewsMediaOrganization',
   name: siteConfig.name,
   url: siteConfig.url,
   logo: {
@@ -81,11 +81,32 @@ const organizationLd = {
     height: 630,
   },
   description: siteConfig.description,
+  foundingDate: '2024-01-01',
+  masthead: `${siteConfig.url}/about`,
+  missionCoveragePrioritiesPolicy: `${siteConfig.url}/about`,
   sameAs: [
     'https://twitter.com/kpopdailynews',
     'https://www.threads.net/@kpopdaily',
     'https://bsky.app/profile/kpop.andxo.com',
+    'https://discord.gg/49mJaMvZya',
   ],
+};
+
+const websiteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: siteConfig.name,
+  url: siteConfig.url,
+  description: siteConfig.description,
+  inLanguage: 'en-US',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: `${siteConfig.url}/search?q={search_term_string}`,
+    },
+    'query-input': 'required name=search_term_string',
+  },
 };
 
 export default function RootLayout({
@@ -139,11 +160,11 @@ export default function RootLayout({
             async
             src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
           />
-          {/* Organization structured data */}
+          {/* Organization + WebSite structured data */}
           <script
             type="application/ld+json"
             // eslint-disable-next-line react/no-danger
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationLd) }}
+            dangerouslySetInnerHTML={{ __html: JSON.stringify([organizationLd, websiteLd]) }}
           />
         </head>
       <body className="min-h-screen bg-gray-50 flex flex-col">

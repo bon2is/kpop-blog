@@ -138,8 +138,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
     dateModified: article.updatedAt ?? article.publishedAt,
     inLanguage: 'en-US',
     isAccessibleForFree: true,
-    author: { '@type': 'Organization', name: siteConfig.name, url: siteConfig.url },
-    publisher: {
+    author: {
       '@type': 'Organization',
       name: siteConfig.name,
       url: siteConfig.url,
@@ -149,6 +148,30 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         width: 1200,
         height: 630,
       },
+      sameAs: [
+        'https://twitter.com/kpopdailynews',
+        'https://www.threads.net/@kpopdaily',
+        'https://bsky.app/profile/kpop.andxo.com',
+        'https://discord.gg/49mJaMvZya',
+      ],
+    },
+    publisher: {
+      '@type': 'NewsMediaOrganization',
+      name: siteConfig.name,
+      url: siteConfig.url,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteConfig.url}/og-image.png`,
+        width: 1200,
+        height: 630,
+      },
+      masthead: `${siteConfig.url}/about`,
+      sameAs: [
+        'https://twitter.com/kpopdailynews',
+        'https://www.threads.net/@kpopdaily',
+        'https://bsky.app/profile/kpop.andxo.com',
+        'https://discord.gg/49mJaMvZya',
+      ],
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
