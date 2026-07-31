@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/reality-dating-show-star-exposes-the-unfathomable-dm-she-got/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T15:51:07.000Z</news:publication_date>
+      <news:title>Reality Dating Show Star Exposes The Unfathomable DM She Got</news:title>
+      <news:keywords>K-Pop, Reality TV, Online Harassment, Celebrity Safety, Social Media</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/concert-recap-ikon-reunited-with-ikonics-in-singapore-for-an/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T12:01:45.000Z</news:publication_date>
+      <news:title>[CONCERT RECAP] iKON Reunited With iKONICs In Singapore For An Unforgettable “FOUREVER” Celebration</news:title>
+      <news:keywords>Concert, Charts, Tour, iKON, FOUREVER</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lee-jung-eun-lives-only-for-revenge-after-losing-her-daughte/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T06:40:01.000Z</news:publication_date>
+      <news:title>Lee Jung Eun Lives Only For Revenge After Losing Her Daughter In “The Journey To Gyeongju”</news:title>
+      <news:keywords>Charts, K-Drama, Lee Jung Eun, The Journey to Gyeongju, Korean Film</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/grammy-official-accuses-bts-of-media-play-and-attacking-orga/</loc>
     <news:news>
       <news:publication>
@@ -179,42 +215,6 @@
       <news:publication_date>2026-07-29T18:27:23.000Z</news:publication_date>
       <news:title>Watch: Kim Hye Joon Is A Successful Fan Who Faces An Impossible Choice In “My Bias, My Boss” Highlight Trailer</news:title>
       <news:keywords>K-Drama, Kim Hye Joon, My Bias My Boss, tvN, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-girl-group-addresses-the-viral-binge-eating-incident/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T16:41:01.000Z</news:publication_date>
-      <news:title>K-Pop Girl Group Addresses The Viral Binge Eating Incident</news:title>
-      <news:keywords>K-Pop, Body Image, Eating Disorders, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-ahn-yujin-turns-the-us-upside-down-with-her-beauty/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T16:37:22.000Z</news:publication_date>
-      <news:title>IVE’s Ahn Yujin Turns The US Upside Down With Her Beauty</news:title>
-      <news:keywords>BTS, BLACKPINK, IVE, Comeback, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseyes-sophia-to-sit-out-hinterland-music-festival-due-to-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T16:36:33.000Z</news:publication_date>
-      <news:title>KATSEYE’s Sophia To Sit Out Hinterland Music Festival Due To Illness</news:title>
-      <news:keywords>Debut, Charts, KATSEYE, Hinterland Music Festival, Sophia</news:keywords>
     </news:news>
   </url>
 </urlset>
