@@ -1,32 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T13:28:38.006Z",
+  "lastUpdated": "2026-07-31T16:02:28.581Z",
   "events": [
-    {
-      "id": "soompi-22-2026-07-31",
-      "date": "2026-07-31",
-      "type": "other",
-      "artist": "Watch",
-      "title": "Watch: Ryu Jun Yeol&#8217;s New Drama &#8220;Mousetrap&#8221; Announces Premiere Date With Thrilling Trailer",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1858795wpp/watch-ryu-jun-yeols-new-drama-mousetrap-announces-premiere-date-with-thrilling-trailer"
-      }
-    },
-    {
-      "id": "broadcast-music-bank-2026-07-31",
-      "date": "2026-07-31",
-      "time": "17:10",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Music Bank",
-      "description": "KBS Music Bank weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@KBSKpop",
-        "official": "https://www.kbs.co.kr"
-      }
-    },
     {
       "id": "broadcast-show--music-core-2026-08-01",
       "date": "2026-08-01",
