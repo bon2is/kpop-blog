@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/grammy-official-accuses-bts-of-media-play-and-attacking-orga/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T03:22:31.000Z</news:publication_date>
+      <news:title>Grammy Official Accuses BTS Of Media Play And Attacking Organization In Messy Rant</news:title>
+      <news:keywords>BTS, Concert, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-5-korean-shows-on-viki-in-july-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T01:56:13.000Z</news:publication_date>
+      <news:title>Top 5 Korean Shows On Viki In July 2026</news:title>
+      <news:keywords>Charts, K-Drama, Viki, Streaming, Korean Shows</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ji-sung-makes-a-daring-proposal-to-park-byung-eun-in-the-apa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T01:18:41.000Z</news:publication_date>
+      <news:title>Ji Sung Makes A Daring Proposal To Park Byung Eun In “The Apartment Job”</news:title>
+      <news:keywords>Charts, K-Drama, Ji Sung, Park Byung Eun, The Apartment Job</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/dawn-to-make-comeback-with-first-new-song-in-3-years/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T23:50:55.000Z</news:publication_date>
+      <news:title>DAWN To Make Comeback With First New Song In 3 Years</news:title>
+      <news:keywords>Comeback, Charts, MV, DAWN, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-jennie-takes-1st-win-for-less-than-a-lover-on-m-countd/</loc>
     <news:news>
       <news:publication>
@@ -227,78 +275,6 @@
       <news:publication_date>2026-07-29T06:39:26.000Z</news:publication_date>
       <news:title>BTS Announces Decision To Forgo Grammy Submission</news:title>
       <news:keywords>BTS, Awards, Charts, Album, Grammy Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hybe-idol-fans-flood-another-idols-account-with-malicious-co/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T04:52:33.000Z</news:publication_date>
-      <news:title>HYBE Idol Fans Flood Another Idol’s Account With Malicious Comments</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, K-Pop, HYBE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nam-joo-hyuks-code-turns-every-dream-into-a-dangerous-gamble/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T02:57:36.000Z</news:publication_date>
-      <news:title>Nam Joo Hyuk’s CODE Turns Every Dream Into a Dangerous Gamble</news:title>
-      <news:keywords>K-Drama, Nam Joo Hyuk, CODE, Disney+, Thriller</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/legendary-idol-confesses-to-secretly-divorcing-his-wife-year/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T02:28:32.000Z</news:publication_date>
-      <news:title>Legendary Idol Confesses To Secretly Divorcing His Wife Years Ago</news:title>
-      <news:keywords>BTS, BLACKPINK, Charts, Album, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-k-pop-idol-addresses-dating-rumors-but-new-evidence-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T00:34:26.000Z</news:publication_date>
-      <news:title>Popular K-Pop Idol Addresses Dating Rumors But New Evidence Surfaces, Sparking Outrage</news:title>
-      <news:keywords>Debut, Concert, Awards, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/fujoshi-queen-viral-k-pop-star-draws-gay-fan-art-along-with-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T21:57:44.000Z</news:publication_date>
-      <news:title>“Fujoshi Queen” — Viral K-Pop Star Draws Gay Fan Art Along With Her Idol Career</news:title>
-      <news:keywords>BTS, BLACKPINK, Charts, K-Pop, Fujoshi Queen</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-jang-wonyoung-captivates-with-her-flawless-figure/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T16:25:58.000Z</news:publication_date>
-      <news:title>IVE’s Jang Wonyoung Captivates With Her Flawless Figure</news:title>
-      <news:keywords>IVE, Comeback, Awards, Charts, Jang Wonyoung</news:keywords>
     </news:news>
   </url>
 </urlset>
