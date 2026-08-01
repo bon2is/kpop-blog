@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/korean-actor-signs-with-new-agency-just-two-months-after-sud/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T08:29:09.000Z</news:publication_date>
+      <news:title>Korean Actor Signs With New Agency Just Two Months After Sudden Retirement</news:title>
+      <news:keywords>Comeback, K-Drama, Korean Actor, Live Content Company, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jin-revealed-to-have-raked-in-millions-in-early-2026-wi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T05:42:10.000Z</news:publication_date>
+      <news:title>BTS’s Jin Revealed To Have Raked In Millions In Early 2026 With This One Move</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Jin</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/oh-my-girls-mimi-announces-plans-for-solo-debut/</loc>
     <news:news>
       <news:publication>
@@ -143,90 +167,6 @@
       <news:publication_date>2026-07-30T23:50:55.000Z</news:publication_date>
       <news:title>DAWN To Make Comeback With First New Song In 3 Years</news:title>
       <news:keywords>Comeback, Charts, MV, DAWN, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-jennie-takes-1st-win-for-less-than-a-lover-on-m-countd/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T12:17:07.000Z</news:publication_date>
-      <news:title>Watch: Jennie Takes 1st Win For “Less than a Lover” On “M Countdown”; Performances By KARD, DAY6’s Young K, And More</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-grammy-battle-celebrities-who-stands-with-bts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T12:00:00.000Z</news:publication_date>
-      <news:title>Grammys vs. BTS: Which Celebrities Are Standing With BTS — and Who&apos;s Defending the Academy</news:title>
-      <news:keywords>BTS, Grammy, Boycott, Tablo, EpikHigh, ARMY, AsianPop, HYBE, MikeWiLLMadeIt</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/israeli-flag-viral-clip-of-bts-leads-to-intense-criticism-to/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T11:55:22.000Z</news:publication_date>
-      <news:title>“Israeli Flag!” Viral Clip Of BTS Leads To Intense Criticism Towards Group</news:title>
-      <news:keywords>BTS, Debut, Concert, Awards, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/inkigayo-to-go-off-air-for-2-weeks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T11:04:03.000Z</news:publication_date>
-      <news:title>“Inkigayo” To Go Off Air For 2 Weeks</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Charts, Inkigayo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jisoo-hit-with-brutal-criticism-after-teasers-for/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T09:30:07.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Jisoo Hit With Brutal Criticism After Teasers For Upcoming Appearance</news:title>
-      <news:keywords>BLACKPINK, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-grammy-boycott-2027-army-reacts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T09:00:00.000Z</news:publication_date>
-      <news:title>BTS Declares Grammy Boycott: ARMY Around the World Unites</news:title>
-      <news:keywords>BTS, Grammy, Boycott, ARMY, HYBE, AsianPop, kpop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kang-hoon-and-cha-woo-min-are-high-school-friends-turned-bus/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T07:09:57.000Z</news:publication_date>
-      <news:title>Kang Hoon And Cha Woo Min Are High School Friends Turned Business Partners In “My Bias, My Boss”</news:title>
-      <news:keywords>K-Drama, My Bias, My Boss, Kang Hoon, Cha Woo Min, tvN</news:keywords>
     </news:news>
   </url>
 </urlset>
