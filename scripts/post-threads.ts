@@ -61,6 +61,8 @@ const GROUP_HASHTAGS: Record<string, string> = {
   'red velvet': '#RedVelvet #ReVeluv',
 };
 
+const SEA_HASHTAGS = ['#KPopIndonesia', '#KPopPhilippines', '#KPopFan'];
+
 // Load posted slugs
 function loadPostedSlugs(): Set<string> {
   try {
@@ -187,8 +189,10 @@ function generateHashtags(article: ArticleMetadata): string {
   // Add KPOPDaily branding
   hashtags.add('#KPOPDaily');
 
-  // Limit to 6 hashtags for better readability
-  return Array.from(hashtags).slice(0, 6).join(' ');
+  // Merge SEA regional tags and limit to 8 hashtags total
+  const contentTags = Array.from(hashtags).slice(0, 6);
+  const allTags = Array.from(new Set([...contentTags, ...SEA_HASHTAGS.slice(0, 2)]));
+  return allTags.slice(0, 8).join(' ');
 }
 
 // Category-specific emojis and CTAs for engagement (English for global audience)

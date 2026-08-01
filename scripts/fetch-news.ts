@@ -1567,7 +1567,9 @@ HIGH-VALUE SEARCH ANGLE (only where factually relevant — NEVER invent details)
 
 RESPOND IN JSON with these exact keys:
 
-excerpt: A single compelling sentence (under 160 chars) that summarizes the story and hooks readers.
+title: A Google Discover-optimized headline (55-70 characters). Rules: (1) Put the main artist/group name in the first 5 words OR open with a compelling hook. (2) Use power words when factually accurate: "Breaks Record", "Reveals", "Confirms", "Stuns Fans", "Goes Viral", "Drops Surprise", "Makes History". (3) Never fabricate — only use facts from the source. Examples: "BTS's Jungkook Breaks Spotify Record With Solo Debut", "BLACKPINK Confirms World Tour — Full Schedule", "NewJeans Reveals Comeback Date in Surprise Drop".
+
+excerpt: A compelling 1-sentence hook (under 160 chars) that names the artist and highlights the most exciting element of the story.
 
 summary: A 2-sentence factual summary for social media and meta description. Keep it concise.
 
@@ -2010,7 +2012,7 @@ async function main(): Promise<void> {
       // Create article with new structure
       const article: ProcessedArticle = {
         slug,
-        title: item.title,
+        title: safeContent.title || item.title,
         excerpt: safeContent.excerpt,
         content: safeContent.content,
         summary: safeContent.summary,

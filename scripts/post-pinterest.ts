@@ -39,16 +39,28 @@ interface PostedRecord {
   lastUpdated: string;
 }
 
-// Category-specific Pinterest descriptions for engagement
 const CATEGORY_DESCRIPTIONS: Record<string, string> = {
-  music: '🎵 K-Pop Music News | Latest comebacks, music videos, and chart updates',
-  drama: '🎬 K-Drama News | Latest Korean drama updates and casting news',
-  celebrity: '⭐ K-Pop Celebrity News | Idol updates and entertainment news',
-  news: '🔥 K-Pop News | Latest Korean entertainment updates',
-  audition: '🎤 K-Pop Audition News | New group debuts and trainee updates',
-  fashion: '👗 K-Pop Fashion | Idol style and Korean fashion trends',
-  variety: '🎭 K-Pop Variety | Korean entertainment show highlights',
+  music: '🎵 K-Pop Music Update | Your daily dose of comebacks, MVs, and chart-topping hits from your favorite K-Pop artists.',
+  drama: '🎬 K-Drama Alert | The latest casting news, trailers, and episode updates from Korea\'s hottest dramas.',
+  celebrity: '⭐ K-Pop Idol News | Stay up to date with your favorite idols — schedules, appearances, and exclusive updates.',
+  news: '🔥 K-Pop Breaking News | The K-Pop story everyone is talking about today.',
+  audition: '🎤 K-Pop Debut Buzz | New groups, survival shows, and the next generation of K-Pop stars.',
+  fashion: '👗 K-Pop Style | Iconic looks, runway moments, and trendsetting fashion from K-Pop\'s biggest names.',
+  variety: '🎭 K-Pop Variety Moments | The funniest and most wholesome moments from Korean variety shows.',
 };
+
+const CATEGORY_HASHTAGS: Record<string, string[]> = {
+  music: ['#KPopMusic', '#KPopComeback', '#KPopMV', '#KPopCharts', '#KoreanPop'],
+  drama: ['#KDrama', '#KoreanDrama', '#KDramaRecommendation', '#KDramaAddict'],
+  celebrity: ['#KPopIdol', '#KoreanCelebrity', '#HallyuStar', '#KPopStar'],
+  news: ['#KPopNews', '#KPopUpdate', '#Hallyu', '#KoreanNews'],
+  audition: ['#KPopDebut', '#NewKPopGroup', '#KPopAudition', '#KPopTrainee'],
+  fashion: ['#KPopFashion', '#KoreanFashion', '#KPopStyle', '#KPopOOTD'],
+  variety: ['#KPopVariety', '#KoreanVariety', '#KPopMoments'],
+};
+
+const SEA_HASHTAGS = ['#KPopIndonesia', '#KPopPhilippines', '#KPopThailand', '#KPopFan'];
+const BASE_HASHTAGS = ['#KPOP', '#KPOPDaily', '#KoreanEntertainment', '#KoreanPop', '#Hallyu'];
 
 function loadPostedSlugs(): Set<string> {
   try {
@@ -102,21 +114,28 @@ function getUnpostedArticles(): ArticleMeta[] {
 
 function buildPinDescription(article: ArticleMeta): string {
   const categoryDesc = CATEGORY_DESCRIPTIONS[article.category] || CATEGORY_DESCRIPTIONS['news'];
+  const categoryTags = CATEGORY_HASHTAGS[article.category] || CATEGORY_HASHTAGS['news'];
 
-  // Build hashtags from tags (max 10)
-  const hashtags = article.tags
-    .slice(0, 8)
+  // Article-specific tags (up to 6), normalized to hashtag format
+  const articleTags = article.tags
+    .slice(0, 6)
     .map((t) => `#${t.replace(/\s+/g, '').replace(/[^a-zA-Z0-9]/g, '')}`)
-    .filter((t) => t.length > 1)
-    .join(' ');
+    .filter((t) => t.length > 2);
 
-  const maxExcerptLen = 200;
+  // Combine all hashtags, dedup, join (Pinterest allows ~800 chars total)
+  const allTags = Array.from(new Set([...articleTags, ...categoryTags, ...SEA_HASHTAGS, ...BASE_HASHTAGS]));
+  const hashtags = allTags.join(' ');
+
+  // Pinterest supports up to ~800 chars — expand excerpt from 200 → 350
+  const maxExcerptLen = 350;
   const excerpt =
     article.excerpt.length > maxExcerptLen
       ? article.excerpt.slice(0, maxExcerptLen - 3) + '...'
       : article.excerpt;
 
-  return `${categoryDesc}\n\n${excerpt}\n\n${hashtags}\n\n#KPOPDaily #KPOP #KoreanEntertainment`;
+  const cta = '→ Read the full story at kpop.andxo.com';
+
+  return `${categoryDesc}\n\n${excerpt}\n\n${cta}\n\n${hashtags}`;
 }
 
 async function createPin(article: ArticleMeta): Promise<boolean> {

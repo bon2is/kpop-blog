@@ -78,6 +78,8 @@ const GROUP_HASHTAGS: Record<string, string[]> = {
   'nct wish': ['#NCTWISH'],
 };
 
+const SEA_HASHTAGS = ['#KPopIndonesia', '#KPopPhilippines', '#KPopFan'];
+
 function loadPostedSlugs(): Set<string> {
   try {
     if (fs.existsSync(POSTED_FILE)) {
@@ -146,7 +148,9 @@ function generateHashtags(article: ArticleMetadata): string[] {
     }
   }
 
-  return Array.from(hashtags).slice(0, 5);
+  // 4 content tags + 2 SEA regional tags = 6 total (title auto-adjusts for 300 grapheme limit)
+  const contentTags = Array.from(hashtags).slice(0, 4);
+  return Array.from(new Set([...contentTags, ...SEA_HASHTAGS.slice(0, 2)])).slice(0, 6);
 }
 
 function getRandomCTA(category: string): string {

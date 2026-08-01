@@ -69,6 +69,8 @@ const GROUP_HASHTAGS: Record<string, string[]> = {
   'nct wish': ['#NCTWISH'],
 };
 
+const SEA_HASHTAGS = ['#KPopIndonesia', '#KPopPhilippines', '#KPopFan'];
+
 function loadPostedSlugs(): Set<string> {
   try {
     if (fs.existsSync(POSTED_FILE)) {
@@ -137,8 +139,9 @@ function generateHashtags(article: ArticleMetadata): string[] {
     }
   }
 
-  // Limit to 4 hashtags for Twitter (keep tweets clean)
-  return Array.from(hashtags).slice(0, 4);
+  // 3 content tags + 1 SEA regional tag = 4 total (Twitter limit)
+  const contentTags = Array.from(hashtags).slice(0, 3);
+  return Array.from(new Set([...contentTags, SEA_HASHTAGS[0]])).slice(0, 4);
 }
 
 // Twitter counts URLs as 23 chars. Total limit: 280 chars.
