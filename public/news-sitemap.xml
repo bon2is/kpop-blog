@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/korean-actress-shocks-with-why-she-left-the-entertainment-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T14:50:44.000Z</news:publication_date>
+      <news:title>Korean Actress Shocks With Why She Left The Entertainment Industry</news:title>
+      <news:keywords>K-Drama, Kim Se In, Mental Health, Korean Entertainment Industry, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/korean-actor-signs-with-new-agency-just-two-months-after-sud/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,30 @@
       <news:publication_date>2026-08-01T08:29:09.000Z</news:publication_date>
       <news:title>Korean Actor Signs With New Agency Just Two Months After Sudden Retirement</news:title>
       <news:keywords>Comeback, K-Drama, Korean Actor, Live Content Company, Mental Health</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hostess-past-tantrums-mistreating-other-members-enhypen-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T06:34:08.000Z</news:publication_date>
+      <news:title>Hostess Past, Tantrums, Mistreating Other Members — ENHYPEN Fansite’s Alleged Behavior Comes Under Fire</news:title>
+      <news:keywords>ENHYPEN, Comeback, Charts, K-Drama, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/aespa-karinas-recent-weight-gain-gets-criticized/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T06:11:34.000Z</news:publication_date>
+      <news:title>aespa Karina’s Recent Weight Gain Gets Criticized</news:title>
+      <news:keywords>aespa, Comeback, Debut, Charts, Karina</news:keywords>
     </news:news>
   </url>
   <url>
