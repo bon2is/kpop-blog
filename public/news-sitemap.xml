@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jy-park-tells-all-about-the-famous-jyp-entertainment-cafeter/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T14:59:43.000Z</news:publication_date>
+      <news:title>J.Y. Park Tells All About The Famous JYP Entertainment Cafeteria</news:title>
+      <news:keywords>TWICE, ITZY, Charts, Tour, JYP Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/what-exactly-happened-to-got7-jacksons-girl-group-gen1es/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T14:51:13.000Z</news:publication_date>
+      <news:title>What Exactly Happened To GOT7 Jackson’s Girl Group GEN1ES?</news:title>
+      <news:keywords>GOT7, Comeback, Debut, Jackson, GEN1ES</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lee-sang-yi-shares-photo-with-daughter-and-emotional-message/</loc>
     <news:news>
       <news:publication>
@@ -107,18 +131,6 @@
       <news:publication_date>2026-07-31T18:28:42.000Z</news:publication_date>
       <news:title>YG Entertainment Upcoming Idol Goes Viral For Looking Like NCT Haechan And Jeno’s Love Child </news:title>
       <news:keywords>BLACKPINK, NCT, BIGBANG, Debut, YG Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/reality-dating-show-star-exposes-the-unfathomable-dm-she-got/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T15:51:07.000Z</news:publication_date>
-      <news:title>Reality Dating Show Star Exposes The Unfathomable DM She Got</news:title>
-      <news:keywords>K-Pop, Reality TV, Online Harassment, Celebrity Safety, Social Media</news:keywords>
     </news:news>
   </url>
 </urlset>
