@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 05:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 12:53:52 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Lee Sang Yi Shares Photo With Daughter And Emotional Message To Late Partner</title>
+      <link>https://kpop.andxo.com/article/lee-sang-yi-shares-photo-with-daughter-and-emotional-message/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/lee-sang-yi-shares-photo-with-daughter-and-emotional-message/</guid>
+      <description>Lee Sang Yi shares heartwarming photo with daughter and emotional message</description>
+      <pubDate>Sun, 02 Aug 2026 08:32:59 GMT</pubDate>
+      <category>drama</category>
+      <category>K-Drama</category>
+      <category>Lee Sang Yi</category>
+      <category>Korean Actor</category>
+      <category>Comeback</category>
+      <category>Netflix</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-sang-yi-shares-photo-with-daughter-and-emotional-message.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-sang-yi-shares-photo-with-daughter-and-emotional-message.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/lee-sang-yi-shares-photo-with-daughter-and-emotional-message.webp" />
+    </item>
     <item>
       <title>Korean Actress Shocks With Why She Left The Entertainment Industry</title>
       <link>https://kpop.andxo.com/article/korean-actress-shocks-with-why-she-left-the-entertainment-in/</link>
@@ -1696,23 +1713,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-singer-copies-hybe-idols-solo-promotions-k-netizens-.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-singer-copies-hybe-idols-solo-promotions-k-netizens-.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-singer-copies-hybe-idols-solo-promotions-k-netizens-.webp" />
-    </item>
-    <item>
-      <title>Hwang In Youp Reunites With Filipino HIYILY Through 2026 Fanmeeting Tour “To You”</title>
-      <link>https://kpop.andxo.com/article/hwang-in-youp-reunites-with-filipino-hiyily-through-2026-fan/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/hwang-in-youp-reunites-with-filipino-hiyily-through-2026-fan/</guid>
-      <description>Hwang In Youp to reunite with Filipino fans through 2026 fanmeeting tour</description>
-      <pubDate>Thu, 23 Jul 2026 03:04:57 GMT</pubDate>
-      <category>drama</category>
-      <category>Tour</category>
-      <category>K-Drama</category>
-      <category>Hwang In Youp</category>
-      <category>Fanmeeting Tour</category>
-      <category>K-Pop</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hwang-in-youp-reunites-with-filipino-hiyily-through-2026-fan.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hwang-in-youp-reunites-with-filipino-hiyily-through-2026-fan.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hwang-in-youp-reunites-with-filipino-hiyily-through-2026-fan.webp" />
     </item>
   </channel>
 </rss>

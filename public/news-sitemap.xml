@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lee-sang-yi-shares-photo-with-daughter-and-emotional-message/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T08:32:59.000Z</news:publication_date>
+      <news:title>Lee Sang Yi Shares Photo With Daughter And Emotional Message To Late Partner</news:title>
+      <news:keywords>K-Drama, Lee Sang Yi, Korean Actor, Comeback, Netflix</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/korean-actress-shocks-with-why-she-left-the-entertainment-in/</loc>
     <news:news>
       <news:publication>
@@ -107,42 +119,6 @@
       <news:publication_date>2026-07-31T15:51:07.000Z</news:publication_date>
       <news:title>Reality Dating Show Star Exposes The Unfathomable DM She Got</news:title>
       <news:keywords>K-Pop, Reality TV, Online Harassment, Celebrity Safety, Social Media</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/concert-recap-ikon-reunited-with-ikonics-in-singapore-for-an/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T12:01:45.000Z</news:publication_date>
-      <news:title>[CONCERT RECAP] iKON Reunited With iKONICs In Singapore For An Unforgettable “FOUREVER” Celebration</news:title>
-      <news:keywords>Concert, Charts, Tour, iKON, FOUREVER</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/8-k-pop-b-side-tracks-from-2026-you-dont-want-to-sleep-on/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T08:17:10.000Z</news:publication_date>
-      <news:title>8 K-Pop B-Side Tracks From 2026 You Don’t Want To Sleep On</news:title>
-      <news:keywords>BTS, BLACKPINK, TWICE, SEVENTEEN, aespa</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-jung-eun-lives-only-for-revenge-after-losing-her-daughte/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T06:40:01.000Z</news:publication_date>
-      <news:title>Lee Jung Eun Lives Only For Revenge After Losing Her Daughter In “The Journey To Gyeongju”</news:title>
-      <news:keywords>Charts, K-Drama, Lee Jung Eun, The Journey to Gyeongju, Korean Film</news:keywords>
     </news:news>
   </url>
 </urlset>
