@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/lee-min-ho-is-a-rookie-journalist-who-dives-into-the-truth-b/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T04:51:09.000Z</news:publication_date>
+      <news:title>Lee Min Ho Is A Rookie Journalist Who Dives Into The Truth Behind An Attempted Assassination In New Film “Assassins”</news:title>
+      <news:keywords>Charts, K-Drama, Lee Min Ho, Assassins, Korean Film</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-sm-female-groups-non-edited-camera-photos-garner-mas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T03:11:59.000Z</news:publication_date>
+      <news:title>Popular SM Female Group’s Non-Edited Camera Photos Garner Massive Response</news:title>
+      <news:keywords>Girls Generation, Super Junior, Debut, Concert, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-hit-with-hateful-body-shaming-in-lingerie-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T00:16:25.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Jennie Hit With Hateful Body Shaming In Lingerie-Inspired Fit </news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseyes-animal-becomes-their-2nd-highest-ranking-song-on-uk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T21:55:01.000Z</news:publication_date>
+      <news:title>KATSEYE’s “Animal” Becomes Their 2nd Highest-Ranking Song On UK’s Official Singles Chart</news:title>
+      <news:keywords>Debut, Charts, Album, Tour, KATSEYE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seventeen-boynextdoor-nexz-and-plave-earn-riaj-million-and-g/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T18:59:28.000Z</news:publication_date>
+      <news:title>SEVENTEEN, BOYNEXTDOOR, NEXZ, And PLAVE Earn RIAJ Million And Gold Certifications In Japan</news:title>
+      <news:keywords>SEVENTEEN, BOYNEXTDOOR, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jy-park-tells-all-about-the-famous-jyp-entertainment-cafeter/</loc>
     <news:news>
       <news:publication>
@@ -95,42 +155,6 @@
       <news:publication_date>2026-08-01T05:42:10.000Z</news:publication_date>
       <news:title>BTS’s Jin Revealed To Have Raked In Millions In Early 2026 With This One Move</news:title>
       <news:keywords>BTS, Debut, Awards, Charts, Jin</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/oh-my-girls-mimi-announces-plans-for-solo-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T04:12:02.000Z</news:publication_date>
-      <news:title>OH MY GIRL’s Mimi Announces Plans For Solo Debut</news:title>
-      <news:keywords>Debut, Awards, MV, OH MY GIRL, Mimi</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/pssy-5th-gen-boy-group-goes-viral-over-insane-nsfw-moment-du/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T01:16:29.000Z</news:publication_date>
-      <news:title>“P*ssy”— 5th-gen Boy Group Goes Viral Over Insane NSFW Moment During Livestream</news:title>
-      <news:keywords>Tour, K-Pop, 5th Generation, Livestream, NSFW</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yg-entertainment-upcoming-idol-goes-viral-for-looking-like-n/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T18:28:42.000Z</news:publication_date>
-      <news:title>YG Entertainment Upcoming Idol Goes Viral For Looking Like NCT Haechan And Jeno’s Love Child </news:title>
-      <news:keywords>BLACKPINK, NCT, BIGBANG, Debut, YG Entertainment</news:keywords>
     </news:news>
   </url>
 </urlset>
