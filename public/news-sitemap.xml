@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/super-juniors-kim-heechul-gets-real-on-why-he-stopped-filmin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T17:16:59.000Z</news:publication_date>
+      <news:title>Super Junior’s Kim Heechul Gets Real On Why He Stopped Filming “Knowing Bros”</news:title>
+      <news:keywords>Super Junior, Charts, Kim Heechul, Knowing Bros, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-announces-a-hiatus-thoughts-on-her-future/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T16:27:07.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Jennie Announces A Hiatus + Thoughts On Her Future</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/red-velvets-seulgi-breaks-down-in-tears-multiple-times-durin/</loc>
     <news:news>
       <news:publication>
