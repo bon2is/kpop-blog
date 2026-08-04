@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 04:56:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:43:19 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BLACKPINK Jennie’s Sexy And Revealing Photoshoot Triggers Intense Backlash</title>
+      <link>https://kpop.andxo.com/article/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int/</guid>
+      <description>BLACKPINK&apos;s Jennie sparks controversy with a revealing photoshoot.</description>
+      <pubDate>Tue, 04 Aug 2026 08:10:10 GMT</pubDate>
+      <category>drama</category>
+      <category>BLACKPINK</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <category>Jennie</category>
+      <category>K-Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int.webp" />
+    </item>
     <item>
       <title>Former YG And SM Idols Clarify Past Dating Rumors</title>
       <link>https://kpop.andxo.com/article/former-yg-and-sm-idols-clarify-past-dating-rumors/</link>
@@ -1696,23 +1713,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-entertainment-idol-wows-with-slim-figure-and-tiny-waist.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-entertainment-idol-wows-with-slim-figure-and-tiny-waist.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/jyp-entertainment-idol-wows-with-slim-figure-and-tiny-waist.webp" />
-    </item>
-    <item>
-      <title>Female Idol’s New Bold TikTok Video Sparks Debate On Sexualization</title>
-      <link>https://kpop.andxo.com/article/female-idols-new-bold-tiktok-video-sparks-debate-on-sexualiz/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/female-idols-new-bold-tiktok-video-sparks-debate-on-sexualiz/</guid>
-      <description>K-Pop idol sparks debate with bold TikTok video</description>
-      <pubDate>Fri, 24 Jul 2026 12:00:20 GMT</pubDate>
-      <category>tour</category>
-      <category>K-Pop</category>
-      <category>TikTok</category>
-      <category>Sexualization</category>
-      <category>Female Idols</category>
-      <category>Controversy</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-idols-new-bold-tiktok-video-sparks-debate-on-sexualiz.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-idols-new-bold-tiktok-video-sparks-debate-on-sexualiz.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-idols-new-bold-tiktok-video-sparks-debate-on-sexualiz.webp" />
     </item>
   </channel>
 </rss>

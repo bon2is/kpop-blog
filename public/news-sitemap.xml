@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T08:10:10.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie’s Sexy And Revealing Photoshoot Triggers Intense Backlash</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Jennie, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/former-yg-and-sm-idols-clarify-past-dating-rumors/</loc>
     <news:news>
       <news:publication>
@@ -191,18 +203,6 @@
       <news:publication_date>2026-08-02T14:51:13.000Z</news:publication_date>
       <news:title>What Exactly Happened To GOT7 Jackson’s Girl Group GEN1ES?</news:title>
       <news:keywords>GOT7, Comeback, Debut, Jackson, GEN1ES</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-sang-yi-shares-photo-with-daughter-and-emotional-message/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-02T08:32:59.000Z</news:publication_date>
-      <news:title>Lee Sang Yi Shares Photo With Daughter And Emotional Message To Late Partner</news:title>
-      <news:keywords>K-Drama, Lee Sang Yi, Korean Actor, Comeback, Netflix</news:keywords>
     </news:news>
   </url>
 </urlset>
