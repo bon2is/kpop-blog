@@ -181,28 +181,4 @@
       <news:keywords>SEVENTEEN, BOYNEXTDOOR, Debut, Charts, Album</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jy-park-tells-all-about-the-famous-jyp-entertainment-cafeter/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-02T14:59:43.000Z</news:publication_date>
-      <news:title>J.Y. Park Tells All About The Famous JYP Entertainment Cafeteria</news:title>
-      <news:keywords>TWICE, ITZY, Charts, Tour, JYP Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/what-exactly-happened-to-got7-jacksons-girl-group-gen1es/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-02T14:51:13.000Z</news:publication_date>
-      <news:title>What Exactly Happened To GOT7 Jackson’s Girl Group GEN1ES?</news:title>
-      <news:keywords>GOT7, Comeback, Debut, Jackson, GEN1ES</news:keywords>
-    </news:news>
-  </url>
 </urlset>
