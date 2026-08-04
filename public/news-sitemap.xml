@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/day6s-young-k-quadruples-his-1st-week-sales-record-with-youn/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T16:51:22.000Z</news:publication_date>
+      <news:title>DAY6’s Young K Quadruples His 1st-Week Sales Record With “YOUNGEST”</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseyes-animal-becomes-their-1st-top-10-hit-on-billboard-gl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T15:54:08.000Z</news:publication_date>
+      <news:title>KATSEYE’s “Animal” Becomes Their 1st Top 10 Hit On Billboard Global 200 + Their Highest-Debuting Single On Hot 100</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int/</loc>
     <news:news>
       <news:publication>
