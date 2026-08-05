@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-ross-recent-appearance-triggers-fuels-strong-backl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T17:09:45.000Z</news:publication_date>
+      <news:title>BLACKPINK Rosé’s Recent Appearance Triggers Fuels Strong Backlash</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Rosé, Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-08-05T12:32:09.000Z</news:publication_date>
       <news:title>aespa Karina’s Exposed Conversation With ChatGPT Gains Attention</news:title>
       <news:keywords>aespa, Debut, Concert, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/alpha-drive-one-confirmed-as-2nd-players-for-horror-variety-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T09:53:41.000Z</news:publication_date>
+      <news:title>ALPHA DRIVE ONE Confirmed As 2nd Players For Horror Variety Show “SUMBAKKOKJIL 2”</news:title>
+      <news:keywords>ALPHA DRIVE ONE, K-Pop, Horror Variety Show, SUMBAKKOKJIL 2, Mnet</news:keywords>
     </news:news>
   </url>
   <url>
@@ -167,42 +191,6 @@
       <news:publication_date>2026-08-04T01:18:34.000Z</news:publication_date>
       <news:title>ALPHA DRIVE ONE’s Sanghyeon To Undergo Surgery + Take Temporary Break From Activities</news:title>
       <news:keywords>ALPHA DRIVE ONE, Sanghyeon, K-Pop, Health, Recovery</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-k-pop-idol-divulges-unusual-reason-for-emergency-room-ex/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T17:54:34.000Z</news:publication_date>
-      <news:title>Top K-Pop Idol Divulges Unusual Reason For Emergency Room Experience</news:title>
-      <news:keywords>Concert, Awards, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/super-juniors-kim-heechul-gets-real-on-why-he-stopped-filmin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T17:16:59.000Z</news:publication_date>
-      <news:title>Super Junior’s Kim Heechul Gets Real On Why He Stopped Filming “Knowing Bros”</news:title>
-      <news:keywords>Super Junior, Charts, Kim Heechul, Knowing Bros, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jennie-announces-a-hiatus-thoughts-on-her-future/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T16:27:07.000Z</news:publication_date>
-      <news:title>BLACKPINK’s Jennie Announces A Hiatus + Thoughts On Her Future</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
