@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:32:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:01:37 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>aespa Karina’s Exposed Conversation With ChatGPT Gains Attention</title>
+      <link>https://kpop.andxo.com/article/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent/</guid>
+      <description>aespa&apos;s Karina sparks interest with AI chat</description>
+      <pubDate>Wed, 05 Aug 2026 12:32:09 GMT</pubDate>
+      <category>drama</category>
+      <category>aespa</category>
+      <category>Debut</category>
+      <category>Concert</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent.webp" />
+    </item>
     <item>
       <title>BTS’s V Triggers Major Heartbreak With New Instagram Post</title>
       <link>https://kpop.andxo.com/article/btss-v-triggers-major-heartbreak-with-new-instagram-post/</link>
@@ -1696,23 +1713,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/sm-entertainment-idol-speaks-out-on-fighting-with-a-fellow-m.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/sm-entertainment-idol-speaks-out-on-fighting-with-a-fellow-m.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/sm-entertainment-idol-speaks-out-on-fighting-with-a-fellow-m.webp" />
-    </item>
-    <item>
-      <title>Girl Group Idol Exudes Innocent Beauty In Latest Update</title>
-      <link>https://kpop.andxo.com/article/girl-group-idol-exudes-innocent-beauty-in-latest-update/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/girl-group-idol-exudes-innocent-beauty-in-latest-update/</guid>
-      <description>K-Pop idol Ki Huihyeon stuns with innocent beauty in latest vacation update.</description>
-      <pubDate>Sat, 25 Jul 2026 14:43:53 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>BLACKPINK</category>
-      <category>TWICE</category>
-      <category>Red Velvet</category>
-      <category>Comeback</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/girl-group-idol-exudes-innocent-beauty-in-latest-update.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/girl-group-idol-exudes-innocent-beauty-in-latest-update.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/girl-group-idol-exudes-innocent-beauty-in-latest-update.webp" />
     </item>
   </channel>
 </rss>

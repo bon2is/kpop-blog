@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T12:32:09.000Z</news:publication_date>
+      <news:title>aespa Karina’s Exposed Conversation With ChatGPT Gains Attention</news:title>
+      <news:keywords>aespa, Debut, Concert, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/btss-v-triggers-major-heartbreak-with-new-instagram-post/</loc>
     <news:news>
       <news:publication>
