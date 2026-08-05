@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-v-triggers-major-heartbreak-with-new-instagram-post/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T09:40:27.000Z</news:publication_date>
+      <news:title>BTS’s V Triggers Major Heartbreak With New Instagram Post</news:title>
+      <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seventeens-seungkwan-ko-kyung-pyo-and-more-confirmed-for-new/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T06:28:50.000Z</news:publication_date>
+      <news:title>SEVENTEEN’s Seungkwan, Ko Kyung Pyo, And More Confirmed For New Season Of “The Great Escape”</news:title>
+      <news:keywords>SEVENTEEN, Super Junior, Awards, Charts, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-k-pop-stars-world-tour-gets-completely-scrapped-four-day/</loc>
     <news:news>
       <news:publication>
@@ -167,42 +191,6 @@
       <news:publication_date>2026-08-03T16:27:07.000Z</news:publication_date>
       <news:title>BLACKPINK’s Jennie Announces A Hiatus + Thoughts On Her Future</news:title>
       <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/red-velvets-seulgi-breaks-down-in-tears-multiple-times-durin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T12:31:33.000Z</news:publication_date>
-      <news:title>Red Velvet’s Seulgi Breaks Down In Tears Multiple Times During Concert, Sparking Heartbreak</news:title>
-      <news:keywords>BTS, BLACKPINK, Red Velvet, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jimin-filmed-during-heartbreaking-moment-of-exhausation/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T11:10:18.000Z</news:publication_date>
-      <news:title>BTS’s Jimin Filmed During Heartbreaking Moment Of Exhausation On Stage — Inciting Fury</news:title>
-      <news:keywords>BTS, Concert, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/leeteuk-johnny-jisung-dawn-and-more-go-head-to-head-in-chaot/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T09:40:40.000Z</news:publication_date>
-      <news:title>Leeteuk, Johnny, Jisung, DAWN, And More Go Head-To-Head In Chaotic Missions On “ALL Or NOTHING”</news:title>
-      <news:keywords>NCT, Super Junior, Leeteuk, Johnny, Jisung</news:keywords>
     </news:news>
   </url>
 </urlset>
