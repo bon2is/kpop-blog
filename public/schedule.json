@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T18:23:28.820Z",
+  "lastUpdated": "2026-08-06T04:59:16.545Z",
   "events": [
     {
       "id": "broadcast-m-countdown-2026-08-06",
@@ -14,6 +14,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "gnews-comeback-6-2026-08-07",
+      "date": "2026-08-07",
+      "type": "release",
+      "artist": "Stray Kids",
+      "title": "Stray Kids Are About to Drop \"THIS & THAT\": Everything We Know Before the August 7 Release - Dojeon Media",
+      "source": "Dojeon Media",
+      "links": {
+        "official": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV3NRTkl2cHZQTGxDR25ibVhjVXR5VkVnZjJWRDlkdHdtaEUwV2NNZXhiWjBuZlZRWmxKNGpIWm0waFlNRy1pLTM1UTYzUXpUU0F6dGJ0VXhhLW1DakkyLURQbkVneHdGLXVrdTQxZlJDd3YxTkFlb1BDSV9Hai1kdDREcDZnUlFWaWNiSE53emRGMk52My0zRUxJcmFNRzM0TVV1d0lzTVhKNjhmNnBJQWFCRHhTeUNGZWc?oc=5"
       }
     },
     {

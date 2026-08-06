@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/two-popular-celebrities-with-the-same-name-finally-work-toge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T03:47:51.000Z</news:publication_date>
+      <news:title>Two  Popular Celebrities With The Same Name Finally Work Together, Sparks Massive Response</news:title>
+      <news:keywords>Concert, Awards, Charts, MV, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-fans-sister-confirms-her-passing-shares-update/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T20:19:18.000Z</news:publication_date>
+      <news:title>ENHYPEN Fan’s Sister Confirms Her Passing, Shares Update</news:title>
+      <news:keywords>ENHYPEN, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/feels-like-a-terminal-diagnosis-korean-actress-opens-up-abou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T18:33:45.000Z</news:publication_date>
+      <news:title>“Feels Like A Terminal Diagnosis” — Korean Actress Opens Up About Her Heartbreaking Struggles</news:title>
+      <news:keywords>Hwang Bo-ra, IVF, Korean Actress, Fertility Issues, Infertility Awareness</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpink-ross-recent-appearance-triggers-fuels-strong-backl/</loc>
     <news:news>
       <news:publication>
@@ -155,42 +191,6 @@
       <news:publication_date>2026-08-04T05:10:55.000Z</news:publication_date>
       <news:title>Watch: aespa And Ty Dolla $ign Show How They Switch It Up In Bold MV For B-Side “Switchblade”</news:title>
       <news:keywords>BTS, BLACKPINK, ITZY, aespa, (G)I-DLE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/former-yg-and-sm-idols-clarify-past-dating-rumors/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T04:24:22.000Z</news:publication_date>
-      <news:title>Former YG And SM Idols Clarify Past Dating Rumors</news:title>
-      <news:keywords>Comeback, K-Pop, Dating Rumors, YG, SM</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/my-bias-my-boss-premieres-to-a-promising-start/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T01:49:45.000Z</news:publication_date>
-      <news:title>“My Bias, My Boss” Premieres To A Promising Start</news:title>
-      <news:keywords>Charts, K-Drama, My Bias My Boss, tvN, Netflix</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/alpha-drive-ones-sanghyeon-to-undergo-surgery-take-temporary/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T01:18:34.000Z</news:publication_date>
-      <news:title>ALPHA DRIVE ONE’s Sanghyeon To Undergo Surgery + Take Temporary Break From Activities</news:title>
-      <news:keywords>ALPHA DRIVE ONE, Sanghyeon, K-Pop, Health, Recovery</news:keywords>
     </news:news>
   </url>
 </urlset>
