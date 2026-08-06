@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bts-vs-recent-updates-and-appearances-spark-renewed-dating-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T11:05:41.000Z</news:publication_date>
+      <news:title>BTS V &amp; BLACKPINK Jennie Dating Rumors</news:title>
+      <news:keywords>BTS, BLACKPINK, K-Pop, Dating Rumors</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/rocket-punchs-suyun-parts-ways-with-woollim-entertainment/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T09:30:00.000Z</news:publication_date>
+      <news:title>Rocket Punch&apos;s Suyun Leaves Woollim Entertainment</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Charts, Rocket Punch</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ban-min-jung-announces-marriage/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T08:06:57.000Z</news:publication_date>
+      <news:title>Ban Min Jung Announces September Wedding</news:title>
+      <news:keywords>K-Drama, Ban Min Jung, Marriage, Korean Entertainment, Celebrity News</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/starship-entertainments-new-boy-group-aen-announces-official/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T05:36:56.000Z</news:publication_date>
+      <news:title>AEN Reveals Official Fan Club Name</news:title>
+      <news:keywords>MONSTA X, Debut, AEN, STARSHIP Entertainment, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/two-popular-celebrities-with-the-same-name-finally-work-toge/</loc>
     <news:news>
       <news:publication>
@@ -155,42 +203,6 @@
       <news:publication_date>2026-08-04T15:54:08.000Z</news:publication_date>
       <news:title>KATSEYE’s “Animal” Becomes Their 1st Top 10 Hit On Billboard Global 200 + Their Highest-Debuting Single On Hot 100</news:title>
       <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-sexy-and-revealing-photoshoot-triggers-int/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T08:10:10.000Z</news:publication_date>
-      <news:title>BLACKPINK Jennie’s Sexy And Revealing Photoshoot Triggers Intense Backlash</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Jennie, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-seo-jin-and-kim-kwang-kyus-variety-show-returns-with-new/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T05:32:50.000Z</news:publication_date>
-      <news:title>Lee Seo Jin And Kim Kwang Kyu’s Variety Show Returns With New Season Titled “My Genie Secretary” + Confirms Premiere Date</news:title>
-      <news:keywords>Charts, Lee Seo Jin, Kim Kwang Kyu, My Genie Secretary, Variety Show</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-aespa-and-ty-dolla-ign-show-how-they-switch-it-up-in-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T05:10:55.000Z</news:publication_date>
-      <news:title>Watch: aespa And Ty Dolla $ign Show How They Switch It Up In Bold MV For B-Side “Switchblade”</news:title>
-      <news:keywords>BTS, BLACKPINK, ITZY, aespa, (G)I-DLE</news:keywords>
     </news:news>
   </url>
 </urlset>
