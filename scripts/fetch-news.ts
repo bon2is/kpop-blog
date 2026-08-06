@@ -1257,24 +1257,39 @@ function extractYamlField(content: string, field: string): string | null {
   return null;
 }
 
-// Load existing article titles for duplicate detection
-function loadExistingTitles(): string[] {
-  const titles: string[] = [];
+// Load existing article titles for duplicate detection.
+// Returns allTitles (all articles, for exact-match dedup) and recentTitles
+// (last 30 days only, for fuzzy similarity dedup). Limiting fuzzy matching
+// to recent articles prevents the growing corpus from blocking new coverage
+// of ongoing artists/topics after the first article was written months ago.
+function loadExistingTitles(recentDays = 30): { allTitles: string[]; recentTitles: string[] } {
+  const allTitles: string[] = [];
+  const recentTitles: string[] = [];
+  const cutoff = Date.now() - recentDays * 86400000;
   try {
-    if (!fs.existsSync(CONTENT_DIR)) return titles;
+    if (!fs.existsSync(CONTENT_DIR)) return { allTitles, recentTitles };
 
     const files = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md'));
     for (const file of files) {
       const content = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf-8');
       const title = extractYamlField(content, 'title');
       const originalTitle = extractYamlField(content, 'originalTitle');
-      if (title) titles.push(title.toLowerCase());
-      if (originalTitle) titles.push(originalTitle.toLowerCase());
+      const publishedAtStr = extractYamlField(content, 'publishedAt');
+      const publishedAt = publishedAtStr ? new Date(publishedAtStr).getTime() : 0;
+      const isRecent = publishedAt >= cutoff;
+      if (title) {
+        allTitles.push(title.toLowerCase());
+        if (isRecent) recentTitles.push(title.toLowerCase());
+      }
+      if (originalTitle) {
+        allTitles.push(originalTitle.toLowerCase());
+        if (isRecent) recentTitles.push(originalTitle.toLowerCase());
+      }
     }
   } catch (error) {
     console.error('Error loading existing titles:', error);
   }
-  return titles;
+  return { allTitles, recentTitles };
 }
 
 // Extract key entities from title for comparison
@@ -1313,17 +1328,22 @@ function extractKeyEntities(title: string): Set<string> {
   return entities;
 }
 
-// Check if article is duplicate content
-function isDuplicateContent(newTitle: string, existingTitles: string[]): boolean {
+// Check if article is duplicate content.
+// Exact-match dedup runs against allTitles (full corpus).
+// Fuzzy (entity/word) dedup runs against recentTitles only (last 30 days)
+// to avoid blocking new coverage of popular artists indefinitely.
+function isDuplicateContent(newTitle: string, allTitles: string[], recentTitles: string[]): boolean {
   const newTitleLower = newTitle.toLowerCase();
+
+  // Exact match against all articles
+  if (allTitles.includes(newTitleLower)) {
+    return true;
+  }
+
   const newEntities = extractKeyEntities(newTitle);
+  const newWords = new Set(newTitleLower.split(/\s+/).filter(w => w.length > 3));
 
-  for (const existingTitle of existingTitles) {
-    // Exact or near-exact match
-    if (existingTitle === newTitleLower) {
-      return true;
-    }
-
+  for (const existingTitle of recentTitles) {
     // Check entity overlap (if 70%+ entities match, likely duplicate)
     const existingEntities = extractKeyEntities(existingTitle);
     if (newEntities.size >= 2 && existingEntities.size >= 2) {
@@ -1335,7 +1355,6 @@ function isDuplicateContent(newTitle: string, existingTitles: string[]): boolean
     }
 
     // Word-level similarity check
-    const newWords = new Set(newTitleLower.split(/\s+/).filter(w => w.length > 3));
     const existingWords = new Set(existingTitle.split(/\s+/).filter(w => w.length > 3));
     if (newWords.size >= 4 && existingWords.size >= 4) {
       const wordIntersection = Array.from(newWords).filter(x => existingWords.has(x));
@@ -1753,8 +1772,8 @@ async function main(): Promise<void> {
   console.log(`Previously processed: ${processedUrls.size} articles`);
 
   // Load existing titles for duplicate content detection
-  const existingTitles = loadExistingTitles();
-  console.log(`Existing article titles loaded: ${existingTitles.length}`);
+  const { allTitles: existingTitles, recentTitles: existingRecentTitles } = loadExistingTitles();
+  console.log(`Existing article titles loaded: ${existingTitles.length} total, ${existingRecentTitles.length} recent (30d)`);
 
   // Fetch RSS feeds
   const items = await fetchRSSFeeds();
@@ -1767,7 +1786,7 @@ async function main(): Promise<void> {
   // Filter out duplicate content
   const uniqueItems = newItems.filter((item) => {
     if (!item.title) return false;
-    if (isDuplicateContent(item.title, existingTitles)) {
+    if (isDuplicateContent(item.title, existingTitles, existingRecentTitles)) {
       console.log(`  Skipping duplicate content: ${item.title.slice(0, 50)}...`);
       return false;
     }
@@ -1938,7 +1957,7 @@ async function main(): Promise<void> {
     if (itemsToProcess.length >= maxArticles) break;
     if (!item.title || !item.link) continue;
     // Skip if similar to an article already selected in this run
-    if (isDuplicateContent(item.title, [...existingTitles, ...sessionTitles])) {
+    if (isDuplicateContent(item.title, [...existingTitles, ...sessionTitles], [...existingRecentTitles, ...sessionTitles])) {
       console.log(`  Skipping same-batch duplicate: ${item.title.slice(0, 50)}...`);
       continue;
     }
