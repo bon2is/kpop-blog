@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/viral-boy-group-sparks-shock-after-saying-fck-ice-in-new-son/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T11:45:10.000Z</news:publication_date>
+      <news:title>K-Pop Group Sparks Controversy With New Song</news:title>
+      <news:keywords>NCT, Charts, MV, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-monsta-x-announces-september-comeback-with-a-new-tease/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T10:30:38.000Z</news:publication_date>
+      <news:title>MONSTA X Reveals September Comeback</news:title>
+      <news:keywords>MONSTA X, Comeback, Concert, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-male-idol-goes-viral-after-filming-a-video-message-f/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T08:13:23.000Z</news:publication_date>
+      <news:title>BTS&apos;s Jungkook Stuns Fans With Viral Video Message</news:title>
+      <news:keywords>BTS, Concert, Charts, Tour, Jungkook</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/all-4-members-of-blackpink-confirmed-to-be-attending-10th-an/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T01:47:32.000Z</news:publication_date>
+      <news:title>BLACKPINK Confirms 10th Anniversary Event</news:title>
+      <news:keywords>BLACKPINK, Debut, Charts, MV, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bts-vs-recent-updates-and-appearances-spark-renewed-dating-r/</loc>
     <news:news>
       <news:publication>
@@ -95,54 +143,6 @@
       <news:publication_date>2026-08-05T17:09:45.000Z</news:publication_date>
       <news:title>BLACKPINK Rosé’s Recent Appearance Triggers Fuels Strong Backlash</news:title>
       <news:keywords>BTS, BLACKPINK, Debut, Rosé, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-karinas-exposed-conversation-with-chatgpt-gains-attent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T12:32:09.000Z</news:publication_date>
-      <news:title>aespa Karina’s Exposed Conversation With ChatGPT Gains Attention</news:title>
-      <news:keywords>aespa, Debut, Concert, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/alpha-drive-one-confirmed-as-2nd-players-for-horror-variety-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T09:53:41.000Z</news:publication_date>
-      <news:title>ALPHA DRIVE ONE Confirmed As 2nd Players For Horror Variety Show “SUMBAKKOKJIL 2”</news:title>
-      <news:keywords>ALPHA DRIVE ONE, K-Pop, Horror Variety Show, SUMBAKKOKJIL 2, Mnet</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-v-triggers-major-heartbreak-with-new-instagram-post/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T09:40:27.000Z</news:publication_date>
-      <news:title>BTS’s V Triggers Major Heartbreak With New Instagram Post</news:title>
-      <news:keywords>BTS, Comeback, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/seventeens-seungkwan-ko-kyung-pyo-and-more-confirmed-for-new/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T06:28:50.000Z</news:publication_date>
-      <news:title>SEVENTEEN’s Seungkwan, Ko Kyung Pyo, And More Confirmed For New Season Of “The Great Escape”</news:title>
-      <news:keywords>SEVENTEEN, Super Junior, Awards, Charts, K-Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
