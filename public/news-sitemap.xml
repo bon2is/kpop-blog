@@ -14,6 +14,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/i-dles-tomboy-becomes-their-3rd-mv-to-hit-400-million-views/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T10:55:19.000Z</news:publication_date>
+      <news:title>i-dle Breaks Record With 3rd MV To Hit 400 Million Views</news:title>
+      <news:keywords>Comeback, Debut, Awards, MV, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-monsta-x-announces-september-comeback-with-a-new-tease/</loc>
     <news:news>
       <news:publication>
@@ -47,6 +59,18 @@
       <news:publication_date>2026-08-07T01:47:32.000Z</news:publication_date>
       <news:title>BLACKPINK Confirms 10th Anniversary Event</news:title>
       <news:keywords>BLACKPINK, Debut, Charts, MV, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-seungmin-to-sit-out-certain-comeback-promotions-d/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T00:09:59.000Z</news:publication_date>
+      <news:title>Stray Kids&apos; Seungmin Sits Out Promotions</news:title>
+      <news:keywords>Stray Kids, Comeback, Debut, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -131,18 +155,6 @@
       <news:publication_date>2026-08-05T18:33:45.000Z</news:publication_date>
       <news:title>“Feels Like A Terminal Diagnosis” — Korean Actress Opens Up About Her Heartbreaking Struggles</news:title>
       <news:keywords>Hwang Bo-ra, IVF, Korean Actress, Fertility Issues, Infertility Awareness</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-ross-recent-appearance-triggers-fuels-strong-backl/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T17:09:45.000Z</news:publication_date>
-      <news:title>BLACKPINK Rosé’s Recent Appearance Triggers Fuels Strong Backlash</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Rosé, Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
