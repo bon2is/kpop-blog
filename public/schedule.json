@@ -1,21 +1,6 @@
 {
-  "lastUpdated": "2026-08-06T13:31:36.415Z",
+  "lastUpdated": "2026-08-07T04:21:56.009Z",
   "events": [
-    {
-      "id": "broadcast-m-countdown-2026-08-06",
-      "date": "2026-08-06",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "M Countdown",
-      "description": "Mnet weekly music countdown show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MnetMcountdown",
-        "official": "https://www.mnet.com"
-      }
-    },
     {
       "id": "gnews-comeback-2-2026-08-07",
       "date": "2026-08-07",
@@ -355,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@mbckpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-09-06",
+      "date": "2026-09-06",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
       }
     }
   ]
