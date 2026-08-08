@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jisoo-issues-written-apology-to-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T07:31:07.000Z</news:publication_date>
+      <news:title>BLACKPINK&apos;s Jisoo Breaks Silence With Apology</news:title>
+      <news:keywords>BLACKPINK, Charts, K-Drama, Jisoo, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ji-sung-and-his-squad-of-masked-moms-take-to-youtube-for-liv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T06:01:34.000Z</news:publication_date>
+      <news:title>Ji Sung Stuns Fans With YouTube Exposé</news:title>
+      <news:keywords>K-Drama, Ji Sung, The Apartment Job, YouTube, JTBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-tops-youtube-and-itunes-charts-all-over-the-world/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T04:44:31.000Z</news:publication_date>
+      <news:title>Stray Kids Breaks Record With &apos;THIS &amp; THAT&apos; Comeback</news:title>
+      <news:keywords>Stray Kids, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/august-boy-group-brand-reputation-rankings-announced/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +47,18 @@
       <news:publication_date>2026-08-08T02:25:26.000Z</news:publication_date>
       <news:title>BTS Tops August Boy Group Brand Rankings</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, SEVENTEEN, Stray Kids</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-nouera-takes-2nd-win-for-exe-on-music-bank-performance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T11:48:27.000Z</news:publication_date>
+      <news:title>NouerA Wins 2nd Trophy For “.exe”</news:title>
+      <news:keywords>Red Velvet, SEVENTEEN, Stray Kids, Debut, Charts</news:keywords>
     </news:news>
   </url>
   <url>
@@ -62,6 +110,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/lee-dae-hwi-signs-with-wanna-one-bandmate-kim-jae-hwans-agen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T03:04:47.000Z</news:publication_date>
+      <news:title>Lee Dae Hwi Joins Kim Jae Hwan At Off The Record</news:title>
+      <news:keywords>Debut, Charts, Lee Dae Hwi, Kim Jae Hwan, Off The Record Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/all-4-members-of-blackpink-confirmed-to-be-attending-10th-an/</loc>
     <news:news>
       <news:publication>
@@ -83,66 +143,6 @@
       <news:publication_date>2026-08-07T00:09:59.000Z</news:publication_date>
       <news:title>Stray Kids&apos; Seungmin Sits Out Promotions</news:title>
       <news:keywords>Stray Kids, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-vs-recent-updates-and-appearances-spark-renewed-dating-r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T11:05:41.000Z</news:publication_date>
-      <news:title>BTS V &amp; BLACKPINK Jennie Dating Rumors</news:title>
-      <news:keywords>BTS, BLACKPINK, K-Pop, Dating Rumors</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/rocket-punchs-suyun-parts-ways-with-woollim-entertainment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:30:00.000Z</news:publication_date>
-      <news:title>Rocket Punch&apos;s Suyun Leaves Woollim Entertainment</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Charts, Rocket Punch</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ban-min-jung-announces-marriage/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T08:06:57.000Z</news:publication_date>
-      <news:title>Ban Min Jung Announces September Wedding</news:title>
-      <news:keywords>K-Drama, Ban Min Jung, Marriage, Korean Entertainment, Celebrity News</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/starship-entertainments-new-boy-group-aen-announces-official/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T05:36:56.000Z</news:publication_date>
-      <news:title>AEN Reveals Official Fan Club Name</news:title>
-      <news:keywords>MONSTA X, Debut, AEN, STARSHIP Entertainment, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/two-popular-celebrities-with-the-same-name-finally-work-toge/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T03:47:51.000Z</news:publication_date>
-      <news:title>Two  Popular Celebrities With The Same Name Finally Work Together, Sparks Massive Response</news:title>
-      <news:keywords>Concert, Awards, Charts, MV, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
