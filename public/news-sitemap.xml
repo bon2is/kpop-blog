@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/boy-group-member-desperate-for-remarriage-goes-on-blind-date/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T15:31:42.000Z</news:publication_date>
+      <news:title>K-Pop Star Seeks Love On Blind Date</news:title>
+      <news:keywords>BTS, BLACKPINK, Charts, K-Pop, Blind Date</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-former-k-pop-girl-group-member-who-was-kidnapped-and-bea/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T15:02:25.000Z</news:publication_date>
+      <news:title>K-Pop Star Kidnapped By Manager</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, (G)I-DLE, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/red-velvets-irene-gets-honest-on-why-she-cant-be-a-youtuber/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T14:31:37.000Z</news:publication_date>
+      <news:title>Red Velvet&apos;s Irene Reveals Truth On YouTube Aspirations</news:title>
+      <news:keywords>Red Velvet, Debut, Irene, K-Pop, YouTube</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/blackpinks-jisoo-issues-written-apology-to-fans/</loc>
     <news:news>
       <news:publication>
