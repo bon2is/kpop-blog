@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:51:45.590Z",
+  "updatedAt": "2026-08-08T03:18:52.639Z",
   "unified": [
     {
       "rank": 1,
@@ -28,9 +28,9 @@
       "title": "LEMONADE",
       "artist": "aespa",
       "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20LEMONADE%20MV%20official",
-      "score": 107.1,
+      "score": 108.19999999999999,
       "chartRanks": {
-        "spotify": 6,
+        "spotify": 5,
         "youtube": 3
       }
     },
@@ -39,9 +39,9 @@
       "title": "Less than a Lover",
       "artist": "JENNIE",
       "youtubeUrl": "https://www.youtube.com/results?search_query=JENNIE%20Less%20than%20a%20Lover%20MV%20official",
-      "score": 106.9,
+      "score": 108,
       "chartRanks": {
-        "spotify": 4,
+        "spotify": 3,
         "youtube": 5
       }
     },
@@ -50,32 +50,32 @@
       "title": "Pretty Girl",
       "artist": "RESCENE",
       "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Pretty%20Girl%20MV%20official",
-      "score": 106.80000000000001,
+      "score": 105.7,
       "chartRanks": {
-        "spotify": 3,
+        "spotify": 4,
         "youtube": 6
       }
     },
     {
       "rank": 6,
-      "title": "It's Me",
-      "artist": "ILLIT",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20It's%20Me%20MV%20official",
-      "score": 103.4,
+      "title": "BAD",
+      "artist": "ATEEZ",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ATEEZ%20BAD%20MV%20official",
+      "score": 102.6,
       "chartRanks": {
-        "spotify": 5,
-        "youtube": 7
+        "spotify": 9,
+        "youtube": 4
       }
     },
     {
       "rank": 7,
-      "title": "BAD",
-      "artist": "ATEEZ",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ATEEZ%20BAD%20MV%20official",
-      "score": 101.5,
+      "title": "It's Me",
+      "artist": "ILLIT",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20It's%20Me%20MV%20official",
+      "score": 101.2,
       "chartRanks": {
-        "spotify": 10,
-        "youtube": 4
+        "spotify": 7,
+        "youtube": 7
       }
     },
     {
@@ -94,9 +94,9 @@
       "title": "Deja Vu",
       "artist": "RESCENE",
       "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Deja%20Vu%20MV%20official",
-      "score": 89.9,
+      "score": 92.1,
       "chartRanks": {
-        "spotify": 14,
+        "spotify": 12,
         "youtube": 10
       }
     },
@@ -105,47 +105,36 @@
       "title": "Lemon Tang",
       "artist": "Hearts2Hearts",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20Lemon%20Tang%20MV%20official",
-      "score": 85.80000000000001,
+      "score": 86.9,
       "chartRanks": {
-        "spotify": 9,
+        "spotify": 8,
         "youtube": 18
       }
     },
     {
       "rank": 11,
-      "title": "0+0",
-      "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%200%2B0%20MV%20official",
-      "score": 84.5,
-      "chartRanks": {
-        "spotify": 8,
-        "youtube": 20
-      }
-    },
-    {
-      "rank": 12,
-      "title": "Bansanka",
-      "artist": "TAEYEON",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=TAEYEON%20Bansanka%20MV%20official",
-      "score": 79.9,
-      "chartRanks": {
-        "spotify": 22,
-        "youtube": 11
-      }
-    },
-    {
-      "rank": 13,
       "title": "Vitamin ME",
       "artist": "fromis_9",
       "youtubeUrl": "https://www.youtube.com/results?search_query=fromis_9%20Vitamin%20ME%20MV%20official",
-      "score": 78.5,
+      "score": 82.9,
       "chartRanks": {
-        "spotify": 20,
+        "spotify": 16,
         "youtube": 14
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "title": "0+0",
+      "artist": "HANRORO",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%200%2B0%20MV%20official",
+      "score": 81.19999999999999,
+      "chartRanks": {
+        "spotify": 11,
+        "youtube": 20
+      }
+    },
+    {
+      "rank": 13,
       "title": "404 (New Era)",
       "artist": "KiiiKiii",
       "youtubeUrl": "https://www.youtube.com/results?search_query=KiiiKiii%20404%20(New%20Era)%20MV%20official",
@@ -153,6 +142,17 @@
       "chartRanks": {
         "spotify": 17,
         "youtube": 21
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Bansanka",
+      "artist": "TAEYEON",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=TAEYEON%20Bansanka%20MV%20official",
+      "score": 73.3,
+      "chartRanks": {
+        "spotify": 28,
+        "youtube": 11
       }
     },
     {
@@ -170,25 +170,36 @@
       "title": "Heavy Serenade",
       "artist": "NMIXX",
       "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Heavy%20Serenade%20MV%20official",
-      "score": 63.4,
+      "score": 61.2,
       "chartRanks": {
-        "spotify": 25,
+        "spotify": 27,
         "youtube": 22
       }
     },
     {
       "rank": 17,
-      "title": "晩餐歌",
-      "artist": "tuki.",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=tuki.%20%E6%99%A9%E9%A4%90%E6%AD%8C%20MV%20official",
-      "score": 59.699999999999996,
+      "title": "Please Summer!",
+      "artist": "BOL4",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BOL4%20Please%20Summer!%20MV%20official",
+      "score": 58.800000000000004,
       "chartRanks": {
-        "spotify": 36,
-        "youtube": 15
+        "spotify": 39,
+        "youtube": 13
       }
     },
     {
       "rank": 18,
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=tuki.%20%E6%99%A9%E9%A4%90%E6%AD%8C%20MV%20official",
+      "score": 58.599999999999994,
+      "chartRanks": {
+        "spotify": 37,
+        "youtube": 15
+      }
+    },
+    {
+      "rank": 19,
       "title": "갑자기",
       "artist": "I.O.I",
       "youtubeUrl": "https://www.youtube.com/results?search_query=I.O.I%20%EA%B0%91%EC%9E%90%EA%B8%B0%20MV%20official",
@@ -198,17 +209,17 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Who",
       "artist": "Jimin",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Jimin%20Who%20MV%20official",
-      "score": 48.400000000000006,
+      "score": 49.50000000000001,
       "chartRanks": {
-        "spotify": 7
+        "spotify": 6
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "Good Goodbye",
       "artist": "HWASA",
       "youtubeUrl": "https://www.youtube.com/results?search_query=HWASA%20Good%20Goodbye%20MV%20official",
@@ -218,48 +229,28 @@
       }
     },
     {
-      "rank": 21,
-      "title": "Please Summer!",
-      "artist": "BOL4",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=BOL4%20Please%20Summer!%20MV%20official",
-      "score": 45.6,
-      "chartRanks": {
-        "youtube": 13
-      }
-    },
-    {
       "rank": 22,
-      "title": "Love Love Love",
-      "artist": "Epik High",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Epik%20High%20Love%20Love%20Love%20MV%20official",
-      "score": 44.6,
+      "title": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "artist": "Post Malone",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Post%20Malone%20Sunflower%20-%20Spider-Man%3A%20Into%20the%20Spider-Verse%20MV%20official",
+      "score": 45.1,
       "chartRanks": {
-        "spotify": 29,
-        "youtube": 34
+        "spotify": 10
       }
     },
     {
       "rank": 23,
-      "title": "Suddenly",
-      "artist": "I.O.I",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=I.O.I%20Suddenly%20MV%20official",
-      "score": 44,
+      "title": "Love Love Love",
+      "artist": "Epik High",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Epik%20High%20Love%20Love%20Love%20MV%20official",
+      "score": 42.4,
       "chartRanks": {
-        "spotify": 11
+        "spotify": 31,
+        "youtube": 34
       }
     },
     {
       "rank": 24,
-      "title": "Landing in Love",
-      "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official",
-      "score": 42.900000000000006,
-      "chartRanks": {
-        "spotify": 12
-      }
-    },
-    {
-      "rank": 25,
       "title": "생각을 멈추다 보면",
       "artist": "Choi Yu Ree",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Choi%20Yu%20Ree%20%EC%83%9D%EA%B0%81%EC%9D%84%20%EB%A9%88%EC%B6%94%EB%8B%A4%20%EB%B3%B4%EB%A9%B4%20MV%20official",
@@ -269,10 +260,20 @@
       }
     },
     {
+      "rank": 25,
+      "title": "Suddenly",
+      "artist": "I.O.I",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=I.O.I%20Suddenly%20MV%20official",
+      "score": 40.7,
+      "chartRanks": {
+        "spotify": 14
+      }
+    },
+    {
       "rank": 26,
-      "title": "Let Me Love My Youth",
+      "title": "Landing in Love",
       "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official",
       "score": 39.6,
       "chartRanks": {
         "spotify": 15
@@ -280,16 +281,6 @@
     },
     {
       "rank": 27,
-      "title": "Drowning",
-      "artist": "WOODZ",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official",
-      "score": 38.5,
-      "chartRanks": {
-        "spotify": 16
-      }
-    },
-    {
-      "rank": 28,
       "title": "캐치 캐치",
       "artist": "YENA",
       "youtubeUrl": "https://www.youtube.com/results?search_query=YENA%20%EC%BA%90%EC%B9%98%20%EC%BA%90%EC%B9%98%20MV%20official",
@@ -299,49 +290,37 @@
       }
     },
     {
-      "rank": 29,
-      "title": "If I have you only (My love X Nerd Connection)",
-      "artist": "Nerd Connection",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Nerd%20Connection%20If%20I%20have%20you%20only%20(My%20love%20X%20Nerd%20Connection)%20MV%20official",
+      "rank": 28,
+      "title": "Let Me Love My Youth",
+      "artist": "HANRORO",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official",
       "score": 36.300000000000004,
       "chartRanks": {
         "spotify": 18
       }
     },
     {
-      "rank": 30,
-      "title": "BOOMPALA",
-      "artist": "LE SSERAFIM",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=LE%20SSERAFIM%20BOOMPALA%20MV%20official",
-      "score": 35.5,
-      "chartRanks": {
-        "spotify": 46,
-        "youtube": 26
-      }
-    },
-    {
-      "rank": 31,
-      "title": "Seven",
-      "artist": "Jung Kook",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official",
+      "rank": 29,
+      "title": "Drowning",
+      "artist": "WOODZ",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official",
       "score": 35.2,
       "chartRanks": {
         "spotify": 19
       }
     },
     {
-      "rank": 32,
-      "title": "Runaway",
-      "artist": "RESCENE",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Runaway%20MV%20official",
-      "score": 34.800000000000004,
+      "rank": 30,
+      "title": "Seven",
+      "artist": "Jung Kook",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official",
+      "score": 34.1,
       "chartRanks": {
-        "spotify": 27,
-        "youtube": 44
+        "spotify": 20
       }
     },
     {
-      "rank": 33,
+      "rank": 31,
       "title": "소문의 낙원 (Live)",
       "artist": "AKMU",
       "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20%EC%86%8C%EB%AC%B8%EC%9D%98%20%EB%82%99%EC%9B%90%20(Live)%20MV%20official",
@@ -351,7 +330,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 32,
       "title": "Catch Catch",
       "artist": "YENA",
       "youtubeUrl": "https://www.youtube.com/results?search_query=YENA%20Catch%20Catch%20MV%20official",
@@ -361,7 +340,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 33,
       "title": "IRIS OUT",
       "artist": "Kenshi Yonezu",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Kenshi%20Yonezu%20IRIS%20OUT%20MV%20official",
@@ -371,13 +350,33 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 34,
+      "title": "If I have you only (My love X Nerd Connection)",
+      "artist": "Nerd Connection",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Nerd%20Connection%20If%20I%20have%20you%20only%20(My%20love%20X%20Nerd%20Connection)%20MV%20official",
+      "score": 31.900000000000002,
+      "chartRanks": {
+        "spotify": 22
+      }
+    },
+    {
+      "rank": 35,
       "title": "Don’t Say You Love Me",
       "artist": "Jin",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Jin%20Don%E2%80%99t%20Say%20You%20Love%20Me%20MV%20official",
       "score": 30.800000000000004,
       "chartRanks": {
         "spotify": 23
+      }
+    },
+    {
+      "rank": 36,
+      "title": "BOOMPALA",
+      "artist": "LE SSERAFIM",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=LE%20SSERAFIM%20BOOMPALA%20MV%20official",
+      "score": 30,
+      "chartRanks": {
+        "youtube": 26
       }
     },
     {
@@ -392,6 +391,17 @@
     },
     {
       "rank": 38,
+      "title": "Runaway",
+      "artist": "RESCENE",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Runaway%20MV%20official",
+      "score": 29.300000000000004,
+      "chartRanks": {
+        "spotify": 32,
+        "youtube": 44
+      }
+    },
+    {
+      "rank": 39,
       "title": "Blue Valentine",
       "artist": "NMIXX",
       "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Blue%20Valentine%20MV%20official",
@@ -401,7 +411,17 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
+      "title": "Forever Has Always Been",
+      "artist": "Redoor",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Redoor%20Forever%20Has%20Always%20Been%20MV%20official",
+      "score": 28.6,
+      "chartRanks": {
+        "spotify": 25
+      }
+    },
+    {
+      "rank": 41,
       "title": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "artist": "aespa",
       "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20WDA%20(Whole%20Different%20Animal)%20(feat.%20G-DRAGON)%20MV%20official",
@@ -411,7 +431,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 42,
       "title": "SWIM",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20SWIM%20MV%20official",
@@ -421,7 +441,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 43,
       "title": "KISS N TELL",
       "artist": "aespa",
       "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20KISS%20N%20TELL%20MV%20official",
@@ -431,17 +451,7 @@
       }
     },
     {
-      "rank": 42,
-      "title": "We Are",
-      "artist": "Woo",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Woo%20We%20Are%20MV%20official",
-      "score": 25.3,
-      "chartRanks": {
-        "spotify": 28
-      }
-    },
-    {
-      "rank": 43,
+      "rank": 44,
       "title": "BANG BANG",
       "artist": "IVE",
       "youtubeUrl": "https://www.youtube.com/results?search_query=IVE%20BANG%20BANG%20MV%20official",
@@ -451,7 +461,17 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
+      "title": "for lovers who hesitate",
+      "artist": "JANNABI",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=JANNABI%20for%20lovers%20who%20hesitate%20MV%20official",
+      "score": 24.200000000000003,
+      "chartRanks": {
+        "spotify": 29
+      }
+    },
+    {
+      "rank": 46,
       "title": "TIME CAPSULE",
       "artist": "DAVICHI",
       "youtubeUrl": "https://www.youtube.com/results?search_query=DAVICHI%20TIME%20CAPSULE%20MV%20official",
@@ -461,17 +481,17 @@
       }
     },
     {
-      "rank": 45,
-      "title": "Forever Has Always Been",
-      "artist": "Redoor",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Redoor%20Forever%20Has%20Always%20Been%20MV%20official",
+      "rank": 47,
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me%20MV%20official",
       "score": 23.1,
       "chartRanks": {
         "spotify": 30
       }
     },
     {
-      "rank": 46,
+      "rank": 48,
       "title": "NORMAL",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20NORMAL%20MV%20official",
@@ -481,17 +501,7 @@
       }
     },
     {
-      "rank": 47,
-      "title": "Paradise of Rumors",
-      "artist": "AKMU",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official",
-      "score": 22,
-      "chartRanks": {
-        "spotify": 31
-      }
-    },
-    {
-      "rank": 48,
+      "rank": 49,
       "title": "Dynamite",
       "artist": "BTS",
       "youtubeUrl": "https://www.youtube.com/results?search_query=BTS%20Dynamite%20MV%20official",
@@ -501,20 +511,10 @@
       }
     },
     {
-      "rank": 49,
-      "title": "for lovers who hesitate",
-      "artist": "JANNABI",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=JANNABI%20for%20lovers%20who%20hesitate%20MV%20official",
-      "score": 20.900000000000002,
-      "chartRanks": {
-        "spotify": 32
-      }
-    },
-    {
       "rank": 50,
-      "title": "yours",
-      "artist": "데이먼스 이어 Damons year",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A8%BC%EC%8A%A4%20%EC%9D%B4%EC%96%B4%20Damons%20year%20yours%20MV%20official",
+      "title": "Paradise of Rumors",
+      "artist": "AKMU",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official",
       "score": 19.8,
       "chartRanks": {
         "spotify": 33
@@ -537,63 +537,63 @@
     },
     {
       "rank": 3,
-      "title": "Pretty Girl",
-      "artist": "RESCENE",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Pretty%20Girl%20MV%20official"
-    },
-    {
-      "rank": 4,
       "title": "Less than a Lover",
       "artist": "JENNIE",
       "youtubeUrl": "https://www.youtube.com/results?search_query=JENNIE%20Less%20than%20a%20Lover%20MV%20official"
     },
     {
-      "rank": 5,
-      "title": "It's Me",
-      "artist": "ILLIT",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20It's%20Me%20MV%20official"
+      "rank": 4,
+      "title": "Pretty Girl",
+      "artist": "RESCENE",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Pretty%20Girl%20MV%20official"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "LEMONADE",
       "artist": "aespa",
       "youtubeUrl": "https://www.youtube.com/results?search_query=aespa%20LEMONADE%20MV%20official"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Who",
       "artist": "Jimin",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Jimin%20Who%20MV%20official"
     },
     {
-      "rank": 8,
-      "title": "0+0",
-      "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%200%2B0%20MV%20official"
+      "rank": 7,
+      "title": "It's Me",
+      "artist": "ILLIT",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20It's%20Me%20MV%20official"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Lemon Tang",
       "artist": "Hearts2Hearts",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20Lemon%20Tang%20MV%20official"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "BAD",
       "artist": "ATEEZ",
       "youtubeUrl": "https://www.youtube.com/results?search_query=ATEEZ%20BAD%20MV%20official"
     },
     {
+      "rank": 10,
+      "title": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "artist": "Post Malone",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Post%20Malone%20Sunflower%20-%20Spider-Man%3A%20Into%20the%20Spider-Verse%20MV%20official"
+    },
+    {
       "rank": 11,
-      "title": "Suddenly",
-      "artist": "I.O.I",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=I.O.I%20Suddenly%20MV%20official"
+      "title": "0+0",
+      "artist": "HANRORO",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%200%2B0%20MV%20official"
     },
     {
       "rank": 12,
-      "title": "Landing in Love",
-      "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official"
+      "title": "Deja Vu",
+      "artist": "RESCENE",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Deja%20Vu%20MV%20official"
     },
     {
       "rank": 13,
@@ -603,21 +603,21 @@
     },
     {
       "rank": 14,
-      "title": "Deja Vu",
-      "artist": "RESCENE",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Deja%20Vu%20MV%20official"
+      "title": "Suddenly",
+      "artist": "I.O.I",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=I.O.I%20Suddenly%20MV%20official"
     },
     {
       "rank": 15,
-      "title": "Let Me Love My Youth",
+      "title": "Landing in Love",
       "artist": "HANRORO",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official"
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Landing%20in%20Love%20MV%20official"
     },
     {
       "rank": 16,
-      "title": "Drowning",
-      "artist": "WOODZ",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official"
+      "title": "Vitamin ME",
+      "artist": "fromis_9",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=fromis_9%20Vitamin%20ME%20MV%20official"
     },
     {
       "rank": 17,
@@ -627,21 +627,21 @@
     },
     {
       "rank": 18,
-      "title": "If I have you only (My love X Nerd Connection)",
-      "artist": "Nerd Connection",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Nerd%20Connection%20If%20I%20have%20you%20only%20(My%20love%20X%20Nerd%20Connection)%20MV%20official"
+      "title": "Let Me Love My Youth",
+      "artist": "HANRORO",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=HANRORO%20Let%20Me%20Love%20My%20Youth%20MV%20official"
     },
     {
       "rank": 19,
-      "title": "Seven",
-      "artist": "Jung Kook",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official"
+      "title": "Drowning",
+      "artist": "WOODZ",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=WOODZ%20Drowning%20MV%20official"
     },
     {
       "rank": 20,
-      "title": "Vitamin ME",
-      "artist": "fromis_9",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=fromis_9%20Vitamin%20ME%20MV%20official"
+      "title": "Seven",
+      "artist": "Jung Kook",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Jung%20Kook%20Seven%20MV%20official"
     },
     {
       "rank": 21,
@@ -651,9 +651,9 @@
     },
     {
       "rank": 22,
-      "title": "Bansanka",
-      "artist": "TAEYEON",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=TAEYEON%20Bansanka%20MV%20official"
+      "title": "If I have you only (My love X Nerd Connection)",
+      "artist": "Nerd Connection",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Nerd%20Connection%20If%20I%20have%20you%20only%20(My%20love%20X%20Nerd%20Connection)%20MV%20official"
     },
     {
       "rank": 23,
@@ -669,9 +669,9 @@
     },
     {
       "rank": 25,
-      "title": "Heavy Serenade",
-      "artist": "NMIXX",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Heavy%20Serenade%20MV%20official"
+      "title": "Forever Has Always Been",
+      "artist": "Redoor",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Redoor%20Forever%20Has%20Always%20Been%20MV%20official"
     },
     {
       "rank": 26,
@@ -681,147 +681,147 @@
     },
     {
       "rank": 27,
-      "title": "Runaway",
-      "artist": "RESCENE",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Runaway%20MV%20official"
+      "title": "Heavy Serenade",
+      "artist": "NMIXX",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NMIXX%20Heavy%20Serenade%20MV%20official"
     },
     {
       "rank": 28,
-      "title": "We Are",
-      "artist": "Woo",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Woo%20We%20Are%20MV%20official"
+      "title": "Bansanka",
+      "artist": "TAEYEON",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=TAEYEON%20Bansanka%20MV%20official"
     },
     {
       "rank": 29,
-      "title": "Love Love Love",
-      "artist": "Epik High",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Epik%20High%20Love%20Love%20Love%20MV%20official"
-    },
-    {
-      "rank": 30,
-      "title": "Forever Has Always Been",
-      "artist": "Redoor",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Redoor%20Forever%20Has%20Always%20Been%20MV%20official"
-    },
-    {
-      "rank": 31,
-      "title": "Paradise of Rumors",
-      "artist": "AKMU",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official"
-    },
-    {
-      "rank": 32,
       "title": "for lovers who hesitate",
       "artist": "JANNABI",
       "youtubeUrl": "https://www.youtube.com/results?search_query=JANNABI%20for%20lovers%20who%20hesitate%20MV%20official"
     },
     {
+      "rank": 30,
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Ariana%20Grande%20hate%20that%20i%20made%20you%20love%20me%20MV%20official"
+    },
+    {
+      "rank": 31,
+      "title": "Love Love Love",
+      "artist": "Epik High",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Epik%20High%20Love%20Love%20Love%20MV%20official"
+    },
+    {
+      "rank": 32,
+      "title": "Runaway",
+      "artist": "RESCENE",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=RESCENE%20Runaway%20MV%20official"
+    },
+    {
       "rank": 33,
-      "title": "yours",
-      "artist": "데이먼스 이어 Damons year",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A8%BC%EC%8A%A4%20%EC%9D%B4%EC%96%B4%20Damons%20year%20yours%20MV%20official"
+      "title": "Paradise of Rumors",
+      "artist": "AKMU",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=AKMU%20Paradise%20of%20Rumors%20MV%20official"
     },
     {
       "rank": 34,
+      "title": "We Are",
+      "artist": "Woo",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Woo%20We%20Are%20MV%20official"
+    },
+    {
+      "rank": 35,
       "title": "STYLE",
       "artist": "Hearts2Hearts",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20STYLE%20MV%20official"
     },
     {
-      "rank": 35,
-      "title": "Magnetic",
-      "artist": "ILLIT",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20Magnetic%20MV%20official"
+      "rank": 36,
+      "title": "yours",
+      "artist": "데이먼스 이어 Damons year",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A8%BC%EC%8A%A4%20%EC%9D%B4%EC%96%B4%20Damons%20year%20yours%20MV%20official"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "晩餐歌",
       "artist": "tuki.",
       "youtubeUrl": "https://www.youtube.com/results?search_query=tuki.%20%E6%99%A9%E9%A4%90%E6%AD%8C%20MV%20official"
     },
     {
-      "rank": 37,
-      "title": "‎Good Night Good Dream",
-      "artist": "Nerd Connection",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Nerd%20Connection%20%E2%80%8EGood%20Night%20Good%20Dream%20MV%20official"
-    },
-    {
       "rank": 38,
-      "title": "GO!",
-      "artist": "CORTIS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=CORTIS%20GO!%20MV%20official"
-    },
-    {
-      "rank": 39,
-      "title": "ACAI",
-      "artist": "CORTIS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=CORTIS%20ACAI%20MV%20official"
-    },
-    {
-      "rank": 40,
-      "title": "Beauty And A Beat",
-      "artist": "Justin Bieber",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Justin%20Bieber%20Beauty%20And%20A%20Beat%20MV%20official"
-    },
-    {
-      "rank": 41,
-      "title": "KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki)",
-      "artist": "NOWIMYOUNG",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20KISS%20KISS%20KISS%20(Feat.%20SUNWOO%20(THE%20BOYZ))%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official"
-    },
-    {
-      "rank": 42,
-      "title": "Endangered Love",
-      "artist": "LEE CHANHYUK",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=LEE%20CHANHYUK%20Endangered%20Love%20MV%20official"
-    },
-    {
-      "rank": 43,
-      "title": "FLYING HIGH WITH U",
-      "artist": "VINXEN",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=VINXEN%20FLYING%20HIGH%20WITH%20U%20MV%20official"
-    },
-    {
-      "rank": 44,
-      "title": "Eternal Moment",
-      "artist": "Lim Young Woong",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Young%20Woong%20Eternal%20Moment%20MV%20official"
-    },
-    {
-      "rank": 45,
-      "title": "112",
-      "artist": "HEEDAE",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=HEEDAE%20112%20MV%20official"
-    },
-    {
-      "rank": 46,
-      "title": "BOOMPALA",
-      "artist": "LE SSERAFIM",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=LE%20SSERAFIM%20BOOMPALA%20MV%20official"
-    },
-    {
-      "rank": 47,
-      "title": "FaSHioN",
-      "artist": "CORTIS",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=CORTIS%20FaSHioN%20MV%20official"
-    },
-    {
-      "rank": 48,
       "title": "FOCUS",
       "artist": "Hearts2Hearts",
       "youtubeUrl": "https://www.youtube.com/results?search_query=Hearts2Hearts%20FOCUS%20MV%20official"
     },
     {
+      "rank": 39,
+      "title": "Please Summer!",
+      "artist": "BOL4",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=BOL4%20Please%20Summer!%20MV%20official"
+    },
+    {
+      "rank": 40,
+      "title": "‎Good Night Good Dream",
+      "artist": "Nerd Connection",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Nerd%20Connection%20%E2%80%8EGood%20Night%20Good%20Dream%20MV%20official"
+    },
+    {
+      "rank": 41,
+      "title": "GO!",
+      "artist": "CORTIS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=CORTIS%20GO!%20MV%20official"
+    },
+    {
+      "rank": 42,
+      "title": "Magnetic",
+      "artist": "ILLIT",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=ILLIT%20Magnetic%20MV%20official"
+    },
+    {
+      "rank": 43,
+      "title": "ACAI",
+      "artist": "CORTIS",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=CORTIS%20ACAI%20MV%20official"
+    },
+    {
+      "rank": 44,
+      "title": "FLYING HIGH WITH U",
+      "artist": "VINXEN",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=VINXEN%20FLYING%20HIGH%20WITH%20U%20MV%20official"
+    },
+    {
+      "rank": 45,
+      "title": "Eternal Moment",
+      "artist": "Lim Young Woong",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Lim%20Young%20Woong%20Eternal%20Moment%20MV%20official"
+    },
+    {
+      "rank": 46,
+      "title": "Endangered Love",
+      "artist": "LEE CHANHYUK",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=LEE%20CHANHYUK%20Endangered%20Love%20MV%20official"
+    },
+    {
+      "rank": 47,
+      "title": "KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki)",
+      "artist": "NOWIMYOUNG",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=NOWIMYOUNG%20KISS%20KISS%20KISS%20(Feat.%20SUNWOO%20(THE%20BOYZ))%20(Prod.%20by%20Hukky%20Shibaseki)%20MV%20official"
+    },
+    {
+      "rank": 48,
+      "title": "Beauty And A Beat",
+      "artist": "Justin Bieber",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Justin%20Bieber%20Beauty%20And%20A%20Beat%20MV%20official"
+    },
+    {
       "rank": 49,
-      "title": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "artist": "Post Malone",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=Post%20Malone%20Sunflower%20-%20Spider-Man%3A%20Into%20the%20Spider-Verse%20MV%20official"
+      "title": "Animal",
+      "artist": "KATSEYE",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=KATSEYE%20Animal%20MV%20official"
     },
     {
       "rank": 50,
-      "title": "아크라포빅 (Akrapovic)",
-      "artist": "hamo",
-      "youtubeUrl": "https://www.youtube.com/results?search_query=hamo%20%EC%95%84%ED%81%AC%EB%9D%BC%ED%8F%AC%EB%B9%85%20(Akrapovic)%20MV%20official"
+      "title": "Surfin' Boy",
+      "artist": "Red Velvet",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=Red%20Velvet%20Surfin'%20Boy%20MV%20official"
     }
   ],
   "youtube": [

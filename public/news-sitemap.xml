@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/august-boy-group-brand-reputation-rankings-announced/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T02:25:26.000Z</news:publication_date>
+      <news:title>BTS Tops August Boy Group Brand Rankings</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, SEVENTEEN, Stray Kids</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/viral-boy-group-sparks-shock-after-saying-fck-ice-in-new-son/</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       <news:publication_date>2026-08-06T03:47:51.000Z</news:publication_date>
       <news:title>Two  Popular Celebrities With The Same Name Finally Work Together, Sparks Massive Response</news:title>
       <news:keywords>Concert, Awards, Charts, MV, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-fans-sister-confirms-her-passing-shares-update/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T20:19:18.000Z</news:publication_date>
-      <news:title>ENHYPEN Fan’s Sister Confirms Her Passing, Shares Update</news:title>
-      <news:keywords>ENHYPEN, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/feels-like-a-terminal-diagnosis-korean-actress-opens-up-abou/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T18:33:45.000Z</news:publication_date>
-      <news:title>“Feels Like A Terminal Diagnosis” — Korean Actress Opens Up About Her Heartbreaking Struggles</news:title>
-      <news:keywords>Hwang Bo-ra, IVF, Korean Actress, Fertility Issues, Infertility Awareness</news:keywords>
     </news:news>
   </url>
 </urlset>
