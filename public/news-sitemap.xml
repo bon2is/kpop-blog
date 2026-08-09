@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-stray-kids-proves-theyve-got-this-that-in-new-dance-pr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T14:24:11.000Z</news:publication_date>
+      <news:title>Stray Kids Drops Surprise Dance Video</news:title>
+      <news:keywords>BTS, BLACKPINK, Stray Kids, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stars-rock-the-blue-carpet-at-2026-sbs-gayo-daejeon-summer/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T10:29:35.000Z</news:publication_date>
+      <news:title>K-Pop Stars Shine At 2026 SBS Gayo Daejeon Summer</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, EXO, NCT</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/weis-kim-dong-han-announces-military-enlistment-date-in-hear/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T09:32:58.000Z</news:publication_date>
+      <news:title>WEi&apos;s Kim Dong Han Enlists In Military</news:title>
+      <news:keywords>BTS, EXO, SHINee, WEi, Kim Dong Han</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/arirang-breaks-btss-personal-record-from-7-years-ago-on-uks-/</loc>
     <news:news>
       <news:publication>

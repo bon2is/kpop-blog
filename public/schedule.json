@@ -1,19 +1,15 @@
 {
-  "lastUpdated": "2026-08-09T14:34:48.142Z",
+  "lastUpdated": "2026-08-09T17:34:02.130Z",
   "events": [
     {
-      "id": "broadcast-inkigayo-2026-08-09",
-      "date": "2026-08-09",
-      "time": "15:40",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Inkigayo",
-      "description": "SBS Inkigayo weekly music show",
-      "source": "recurring",
+      "id": "soompi-2-2026-08-10",
+      "date": "2026-08-10",
+      "type": "comeback",
+      "artist": "BIGBANG",
+      "title": "BIGBANG Announces August Comeback Date With 1st Teasers For &#8220;BiiiG&#8221;",
+      "source": "soompi",
       "links": {
-        "youtube": "https://www.youtube.com/@SBSenter",
-        "official": "https://programs.sbs.co.kr"
+        "official": "https://www.soompi.com/article/1861360wpp/bigbang-announces-august-comeback-date-with-1st-teasers-for-biiig"
       }
     },
     {
@@ -314,6 +310,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-09-09",
+      "date": "2026-09-09",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
