@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-rescene-takes-3rd-win-for-pretty-girl-on-music-core-pe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T23:55:38.000Z</news:publication_date>
+      <news:title>RESCENE Breaks Record With 3rd Win For &apos;Pretty Girl&apos;</news:title>
+      <news:keywords>BLACKPINK, Red Velvet, SEVENTEEN, Stray Kids, ATEEZ</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/boy-group-member-desperate-for-remarriage-goes-on-blind-date/</loc>
     <news:news>
       <news:publication>
@@ -155,42 +167,6 @@
       <news:publication_date>2026-08-07T08:11:26.000Z</news:publication_date>
       <news:title>AND2BLE&apos;s Kim Gyuvin &amp; TWS&apos;s Dohoon Leave Music Core</news:title>
       <news:keywords>TWS, Debut, AND2BLE, Music Core, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/lee-dae-hwi-signs-with-wanna-one-bandmate-kim-jae-hwans-agen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T03:04:47.000Z</news:publication_date>
-      <news:title>Lee Dae Hwi Joins Kim Jae Hwan At Off The Record</news:title>
-      <news:keywords>Debut, Charts, Lee Dae Hwi, Kim Jae Hwan, Off The Record Entertainment</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/all-4-members-of-blackpink-confirmed-to-be-attending-10th-an/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T01:47:32.000Z</news:publication_date>
-      <news:title>BLACKPINK Confirms 10th Anniversary Event</news:title>
-      <news:keywords>BLACKPINK, Debut, Charts, MV, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-seungmin-to-sit-out-certain-comeback-promotions-d/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T00:09:59.000Z</news:publication_date>
-      <news:title>Stray Kids&apos; Seungmin Sits Out Promotions</news:title>
-      <news:keywords>Stray Kids, Comeback, Debut, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 17:33:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 03:26:57 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>RESCENE Breaks Record With 3rd Win For &apos;Pretty Girl&apos;</title>
+      <link>https://kpop.andxo.com/article/watch-rescene-takes-3rd-win-for-pretty-girl-on-music-core-pe/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/watch-rescene-takes-3rd-win-for-pretty-girl-on-music-core-pe/</guid>
+      <description>RESCENE wins 3rd trophy for &apos;Pretty Girl&apos; on Music Core!</description>
+      <pubDate>Sat, 08 Aug 2026 23:55:38 GMT</pubDate>
+      <category>drama</category>
+      <category>BLACKPINK</category>
+      <category>Red Velvet</category>
+      <category>SEVENTEEN</category>
+      <category>Stray Kids</category>
+      <category>ATEEZ</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-rescene-takes-3rd-win-for-pretty-girl-on-music-core-pe.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-rescene-takes-3rd-win-for-pretty-girl-on-music-core-pe.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/watch-rescene-takes-3rd-win-for-pretty-girl-on-music-core-pe.webp" />
+    </item>
     <item>
       <title>K-Pop Star Seeks Love On Blind Date</title>
       <link>https://kpop.andxo.com/article/boy-group-member-desperate-for-remarriage-goes-on-blind-date/</link>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-v-scouting-hybes-next-girl-group-idol-on-instagram.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-v-scouting-hybes-next-girl-group-idol-on-instagram.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-v-scouting-hybes-next-girl-group-idol-on-instagram.webp" />
-    </item>
-    <item>
-      <title>BTS Jungkook’s Public Shoutout Immediately Reaches Film Director</title>
-      <link>https://kpop.andxo.com/article/bts-jungkooks-public-shoutout-immediately-reaches-film-direc/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/bts-jungkooks-public-shoutout-immediately-reaches-film-direc/</guid>
-      <description>BTS Jungkook&apos;s public shoutout reaches film director, sparking excitement among fans.</description>
-      <pubDate>Tue, 28 Jul 2026 08:57:07 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>Debut</category>
-      <category>Charts</category>
-      <category>MV</category>
-      <category>Tour</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-jungkooks-public-shoutout-immediately-reaches-film-direc.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-jungkooks-public-shoutout-immediately-reaches-film-direc.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-jungkooks-public-shoutout-immediately-reaches-film-direc.webp" />
     </item>
   </channel>
 </rss>
