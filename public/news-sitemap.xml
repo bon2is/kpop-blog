@@ -145,16 +145,4 @@
       <news:keywords>Stray Kids, Comeback, Debut, Concert, Charts</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/august-boy-group-brand-reputation-rankings-announced/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T02:25:26.000Z</news:publication_date>
-      <news:title>BTS Tops August Boy Group Brand Rankings</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, SEVENTEEN, Stray Kids</news:keywords>
-    </news:news>
-  </url>
 </urlset>
