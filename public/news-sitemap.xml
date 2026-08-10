@@ -14,6 +14,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/twices-jeongyeon-personally-confirms-departure-from-jyp-sign/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T04:36:42.000Z</news:publication_date>
+      <news:title>TWICE&apos;s Jeongyeon Breaks News: Leaving JYP Entertainment</news:title>
+      <news:keywords>TWICE, Debut, Awards, Charts, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/pentagon-announces-stops-for-10th-anniversary-tour-101010/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +35,18 @@
       <news:publication_date>2026-08-10T03:34:35.000Z</news:publication_date>
       <news:title>PENTAGON Reveals 10th Anniversary Tour &apos;101010&apos; Dates</news:title>
       <news:keywords>Concert, Tour, PENTAGON, K-Pop, 10th Anniversary Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/close-your-eyes-confirms-comeback-plans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T02:22:46.000Z</news:publication_date>
+      <news:title>CLOSE YOUR EYES Confirms Comeback Plans</news:title>
+      <news:keywords>Comeback, Concert, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -95,30 +119,6 @@
       <news:publication_date>2026-08-08T23:55:38.000Z</news:publication_date>
       <news:title>RESCENE Breaks Record With 3rd Win For &apos;Pretty Girl&apos;</news:title>
       <news:keywords>BLACKPINK, Red Velvet, SEVENTEEN, Stray Kids, ATEEZ</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/boy-group-member-desperate-for-remarriage-goes-on-blind-date/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T15:31:42.000Z</news:publication_date>
-      <news:title>K-Pop Star Seeks Love On Blind Date</news:title>
-      <news:keywords>BTS, BLACKPINK, Charts, K-Pop, Blind Date</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-former-k-pop-girl-group-member-who-was-kidnapped-and-bea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T15:02:25.000Z</news:publication_date>
-      <news:title>K-Pop Star Kidnapped By Manager</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, (G)I-DLE, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>

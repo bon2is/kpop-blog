@@ -1,28 +1,6 @@
 {
-  "lastUpdated": "2026-08-10T14:59:05.838Z",
+  "lastUpdated": "2026-08-10T17:53:43.886Z",
   "events": [
-    {
-      "id": "soompi-12-2026-08-10",
-      "date": "2026-08-10",
-      "type": "concert",
-      "artist": "IVE",
-      "title": "PENTAGON Announces Stops For 10th Anniversary Tour &#8220;101010&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010"
-      }
-    },
-    {
-      "id": "soompi-24-2026-08-10",
-      "date": "2026-08-10",
-      "type": "comeback",
-      "artist": "BIGBANG",
-      "title": "BIGBANG Announces August Comeback Date With 1st Teasers For &#8220;BiiiG&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1861360wpp/bigbang-announces-august-comeback-date-with-1st-teasers-for-biiig"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-08-12",
       "date": "2026-08-12",
@@ -336,6 +314,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-09-10",
+      "date": "2026-09-10",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
