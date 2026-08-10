@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-influencers-try-to-send-food-to-btss-jungkook-sparks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T10:02:53.000Z</news:publication_date>
+      <news:title>BTS&apos;s Jungkook Sparks Debate</news:title>
+      <news:keywords>BTS, Charts, Jungkook, K-Pop, Fan Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/pentagon-announces-stops-for-10th-anniversary-tour-101010/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T03:34:35.000Z</news:publication_date>
+      <news:title>PENTAGON Reveals 10th Anniversary Tour &apos;101010&apos; Dates</news:title>
+      <news:keywords>Concert, Tour, PENTAGON, K-Pop, 10th Anniversary Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-stray-kids-proves-theyve-got-this-that-in-new-dance-pr/</loc>
     <news:news>
       <news:publication>
@@ -107,42 +131,6 @@
       <news:publication_date>2026-08-08T14:31:37.000Z</news:publication_date>
       <news:title>Red Velvet&apos;s Irene Reveals Truth On YouTube Aspirations</news:title>
       <news:keywords>Red Velvet, Debut, Irene, K-Pop, YouTube</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jisoo-issues-written-apology-to-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T07:31:07.000Z</news:publication_date>
-      <news:title>BLACKPINK&apos;s Jisoo Breaks Silence With Apology</news:title>
-      <news:keywords>BLACKPINK, Charts, K-Drama, Jisoo, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ji-sung-and-his-squad-of-masked-moms-take-to-youtube-for-liv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T06:01:34.000Z</news:publication_date>
-      <news:title>Ji Sung Stuns Fans With YouTube Exposé</news:title>
-      <news:keywords>K-Drama, Ji Sung, The Apartment Job, YouTube, JTBC</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-tops-youtube-and-itunes-charts-all-over-the-world/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T04:44:31.000Z</news:publication_date>
-      <news:title>Stray Kids Breaks Record With &apos;THIS &amp; THAT&apos; Comeback</news:title>
-      <news:keywords>Stray Kids, Comeback, Debut, Concert, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>

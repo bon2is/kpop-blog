@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-10T03:46:18.979Z",
+  "lastUpdated": "2026-08-10T12:41:18.342Z",
   "events": [
     {
-      "id": "soompi-11-2026-08-10",
+      "id": "soompi-12-2026-08-10",
+      "date": "2026-08-10",
+      "type": "concert",
+      "artist": "IVE",
+      "title": "PENTAGON Announces Stops For 10th Anniversary Tour &#8220;101010&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010"
+      }
+    },
+    {
+      "id": "soompi-24-2026-08-10",
       "date": "2026-08-10",
       "type": "comeback",
       "artist": "BIGBANG",
