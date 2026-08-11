@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-11T14:57:02.783Z",
+  "lastUpdated": "2026-08-11T17:58:58.768Z",
   "events": [
+    {
+      "id": "soompi-1-2026-08-12",
+      "date": "2026-08-12",
+      "type": "comeback",
+      "artist": "IVE",
+      "title": "Watch: VERIVERY Announces Comeback Date With Hilarious Teaser For &#8220;CONFETTI&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1862193wpp/watch-verivery-announces-comeback-date-with-hilarious-teaser-for-confetti"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-08-12",
       "date": "2026-08-12",
@@ -329,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-09-11",
+      "date": "2026-09-11",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
       }
     }
   ]
