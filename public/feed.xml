@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 03:29:35 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BLACKPINK Slammed Over Expensive Fan Tribute</title>
+      <link>https://kpop.andxo.com/article/blackpink-gets-slammed-over-cheap-fan-tribute/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpink-gets-slammed-over-cheap-fan-tribute/</guid>
+      <description>BLACKPINK faces backlash for pricey fan gift</description>
+      <pubDate>Mon, 10 Aug 2026 22:40:24 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>Concert</category>
+      <category>Charts</category>
+      <category>Album</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-gets-slammed-over-cheap-fan-tribute.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-gets-slammed-over-cheap-fan-tribute.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-gets-slammed-over-cheap-fan-tribute.webp" />
+    </item>
     <item>
       <title>BTS&apos;s Jungkook Sparks Debate</title>
       <link>https://kpop.andxo.com/article/popular-influencers-try-to-send-food-to-btss-jungkook-sparks/</link>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp" />
-    </item>
-    <item>
-      <title>HYBE Idol Fans Flood Another Idol’s Account With Malicious Comments</title>
-      <link>https://kpop.andxo.com/article/hybe-idol-fans-flood-another-idols-account-with-malicious-co/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/hybe-idol-fans-flood-another-idols-account-with-malicious-co/</guid>
-      <description>HYBE idol fans spark controversy with malicious comments</description>
-      <pubDate>Wed, 29 Jul 2026 04:52:33 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>BLACKPINK</category>
-      <category>EXO</category>
-      <category>K-Pop</category>
-      <category>HYBE</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idol-fans-flood-another-idols-account-with-malicious-co.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idol-fans-flood-another-idols-account-with-malicious-co.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-idol-fans-flood-another-idols-account-with-malicious-co.webp" />
     </item>
   </channel>
 </rss>

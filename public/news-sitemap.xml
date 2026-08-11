@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpink-gets-slammed-over-cheap-fan-tribute/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T22:40:24.000Z</news:publication_date>
+      <news:title>BLACKPINK Slammed Over Expensive Fan Tribute</news:title>
+      <news:keywords>BTS, BLACKPINK, Concert, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-influencers-try-to-send-food-to-btss-jungkook-sparks/</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       <news:publication_date>2026-08-09T05:24:27.000Z</news:publication_date>
       <news:title>BTS Breaks 7-Year Record On UK Albums Chart</news:title>
       <news:keywords>BTS, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jisoo-breaks-down-in-tears-on-camera/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09T01:03:54.000Z</news:publication_date>
-      <news:title>Jisoo Breaks Down In Tears On Camera</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-rescene-takes-3rd-win-for-pretty-girl-on-music-core-pe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T23:55:38.000Z</news:publication_date>
-      <news:title>RESCENE Breaks Record With 3rd Win For &apos;Pretty Girl&apos;</news:title>
-      <news:keywords>BLACKPINK, Red Velvet, SEVENTEEN, Stray Kids, ATEEZ</news:keywords>
     </news:news>
   </url>
 </urlset>
