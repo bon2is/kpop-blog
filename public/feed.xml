@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 12:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:57:04 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -48,6 +48,23 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-ros-drops-lengthy-message-sparks-more-heated-deba.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-ros-drops-lengthy-message-sparks-more-heated-deba.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-ros-drops-lengthy-message-sparks-more-heated-deba.webp" />
+    </item>
+    <item>
+      <title>BLACKPINK&apos;s Lisa Sparks Debate</title>
+      <link>https://kpop.andxo.com/article/blackpink-lisas-alleged-recent-whereabouts-linked-to-rumored/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpink-lisas-alleged-recent-whereabouts-linked-to-rumored/</guid>
+      <description>BLACKPINK&apos;s Lisa sparks debate with alleged recent whereabouts</description>
+      <pubDate>Tue, 11 Aug 2026 06:20:19 GMT</pubDate>
+      <category>comeback</category>
+      <category>BLACKPINK</category>
+      <category>Album</category>
+      <category>Lisa</category>
+      <category>K-Pop</category>
+      <category>Celebrity Privacy</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisas-alleged-recent-whereabouts-linked-to-rumored.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisas-alleged-recent-whereabouts-linked-to-rumored.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpink-lisas-alleged-recent-whereabouts-linked-to-rumored.webp" />
     </item>
     <item>
       <title>BLACKPINK Slammed Over Expensive Fan Tribute</title>
@@ -1695,23 +1712,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-dethroned-by-rival-company-as-highest-earner-in-south-k.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-dethroned-by-rival-company-as-highest-earner-in-south-k.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/hybe-dethroned-by-rival-company-as-highest-earner-in-south-k.webp" />
-    </item>
-    <item>
-      <title>fromis_9 Announces 2026 Asia Tour “TOMORROW GLOW.”</title>
-      <link>https://kpop.andxo.com/article/fromis_9-announces-2026-asia-tour-tomorrow-glow/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/fromis_9-announces-2026-asia-tour-tomorrow-glow/</guid>
-      <description>fromis_9 announces their 2026 Asia tour &apos;TOMORROW GLOW&apos;</description>
-      <pubDate>Wed, 29 Jul 2026 11:32:15 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>BLACKPINK</category>
-      <category>Debut</category>
-      <category>Concert</category>
-      <category>Awards</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/fromis_9-announces-2026-asia-tour-tomorrow-glow.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/fromis_9-announces-2026-asia-tour-tomorrow-glow.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/fromis_9-announces-2026-asia-tour-tomorrow-glow.webp" />
     </item>
   </channel>
 </rss>
