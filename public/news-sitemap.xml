@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-swim-ties-record-for-their-longest-charting-song-on-bil/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T16:42:48.000Z</news:publication_date>
+      <news:title>BTS&apos;s &apos;SWIM&apos; Breaks Record On Billboard Hot 100</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seo-eun-soo-won-ji-an-and-cha-hee-return-with-bold-new-sides/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T12:01:53.000Z</news:publication_date>
+      <news:title>Seo Eun Soo, Won Ji An, And Cha Hee Return In &apos;Made In Korea 2&apos;</news:title>
+      <news:keywords>Charts, K-Drama, Made in Korea 2, Seo Eun Soo, Won Ji An</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-red-velvet-takes-1st-win-for-surfin-boy-on-show-champi/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +59,18 @@
       <news:publication_date>2026-08-12T08:50:22.000Z</news:publication_date>
       <news:title>BLACKPINK Jennie Stuns Fans With New Video Amidst Backlash</news:title>
       <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-normal-becomes-their-11th-top-40-hit-on-billboard-pop-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-11T21:25:43.000Z</news:publication_date>
+      <news:title>BTS Breaks Record With 11th Top 40 Hit</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
