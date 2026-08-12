@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-red-velvet-takes-1st-win-for-surfin-boy-on-show-champi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T11:50:25.000Z</news:publication_date>
+      <news:title>Red Velvet Wins 1st Trophy For &apos;Surfin&apos; Boy&apos;</news:title>
+      <news:keywords>Red Velvet, Stray Kids, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bts-jungkooks-comments-about-listening-to-black-artists-spar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T09:25:39.000Z</news:publication_date>
+      <news:title>BTS&apos;s Jungkook Sparks Attention With Comments On Black Artists</news:title>
+      <news:keywords>BTS, Awards, Charts, MV, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-jennies-new-video-hit-with-wave-of-brutal-backlash/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T08:50:22.000Z</news:publication_date>
+      <news:title>BLACKPINK Jennie Stuns Fans With New Video Amidst Backlash</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/sf9-celebrates-10th-anniversary-in-festive-teasers-for-full-/</loc>
     <news:news>
       <news:publication>
@@ -83,30 +119,6 @@
       <news:publication_date>2026-08-10T22:40:24.000Z</news:publication_date>
       <news:title>BLACKPINK Slammed Over Expensive Fan Tribute</news:title>
       <news:keywords>BTS, BLACKPINK, Concert, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-influencers-try-to-send-food-to-btss-jungkook-sparks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T10:02:53.000Z</news:publication_date>
-      <news:title>BTS&apos;s Jungkook Sparks Debate</news:title>
-      <news:keywords>BTS, Charts, Jungkook, K-Pop, Fan Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twices-jeongyeon-personally-confirms-departure-from-jyp-sign/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T04:36:42.000Z</news:publication_date>
-      <news:title>TWICE&apos;s Jeongyeon Breaks News: Leaving JYP Entertainment</news:title>
-      <news:keywords>TWICE, Debut, Awards, Charts, MV</news:keywords>
     </news:news>
   </url>
 </urlset>
