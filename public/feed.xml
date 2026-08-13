@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 04:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:42:28 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BTS&apos;s &apos;Fake Love&apos; Hits 1.4 Billion YouTube Views</title>
+      <link>https://kpop.andxo.com/article/btss-fake-love-becomes-their-6th-mv-to-hit-14-billion-views/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/btss-fake-love-becomes-their-6th-mv-to-hit-14-billion-views/</guid>
+      <description>BTS&apos;s &apos;Fake Love&apos; reaches 1.4 billion views on YouTube!</description>
+      <pubDate>Thu, 13 Aug 2026 08:21:32 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>Debut</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <category>Album</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-fake-love-becomes-their-6th-mv-to-hit-14-billion-views.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-fake-love-becomes-their-6th-mv-to-hit-14-billion-views.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/btss-fake-love-becomes-their-6th-mv-to-hit-14-billion-views.webp" />
+    </item>
     <item>
       <title>NCT 127 Stuns Fans With AGT Performance</title>
       <link>https://kpop.andxo.com/article/nct-127-to-perform-live-on-americas-got-talent/</link>
@@ -1696,23 +1713,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bts-announces-decision-to-forgo-grammy-submission.webp" />
-    </item>
-    <item>
-      <title>“Israeli Flag!” Viral Clip Of BTS Leads To Intense Criticism Towards Group</title>
-      <link>https://kpop.andxo.com/article/israeli-flag-viral-clip-of-bts-leads-to-intense-criticism-to/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/israeli-flag-viral-clip-of-bts-leads-to-intense-criticism-to/</guid>
-      <description>BTS sparks controversy with a viral clip from a past appearance</description>
-      <pubDate>Thu, 30 Jul 2026 11:55:22 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>Debut</category>
-      <category>Concert</category>
-      <category>Awards</category>
-      <category>Album</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/israeli-flag-viral-clip-of-bts-leads-to-intense-criticism-to.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/israeli-flag-viral-clip-of-bts-leads-to-intense-criticism-to.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/israeli-flag-viral-clip-of-bts-leads-to-intense-criticism-to.webp" />
     </item>
   </channel>
 </rss>

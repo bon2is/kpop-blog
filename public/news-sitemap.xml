@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/btss-fake-love-becomes-their-6th-mv-to-hit-14-billion-views/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T08:21:32.000Z</news:publication_date>
+      <news:title>BTS&apos;s &apos;Fake Love&apos; Hits 1.4 Billion YouTube Views</news:title>
+      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/nct-127-to-perform-live-on-americas-got-talent/</loc>
     <news:news>
       <news:publication>
@@ -131,66 +143,6 @@
       <news:publication_date>2026-08-11T15:13:25.000Z</news:publication_date>
       <news:title>SF9 Reveals Comeback Details For 10th Anniversary Album</news:title>
       <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/byun-yo-han-roh-jae-won-jo-woo-jin-yoon-kyung-ho-and-more-di/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T11:43:34.000Z</news:publication_date>
-      <news:title>Byun Yo Han Stuns Fans In “Tazza 4”</news:title>
-      <news:keywords>K-Drama, Tazza 4, Byun Yo Han, Korean Film, Gambling</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-v-sparks-shock-with-dramatic-physical-transformation-du/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T08:05:22.000Z</news:publication_date>
-      <news:title>BTS&apos;s V Stuns Fans With Dramatic Transformation</news:title>
-      <news:keywords>BTS, Debut, Concert, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-ros-drops-lengthy-message-sparks-more-heated-deba/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T06:41:07.000Z</news:publication_date>
-      <news:title>Rosé Sparks Debate With Emotional Message</news:title>
-      <news:keywords>BLACKPINK, Awards, Rosé, K-Pop, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cha-eun-woo-in-talks-for-new-drama-by-bon-apptit-your-majest/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T06:39:00.000Z</news:publication_date>
-      <news:title>Cha Eun Woo In Talks For New Drama</news:title>
-      <news:keywords>Comeback, Debut, Awards, K-Drama, Cha Eun Woo</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisas-alleged-recent-whereabouts-linked-to-rumored/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T06:20:19.000Z</news:publication_date>
-      <news:title>BLACKPINK&apos;s Lisa Sparks Debate</news:title>
-      <news:keywords>BLACKPINK, Album, Lisa, K-Pop, Celebrity Privacy</news:keywords>
     </news:news>
   </url>
 </urlset>

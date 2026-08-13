@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-13T04:04:03.695Z",
+  "lastUpdated": "2026-08-13T12:42:26.815Z",
   "events": [
+    {
+      "id": "soompi-10-2026-08-13",
+      "date": "2026-08-13",
+      "type": "other",
+      "artist": "Breaking",
+      "title": "Breaking: JYP Announces Gun-il&#8217;s Withdrawal From Xdinary Heroes",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1862678wpp/breaking-jyp-announces-gun-ils-withdrawal-from-xdinary-heroes"
+      }
+    },
+    {
+      "id": "soompi-12-2026-08-13",
+      "date": "2026-08-13",
+      "type": "other",
+      "artist": "TWICE",
+      "title": "TWICE&#8217;s Chaeyoung Announces Departure From JYP",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1862658wpp/twices-chaeyoung-announces-departure-from-jyp"
+      }
+    },
     {
       "id": "broadcast-m-countdown-2026-08-13",
       "date": "2026-08-13",
