@@ -1,43 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T14:57:05.421Z",
+  "lastUpdated": "2026-08-13T17:58:48.855Z",
   "events": [
-    {
-      "id": "soompi-10-2026-08-13",
-      "date": "2026-08-13",
-      "type": "other",
-      "artist": "Breaking",
-      "title": "Breaking: JYP Announces Gun-il&#8217;s Withdrawal From Xdinary Heroes",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1862678wpp/breaking-jyp-announces-gun-ils-withdrawal-from-xdinary-heroes"
-      }
-    },
-    {
-      "id": "soompi-12-2026-08-13",
-      "date": "2026-08-13",
-      "type": "other",
-      "artist": "TWICE",
-      "title": "TWICE&#8217;s Chaeyoung Announces Departure From JYP",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1862658wpp/twices-chaeyoung-announces-departure-from-jyp"
-      }
-    },
-    {
-      "id": "broadcast-m-countdown-2026-08-13",
-      "date": "2026-08-13",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "M Countdown",
-      "description": "Mnet weekly music countdown show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MnetMcountdown",
-        "official": "https://www.mnet.com"
-      }
-    },
     {
       "id": "broadcast-music-bank-2026-08-14",
       "date": "2026-08-14",
@@ -366,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@mbckpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-09-13",
+      "date": "2026-09-13",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
       }
     }
   ]
