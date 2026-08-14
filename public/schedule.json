@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-14T03:59:01.692Z",
+  "lastUpdated": "2026-08-14T12:38:06.966Z",
   "events": [
     {
-      "id": "soompi-7-2026-08-14",
+      "id": "soompi-6-2026-08-14",
+      "date": "2026-08-14",
+      "type": "other",
+      "artist": "Watch",
+      "title": "Watch: “Sixth Sense&#8221; Announces New Season With Yu Jae Seok, Song Eun Yi, Ko Kyung Pyo, And BIBI",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1862971wpp/watch-sixth-sense-announces-new-season-with-yu-jae-seok-song-eun-yi-ko-kyung-pyo-and-bibi"
+      }
+    },
+    {
+      "id": "soompi-17-2026-08-14",
       "date": "2026-08-14",
       "type": "other",
       "artist": "Update",
