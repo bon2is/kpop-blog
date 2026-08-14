@@ -1,0 +1,54 @@
+name: Deploy to Cloudflare Pages
+
+# Deploys code/config changes pushed to main.
+# News content updates (content/**, public/data/**, feeds) are built and deployed
+# by fetch-and-deploy.yml instead, so those paths are ignored here to avoid
+# double deploys. Manual code pushes (src/**, next.config.js, deps, etc.) land here.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'content/**'
+      - 'public/data/**'
+      - 'public/feed.xml'
+      - 'public/news-sitemap.xml'
+      - 'public/schedule.json'
+  workflow_dispatch:
+
+# A newer push cancels an in-flight deploy so only the latest state ships.
+concurrency:
+  group: cloudflare-pages-deploy
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: '20'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static site (out/)
+        run: npm run build
+        timeout-minutes: 20
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_PAGES_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy out --project-name=kpop --branch=main --commit-dirty=true

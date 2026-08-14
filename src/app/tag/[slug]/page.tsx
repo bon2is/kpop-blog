@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import AdBanner from '@/components/AdBanner';
 import { TagArticleList } from '@/components/TagArticleList';
-import { getArticlesByTag, getRelatedTags } from '@/lib/articles';
+import { getArticlesByTag, getRelatedTags, getAllTags } from '@/lib/articles';
 import type { ArticleSummary } from '@/types';
 import { getArtistByTag } from '@/lib/artists';
 import { Tag, Building2, Calendar, Newspaper } from 'lucide-react';
@@ -14,13 +14,11 @@ interface TagPageProps {
   params: { slug: string };
 }
 
-// 태그 페이지는 1,080개에 달해 빌드 폭증의 주범이었다. 하나도 미리 굽지 않고
-// 전부 첫 요청 시 온디맨드로 생성 후 CDN 캐시한다.
-export const dynamicParams = true;
-export const revalidate = false;
+// static export: 전체 태그 페이지를 빌드 타임에 생성한다(온디맨드 렌더 없음).
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  return [];
+  return getAllTags().map((tag) => ({ slug: tag }));
 }
 
 export async function generateMetadata({ params }: TagPageProps): Promise<Metadata> {

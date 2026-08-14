@@ -3,7 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { NextResponse } from 'next/server';
 
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
 
 interface ArticleMeta {
   slug: string;

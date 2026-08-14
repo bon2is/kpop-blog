@@ -107,7 +107,19 @@ jobs:
 
           git pull --rebase origin main || true
           git push
-          # Vercel GitHub Integration automatically detects this push and rebuilds the site
+
+      - name: Build static site (out/)
+        if: steps.git-check.outputs.changes == 'true'
+        run: npx next build
+        timeout-minutes: 20
+
+      - name: Deploy to Cloudflare Pages
+        if: steps.git-check.outputs.changes == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_PAGES_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy out --project-name=kpop --branch=main --commit-dirty=true
 
       - name: Post to Threads
         if: steps.git-check.outputs.changes == 'true'
@@ -158,10 +170,10 @@ jobs:
       - name: Notify IndexNow (Bing, Yahoo, Naver)
         if: steps.git-check.outputs.changes == 'true'
         run: |
-          # Wait for the Vercel deploy (triggered by the earlier push) to go live
-          # so crawlers fetching the submitted URLs get a 200, not a 404.
-          echo "Waiting 120s for Vercel deploy before pinging IndexNow..."
-          sleep 120
+          # The Cloudflare Pages deploy step above already completed synchronously,
+          # so submitted URLs resolve to 200. Small buffer for edge propagation.
+          echo "Waiting 30s for Cloudflare edge propagation before pinging IndexNow..."
+          sleep 30
           npm run ping-indexnow
         continue-on-error: true
 
