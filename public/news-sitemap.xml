@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/twices-chaeyoung-and-ziont-have-not-broken-up/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T02:45:20.000Z</news:publication_date>
+      <news:title>TWICE&apos;s Chaeyoung and Zion.T Deny Breakup Rumors</news:title>
+      <news:keywords>TWICE, IU, Chaeyoung, Zion.T, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/newjeans-first-official-brand-advertisement-post-ador-return/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T00:15:47.000Z</news:publication_date>
+      <news:title>NewJeans Stuns Fans With First Brand Ad Post-ADOR</news:title>
+      <news:keywords>NewJeans, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/former-hybe-trainee-gains-attention-for-latest-whereabouts/</loc>
     <news:news>
       <news:publication>
@@ -167,18 +191,6 @@
       <news:publication_date>2026-08-12T07:55:48.000Z</news:publication_date>
       <news:title>ALL(H)OURS Unveils Official Light Stick</news:title>
       <news:keywords>Debut, MV, Tour, ALL(H)OURS, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-normal-becomes-their-11th-top-40-hit-on-billboard-pop-r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T21:25:43.000Z</news:publication_date>
-      <news:title>BTS Breaks Record With 11th Top 40 Hit</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
