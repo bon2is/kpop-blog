@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/mark-lee-speaks-out-4-months-after-leaving-nct-and-sm-entert/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T13:54:33.000Z</news:publication_date>
+      <news:title>Mark Lee Breaks Silence After NCT Departure</news:title>
+      <news:keywords>NCT, Debut, Album, Mark Lee, SM Entertainment</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-male-and-female-idols-beef-on-live-tv/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-08-15T11:06:53.000Z</news:publication_date>
       <news:title>K-Pop Idols&apos; Surprising Live TV Feud</news:title>
       <news:keywords>Comeback, Awards, Charts, K-Drama, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-han-sits-out-music-core-live-broadcast-due-to-ski/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T07:52:19.000Z</news:publication_date>
+      <news:title>Stray Kids&apos; Han Sits Out Live Broadcast</news:title>
+      <news:keywords>Stray Kids, Charts, Han, K-Pop, Music Core</news:keywords>
     </news:news>
   </url>
   <url>
@@ -131,30 +155,6 @@
       <news:publication_date>2026-08-13T23:20:44.000Z</news:publication_date>
       <news:title>TXT To Headline Global Citizen Festival</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, TXT, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/former-hybe-trainee-gains-attention-for-latest-whereabouts/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T17:03:32.000Z</news:publication_date>
-      <news:title>Former HYBE Trainee Stuns Fans With Latest Update</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/its-embarrassing-girl-group-member-confesses-to-being-expell/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T15:12:42.000Z</news:publication_date>
-      <news:title>K-Pop Idol Opens Up About University Expulsion</news:title>
-      <news:keywords>Comeback, Album, MV, K-Pop, Mental Health</news:keywords>
     </news:news>
   </url>
 </urlset>
