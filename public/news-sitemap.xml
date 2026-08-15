@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-male-and-female-idols-beef-on-live-tv/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T11:06:53.000Z</news:publication_date>
+      <news:title>K-Pop Idols&apos; Surprising Live TV Feud</news:title>
+      <news:keywords>Comeback, Awards, Charts, K-Drama, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/korean-star-shocks-with-sudden-reveal-of-doctor-boyfriend/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T04:31:59.000Z</news:publication_date>
+      <news:title>Korean Star Maeng Seung Ji Reveals Doctor Boyfriend</news:title>
+      <news:keywords>Maeng Seung Ji, Korean Entertainment, Celebrity News, K-Pop Culture</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ultimate-queen-of-body-management-flaunts-her-glamorous-figu/</loc>
     <news:news>
       <news:publication>
@@ -131,42 +155,6 @@
       <news:publication_date>2026-08-13T15:12:42.000Z</news:publication_date>
       <news:title>K-Pop Idol Opens Up About University Expulsion</news:title>
       <news:keywords>Comeback, Album, MV, K-Pop, Mental Health</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-4-member-performance-on-the-tonight-show-hit-with-wa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T09:40:12.000Z</news:publication_date>
-      <news:title>KATSEYE Stuns Fans With Tonight Show Performance</news:title>
-      <news:keywords>Comeback, Debut, Concert, Charts, KATSEYE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-fake-love-becomes-their-6th-mv-to-hit-14-billion-views/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T08:21:32.000Z</news:publication_date>
-      <news:title>BTS&apos;s &apos;Fake Love&apos; Hits 1.4 Billion YouTube Views</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/breaking-jyp-announces-gun-ils-withdrawal-from-xdinary-heroe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T06:35:45.000Z</news:publication_date>
-      <news:title>Xdinary Heroes&apos; Gun-il Leaves Group</news:title>
-      <news:keywords>Debut, Xdinary Heroes, Gun-il, JYP Entertainment, K-Pop Controversy</news:keywords>
     </news:news>
   </url>
 </urlset>
