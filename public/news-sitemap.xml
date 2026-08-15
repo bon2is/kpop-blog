@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ultimate-queen-of-body-management-flaunts-her-glamorous-figu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T17:55:15.000Z</news:publication_date>
+      <news:title>Korean Actress Stuns Fans With Impressive Swimsuit Figure</news:title>
+      <news:keywords>Korean Actress, Fitness, Body Positivity, K-Drama, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hybe-bang-si-hyuk-investigation-takes-major-turn-in-explosiv/</loc>
     <news:news>
       <news:publication>
@@ -155,42 +167,6 @@
       <news:publication_date>2026-08-13T06:35:45.000Z</news:publication_date>
       <news:title>Xdinary Heroes&apos; Gun-il Leaves Group</news:title>
       <news:keywords>Debut, Xdinary Heroes, Gun-il, JYP Entertainment, K-Pop Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/nct-127-to-perform-live-on-americas-got-talent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T20:53:08.000Z</news:publication_date>
-      <news:title>NCT 127 Stuns Fans With AGT Performance</news:title>
-      <news:keywords>BTS, BLACKPINK, NCT, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-members-expose-the-grim-reality-of-their-gym-routine-whi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T19:00:44.000Z</news:publication_date>
-      <news:title>BTS Exposes Grim Tour Gym Routine</news:title>
-      <news:keywords>BTS, Debut, Awards, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-this-that-becomes-2nd-album-of-2026-to-sell-3-mil/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T18:26:07.000Z</news:publication_date>
-      <news:title>Stray Kids Breaks Record With 3 Million Sales</news:title>
-      <news:keywords>BTS, Stray Kids, Comeback, Debut, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
