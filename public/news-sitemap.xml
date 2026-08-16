@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/former-gugudan-member-jang-so-jin-soyee-shares-beautiful-wed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T09:29:23.000Z</news:publication_date>
+      <news:title>gugudan&apos;s Soyee Ties The Knot</news:title>
+      <news:keywords>Soyee, gugudan, K-Pop Wedding, Jang So Jin</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-zerobaseone-teases-comeback-with-spoiler-film-for-rese/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T07:59:48.000Z</news:publication_date>
+      <news:title>ZEROBASEONE Teases Comeback With Mysterious Spoiler Film</news:title>
+      <news:keywords>ZEROBASEONE, Comeback, Debut, K-Pop, Reserved</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/idol-star-athletics-championships-isac-confirmed-not-to-take/</loc>
     <news:news>
       <news:publication>
@@ -95,54 +119,6 @@
       <news:publication_date>2026-08-14T13:08:19.000Z</news:publication_date>
       <news:title>New Recruit 4: Sabotage Unveils Secret Operation</news:title>
       <news:keywords>K-Drama, New Recruit 4: Sabotage, Kim Min Ho, Lee Won Jung, Korean Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-stray-kids-takes-2nd-win-for-this-that-on-music-bank-p/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T11:45:18.000Z</news:publication_date>
-      <news:title>Stray Kids Wins 2nd Trophy For &apos;This &amp; That&apos;</news:title>
-      <news:keywords>Stray Kids, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseyes-new-shockingly-sexualized-music-video-sparks-incite/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T09:35:11.000Z</news:publication_date>
-      <news:title>KATSEYE Sparks Outrage With New Music Video</news:title>
-      <news:keywords>BTS, BLACKPINK, Comeback, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/song-kang-confirmed-to-guest-on-you-quiz-on-the-block/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T07:41:34.000Z</news:publication_date>
-      <news:title>Song Kang Reveals Variety Show Comeback</news:title>
-      <news:keywords>Comeback, K-Drama, Song Kang, Variety Show</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/2026-spotv-k-pop-awards-announces-presenter-lineup/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T07:23:51.000Z</news:publication_date>
-      <news:title>2026 SPOTV K-Pop Awards Reveals Star-Studded Presenter Lineup</news:title>
-      <news:keywords>Awards, SPOTV K-Pop Awards, K-Pop, Kim Jae Won, Bora</news:keywords>
     </news:news>
   </url>
 </urlset>
