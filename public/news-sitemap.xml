@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/korean-star-couple-announces-pregnancy-three-years-after-mar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T15:33:02.000Z</news:publication_date>
+      <news:title>Korean Star Couple Lee Sang Ho Expecting</news:title>
+      <news:keywords>Charts, K-Drama, Lee Sang Ho, Korean Star Couple, Pregnancy Announcement</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/itzy-chaeryeong-and-lee-chaeyeons-mother-diagnosed-with-canc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T10:23:00.000Z</news:publication_date>
+      <news:title>ITZY&apos;s Chaeryeong &amp; Lee Chaeyeon&apos;s Mom Diagnosed</news:title>
+      <news:keywords>ITZY, Lee Chaeyeon, K-Pop, Cancer Awareness</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/former-gugudan-member-jang-so-jin-soyee-shares-beautiful-wed/</loc>
     <news:news>
       <news:publication>
