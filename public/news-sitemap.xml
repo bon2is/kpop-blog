@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/idol-star-athletics-championships-isac-confirmed-not-to-take/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T01:05:40.000Z</news:publication_date>
+      <news:title>K-Pop Fans Stunned: ISAC 2026 Cancelled</news:title>
+      <news:keywords>ISAC, K-Pop, Idol Star Athletics Championships, Chuseok, MBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/mark-lee-speaks-out-4-months-after-leaving-nct-and-sm-entert/</loc>
     <news:news>
       <news:publication>
@@ -122,39 +134,15 @@
     </news:news>
   </url>
   <url>
-    <loc>https://kpop.andxo.com/article/twices-chaeyoung-and-ziont-have-not-broken-up/</loc>
+    <loc>https://kpop.andxo.com/article/2026-spotv-k-pop-awards-announces-presenter-lineup/</loc>
     <news:news>
       <news:publication>
         <news:name>KPOP Daily</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-14T02:45:20.000Z</news:publication_date>
-      <news:title>TWICE&apos;s Chaeyoung and Zion.T Deny Breakup Rumors</news:title>
-      <news:keywords>TWICE, IU, Chaeyoung, Zion.T, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/newjeans-first-official-brand-advertisement-post-ador-return/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T00:15:47.000Z</news:publication_date>
-      <news:title>NewJeans Stuns Fans With First Brand Ad Post-ADOR</news:title>
-      <news:keywords>NewJeans, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txt-to-headline-2026-global-citizen-festival-in-new-york/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T23:20:44.000Z</news:publication_date>
-      <news:title>TXT To Headline Global Citizen Festival</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, TXT, Debut</news:keywords>
+      <news:publication_date>2026-08-14T07:23:51.000Z</news:publication_date>
+      <news:title>2026 SPOTV K-Pop Awards Reveals Star-Studded Presenter Lineup</news:title>
+      <news:keywords>Awards, SPOTV K-Pop Awards, K-Pop, Kim Jae Won, Bora</news:keywords>
     </news:news>
   </url>
 </urlset>
