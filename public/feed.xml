@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 17:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 02:54:48 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>BLACKPINK&apos;s Jennie Breaks Down On Stage</title>
+      <link>https://kpop.andxo.com/article/blackpinks-jennie-seen-trembling-and-tearing-up-on-stage-aft/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/blackpinks-jennie-seen-trembling-and-tearing-up-on-stage-aft/</guid>
+      <description>BLACKPINK&apos;s Jennie tears up on stage due to malfunctions</description>
+      <pubDate>Mon, 17 Aug 2026 02:47:12 GMT</pubDate>
+      <category>tour</category>
+      <category>BLACKPINK</category>
+      <category>Comeback</category>
+      <category>Debut</category>
+      <category>Charts</category>
+      <category>Tour</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-jennie-seen-trembling-and-tearing-up-on-stage-aft.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-jennie-seen-trembling-and-tearing-up-on-stage-aft.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-jennie-seen-trembling-and-tearing-up-on-stage-aft.webp" />
+    </item>
     <item>
       <title>Korean Star Couple Lee Sang Ho Expecting</title>
       <link>https://kpop.andxo.com/article/korean-star-couple-announces-pregnancy-three-years-after-mar/</link>
@@ -1692,23 +1709,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-jennie-hit-with-hateful-body-shaming-in-lingerie-.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-jennie-hit-with-hateful-body-shaming-in-lingerie-.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/blackpinks-jennie-hit-with-hateful-body-shaming-in-lingerie-.webp" />
-    </item>
-    <item>
-      <title>KATSEYE’s “Animal” Becomes Their 2nd Highest-Ranking Song On UK’s Official Singles Chart</title>
-      <link>https://kpop.andxo.com/article/katseyes-animal-becomes-their-2nd-highest-ranking-song-on-uk/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/katseyes-animal-becomes-their-2nd-highest-ranking-song-on-uk/</guid>
-      <description>KATSEYE&apos;s &apos;Animal&apos; debuts at No. 16 on the UK&apos;s Official Singles Chart!</description>
-      <pubDate>Sun, 02 Aug 2026 21:55:01 GMT</pubDate>
-      <category>drama</category>
-      <category>Debut</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <category>Tour</category>
-      <category>KATSEYE</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseyes-animal-becomes-their-2nd-highest-ranking-song-on-uk.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseyes-animal-becomes-their-2nd-highest-ranking-song-on-uk.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/katseyes-animal-becomes-their-2nd-highest-ranking-song-on-uk.webp" />
     </item>
   </channel>
 </rss>

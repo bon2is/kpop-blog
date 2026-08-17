@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-seen-trembling-and-tearing-up-on-stage-aft/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T02:47:12.000Z</news:publication_date>
+      <news:title>BLACKPINK&apos;s Jennie Breaks Down On Stage</news:title>
+      <news:keywords>BLACKPINK, Comeback, Debut, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/korean-star-couple-announces-pregnancy-three-years-after-mar/</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       <news:publication_date>2026-08-15T04:31:59.000Z</news:publication_date>
       <news:title>Korean Star Maeng Seung Ji Reveals Doctor Boyfriend</news:title>
       <news:keywords>Maeng Seung Ji, Korean Entertainment, Celebrity News, K-Pop Culture</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ultimate-queen-of-body-management-flaunts-her-glamorous-figu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T17:55:15.000Z</news:publication_date>
-      <news:title>Korean Actress Stuns Fans With Impressive Swimsuit Figure</news:title>
-      <news:keywords>Korean Actress, Fitness, Body Positivity, K-Drama, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
