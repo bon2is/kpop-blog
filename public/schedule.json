@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-17T14:25:59.106Z",
+  "lastUpdated": "2026-08-17T17:28:14.470Z",
   "events": [
+    {
+      "id": "soompi-0-2026-08-18",
+      "date": "2026-08-18",
+      "type": "comeback",
+      "artist": "Watch",
+      "title": "Watch: Chungha Unveils Comeback Date With Teaser For New Digital Single “México”",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1863510wpp/watch-chungha-unveils-comeback-date-with-teaser-for-new-digital-single-mexico"
+      }
+    },
+    {
+      "id": "soompi-1-2026-08-18",
+      "date": "2026-08-18",
+      "type": "comeback",
+      "artist": "SHINee",
+      "title": "SHINee’s Minho Announces Solo Comeback With Teaser Schedule For New Album “Make It Hot”",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1863490wpp/shinees-minho-announces-solo-comeback-with-teaser-schedule-for-new-album-make-it-hot"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-08-19",
       "date": "2026-08-19",
@@ -314,6 +336,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-09-17",
+      "date": "2026-09-17",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
