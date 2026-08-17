@@ -85,40 +85,4 @@
       <news:keywords>NCT, Debut, Album, Mark Lee, SM Entertainment</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-male-and-female-idols-beef-on-live-tv/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T11:06:53.000Z</news:publication_date>
-      <news:title>K-Pop Idols&apos; Surprising Live TV Feud</news:title>
-      <news:keywords>Comeback, Awards, Charts, K-Drama, K-Pop</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-han-sits-out-music-core-live-broadcast-due-to-ski/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T07:52:19.000Z</news:publication_date>
-      <news:title>Stray Kids&apos; Han Sits Out Live Broadcast</news:title>
-      <news:keywords>Stray Kids, Charts, Han, K-Pop, Music Core</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/korean-star-shocks-with-sudden-reveal-of-doctor-boyfriend/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T04:31:59.000Z</news:publication_date>
-      <news:title>Korean Star Maeng Seung Ji Reveals Doctor Boyfriend</news:title>
-      <news:keywords>Maeng Seung Ji, Korean Entertainment, Celebrity News, K-Pop Culture</news:keywords>
-    </news:news>
-  </url>
 </urlset>
