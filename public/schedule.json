@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-18T02:49:27.003Z",
+  "lastUpdated": "2026-08-18T12:20:40.228Z",
   "events": [
     {
       "id": "soompi-2-2026-08-18",
+      "date": "2026-08-18",
+      "type": "other",
+      "artist": "“Tazza 4",
+      "title": "“Tazza 4: The Song of Beelzebub” Announces Premiere Date",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1863543wpp/tazza-4-the-song-of-beelzebub-announces-premiere-date"
+      }
+    },
+    {
+      "id": "soompi-19-2026-08-18",
       "date": "2026-08-18",
       "type": "comeback",
       "artist": "Watch",
@@ -13,7 +24,7 @@
       }
     },
     {
-      "id": "soompi-3-2026-08-18",
+      "id": "soompi-20-2026-08-18",
       "date": "2026-08-18",
       "type": "comeback",
       "artist": "SHINee",
