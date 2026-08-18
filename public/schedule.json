@@ -1,37 +1,15 @@
 {
-  "lastUpdated": "2026-08-18T14:31:50.015Z",
+  "lastUpdated": "2026-08-18T17:28:29.868Z",
   "events": [
     {
-      "id": "soompi-2-2026-08-18",
-      "date": "2026-08-18",
-      "type": "other",
-      "artist": "“Tazza 4",
-      "title": "“Tazza 4: The Song of Beelzebub” Announces Premiere Date",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1863543wpp/tazza-4-the-song-of-beelzebub-announces-premiere-date"
-      }
-    },
-    {
-      "id": "soompi-19-2026-08-18",
-      "date": "2026-08-18",
+      "id": "soompi-3-2026-08-19",
+      "date": "2026-08-19",
       "type": "comeback",
       "artist": "Watch",
-      "title": "Watch: Chungha Unveils Comeback Date With Teaser For New Digital Single “México”",
+      "title": "Watch: UNCHILD Announces 1st-Ever Comeback Date With Teaser For &#8220;TiNG TiNG&#8221;",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1863510wpp/watch-chungha-unveils-comeback-date-with-teaser-for-new-digital-single-mexico"
-      }
-    },
-    {
-      "id": "soompi-20-2026-08-18",
-      "date": "2026-08-18",
-      "type": "comeback",
-      "artist": "SHINee",
-      "title": "SHINee’s Minho Announces Solo Comeback With Teaser Schedule For New Album “Make It Hot”",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1863490wpp/shinees-minho-announces-solo-comeback-with-teaser-schedule-for-new-album-make-it-hot"
+        "official": "https://www.soompi.com/article/1863730wpp/watch-unchild-announces-1st-ever-comeback-date-with-teaser-for-ting-ting"
       }
     },
     {
@@ -362,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "broadcast-music-bank-2026-09-18",
+      "date": "2026-09-18",
+      "time": "17:10",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Music Bank",
+      "description": "KBS Music Bank weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@KBSKpop",
+        "official": "https://www.kbs.co.kr"
       }
     }
   ]
