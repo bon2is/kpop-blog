@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jennie-seen-trembling-and-tearing-up-on-stage-aft/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T02:47:12.000Z</news:publication_date>
-      <news:title>BLACKPINK&apos;s Jennie Breaks Down On Stage</news:title>
-      <news:keywords>BLACKPINK, Comeback, Debut, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
+
 </urlset>
