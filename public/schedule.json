@@ -1,30 +1,15 @@
 {
-  "lastUpdated": "2026-08-19T14:32:31.241Z",
+  "lastUpdated": "2026-08-19T17:28:09.125Z",
   "events": [
     {
-      "id": "soompi-29-2026-08-19",
-      "date": "2026-08-19",
+      "id": "soompi-1-2026-08-20",
+      "date": "2026-08-20",
       "type": "comeback",
       "artist": "Watch",
-      "title": "Watch: UNCHILD Announces 1st-Ever Comeback Date With Teaser For &#8220;TiNG TiNG&#8221;",
+      "title": "Watch: TNX Announces Comeback With Teaser For &#8220;Die Another Day&#8221;",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1863730wpp/watch-unchild-announces-1st-ever-comeback-date-with-teaser-for-ting-ting"
-      }
-    },
-    {
-      "id": "broadcast-show-champion-2026-08-19",
-      "date": "2026-08-19",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show Champion",
-      "description": "MBC M weekly music show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MBCkpop",
-        "official": "https://www.imbc.com"
+        "official": "https://www.soompi.com/article/1864078wpp/watch-tnx-announces-comeback-with-teaser-for-die-another-day"
       }
     },
     {
@@ -355,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@KBSKpop",
         "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-09-19",
+      "date": "2026-09-19",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
