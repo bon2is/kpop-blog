@@ -468,8 +468,9 @@ async function generateImagePrompt(
 
   try {
     // Use LLM to creatively enhance the structured prompt
-    const response = await openai.chat.completions.create({
-      model: 'llama-3.3-70b-versatile',
+    const response = await (openai.chat.completions.create as any)({
+      model: GROQ_MODEL,
+      reasoning_effort: 'low',
       messages: [
         {
           role: 'system',
@@ -1203,6 +1204,12 @@ const openai = new OpenAI({
   baseURL: 'https://api.groq.com/openai/v1',
 });
 
+// Groq retires models periodically — centralize the id so a swap is one line.
+// `llama-3.3-70b-versatile` was decommissioned (404); `openai/gpt-oss-120b` is
+// the current large general model. It is a reasoning model, so callers pass
+// `reasoning_effort: 'low'` to keep completion budget for the actual output.
+const GROQ_MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
+
 
 // Utility functions
 function generateSlug(title: string): string {
@@ -1618,7 +1625,8 @@ IMPORTANT: Write each section thoroughly. Target 800-1200 words total in the bod
       try {
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
         response = await (openai.chat.completions.create as any)({
-          model: 'llama-3.3-70b-versatile',
+          model: GROQ_MODEL,
+          reasoning_effort: 'low',
           messages: [
             {
               role: 'system',
@@ -1627,7 +1635,7 @@ IMPORTANT: Write each section thoroughly. Target 800-1200 words total in the bod
             { role: 'user', content: prompt },
           ],
           temperature: 0.7,
-          max_tokens: 2500,
+          max_tokens: 4000,
           response_format: { type: 'json_object' },
         });
         break;

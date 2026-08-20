@@ -207,8 +207,10 @@ function buildImagePrompt(title: string, summary: string, category: string): str
 async function generateAIImagePrompt(title: string, summary: string, category: string): Promise<string> {
   const basePrompt = buildImagePrompt(title, summary, category);
   try {
-    const response = await openai.chat.completions.create({
-      model: 'llama-3.3-70b-versatile',
+    const response = await (openai.chat.completions.create as any)({
+      // `llama-3.3-70b-versatile` was decommissioned by Groq (404).
+      model: process.env.GROQ_MODEL || 'openai/gpt-oss-120b',
+      reasoning_effort: 'low',
       messages: [
         {
           role: 'system',
