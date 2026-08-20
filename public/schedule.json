@@ -1,43 +1,6 @@
 {
-  "lastUpdated": "2026-08-20T14:34:31.299Z",
+  "lastUpdated": "2026-08-20T17:33:27.387Z",
   "events": [
-    {
-      "id": "soompi-14-2026-08-20",
-      "date": "2026-08-20",
-      "type": "concert",
-      "artist": "EXO",
-      "title": "EXO Announces Dates For Encore Concerts EXO PLANET #6 &#8220;EXhOrizon [dot]&#8221; In Seoul",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot"
-      }
-    },
-    {
-      "id": "soompi-23-2026-08-20",
-      "date": "2026-08-20",
-      "type": "comeback",
-      "artist": "Watch",
-      "title": "Watch: TNX Announces Comeback With Teaser For &#8220;Die Another Day&#8221;",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1864078wpp/watch-tnx-announces-comeback-with-teaser-for-die-another-day"
-      }
-    },
-    {
-      "id": "broadcast-m-countdown-2026-08-20",
-      "date": "2026-08-20",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "M Countdown",
-      "description": "Mnet weekly music countdown show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MnetMcountdown",
-        "official": "https://www.mnet.com"
-      }
-    },
     {
       "id": "broadcast-music-bank-2026-08-21",
       "date": "2026-08-21",
@@ -366,6 +329,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@mbckpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-09-20",
+      "date": "2026-09-20",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
       }
     }
   ]
