@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T02:57:50.032Z",
+  "lastUpdated": "2026-08-21T12:24:19.623Z",
   "events": [
     {
       "id": "broadcast-music-bank-2026-08-21",
@@ -77,14 +77,14 @@
       }
     },
     {
-      "id": "soompi-3-2026-08-28",
+      "id": "gnews-comeback-1-2026-08-28",
       "date": "2026-08-28",
-      "type": "comeback",
+      "type": "release",
       "artist": "BLACKPINK",
-      "title": "BLACKPINK&#8217;s Jennie Announces Comeback Date With Teaser For Digital EP &#8220;Fallen Angel&#8221;",
-      "source": "soompi",
+      "title": "CLEAR YOU CALENDARS, RUBIES! Blackpink Jennie is dropping her new EP \"Fallen Angel\" on August 28, 2026. Link to full story in the comments. - facebook.com",
+      "source": "facebook.com",
       "links": {
-        "official": "https://www.soompi.com/article/1864448wpp/blackpinks-jennie-announces-comeback-date-with-teaser-for-digital-ep-fallen-angel"
+        "official": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDh2cFliNm1pTGdiYlQtWFJNNzZuVVhuUkNucU9QVkpobE9QMXNUTU9uc1Z5ZHdIU2pXMnVmem9wakoyMk1Hc3g1MEFEWUozclpqWVQ3RS1wVEpja2JXSWhqbXVhMGdyenVubFJyVzAwRFlTUC1rSERSaDRuRDM4STNEQk5QMFVNdzM4WUtMVFZIamEyZ2haWjdhZDFmUExNMXNwSU9TZGdEcGd1eXp3S2JiUEl6SzlXd0JKMVdTYmYtTHJfWXBtVmZLaHBWc09MWmxnTDNVRQ?oc=5"
       }
     },
     {
