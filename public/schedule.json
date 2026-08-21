@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T17:33:27.387Z",
+  "lastUpdated": "2026-08-21T02:57:50.032Z",
   "events": [
     {
       "id": "broadcast-music-bank-2026-08-21",
@@ -74,6 +74,17 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
+      }
+    },
+    {
+      "id": "soompi-3-2026-08-28",
+      "date": "2026-08-28",
+      "type": "comeback",
+      "artist": "BLACKPINK",
+      "title": "BLACKPINK&#8217;s Jennie Announces Comeback Date With Teaser For Digital EP &#8220;Fallen Angel&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1864448wpp/blackpinks-jennie-announces-comeback-date-with-teaser-for-digital-ep-fallen-angel"
       }
     },
     {
