@@ -1,21 +1,6 @@
 {
-  "lastUpdated": "2026-08-22T14:19:36.224Z",
+  "lastUpdated": "2026-08-22T17:21:57.938Z",
   "events": [
-    {
-      "id": "broadcast-show--music-core-2026-08-22",
-      "date": "2026-08-22",
-      "time": "17:15",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show! Music Core",
-      "description": "MBC Show! Music Core weekly performance show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@mbckpop",
-        "official": "https://www.imbc.com"
-      }
-    },
     {
       "id": "broadcast-inkigayo-2026-08-23",
       "date": "2026-08-23",
@@ -62,7 +47,7 @@
       }
     },
     {
-      "id": "gnews-comeback-0-2026-08-28",
+      "id": "gnews-comeback-1-2026-08-28",
       "date": "2026-08-28",
       "type": "release",
       "artist": "BLACKPINK",

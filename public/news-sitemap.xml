@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/2ne1-park-boms-fancam-triggers-unexpected-debate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T15:32:04.000Z</news:publication_date>
+      <news:title>Park Bom&apos;s Fancam Sparks Heated Debate Among 2NE1 Fans</news:title>
+      <news:keywords>2NE1, Comeback, Charts, MV, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/popular-idols-exposed-fake-relationship-hit-with-brutal-back/</loc>
     <news:news>
       <news:publication>
