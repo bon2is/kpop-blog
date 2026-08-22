@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-idols-exposed-fake-relationship-hit-with-brutal-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T09:19:25.000Z</news:publication_date>
+      <news:title>Idol Couple Scandal Breaks Silence: Fans React to Fake Relationship Reveal</news:title>
+      <news:keywords>Awards, Charts, Album, MV, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/i-want-a-body-like-jennies-but-shaman-turned-celeb-fires-bac/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T06:40:15.000Z</news:publication_date>
+      <news:title>Noh Seul Bi Fires Back at Critics Over Bold Outfits, Sparks Online Debate</news:title>
+      <news:keywords>BTS, BLACKPINK, IU, Noh Seul Bi, Fashion Controversy</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-tops-itunes-charts-worldwide-surpasses-17-million-1s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T05:50:38.000Z</news:publication_date>
+      <news:title>ENHYPEN Breaks Records with &quot;THE SIN : BLISS&quot; Mini‑Album and &quot;Bloody Paradise&quot;</news:title>
+      <news:keywords>ENHYPEN, ATEEZ, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/park-eun-bin-is-ready-to-bare-her-fangs-in-spooky-in-love/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T05:06:13.000Z</news:publication_date>
+      <news:title>Park Eun-bin Stuns Fans with Ghost‑Busting Role in &apos;Spooky In Love&apos;</news:title>
+      <news:keywords>IU, Awards, K-Drama, Park Eun-bin, Spooky In Love</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/4-emotional-moments-in-the-final-episodes-of-dream-to-you/</loc>
     <news:news>
       <news:publication>
@@ -215,54 +263,6 @@
       <news:publication_date>2026-08-20T13:40:18.000Z</news:publication_date>
       <news:title>TWICE Sana Stirs Debate Over Bisexuality After Commenting on 4th-Gen Male Idol</news:title>
       <news:keywords>TWICE, ENHYPEN, Charts, Sana, LGBTQ+</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-zico-joins-choo-sung-hoon-and-kim-jong-kook-as-new-you/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T10:45:56.000Z</news:publication_date>
-      <news:title>Zico Joins Travel Variety Show &apos;A Real Man’s Way to Travel&apos; – New Youngest Member Stuns Fans</news:title>
-      <news:keywords>EXO, BIGBANG, IU, Charts, Zico</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/han-su-a-confirmed-kim-hyun-jin-and-lee-seung-gyu-reported-t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T07:46:35.000Z</news:publication_date>
-      <news:title>Han Su-a Confirms Role in &apos;Next Seat, Francesca&apos; Spin‑Off, Sparks K‑Drama Excitement</news:title>
-      <news:keywords>Charts, K-Drama, Han Su-a, Hello Francesca, Sitcom Spin‑Off</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gun-ils-legal-representative-releases-statement-regarding-ar/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T06:06:05.000Z</news:publication_date>
-      <news:title>Xdinary Heroes&apos; Gun-il Denies Voluntary Exit in Legal Statement</news:title>
-      <news:keywords>EXO, Debut, Charts, Album, Xdinary Heroes</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exo-announces-dates-for-encore-concerts-exo-planet-6-exhoriz/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T05:48:16.000Z</news:publication_date>
-      <news:title>EXO Announces Encore Dates for EXhOrizon [dot] Concerts – Fans Thrill</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Stray Kids, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
