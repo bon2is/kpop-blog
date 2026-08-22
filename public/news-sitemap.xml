@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/4-emotional-moments-in-the-final-episodes-of-dream-to-you/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T01:30:18.000Z</news:publication_date>
+      <news:title>Dream To You Delivers 4 Heart‑Wrenching Finale Moments Fans Can’t Forget</news:title>
+      <news:keywords>IU, Charts, K-Drama, Dream To You, Hyeri</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/illits-wonhee-faces-massive-backlash-over-problematic-outfit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T22:10:45.000Z</news:publication_date>
+      <news:title>ILLIT&apos;s Wonhee Faces Massive Backlash Over Problematic Outfit, Fans React</news:title>
+      <news:keywords>ILLIT, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/le-sserafim-slammed-over-their-embarrassing-live-performance/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T21:01:21.000Z</news:publication_date>
+      <news:title>LE SSERAFIM Slammed Over Embarrassing Live Performance Sparks Debate</news:title>
+      <news:keywords>LE SSERAFIM, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-behind-the-scenes-reality-stirs-up-major-concern/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T19:26:39.000Z</news:publication_date>
+      <news:title>BTS&apos;s New Reality Series Stirs Fan Concern Over Behind‑The‑Scenes Drama</news:title>
+      <news:keywords>BTS, EXO, Debut, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/akmu-akdong-musician-lee-suhyun-shocks-with-why-she-started-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T19:08:44.000Z</news:publication_date>
+      <news:title>AKMU&apos;s Lee Suhyun Reveals Shocking Reason Behind 30kg Weight Loss</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/mastermind-behind-theft-of-bts-jungkooks-hybe-stocks-receive/</loc>
     <news:news>
       <news:publication>
@@ -203,30 +263,6 @@
       <news:publication_date>2026-08-20T05:48:16.000Z</news:publication_date>
       <news:title>EXO Announces Encore Dates for EXhOrizon [dot] Concerts – Fans Thrill</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, Stray Kids, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/all-nct-dream-members-renew-contracts-with-sm-entertainment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T01:20:14.000Z</news:publication_date>
-      <news:title>NCT DREAM Confirms Full Contract Renewals, Securing Future Plans</news:title>
-      <news:keywords>NCT, Comeback, Concert, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/twice-earns-new-riaj-platinum-certification-for-streaming-in/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T19:07:04.000Z</news:publication_date>
-      <news:title>TWICE Earns RIAJ Platinum Streaming Certification, Breaking Japan Records</news:title>
-      <news:keywords>BTS, BLACKPINK, TWICE, ENHYPEN, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
