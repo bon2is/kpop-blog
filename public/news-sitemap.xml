@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespa-karinas-shockingly-exposed-cleavage-goes-insanely-vira/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T10:18:04.000Z</news:publication_date>
+      <news:title>aespa Karina&apos;s Shocking Cleavage Reveal Goes Viral, Fans React Worldwide</news:title>
+      <news:keywords>BTS, aespa, Debut, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybe-idol-put-in-danger-during-concert-due-to-lift-malfuncti/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T10:16:07.000Z</news:publication_date>
+      <news:title>HYBE Idol Concert Lift Malfunction Sparks Safety Concerns, Fans Relieved No Injuries</news:title>
+      <news:keywords>BTS, SEVENTEEN, TXT, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/big-4-idols-face-seen-for-the-first-time-in-over-a-year-spar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T08:19:03.000Z</news:publication_date>
+      <news:title>BIGBANG Idol&apos;s First Face Reveal in Over a Year Stuns Fans and Sparks Rumors</news:title>
+      <news:keywords>BTS, Stray Kids, aespa, ENHYPEN, BIGBANG</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5-reasons-to-watch-magical-mystery-taiwanese-bl-connecting-t/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T04:55:00.000Z</news:publication_date>
+      <news:title>Connecting to You Stuns Fans with Supernatural BL Twist</news:title>
+      <news:keywords>BTS, BLACKPINK, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-earns-their-highest-rankings-yet-on-uks-official-cha/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T04:05:46.000Z</news:publication_date>
+      <news:title>KATSEYE Breaks UK Chart Records with EP &apos;WILD&apos; and Single &apos;Animal&apos;</news:title>
+      <news:keywords>BTS, BLACKPINK, LE SSERAFIM, ILLIT, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/billlies-haruna-to-temporarily-halt-all-activities-due-to-he/</loc>
     <news:news>
       <news:publication>
@@ -167,102 +227,6 @@
       <news:publication_date>2026-08-21T14:10:26.000Z</news:publication_date>
       <news:title>HyunA Flirts With ENHYPEN&apos;s Park Sung-hoon on Live Cam, Fans React Wildly</news:title>
       <news:keywords>ENHYPEN, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisas-visuals-in-new-photoshoot-hit-with-brutal-cr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T10:55:44.000Z</news:publication_date>
-      <news:title>BLACKPINK Lisa Faces Brutal &quot;Nose Job&quot; Rumors After New Photoshoot</news:title>
-      <news:keywords>BLACKPINK, IU, Debut, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-winters-child-behavior-in-new-video-targeted-with-brut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T09:35:17.000Z</news:publication_date>
-      <news:title>aespa&apos;s Winter Stuns Fans with &apos;Child&apos; Video Amid Fierce Online Backlash</news:title>
-      <news:keywords>aespa, Comeback, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-bone-thin-5th-gen-idol-returns-with-huge-visual-tran/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T09:32:48.000Z</news:publication_date>
-      <news:title>5th‑Gen Idol Stuns Fans with Jaw‑Dropping Visual Transformation</news:title>
-      <news:keywords>IU, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/naked-katseye-shockingly-sexy-and-revealing-outfits-incite-f/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T09:20:14.000Z</news:publication_date>
-      <news:title>KATSEYE Stuns Fans with Shockingly Sexy TikTok Outfits, Sparks Online Fury</news:title>
-      <news:keywords>LE SSERAFIM, Comeback, Debut, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-surprise-announcement-subjected-to-major-b/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T08:15:14.000Z</news:publication_date>
-      <news:title>Jennie Stuns Fans with Surprise Announcement, Sparks Massive Backlash</news:title>
-      <news:keywords>BLACKPINK, SEVENTEEN, Stray Kids, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yoo-ah-in-signs-with-billions-as-agency-addresses-his-past-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T06:36:35.000Z</news:publication_date>
-      <news:title>Yoo Ah In Signs With BILLIONS, Announces Acting Comeback Amid Agency Statement</news:title>
-      <news:keywords>Comeback, Awards, Tour, K-Drama, Yoo Ah In</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/hwang-minhyun-announces-2026-fan-meeting-peach-blossom/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T04:48:45.000Z</news:publication_date>
-      <news:title>Hwang Minhyun Announces 2026 Fan Meeting “PEACH-BLOSSOM” – Dates, Venues &amp; Ticket Info</news:title>
-      <news:keywords>Comeback, Debut, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/babymonster-becomes-3rd-k-pop-girl-group-ever-to-reach-13-mi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T03:34:20.000Z</news:publication_date>
-      <news:title>BABYMONSTER Hits 13 Million YouTube Subscribers, Joins BLACKPINK and TWICE Elite</news:title>
-      <news:keywords>BLACKPINK, TWICE, TREASURE, BIGBANG, BABYMONSTER</news:keywords>
     </news:news>
   </url>
 </urlset>
