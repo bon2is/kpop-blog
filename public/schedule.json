@@ -1,21 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T14:21:27.779Z",
+  "lastUpdated": "2026-08-23T17:23:18.201Z",
   "events": [
-    {
-      "id": "broadcast-inkigayo-2026-08-23",
-      "date": "2026-08-23",
-      "time": "15:40",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Inkigayo",
-      "description": "SBS Inkigayo weekly music show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@SBSenter",
-        "official": "https://programs.sbs.co.kr"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-08-26",
       "date": "2026-08-26",
@@ -325,6 +310,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-09-23",
+      "date": "2026-09-23",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
