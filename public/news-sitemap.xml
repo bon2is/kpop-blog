@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/billlies-haruna-to-temporarily-halt-all-activities-due-to-he/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T01:35:56.000Z</news:publication_date>
+      <news:title>Billlie&apos;s Haruna Halts Activities Due to Health, Fans Rally Support</news:title>
+      <news:keywords>Stray Kids, aespa, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-actress-surprises-with-her-baby-bump/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T19:25:03.000Z</news:publication_date>
+      <news:title>Top Actress Shocks Fans with Baby Bump Reveal on Set – Fall Birth Expected</news:title>
+      <news:keywords>Awards, MV, K-Drama, Actress, Pregnancy</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/2ne1-park-boms-fancam-triggers-unexpected-debate/</loc>
     <news:news>
       <news:publication>
@@ -239,30 +263,6 @@
       <news:publication_date>2026-08-21T03:34:20.000Z</news:publication_date>
       <news:title>BABYMONSTER Hits 13 Million YouTube Subscribers, Joins BLACKPINK and TWICE Elite</news:title>
       <news:keywords>BLACKPINK, TWICE, TREASURE, BIGBANG, BABYMONSTER</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpinks-jennie-announces-comeback-date-with-teaser-for-di/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T01:29:52.000Z</news:publication_date>
-      <news:title>Jennie Announces Fallen Angel EP Release Date, Sparks Global Excitement</news:title>
-      <news:keywords>BLACKPINK, IU, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/moon-geun-young-ko-a-seong-and-kim-si-ah-confirmed-to-star-i/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T01:28:32.000Z</news:publication_date>
-      <news:title>Yeon Sang-ho&apos;s New Film Yeto Stuns Fans with Star-Studded Cast</news:title>
-      <news:keywords>Debut, Awards, Charts, K-Drama, Yeon Sang-ho</news:keywords>
     </news:news>
   </url>
 </urlset>
