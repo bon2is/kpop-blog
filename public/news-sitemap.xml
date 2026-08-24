@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/jyp-entertainment-idol-opens-up-about-repeated-failures-whil/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T17:27:37.000Z</news:publication_date>
+      <news:title>JYP Idol Opens Up About Repeated Failures, Inspires Aspiring Trainees</news:title>
+      <news:keywords>TWICE, Stray Kids, ITZY, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/beloved-k-pop-idol-confesses-heartbreaking-reason-for-not-di/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T17:12:14.000Z</news:publication_date>
+      <news:title>Soyou Opens Up: Why She Stopped Dieting and Embraced Her Body</news:title>
+      <news:keywords>BTS, Girls Generation, Comeback, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/male-k-pop-idol-draws-admiration-with-his-sculpted-physique/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T16:50:05.000Z</news:publication_date>
+      <news:title>Jinwoo Stuns Fans with Sculpted Physique at Water Park, Sparks Body Goals</news:title>
+      <news:keywords>Debut, Charts, Album, MV, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/doh-kyung-soo-announces-comeback-date-with-first-teasers-for/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T15:17:22.000Z</news:publication_date>
+      <news:title>D.O. Announces DOPAMINE Comeback – Teasers Drop, Album Out Sep 8</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bigbangs-g-dragon-gets-spotted-saving-someones-life/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T15:10:06.000Z</news:publication_date>
+      <news:title>G-Dragon Saves Stranger&apos;s Life – Heroic Act Goes Viral and Stuns Fans</news:title>
+      <news:keywords>BIGBANG, Concert, Charts, G-Dragon, Heroic Act</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/k-pop-idols-waterbomb-performance-gets-heavily-criticized/</loc>
     <news:news>
       <news:publication>
@@ -323,18 +383,6 @@
       <news:publication_date>2026-08-22T19:25:03.000Z</news:publication_date>
       <news:title>Top Actress Shocks Fans with Baby Bump Reveal on Set – Fall Birth Expected</news:title>
       <news:keywords>Awards, MV, K-Drama, Actress, Pregnancy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/2ne1-park-boms-fancam-triggers-unexpected-debate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T15:32:04.000Z</news:publication_date>
-      <news:title>Park Bom&apos;s Fancam Sparks Heated Debate Among 2NE1 Fans</news:title>
-      <news:keywords>2NE1, Comeback, Charts, MV, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -1,17 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T14:41:17.823Z",
+  "lastUpdated": "2026-08-24T17:36:43.998Z",
   "events": [
-    {
-      "id": "soompi-3-2026-08-24",
-      "date": "2026-08-24",
-      "type": "comeback",
-      "artist": "BLACKPINK",
-      "title": "Watch: BLACKPINK&#8217;s Jisoo Announces Comeback With Mysterious &#8220;CLICK&#8221; Teaser",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1865259wpp/watch-blackpinks-jisoo-announces-comeback-with-mysterious-click-teaser"
-      }
-    },
     {
       "id": "broadcast-show-champion-2026-08-26",
       "date": "2026-08-26",
@@ -336,6 +325,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@MBCkpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-m-countdown-2026-09-24",
+      "date": "2026-09-24",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "M Countdown",
+      "description": "Mnet weekly music countdown show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MnetMcountdown",
+        "official": "https://www.mnet.com"
       }
     }
   ]
