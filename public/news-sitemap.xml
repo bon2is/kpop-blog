@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/park-hae-soo-and-his-wife-welcome-second-child/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T02:01:16.000Z</news:publication_date>
+      <news:title>Park Hae Soo Welcomes Second Child, Announces New Baby Boy</news:title>
+      <news:keywords>Charts, K-Drama, Park Hae Soo, Family, Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-boyzs-juyeon-signs-with-new-agency-as-actor-unveils-prof/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T00:24:22.000Z</news:publication_date>
+      <news:title>THE BOYZ&apos;s Juyeon Signs New Agency, Boosts Acting Career with Fresh Profile Photos</news:title>
+      <news:keywords>THE BOYZ, Comeback, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-sets-record-on-billboard-200-as-wild-debuts-at-no-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T19:57:52.000Z</news:publication_date>
+      <news:title>KATSEYE Breaks Billboard 200 Record with &quot;WILD&quot; Debuting at No. 1</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Stray Kids, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/here-are-all-the-winners-of-the-2026-tmelive-international-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T19:07:34.000Z</news:publication_date>
+      <news:title>TMElive International Music Awards 2026 Winners Announced – Day 1 &amp; 2 Highlights</news:title>
+      <news:keywords>BTS, BLACKPINK, NewJeans, LE SSERAFIM, IVE</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kwon-eun-bi-unveils-1st-teasers-for-new-single-dejavu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T17:26:27.000Z</news:publication_date>
+      <news:title>Kwon Eun Bi Announces &apos;DEJAVU&apos; Single, Marks First Comeback with RBW</news:title>
+      <news:keywords>MAMAMOO, Comeback, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/boy-group-member-exposes-his-idol-sisters-married-life/</loc>
     <news:news>
       <news:publication>
@@ -203,78 +263,6 @@
       <news:publication_date>2026-08-22T05:06:13.000Z</news:publication_date>
       <news:title>Park Eun-bin Stuns Fans with Ghost‑Busting Role in &apos;Spooky In Love&apos;</news:title>
       <news:keywords>IU, Awards, K-Drama, Park Eun-bin, Spooky In Love</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4-emotional-moments-in-the-final-episodes-of-dream-to-you/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T01:30:18.000Z</news:publication_date>
-      <news:title>Dream To You Delivers 4 Heart‑Wrenching Finale Moments Fans Can’t Forget</news:title>
-      <news:keywords>IU, Charts, K-Drama, Dream To You, Hyeri</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/illits-wonhee-faces-massive-backlash-over-problematic-outfit/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T22:10:45.000Z</news:publication_date>
-      <news:title>ILLIT&apos;s Wonhee Faces Massive Backlash Over Problematic Outfit, Fans React</news:title>
-      <news:keywords>ILLIT, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/le-sserafim-slammed-over-their-embarrassing-live-performance/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T21:01:21.000Z</news:publication_date>
-      <news:title>LE SSERAFIM Slammed Over Embarrassing Live Performance Sparks Debate</news:title>
-      <news:keywords>LE SSERAFIM, Comeback, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-behind-the-scenes-reality-stirs-up-major-concern/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T19:26:39.000Z</news:publication_date>
-      <news:title>BTS&apos;s New Reality Series Stirs Fan Concern Over Behind‑The‑Scenes Drama</news:title>
-      <news:keywords>BTS, EXO, Debut, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/akmu-akdong-musician-lee-suhyun-shocks-with-why-she-started-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T19:08:44.000Z</news:publication_date>
-      <news:title>AKMU&apos;s Lee Suhyun Reveals Shocking Reason Behind 30kg Weight Loss</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/mastermind-behind-theft-of-bts-jungkooks-hybe-stocks-receive/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T17:28:09.000Z</news:publication_date>
-      <news:title>BTS&apos;s Jungkook Hacking Case Mastermind Sentenced – Shocking Verdict Revealed</news:title>
-      <news:keywords>BTS, Debut, Charts, Tour, Jungkook</news:keywords>
     </news:news>
   </url>
 </urlset>
