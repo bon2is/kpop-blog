@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-24T02:58:31.626Z",
+  "lastUpdated": "2026-08-24T12:24:52.094Z",
   "events": [
+    {
+      "id": "soompi-3-2026-08-24",
+      "date": "2026-08-24",
+      "type": "comeback",
+      "artist": "BLACKPINK",
+      "title": "Watch: BLACKPINK&#8217;s Jisoo Announces Comeback With Mysterious &#8220;CLICK&#8221; Teaser",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1865259wpp/watch-blackpinks-jisoo-announces-comeback-with-mysterious-click-teaser"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-08-26",
       "date": "2026-08-26",

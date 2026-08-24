@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idols-waterbomb-performance-gets-heavily-criticized/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T11:40:44.000Z</news:publication_date>
+      <news:title>Idol&apos;s Waterbomb Stage Stirs Controversy: Fans React to Shocking Performance</news:title>
+      <news:keywords>EXO, Red Velvet, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/lee-won-jung-and-his-fellow-soldiers-turn-nap-time-into-a-fu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T10:33:44.000Z</news:publication_date>
+      <news:title>Lee Won Jung Leads Hilarious Nap Operation in New Recruit 4: Sabotage</news:title>
+      <news:keywords>Debut, Awards, Charts, K-Drama, Lee Won Jung</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ryu-seung-ryong-and-ha-ji-wons-lives-take-a-drastic-turn-aft/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T09:59:54.000Z</news:publication_date>
+      <news:title>Ryu Seung Ryong and Ha Ji Won Stun Fans with Dramatic Twist in &quot;Portrait of a Family&quot;</news:title>
+      <news:keywords>IU, Debut, Charts, K-Drama, Ryu Seung Ryong</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-seventeens-dino-shows-off-his-dance-moves-in-energetic/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T09:25:15.000Z</news:publication_date>
+      <news:title>SEVENTEEN&apos;s Dino Drops Energetic &apos;LIKE IT&apos; MV, Showcasing Dance Mastery</news:title>
+      <news:keywords>BTS, SEVENTEEN, ENHYPEN, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-kim-yeon-koung-lee-junho-and-kazuha-are-stunned-by-kia/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T03:38:42.000Z</news:publication_date>
+      <news:title>Kian84 Stuns Fans with Netflix’s ‘Kian’s Bizarre B&amp;B 2’ Teaser Drop</news:title>
+      <news:keywords>BTS, EXO, Debut, K-Drama, Kian84</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/park-hae-soo-and-his-wife-welcome-second-child/</loc>
     <news:news>
       <news:publication>
@@ -215,54 +275,6 @@
       <news:publication_date>2026-08-22T15:32:04.000Z</news:publication_date>
       <news:title>Park Bom&apos;s Fancam Sparks Heated Debate Among 2NE1 Fans</news:title>
       <news:keywords>2NE1, Comeback, Charts, MV, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idols-exposed-fake-relationship-hit-with-brutal-back/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T09:19:25.000Z</news:publication_date>
-      <news:title>Idol Couple Scandal Breaks Silence: Fans React to Fake Relationship Reveal</news:title>
-      <news:keywords>Awards, Charts, Album, MV, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/i-want-a-body-like-jennies-but-shaman-turned-celeb-fires-bac/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T06:40:15.000Z</news:publication_date>
-      <news:title>Noh Seul Bi Fires Back at Critics Over Bold Outfits, Sparks Online Debate</news:title>
-      <news:keywords>BTS, BLACKPINK, IU, Noh Seul Bi, Fashion Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/enhypen-tops-itunes-charts-worldwide-surpasses-17-million-1s/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T05:50:38.000Z</news:publication_date>
-      <news:title>ENHYPEN Breaks Records with &quot;THE SIN : BLISS&quot; Mini‑Album and &quot;Bloody Paradise&quot;</news:title>
-      <news:keywords>ENHYPEN, ATEEZ, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/park-eun-bin-is-ready-to-bare-her-fangs-in-spooky-in-love/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T05:06:13.000Z</news:publication_date>
-      <news:title>Park Eun-bin Stuns Fans with Ghost‑Busting Role in &apos;Spooky In Love&apos;</news:title>
-      <news:keywords>IU, Awards, K-Drama, Park Eun-bin, Spooky In Love</news:keywords>
     </news:news>
   </url>
 </urlset>
