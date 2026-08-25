@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
-import { getAllArticles } from '@/lib/articles';
-import type { ArticleSummary } from '@/types';
+import { getAllArticles, toListItems } from '@/lib/articles';
+import { siteConfig } from '@/lib/config';
 import SearchClient from './SearchClient';
 
 export const metadata: Metadata = {
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 
 export default function SearchPage() {
   const allArticles = getAllArticles();
-  const articles: ArticleSummary[] = allArticles.map(({ content: _c, summary: _s, commentary: _co, ...rest }) => rest);
+  const articles = toListItems(allArticles);
 
   return <SearchClient articles={articles} />;
 }

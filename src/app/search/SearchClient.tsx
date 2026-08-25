@@ -5,14 +5,14 @@ import { Suspense, useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import ArticleCard from '@/components/ArticleCard';
 import { Search, SlidersHorizontal, X } from 'lucide-react';
-import type { ArticleSummary } from '@/types';
+import type { ArticleListItem } from '@/types';
 import type { Category } from '@/types';
 import { categories } from '@/lib/config';
 
 const SEARCH_PAGE_SIZE = 24;
 
 interface SearchClientProps {
-  articles: ArticleSummary[];
+  articles: ArticleListItem[];
 }
 
 type SortOption = 'relevance' | 'newest' | 'oldest';

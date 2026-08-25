@@ -2,11 +2,11 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import type { ArticleSummary } from '@/types';
+import type { ArticleListItem } from '@/types';
 import { getCategoryColor } from '@/lib/config';
 
 interface BreakingNewsTickerProps {
-  articles: ArticleSummary[];
+  articles: ArticleListItem[];
 }
 
 interface ChartItem {

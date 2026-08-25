@@ -5,18 +5,30 @@ import { Bookmark, BookmarkCheck } from 'lucide-react';
 
 const STORAGE_KEY = 'kpop_bookmarks';
 
-function getBookmarks(): string[] {
+interface StoredBookmark {
+  slug: string;
+  title: string;
+}
+
+function getBookmarks(): StoredBookmark[] {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    return raw ? JSON.parse(raw) : [];
+    if (!raw) return [];
+    const parsed = JSON.parse(raw);
+    // Legacy format was string[] — migrate to {slug,title}[]
+    return parsed.map((entry: string | StoredBookmark) =>
+      typeof entry === 'string'
+        ? { slug: entry, title: entry.replace(/-/g, ' ') }
+        : entry
+    );
   } catch {
     return [];
   }
 }
 
-function setBookmarks(slugs: string[]) {
+function setBookmarks(entries: StoredBookmark[]) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(slugs));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(entries));
   } catch {}
 }
 
@@ -32,16 +44,16 @@ export function BookmarkButton({ slug, title }: BookmarkButtonProps) {
   useEffect(() => {
     setMounted(true);
     const bookmarks = getBookmarks();
-    setSaved(bookmarks.includes(slug));
+    setSaved(bookmarks.some((b) => b.slug === slug));
   }, [slug]);
 
   function toggle() {
     const bookmarks = getBookmarks();
-    let next: string[];
+    let next: StoredBookmark[];
     if (saved) {
-      next = bookmarks.filter((s) => s !== slug);
+      next = bookmarks.filter((b) => b.slug !== slug);
     } else {
-      next = [slug, ...bookmarks].slice(0, 100); // cap at 100
+      next = [{ slug, title }, ...bookmarks].slice(0, 100); // cap at 100
     }
     setBookmarks(next);
     setSaved(!saved);
@@ -86,20 +98,10 @@ export function BookmarkButton({ slug, title }: BookmarkButtonProps) {
   );
 }
 
-interface BookmarkedArticle {
-  slug: string;
-  title: string;
-  thumbnail?: string;
-  category: string;
-  publishedAt: string;
-}
-
-interface ReadingListProps {
-  allArticles: BookmarkedArticle[];
-}
-
-export function ReadingList({ allArticles }: ReadingListProps) {
-  const [bookmarks, setBookmarksState] = useState<string[]>([]);
+// Self-sufficient: titles are persisted alongside slugs at bookmark time,
+// so no article data needs to be serialized from the server.
+export function ReadingList() {
+  const [bookmarks, setBookmarksState] = useState<StoredBookmark[]>([]);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -109,9 +111,7 @@ export function ReadingList({ allArticles }: ReadingListProps) {
 
   if (!mounted || bookmarks.length === 0) return null;
 
-  const savedArticles = bookmarks
-    .map((slug) => allArticles.find((a) => a.slug === slug))
-    .filter(Boolean) as BookmarkedArticle[];
+  const savedArticles = bookmarks;
 
   if (savedArticles.length === 0) return null;
 

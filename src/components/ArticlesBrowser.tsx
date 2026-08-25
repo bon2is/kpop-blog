@@ -3,9 +3,7 @@
 import React, { useState, useMemo } from 'react';
 import ArticleCard from '@/components/ArticleCard';
 import { InFeedAd } from '@/components/AdBanner';
-import type { ArticleSummary } from '@/types';
-
-export type { ArticleSummary };
+import type { ArticleListItem } from '@/types';
 
 const PAGE_SIZE = 24;
 
@@ -18,7 +16,7 @@ interface Category {
 }
 
 interface Props {
-  articles: ArticleSummary[];
+  articles: ArticleListItem[];
   categories: Category[];
 }
 

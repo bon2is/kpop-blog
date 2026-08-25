@@ -7,11 +7,11 @@ Allow: /
 User-agent: AdsBot-Google
 Allow: /
 
-# Allow all legitimate search engines
+# Allow all legitimate search engines.
+# Do NOT block /_next/ — Googlebot needs JS/CSS assets to render pages.
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /_next/
 
 # Block AI training crawlers (they consume bandwidth without benefit)
 User-agent: GPTBot

@@ -6,7 +6,7 @@ import AdBanner, { InFeedAd, SidebarAd } from '@/components/AdBanner';
 import AuditionPromoCard from '@/components/AuditionPromoCard';
 import AuditionSidebarWidget from '@/components/AuditionSidebarWidget';
 import { NewsletterBanner, NewsletterSidebar } from '@/components/Newsletter';
-import { getAllArticles } from '@/lib/articles';
+import { getAllArticles, toListItems } from '@/lib/articles';
 import { artists } from '@/lib/artists';
 import { categories, siteConfig } from '@/lib/config';
 import BreakingNewsTicker from '@/components/BreakingNewsTicker';
@@ -66,8 +66,8 @@ export default function HomePage() {
   // Main grid below hero
   const latestArticles = articles.slice(4, 10).map(slim);
   const moreArticles = articles.slice(10, 16).map(slim);
-  // Slim versions for client components that receive full array
-  const slimArticles = articles.map(slim);
+  // Minimal fields for client components — full lists serialize ~1.7MB of flight data
+  const recentListItems = toListItems(articles.slice(0, 120));
 
   return (
     <div>
@@ -77,7 +77,7 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteLd) }}
       />
       {/* Breaking News Ticker */}
-      <BreakingNewsTicker articles={slimArticles.slice(0, 8)} />
+      <BreakingNewsTicker articles={recentListItems.slice(0, 8)} />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <h1 className="sr-only">KPOP Daily - Your K-Pop News Source</h1>
@@ -241,8 +241,8 @@ export default function HomePage() {
 
           {/* Sidebar */}
           <aside className="hidden xl:block w-80 flex-shrink-0 space-y-6">
-            <ReadingList allArticles={slimArticles} />
-            <TrendingSection articles={slimArticles} />
+            <ReadingList />
+            <TrendingSection articles={recentListItems} />
             <AuditionSidebarWidget source="homepage_sidebar" />
             <NewsletterSidebar />
             <SidebarAd />
@@ -250,7 +250,7 @@ export default function HomePage() {
         </div>
 
         {/* ── Tag Cloud ────────────────────────────────────── */}
-        <TagCloud articles={slimArticles} />
+        <TagCloud articles={articles} />
 
         {/* ── Newsletter ───────────────────────────────────── */}
         <NewsletterBanner />

@@ -77,6 +77,24 @@ export interface SiteConfig {
 // Lightweight article type for client components (excludes heavy content fields)
 export type ArticleSummary = Omit<Article, 'content' | 'summary' | 'commentary'>;
 
+// Minimal list-item shape serialized to client bundles. Excludes fields that
+// list/search/browse UIs never render (originalTitle, updatedAt, author) —
+// with ~2k articles these add hundreds of KB of flight payload per page.
+export type ArticleListItem = Pick<
+  Article,
+  | 'slug'
+  | 'title'
+  | 'excerpt'
+  | 'category'
+  | 'tags'
+  | 'publishedAt'
+  | 'thumbnail'
+  | 'readingTime'
+  | 'source'
+  | 'sourceUrl'
+  | 'isAIGenerated'
+>;
+
 export interface CategoryInfo {
   name: string;
   slug: Category;

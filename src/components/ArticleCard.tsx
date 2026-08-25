@@ -2,14 +2,14 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import type { ArticleSummary } from '@/types';
+import type { ArticleListItem } from '@/types';
 import { formatRelativeDate, estimateReadingTime } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
 import { Clock, ExternalLink, Sparkles } from 'lucide-react';
 import { ViewCounter } from './ArticleEngagement';
 
 interface ArticleCardProps {
-  article: ArticleSummary & { content?: string };
+  article: ArticleListItem & { content?: string };
   featured?: boolean;
 }
 

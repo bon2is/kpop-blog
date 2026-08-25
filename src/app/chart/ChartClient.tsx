@@ -3,21 +3,20 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Article } from '@/types';
+import { ArticleListItem } from '@/types';
 import { BarChart3, Eye, ThumbsUp, TrendingUp, Clock, Music2, ExternalLink, RefreshCw } from 'lucide-react';
 import { getCategoryColor } from '@/lib/config';
 import { formatRelativeDate } from '@/lib/utils';
 import type { ChartsData, ChartSong, UnifiedSong } from '../../../scripts/fetch-charts';
 
 interface ChartClientProps {
-  articles: Article[];
-  allArticles: Article[];
+  articles: ArticleListItem[];
 }
 
 type ArticleTab = 'views' | 'likes' | 'recent';
 type MusicTab = 'unified' | 'billboard' | 'spotify' | 'youtube';
 
-interface ScoredArticle extends Article {
+interface ScoredArticle extends ArticleListItem {
   views: number;
   likes: number;
 }
@@ -248,12 +247,10 @@ function MusicCharts() {
 }
 
 // ── Article Rankings ──────────────────────────────────────────────────────────
-export default function ChartClient({ articles, allArticles }: ChartClientProps) {
+export default function ChartClient({ articles }: ChartClientProps) {
   const [tab, setTab] = useState<ArticleTab>('views');
   const [scored, setScored] = useState<ScoredArticle[]>([]);
   const [mounted, setMounted] = useState(false);
-
-  void allArticles;
 
   useEffect(() => {
     setMounted(true);

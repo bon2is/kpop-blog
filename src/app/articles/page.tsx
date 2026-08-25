@@ -2,9 +2,8 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import AdBanner from '@/components/AdBanner';
 import ArticlesBrowser from '@/components/ArticlesBrowser';
-import { getAllArticles } from '@/lib/articles';
+import { getAllArticles, toListItems } from '@/lib/articles';
 import { categories, siteConfig } from '@/lib/config';
-import type { ArticleSummary } from '@/components/ArticlesBrowser';
 
 export const metadata: Metadata = {
   title: 'All K-Pop & K-Drama Articles',
@@ -23,10 +22,8 @@ export default function ArticlesPage() {
   const rawArticles = getAllArticles();
   const articleCount = rawArticles.length;
 
-  // Strip heavy fields before serializing to client
-  const articles: ArticleSummary[] = rawArticles.map(
-    ({ content: _c, summary: _s, commentary: _co, ...rest }) => rest
-  );
+  // Minimal fields only — the full list is serialized into the page payload
+  const articles = toListItems(rawArticles);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

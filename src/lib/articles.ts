@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { Article, Category } from '@/types';
+import { Article, ArticleListItem, Category } from '@/types';
 import { estimateReadingTime } from '@/lib/utils';
 
 const contentDirectory = path.join(process.cwd(), 'content/posts');
@@ -58,8 +58,23 @@ export function getAllArticles(): Article[] {
   return articlesCache;
 }
 
-export function getArticleBySlug(slug: string): Article | undefined {
-  const articles = getAllArticles();
+// Strip fields that list/search/browse UIs never render before serializing
+// to client components. With ~2k articles this saves significant payload.
+export function toListItems(articles: Article[]): ArticleListItem[] {
+  return articles.map(
+    ({
+      content: _content,
+      summary: _summary,
+      commentary: _commentary,
+      originalTitle: _originalTitle,
+      updatedAt: _updatedAt,
+      author: _author,
+      ...rest
+    }) => rest
+  );
+}
+
+export function getArticleBySlug(slug: string): Article | undefined {  const articles = getAllArticles();
   return articles.find((article) => article.slug === slug);
 }
 

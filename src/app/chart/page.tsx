@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { getAllArticles } from '@/lib/articles';
+import { getAllArticles, toListItems } from '@/lib/articles';
 import ChartClient from './ChartClient';
 
 export const metadata: Metadata = {
@@ -29,5 +29,5 @@ export const metadata: Metadata = {
 export default function ChartPage() {
   const articles = getAllArticles();
   // Pass recent 60 articles for chart (last ~2 weeks at ~4/day)
-  return <ChartClient articles={articles.slice(0, 60)} allArticles={articles} />;
+  return <ChartClient articles={toListItems(articles.slice(0, 60))} />;
 }
