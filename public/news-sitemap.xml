@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/male-idols-terrifying-knife-chase-story-in-jeju-resurfaces-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T02:43:48.000Z</news:publication_date>
+      <news:title>Male Idol’s Jeju Knife Chase Story Resurfaces, Raising Crime Concerns</news:title>
+      <news:keywords>Comeback, Charts, Album, Tour, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/female-k-pop-idol-divulges-secret-to-her-waterbomb-figure/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T18:41:58.000Z</news:publication_date>
+      <news:title>Nam Yujeong Reveals Secret to Her “Waterbomb” Figure, Fans Shocked</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/jyp-entertainment-idol-opens-up-about-repeated-failures-whil/</loc>
     <news:news>
       <news:publication>
@@ -146,6 +170,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/cha-woo-min-makes-a-bold-move-to-win-kim-hye-juns-heart-in-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T07:39:06.000Z</news:publication_date>
+      <news:title>Cha Woo Min Stuns Fans with Bold Move in &quot;My Bias, My Boss&quot; Drama</news:title>
+      <news:keywords>Debut, Charts, K-Drama, Cha Woo Min, Kim Hye Jun</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/mark-lee-allegedly-responds-to-question-regarding-his-relati/</loc>
     <news:news>
       <news:publication>
@@ -155,6 +191,18 @@
       <news:publication_date>2026-08-24T06:55:08.000Z</news:publication_date>
       <news:title>Mark Lee Stirs Fans After Alleged Relationship Reply Sparks NCT Buzz</news:title>
       <news:keywords>NCT, Debut, Concert, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-hye-jun-risks-having-her-fangirl-life-exposed-as-kang-ho/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T06:23:34.000Z</news:publication_date>
+      <news:title>Kim Hye Jun Risks Fangirl Life Exposed in New Drama &quot;My Bias, My Boss&quot; – Stills Reveal Cha Woo Min Romance</news:title>
+      <news:keywords>Awards, Charts, K-Drama, Kim Hye Jun, Cha Woo Min</news:keywords>
     </news:news>
   </url>
   <url>
@@ -359,30 +407,6 @@
       <news:publication_date>2026-08-23T04:05:46.000Z</news:publication_date>
       <news:title>KATSEYE Breaks UK Chart Records with EP &apos;WILD&apos; and Single &apos;Animal&apos;</news:title>
       <news:keywords>BTS, BLACKPINK, LE SSERAFIM, ILLIT, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/billlies-haruna-to-temporarily-halt-all-activities-due-to-he/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T01:35:56.000Z</news:publication_date>
-      <news:title>Billlie&apos;s Haruna Halts Activities Due to Health, Fans Rally Support</news:title>
-      <news:keywords>Stray Kids, aespa, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-actress-surprises-with-her-baby-bump/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T19:25:03.000Z</news:publication_date>
-      <news:title>Top Actress Shocks Fans with Baby Bump Reveal on Set – Fall Birth Expected</news:title>
-      <news:keywords>Awards, MV, K-Drama, Actress, Pregnancy</news:keywords>
     </news:news>
   </url>
 </urlset>
