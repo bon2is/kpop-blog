@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ives-an-yujin-is-elegant-yet-cute-dressed-in-white/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T12:46:02.000Z</news:publication_date>
+      <news:title>IVE&apos;s An Yujin Stuns Fans With Elegant White Outfit in Latest Instagram Drop</news:title>
+      <news:keywords>IVE, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hyun-bin-jung-woo-sung-and-woo-do-hwan-share-insights-into-h/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T11:36:01.000Z</news:publication_date>
+      <news:title>Hyun Bin, Jung Woo‑sung Reveal Character Evolution in Made in Korea 2</news:title>
+      <news:keywords>Charts, K-Drama, Hyun Bin, Jung Woo-sung, Made in Korea</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/weis-kim-dong-han-and-yoo-yong-ha-leave-agency/</loc>
     <news:news>
       <news:publication>
