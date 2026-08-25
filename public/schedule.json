@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-25T02:53:09.112Z",
+  "lastUpdated": "2026-08-25T12:25:17.911Z",
   "events": [
+    {
+      "id": "soompi-0-2026-08-25",
+      "date": "2026-08-25",
+      "type": "concert",
+      "artist": "ONEUS",
+      "title": "ONEUS Announces Dates And Cities For 2026 World Tour &#8220;FULL MOON&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon"
+      }
+    },
     {
       "id": "broadcast-show-champion-2026-08-26",
       "date": "2026-08-26",
@@ -29,17 +40,6 @@
       "links": {
         "youtube": "https://www.youtube.com/@MnetMcountdown",
         "official": "https://www.mnet.com"
-      }
-    },
-    {
-      "id": "gnews-comeback-2-2026-08-28",
-      "date": "2026-08-28",
-      "type": "release",
-      "artist": "BLACKPINK",
-      "title": "CLEAR YOU CALENDARS, RUBIES! Blackpink Jennie is dropping her new EP \"Fallen Angel\" on August 28, 2026. Link to full story in the comments. - facebook.com",
-      "source": "facebook.com",
-      "links": {
-        "official": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDh2cFliNm1pTGdiYlQtWFJNNzZuVVhuUkNucU9QVkpobE9QMXNUTU9uc1Z5ZHdIU2pXMnVmem9wakoyMk1Hc3g1MEFEWUozclpqWVQ3RS1wVEpja2JXSWhqbXVhMGdyenVubFJyVzAwRFlTUC1rSERSaDRuRDM4STNEQk5QMFVNdzM4WUtMVFZIamEyZ2haWjdhZDFmUExNMXNwSU9TZGdEcGd1eXp3S2JiUEl6SzlXd0JKMVdTYmYtTHJfWXBtVmZLaHBWc09MWmxnTDNVRQ?oc=5"
       }
     },
     {
