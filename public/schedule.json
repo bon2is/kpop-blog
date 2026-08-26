@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-26T02:59:41.370Z",
+  "lastUpdated": "2026-08-26T12:27:36.892Z",
   "events": [
     {
-      "id": "soompi-11-2026-08-26",
+      "id": "soompi-28-2026-08-26",
       "date": "2026-08-26",
       "type": "comeback",
       "artist": "Watch",
@@ -10,6 +10,17 @@
       "source": "soompi",
       "links": {
         "official": "https://www.soompi.com/article/1865654wpp/watch-i-dles-soyeon-announces-comeback-date-with-trailer-film-for-1st-full-album"
+      }
+    },
+    {
+      "id": "soompi-29-2026-08-26",
+      "date": "2026-08-26",
+      "type": "release",
+      "artist": "BLACKPINK",
+      "title": "Update: BLACKPINK&#8217;s Lisa Reveals Release Time Of New Single &#8220;SaWaDiKa&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1865628wpp/watch-blackpinks-lisa-drops-sneak-peek-of-new-pre-release-single-sawadika"
       }
     },
     {
