@@ -1,30 +1,26 @@
 {
-  "lastUpdated": "2026-08-26T14:47:11.271Z",
+  "lastUpdated": "2026-08-26T19:07:55.778Z",
   "events": [
     {
-      "id": "soompi-31-2026-08-26",
-      "date": "2026-08-26",
-      "type": "release",
-      "artist": "BLACKPINK",
-      "title": "Update: BLACKPINK&#8217;s Lisa Reveals Release Time Of New Single &#8220;SaWaDiKa&#8221;",
+      "id": "soompi-2-2026-08-27",
+      "date": "2026-08-27",
+      "type": "concert",
+      "artist": "TXT",
+      "title": "TXT Announces Dates And Cities For 2026-2027 World Tour &#8220;STEAL THE WIND&#8221;",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1865628wpp/watch-blackpinks-lisa-drops-sneak-peek-of-new-pre-release-single-sawadika"
+        "official": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind"
       }
     },
     {
-      "id": "broadcast-show-champion-2026-08-26",
-      "date": "2026-08-26",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Show Champion",
-      "description": "MBC M weekly music show",
-      "source": "recurring",
+      "id": "soompi-32-2026-08-27",
+      "date": "2026-08-27",
+      "type": "comeback",
+      "artist": "IVE",
+      "title": "Update: PENTAGON Announces Comeback Date For 10th-Anniversary Single",
+      "source": "soompi",
       "links": {
-        "youtube": "https://www.youtube.com/@MBCkpop",
-        "official": "https://www.imbc.com"
+        "official": "https://www.soompi.com/article/1865658wpp/watch-pentagon-drops-1st-teaser-for-long-awaited-comeback-with-10th-anniversary-single"
       }
     },
     {
@@ -355,6 +351,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@KBSKpop",
         "official": "https://www.kbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show--music-core-2026-09-26",
+      "date": "2026-09-26",
+      "time": "17:15",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show! Music Core",
+      "description": "MBC Show! Music Core weekly performance show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@mbckpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]
