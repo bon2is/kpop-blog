@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllArticles, getArticleBySlug, getRelatedArticles, getAdjacentArticles } from '@/lib/articles';
 import { getArtistByTag } from '@/lib/artists';
-import { formatDate, estimateReadingTime, extractHeadings } from '@/lib/utils';
+import { formatDate, estimateReadingTime, extractHeadings, tagSlug } from '@/lib/utils';
 import { getCategoryColor } from '@/lib/config';
 import { InArticleAd, SidebarAd, BottomBannerAd, TopBannerAd, AtfRectangleAd } from '@/components/AdBanner';
 import AuditionPromoCard from '@/components/AuditionPromoCard';
@@ -359,7 +359,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
             {article.tags.map((tag) => (
               <Link
                 key={tag}
-                href={`/tag/${tag.toLowerCase()}`}
+                href={`/tag/${tagSlug(tag)}`}
                 className="inline-flex items-center gap-1 px-3 py-1 bg-gray-100 text-gray-600 text-sm rounded-full hover:bg-pink-50 hover:text-pink-600 hover:border-pink-200 border border-transparent transition-all"
               >
                 #{tag}
@@ -371,7 +371,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
           {article.tags[0] && (
             <div className="mt-3">
               <Link
-                href={`/tag/${article.tags[0].toLowerCase()}`}
+                href={`/tag/${tagSlug(article.tags[0])}`}
                 className="text-sm text-pink-600 hover:text-pink-700 font-medium inline-flex items-center gap-1"
               >
                 More {article.tags[0]} news

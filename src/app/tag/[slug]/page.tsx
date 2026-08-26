@@ -4,7 +4,8 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import AdBanner from '@/components/AdBanner';
 import { TagArticleList } from '@/components/TagArticleList';
-import { getArticlesByTag, getRelatedTags, getAllTags } from '@/lib/articles';
+import { getArticlesByTag, getRelatedTags, getAllTags, getOriginalTag } from '@/lib/articles';
+import { tagSlug } from '@/lib/utils';
 import type { ArticleSummary } from '@/types';
 import { getArtistByTag } from '@/lib/artists';
 import { Tag, Building2, Calendar, Newspaper } from 'lucide-react';
@@ -15,21 +16,28 @@ interface TagPageProps {
 }
 
 // static export: 전체 태그 페이지를 빌드 타임에 생성한다(온디맨드 렌더 없음).
+// 슬러그는 tagSlug()로 정규화 — 링크·캐노니컬·sitemap과 반드시 동일한 규칙.
 export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  return getAllTags().map((tag) => ({ slug: tag }));
+  const seen = new Map<string, string>();
+  for (const tag of getAllTags()) {
+    const slug = tagSlug(tag);
+    if (!seen.has(slug)) seen.set(slug, slug);
+  }
+  return Array.from(seen.keys()).map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: TagPageProps): Promise<Metadata> {
-  const tag = decodeURIComponent(params.slug);
-  const articles = getArticlesByTag(tag);
+  const slug = decodeURIComponent(params.slug).toLowerCase();
+  const tag = getOriginalTag(slug);
+  const articles = getArticlesByTag(slug);
 
-  if (articles.length === 0) {
+  if (!tag || articles.length === 0) {
     return { title: 'Tag Not Found' };
   }
 
-  const tagUrl = `${siteConfig.url}/tag/${tag.toLowerCase()}`;
+  const tagUrl = `${siteConfig.url}/tag/${slug}`;
   // Thin content: noindex tags with fewer than 3 articles to protect crawl budget
   const isIndexable = articles.length >= 3;
   return {
@@ -57,10 +65,11 @@ export async function generateMetadata({ params }: TagPageProps): Promise<Metada
 }
 
 export default function TagPage({ params }: TagPageProps) {
-  const tag = decodeURIComponent(params.slug);
-  const rawArticles = getArticlesByTag(tag);
+  const slug = decodeURIComponent(params.slug).toLowerCase();
+  const tag = getOriginalTag(slug);
+  const rawArticles = getArticlesByTag(slug);
 
-  if (rawArticles.length === 0) {
+  if (!tag || rawArticles.length === 0) {
     notFound();
   }
 
@@ -68,7 +77,7 @@ export default function TagPage({ params }: TagPageProps) {
 
   // Check if this tag matches a known artist
   const artist = getArtistByTag(tag);
-  const relatedTags = getRelatedTags(tag, 8);
+  const relatedTags = getRelatedTags(slug, 8);
 
   // BreadcrumbList JSON-LD: Safe — tag is a URL slug from our own static generated tags
   const tagBreadcrumbJson = JSON.stringify({
@@ -76,7 +85,7 @@ export default function TagPage({ params }: TagPageProps) {
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
-      { '@type': 'ListItem', position: 2, name: `#${tag}`, item: `${siteConfig.url}/tag/${tag.toLowerCase()}` },
+      { '@type': 'ListItem', position: 2, name: `#${tag}`, item: `${siteConfig.url}/tag/${slug}` },
     ],
   });
   const tagBreadcrumbProps = { __html: tagBreadcrumbJson };
@@ -188,7 +197,7 @@ export default function TagPage({ params }: TagPageProps) {
             {relatedTags.map((relTag) => (
               <Link
                 key={relTag}
-                href={`/tag/${relTag.toLowerCase()}`}
+                href={`/tag/${tagSlug(relTag)}`}
                 className="inline-flex items-center px-3 py-1.5 rounded-full text-sm bg-gray-100 text-gray-700 hover:bg-pink-50 hover:text-pink-600 border border-transparent hover:border-pink-200 transition-all"
               >
                 #{relTag}

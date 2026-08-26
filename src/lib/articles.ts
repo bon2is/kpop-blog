@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { Article, ArticleListItem, Category } from '@/types';
-import { estimateReadingTime } from '@/lib/utils';
+import { estimateReadingTime, tagSlug } from '@/lib/utils';
 
 const contentDirectory = path.join(process.cwd(), 'content/posts');
 
@@ -120,11 +120,27 @@ export function getAllTags(): string[] {
   return Array.from(tags).sort();
 }
 
-export function getArticlesByTag(tag: string): Article[] {
+// Tag pages are addressed by tagSlug(tag) — the same slug used by internal
+// links, canonicals, and the sitemap. Never match raw tag names here.
+export function getArticlesByTag(slug: string): Article[] {
   const articles = getAllArticles();
   return articles.filter((article) =>
-    article.tags.map((t) => t.toLowerCase()).includes(tag.toLowerCase())
+    article.tags.some((tag) => tagSlug(tag) === slug.toLowerCase())
   );
+}
+
+// Reverse lookup: display name for a tag slug (most frequent casing wins).
+export function getOriginalTag(slug: string): string | undefined {
+  const counts: Record<string, number> = {};
+  for (const article of getAllArticles()) {
+    for (const tag of article.tags) {
+      if (tagSlug(tag) === slug.toLowerCase()) {
+        counts[tag] = (counts[tag] ?? 0) + 1;
+      }
+    }
+  }
+  const best = Object.entries(counts).sort((a, b) => b[1] - a[1])[0];
+  return best?.[0];
 }
 
 export function getAdjacentArticles(slug: string): {
@@ -140,16 +156,16 @@ export function getAdjacentArticles(slug: string): {
 }
 
 // Returns tags that frequently co-occur with the given tag, sorted by co-occurrence count
-export function getRelatedTags(tag: string, limit = 8): string[] {
+export function getRelatedTags(slug: string, limit = 8): string[] {
   const articles = getAllArticles();
-  const tagLower = tag.toLowerCase();
+  const slugLower = slug.toLowerCase();
   const coCount: Record<string, number> = {};
 
   for (const article of articles) {
-    const tagsLower = article.tags.map((t) => t.toLowerCase());
-    if (!tagsLower.includes(tagLower)) continue;
+    const slugs = article.tags.map((t) => tagSlug(t));
+    if (!slugs.includes(slugLower)) continue;
     for (const t of article.tags) {
-      if (t.toLowerCase() === tagLower) continue;
+      if (tagSlug(t) === slugLower) continue;
       coCount[t] = (coCount[t] ?? 0) + 1;
     }
   }

@@ -19,6 +19,15 @@ export function slugify(text: string): string {
     .trim();
 }
 
+// Canonical URL slug for a tag. Tags like "Stray Kids", "(G)I-DLE", "BTS"
+// must produce stable lowercase-hyphenated slugs used IDENTICALLY by
+// generateStaticParams, internal links, canonicals, and the sitemap —
+// Cloudflare Pages asset lookup is case- and space-sensitive, so any
+// mismatch between the built directory name and the link URL 404s.
+export function tagSlug(tag: string): string {
+  return slugify(tag);
+}
+
 export function truncate(text: string, length: number): string {
   if (text.length <= length) return text;
   return text.slice(0, length).trim() + '...';

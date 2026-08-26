@@ -2,6 +2,7 @@ import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 import { categories } from '@/lib/config';
 import { getAllArtistSlugs } from '@/lib/artists';
+import { tagSlug } from '@/lib/utils';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://kpop.andxo.com';
@@ -42,12 +43,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'daily',
       priority: 0.8,
     },
-    {
-      url: `${baseUrl}/search/`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.7,
-    },
+    // /search is intentionally excluded — the page is noindex.
     {
       url: `${baseUrl}/about/`,
       lastModified: new Date(),
@@ -79,18 +75,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  // Tag pages — only include tags with 3+ articles (thin pages are noindexed)
+  // Tag pages — only include tags with 3+ articles (thin pages are noindexed).
+  // URLs use tagSlug() — identical to generateStaticParams and internal links.
   const tagFreq: Record<string, number> = {};
   articles.forEach((article) => {
     article.tags.forEach((tag) => {
-      const t = tag.toLowerCase();
-      tagFreq[t] = (tagFreq[t] ?? 0) + 1;
+      const slug = tagSlug(tag);
+      tagFreq[slug] = (tagFreq[slug] ?? 0) + 1;
     });
   });
   const tagPages: MetadataRoute.Sitemap = Object.entries(tagFreq)
     .filter(([, count]) => count >= 3)
-    .map(([tag]) => ({
-      url: `${baseUrl}/tag/${tag}/`,
+    .map(([slug]) => ({
+      url: `${baseUrl}/tag/${slug}/`,
       lastModified: new Date(),
       changeFrequency: 'daily' as const,
       priority: 0.6,

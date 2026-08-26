@@ -6,7 +6,7 @@ import AuditionPromoCard from '@/components/AuditionPromoCard';
 import CategoryArticleList from '@/components/CategoryArticleList';
 import { getArticlesByCategory } from '@/lib/articles';
 import { categories, getCategoryBySlug } from '@/lib/config';
-import { getTagFrequency } from '@/lib/utils';
+import { getTagFrequency, tagSlug } from '@/lib/utils';
 import type { ArticleSummary } from '@/types';
 import { Category } from '@/types';
 
@@ -134,7 +134,7 @@ export default function CategoryPage({ params }: CategoryPageProps) {
                 {topTags.map((tag) => (
                   <Link
                     key={tag}
-                    href={`/tag/${tag.toLowerCase()}`}
+                    href={`/tag/${tagSlug(tag)}`}
                     className="inline-flex items-center px-3 py-1.5 rounded-full text-sm border transition-all hover:scale-105"
                     style={{
                       backgroundColor: `${category.color}10`,

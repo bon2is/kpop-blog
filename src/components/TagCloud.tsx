@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getTagFrequency } from '@/lib/utils';
+import { tagSlug } from '@/lib/utils';
 import type { ArticleSummary } from '@/types';
 import { Hash } from 'lucide-react';
 
@@ -55,7 +56,7 @@ export default function TagCloud({ articles, maxTags = 30 }: TagCloudProps) {
         {sorted.map(([tag, count]) => (
           <Link
             key={tag}
-            href={`/tag/${tag.toLowerCase()}`}
+            href={`/tag/${tagSlug(tag)}`}
             className={`transition-colors ${getFontSize(count)} ${getColor(count)}`}
           >
             #{tag}

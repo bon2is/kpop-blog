@@ -6,6 +6,7 @@ import { siteConfig } from '@/lib/config';
 export const metadata: Metadata = {
   title: `K-Pop Official Shop Guide | ${siteConfig.name}`,
   description: 'Your complete K-Pop shopping guide. Find official merch, albums, and fashion from BTS, BLACKPINK, aespa, and more top artists.',
+  alternates: { canonical: `${siteConfig.url}/shop` },
   openGraph: {
     title: 'K-Pop Official Shop Guide',
     description: 'Official merch & album shopping guide for K-Pop fans',
