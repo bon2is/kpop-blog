@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-26T19:07:55.778Z",
+  "lastUpdated": "2026-08-27T12:12:57.404Z",
   "events": [
     {
-      "id": "soompi-2-2026-08-27",
+      "id": "soompi-18-2026-08-27",
       "date": "2026-08-27",
       "type": "concert",
       "artist": "TXT",
@@ -10,17 +10,6 @@
       "source": "soompi",
       "links": {
         "official": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind"
-      }
-    },
-    {
-      "id": "soompi-32-2026-08-27",
-      "date": "2026-08-27",
-      "type": "comeback",
-      "artist": "IVE",
-      "title": "Update: PENTAGON Announces Comeback Date For 10th-Anniversary Single",
-      "source": "soompi",
-      "links": {
-        "official": "https://www.soompi.com/article/1865658wpp/watch-pentagon-drops-1st-teaser-for-long-awaited-comeback-with-10th-anniversary-single"
       }
     },
     {
