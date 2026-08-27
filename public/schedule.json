@@ -1,30 +1,15 @@
 {
-  "lastUpdated": "2026-08-27T12:12:57.404Z",
+  "lastUpdated": "2026-08-27T21:25:38.150Z",
   "events": [
     {
-      "id": "soompi-18-2026-08-27",
-      "date": "2026-08-27",
-      "type": "concert",
-      "artist": "TXT",
-      "title": "TXT Announces Dates And Cities For 2026-2027 World Tour &#8220;STEAL THE WIND&#8221;",
+      "id": "soompi-1-2026-08-28",
+      "date": "2026-08-28",
+      "type": "release",
+      "artist": "LE SSERAFIM",
+      "title": "Watch: LE SSERAFIM Announces 2nd Single Album &#8220;Made My Night&#8221;",
       "source": "soompi",
       "links": {
-        "official": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind"
-      }
-    },
-    {
-      "id": "broadcast-m-countdown-2026-08-27",
-      "date": "2026-08-27",
-      "time": "18:00",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "M Countdown",
-      "description": "Mnet weekly music countdown show",
-      "source": "recurring",
-      "links": {
-        "youtube": "https://www.youtube.com/@MnetMcountdown",
-        "official": "https://www.mnet.com"
+        "official": "https://www.soompi.com/article/1866259wpp/watch-le-sserafim-announces-2nd-single-album-made-my-night"
       }
     },
     {
@@ -355,6 +340,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@mbckpop",
         "official": "https://www.imbc.com"
+      }
+    },
+    {
+      "id": "broadcast-inkigayo-2026-09-27",
+      "date": "2026-09-27",
+      "time": "15:40",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Inkigayo",
+      "description": "SBS Inkigayo weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@SBSenter",
+        "official": "https://programs.sbs.co.kr"
       }
     }
   ]
