@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/another-knowing-bros-cast-member-goes-on-break/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T00:59:39.000Z</news:publication_date>
+      <news:title>Knowing Bros Cast Member Takes Break, Following Heechul&apos;s Hiatus</news:title>
+      <news:keywords>SEVENTEEN, Stray Kids, Super Junior, Album, Knowing Bros</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/min-kyung-hoon-to-take-hiatus-from-knowing-bros/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T00:18:19.000Z</news:publication_date>
+      <news:title>Min Kyung Hoon Takes Hiatus from Knowing Bros – Fans React to Sudden Break</news:title>
+      <news:keywords>Stray Kids, ENHYPEN, Super Junior, Comeback, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseye-pulls-out-of-daisy-chain-fields-festival-due-to-inju/</loc>
     <news:news>
       <news:publication>
@@ -359,18 +383,6 @@
       <news:publication_date>2026-08-26T01:38:52.000Z</news:publication_date>
       <news:title>Jungkool Defends Against Balding Rumors, Fans Rally in Support</news:title>
       <news:keywords>BTS, Comeback, Album, Tour, Jungkook</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-member-gets-brutally-trolled-over-new-look/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T00:02:44.000Z</news:publication_date>
-      <news:title>BTS&apos; Jin Faces Brutal Online Trolls Over New Luxury Campaign Look</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Jin, Fashion</news:keywords>
     </news:news>
   </url>
 </urlset>
