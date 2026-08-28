@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/hyun-bin-faces-off-against-jung-woo-sung-as-woo-do-hwan-is-c/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T11:52:02.000Z</news:publication_date>
+      <news:title>Hyun Bin Faces Off With Jung Woo-sung in Disney+ Drama &quot;Made in Korea 2&quot; – New Stills Reveal Tension</news:title>
+      <news:keywords>IU, Charts, K-Drama, Hyun Bin, Jung Woo-sung</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bigbang-concert-under-government-investigation-for-shameless/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T11:05:29.000Z</news:publication_date>
+      <news:title>BIGBANG Faces FTC Investigation Over &quot;Shameless&quot; Concert Setup Issues</news:title>
+      <news:keywords>BTS, BLACKPINK, Stray Kids, BIGBANG, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hyun-bin-jung-sung-il-and-roh-jae-won-dish-on-their-characte/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T10:25:12.000Z</news:publication_date>
+      <news:title>Hyun Bin Reveals Power Shifts in Made in Korea 2 – Netflix Drama Returns</news:title>
+      <news:keywords>Debut, Charts, K-Drama, Hyun Bin, Made in Korea</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/twice-jeongyeons-glow-up-visuals-in-photos-after-leaving-jyp/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T09:37:13.000Z</news:publication_date>
+      <news:title>TWICE&apos;s Jeongyeon Stuns Fans with Dramatic &quot;Glow Up&quot; After JYP Exit</news:title>
+      <news:keywords>TWICE, Comeback, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpink-lisas-shockingly-sexy-cover-artwork-triggers-backl/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T09:05:27.000Z</news:publication_date>
+      <news:title>BLACKPINK Lisa&apos;s Sexy Cover Art Sparks Global Backlash and Fan Debate</news:title>
+      <news:keywords>BLACKPINK, Debut, Charts, MV, Lisa</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/another-knowing-bros-cast-member-goes-on-break/</loc>
     <news:news>
       <news:publication>
@@ -263,126 +323,6 @@
       <news:publication_date>2026-08-26T15:11:16.000Z</news:publication_date>
       <news:title>TXT Announces 2026-2027 &quot;Steal The Wind&quot; World Tour Dates, Sparks Global Excitement</news:title>
       <news:keywords>BTS, BLACKPINK, SEVENTEEN, TXT, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-hit-with-major-plagiarism-accusations-with/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T12:36:09.000Z</news:publication_date>
-      <news:title>Jennie Faces Plagiarism Storm Over New Single as Fans React</news:title>
-      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ive-wonyoungs-sexy-airport-outfit-subject-to-malicious-criti/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T11:00:33.000Z</news:publication_date>
-      <news:title>IVE&apos;s Wonyoung Stuns Fans With Bold Airport Look Amid Online Backlash</news:title>
-      <news:keywords>IVE, Debut, Charts, Tour, Wonyoung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-enhypen-takes-1st-win-for-bloody-paradise-on-show-cham/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T09:39:02.000Z</news:publication_date>
-      <news:title>ENHYPEN Takes First Show Champion Win With “Bloody Paradise” – Fans Celebrate Milestone</news:title>
-      <news:keywords>BTS, TWICE, Stray Kids, LE SSERAFIM, TXT</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-third-gen-female-idols-comments-about-her-sexuality-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T09:00:26.000Z</news:publication_date>
-      <news:title>Third-Gen Idol Sparks Debate Over Sexuality Comments, Fans React</news:title>
-      <news:keywords>BTS, ITZY, aespa, IVE, ENHYPEN</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/zerobaseones-kim-tae-rae-announced-as-new-dj-of-radio-show-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T08:15:43.000Z</news:publication_date>
-      <news:title>ZEROBASEONE’s Kim Tae Rae Becomes New DJ of MBC FM4U’s “Close Friend”</news:title>
-      <news:keywords>EXO, Red Velvet, ZEROBASEONE, IU, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/i-live-alone-addresses-fabricated-broadcasting-accusations/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T08:13:02.000Z</news:publication_date>
-      <news:title>Jun Hyun Moo Addresses Fabricated Broadcast Accusations on &quot;I Live Alone&quot;</news:title>
-      <news:keywords>IU, Tour, Jun Hyun Moo, I Live Alone, Korean Variety Show</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/7-k-pop-it-girls-who-are-rocking-the-summer-mermaid-chic-tre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T07:53:08.000Z</news:publication_date>
-      <news:title>K-Pop It Girls Make Waves: Mermaid Chic Takes Over Summer Style</news:title>
-      <news:keywords>BLACKPINK, TWICE, EXO, NCT, Red Velvet</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-love-in-the-moonlight-stars-park-bo-gum-kim-you-jung-j/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T02:42:51.000Z</news:publication_date>
-      <news:title>Park Bo-gum&apos;s ‘Love Again in the Moonlight’ Teaser Stuns Fans with Friendship Vibes</news:title>
-      <news:keywords>Debut, Awards, Charts, Album, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-star-shares-letter-announcing-marriage-to-fellow-singe/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T02:00:50.000Z</news:publication_date>
-      <news:title>K-Pop Star Announces Marriage in Emotional Letter, Fans React Worldwide</news:title>
-      <news:keywords>BTS, TWICE, EXO, SHINee, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-defended-from-hair-balding-accusations/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T01:38:52.000Z</news:publication_date>
-      <news:title>Jungkool Defends Against Balding Rumors, Fans Rally in Support</news:title>
-      <news:keywords>BTS, Comeback, Album, Tour, Jungkook</news:keywords>
     </news:news>
   </url>
 </urlset>
