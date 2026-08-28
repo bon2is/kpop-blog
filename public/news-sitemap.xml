@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-idol-debuts-in-his-8th-group-at-32-years-old/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T21:01:11.000Z</news:publication_date>
+      <news:title>Veteran Idol Debuts in 8th Group at 32, Proving Never Give Up Pays Off</news:title>
+      <news:keywords>EXO, NCT, SEVENTEEN, SHINee, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/bigbang-taeyangs-interest-in-a-job-at-yg-entertainment-creat/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T16:07:22.000Z</news:publication_date>
+      <news:title>Taeyang Sparks Buzz Over YG Recruitment Post, Fans Wonder If He’ll Return to the Label</news:title>
+      <news:keywords>BTS, BIGBANG, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-best-performances-at-2026-summer-sonic-ranked/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T15:29:43.000Z</news:publication_date>
+      <news:title>Jennie Stuns at Summer Sonic 2026, BABYMONSTER Ranks Among Top Performances</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, EXO, Stray Kids</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/hyun-bin-faces-off-against-jung-woo-sung-as-woo-do-hwan-is-c/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +95,30 @@
       <news:publication_date>2026-08-28T09:05:27.000Z</news:publication_date>
       <news:title>BLACKPINK Lisa&apos;s Sexy Cover Art Sparks Global Backlash and Fan Debate</news:title>
       <news:keywords>BLACKPINK, Debut, Charts, MV, Lisa</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T05:12:00.000Z</news:publication_date>
+      <news:title>Tomorrow X Together Announces Fifth World Tour “Steal The Wind” – Tickets On Sale Now</news:title>
+      <news:keywords>TXT, Debut, Concert, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/exclusive-interview-zelo-turns-desire-toxicity-and-lingering/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T05:08:32.000Z</news:publication_date>
+      <news:title>ZELO Turns Desire Into Art with New Single “ELA” – Breaks New Ground</news:title>
+      <news:keywords>ENHYPEN, IU, Debut, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -263,66 +323,6 @@
       <news:publication_date>2026-08-27T05:36:03.000Z</news:publication_date>
       <news:title>Zhoumi Appointed CEO of SM‑Tencent Joint Venture, Marks New Era for SUPER JUNIOR‑M</news:title>
       <news:keywords>NCT, Super Junior, Concert, Charts, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/real-ai-latest-photos-of-hybes-bang-si-hyuk-spark-massive-at/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T18:58:13.000Z</news:publication_date>
-      <news:title>Bang Si-hyuk Sparks AI Photo Frenzy – HYBE’s Founder Goes Viral</news:title>
-      <news:keywords>BTS, LE SSERAFIM, TXT, ENHYPEN, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/boy-group-idol-openly-talks-about-his-married-life/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T18:05:04.000Z</news:publication_date>
-      <news:title>Idol Confesses Married Life on KBS Show, Shocking Fans Worldwide</news:title>
-      <news:keywords>Charts, Album, MV, Tour, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/third-generation-acting-familys-teenage-son-stuns-with-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T18:00:46.000Z</news:publication_date>
-      <news:title>Third-Generation Acting Family’s Son Stuns Fans With Debut‑Ready Idol Visuals</news:title>
-      <news:keywords>BTS, EXO, Taemin, IU, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-k-pop-idol-opens-up-on-potentially-giving-birth-witho/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T17:59:41.000Z</news:publication_date>
-      <news:title>Go Woo-ri Opens Up on Potential Birth Without Husband, Shocks Fans</news:title>
-      <news:keywords>Comeback, Charts, Go Woo-ri, Rainbow, Pregnancy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/txt-announces-dates-and-cities-for-2026-2027-world-tour-stea/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T15:11:16.000Z</news:publication_date>
-      <news:title>TXT Announces 2026-2027 &quot;Steal The Wind&quot; World Tour Dates, Sparks Global Excitement</news:title>
-      <news:keywords>BTS, BLACKPINK, SEVENTEEN, TXT, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
