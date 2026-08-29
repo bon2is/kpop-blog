@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/6-new-k-pop-songs-bringing-2010s-party-tracks-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T06:10:45.000Z</news:publication_date>
+      <news:title>New K-Pop Party Anthems Revive 2010s Hits — 6 Fresh Tracks</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, NCT, SEVENTEEN</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/k-pop-star-gets-real-about-having-a-side-career-while-being-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T02:54:34.000Z</news:publication_date>
+      <news:title>Kang Daniel Opens Up About Side Career While Still an Idol</news:title>
+      <news:keywords>IU, Debut, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/boynextdoors-sungho-confirmed-as-new-music-core-mc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T02:09:22.000Z</news:publication_date>
+      <news:title>BOYNEXTDOOR&apos;s Sungho Confirmed as New Music Core MC – Breaks Hosting Record</news:title>
+      <news:keywords>EXO, NCT, Red Velvet, Stray Kids, LE SSERAFIM</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/5-must-watch-meta-bls-for-a-deepdive-into-the-genre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T01:35:00.000Z</news:publication_date>
+      <news:title>Meta BL Dramas Take Center Stage: 5 Must-Watch Picks for Global Fans</news:title>
+      <news:keywords>aespa, ENHYPEN, IU, K-Drama, BL Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseye-manons-departure-seemingly-confirmed-with-her-remova/</loc>
     <news:news>
       <news:publication>
@@ -419,30 +467,6 @@
       <news:publication_date>2026-08-27T09:00:48.000Z</news:publication_date>
       <news:title>Lee Eun Gyeol Stuns Fans with 30th Anniversary ‘ONE OF ONE’ Magic Spectacle</news:title>
       <news:keywords>BTS, EXO, Concert, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/exclusive-interview-sf9-on-the-meaning-of-tenacity-their-10-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T06:06:03.000Z</news:publication_date>
-      <news:title>SF9 Celebrates 10-Year Journey, Reveals Meaning Behind “TENACITY” and New Album “Without Wings”</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/super-junior-ms-zhoumi-appointed-ceo-of-sm-entertainment-and/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T05:36:03.000Z</news:publication_date>
-      <news:title>Zhoumi Appointed CEO of SM‑Tencent Joint Venture, Marks New Era for SUPER JUNIOR‑M</news:title>
-      <news:keywords>NCT, Super Junior, Concert, Charts, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
