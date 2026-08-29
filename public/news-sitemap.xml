@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/fortune-telling-video-about-park-we-and-song-jieun-gains-att/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T15:48:01.000Z</news:publication_date>
+      <news:title>Park We&apos;s Fortune‑Telling Video Sparks Massive Backlash and Apology</news:title>
+      <news:keywords>Comeback, Charts, K-Drama, Park We, Song Jieun</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/k-pop-star-candidly-confesses-his-arrogant-days/</loc>
     <news:news>
       <news:publication>
@@ -383,30 +395,6 @@
       <news:publication_date>2026-08-27T21:04:58.000Z</news:publication_date>
       <news:title>4th‑Gen Idol Drops &quot;Die!&quot; Message, Sparks Viral Hater Backlash</news:title>
       <news:keywords>BTS, BLACKPINK, NewJeans, LE SSERAFIM, IVE</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-boy-group-holds-shower-contests-while-living-in-dorm/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T17:08:17.000Z</news:publication_date>
-      <news:title>SHINee Reveals Dorm Shower Contests on KBS’s “Let’s Live Together” – Fans Stunned</news:title>
-      <news:keywords>SHINee, Taemin, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-idol-shocks-with-drastically-changed-visuals/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T16:42:36.000Z</news:publication_date>
-      <news:title>Girls&apos; Generation Stuns Fans With Dramatic New Visuals</news:title>
-      <news:keywords>EXO, aespa, Girls Generation, SNSD, Comeback</news:keywords>
     </news:news>
   </url>
 </urlset>
