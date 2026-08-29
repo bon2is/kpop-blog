@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-group-enters-hiatus-after-losing-half-the-members-7-mo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T18:13:48.000Z</news:publication_date>
+      <news:title>K-Pop Group Enters Hiatus After Losing Half Its Members – Shocking Turn</news:title>
+      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/fortune-telling-video-about-park-we-and-song-jieun-gains-att/</loc>
     <news:news>
       <news:publication>
