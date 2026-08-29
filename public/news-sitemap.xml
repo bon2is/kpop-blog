@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/k-pop-star-candidly-confesses-his-arrogant-days/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T15:41:09.000Z</news:publication_date>
+      <news:title>K-Pop Star Confesses Arrogant Days After Music Show Win</news:title>
+      <news:keywords>BTS, IU, Comeback, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/female-k-pop-idol-bluntly-talks-about-her-treatment-of-ex-bo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T15:11:03.000Z</news:publication_date>
+      <news:title>EXID&apos;s Solji Opens Up About Ex‑Boyfriends, Sparking Honest Conversation</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-idol-star-opens-up-on-the-great-struggles-during-his-unk/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T13:54:34.000Z</news:publication_date>
+      <news:title>Kim Jaejoong Opens Up About Struggles in Japan, Shocking Fans with Raw Truth</news:title>
+      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/6-new-k-pop-songs-bringing-2010s-party-tracks-back/</loc>
     <news:news>
       <news:publication>
@@ -371,102 +407,6 @@
       <news:publication_date>2026-08-27T16:42:36.000Z</news:publication_date>
       <news:title>Girls&apos; Generation Stuns Fans With Dramatic New Visuals</news:title>
       <news:keywords>EXO, aespa, Girls Generation, SNSD, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girl-group-member-speaks-out-against-extreme-thinness-forced/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T15:50:15.000Z</news:publication_date>
-      <news:title>Girl Group Star Speaks Out Against Extreme Thinness, Calls for Industry Change</news:title>
-      <news:keywords>Debut, Charts, Album, Tour, Girl Group</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-le-sserafim-announces-2nd-single-album-made-my-night/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T15:17:22.000Z</news:publication_date>
-      <news:title>LE SSERAFIM Announces 2nd Single Album “Made My Night” – Drops Teaser</news:title>
-      <news:keywords>BTS, SEVENTEEN, LE SSERAFIM, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/korean-star-receives-stern-warning-from-expert-after-praisin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T15:06:32.000Z</news:publication_date>
-      <news:title>Korean Star Praises AI, Neuroscientist Issues Stern Warning on KBS2’s Problem Child in House</news:title>
-      <news:keywords>Debut, Charts, K-Drama, Lee Min‑ji, AI</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/itzys-chaeryeong-confirmed-to-make-solo-debut-in-november/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T11:08:45.000Z</news:publication_date>
-      <news:title>Chaeryeong of ITZY Set to Drop Solo Debut in November, Sparks Global Excitement</news:title>
-      <news:keywords>BLACKPINK, TWICE, Stray Kids, ITZY, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-female-idols-natural-eyes-spark-massive-response/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T10:40:14.000Z</news:publication_date>
-      <news:title>IU Stuns Fans with Natural Eye Look, Sparks Viral Beauty Trend</news:title>
-      <news:keywords>IU, Debut, Awards, Charts, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisas-new-song-teaser-hit-with-brutal-ridicule/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T10:40:10.000Z</news:publication_date>
-      <news:title>BLACKPINK Lisa&apos;s New Song Teaser Stuns Fans Amid Brutal Online Ridicule</news:title>
-      <news:keywords>BLACKPINK, IU, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/jung-jin-young-yoon-sea-and-more-shape-song-kang-and-lee-jun/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T09:45:01.000Z</news:publication_date>
-      <news:title>Song Kang and Lee Jun-young Shine in &apos;Four Hands, Two Sonatas&apos; – New Drama Unveils Musical Mentors</news:title>
-      <news:keywords>THE BOYZ, Concert, Charts, Album, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/illusionist-lee-eun-gyeol-showcases-fantastical-magic-in-30t/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T09:00:48.000Z</news:publication_date>
-      <news:title>Lee Eun Gyeol Stuns Fans with 30th Anniversary ‘ONE OF ONE’ Magic Spectacle</news:title>
-      <news:keywords>BTS, EXO, Concert, Awards, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
