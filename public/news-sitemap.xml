@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/katseye-face-heated-backlash-for-supposedly-deceiving-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T18:58:19.000Z</news:publication_date>
+      <news:title>KATSEYE Faces Backlash After Fans Claim Deception Over Recent Appearance</news:title>
+      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/idol-turned-actress-divulges-her-self-management-secrets/</loc>
     <news:news>
       <news:publication>
@@ -275,18 +287,6 @@
       <news:publication_date>2026-08-28T21:01:11.000Z</news:publication_date>
       <news:title>Veteran Idol Debuts in 8th Group at 32, Proving Never Give Up Pays Off</news:title>
       <news:keywords>EXO, NCT, SEVENTEEN, SHINee, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-idol-explains-her-tearful-reaction-to-underboob-wardr/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T19:06:29.000Z</news:publication_date>
-      <news:title>Female Idol&apos;s Tearful Reaction to Wardrobe Malfunction Goes Viral</news:title>
-      <news:keywords>Comeback, Charts, Album, Tour, Female Idol</news:keywords>
     </news:news>
   </url>
 </urlset>
