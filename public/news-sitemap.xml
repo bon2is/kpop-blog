@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/idol-turned-actress-divulges-her-self-management-secrets/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T16:54:27.000Z</news:publication_date>
+      <news:title>Idol-Turned-Actress Reveals Self‑Care Secrets in Viral 30s Vlog</news:title>
+      <news:keywords>Debut, Awards, Charts, Album, Idol Actress</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/a-fans-unexpected-interaction-with-popular-4th-gen-male-idol/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +71,18 @@
       <news:publication_date>2026-08-30T10:06:09.000Z</news:publication_date>
       <news:title>Idol-Actress Sparks Buzz After Intimate Dates With Young Athlete</news:title>
       <news:keywords>Debut, Awards, Charts, K-Drama, Idol Actress</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/soompis-k-pop-music-chart-2026-august-week-5/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T07:20:10.000Z</news:publication_date>
+      <news:title>KiiiKiii&apos;s &apos;Pop Off Pop Off&apos; Stays #1 on Soompi Chart – New Moves for aespa &amp; CORTIS</news:title>
+      <news:keywords>aespa, ENHYPEN, Charts, Album, MV</news:keywords>
     </news:news>
   </url>
   <url>
@@ -263,66 +287,6 @@
       <news:publication_date>2026-08-28T19:06:29.000Z</news:publication_date>
       <news:title>Female Idol&apos;s Tearful Reaction to Wardrobe Malfunction Goes Viral</news:title>
       <news:keywords>Comeback, Charts, Album, Tour, Female Idol</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-sexualization-of-katseye-and-why-its-so-problematic/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T16:27:48.000Z</news:publication_date>
-      <news:title>KATSEYE Sparks Controversy Over Sexualization – Fans React and Industry Questions Rise</news:title>
-      <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/tore-up-my-clothes-korean-star-spills-on-how-her-husband-and/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T16:18:07.000Z</news:publication_date>
-      <news:title>Korean Star Reveals Husband&apos;s Shock Over Bold Fashion Choices in New Interview</news:title>
-      <news:keywords>BLACKPINK, IU, Awards, Charts, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/famous-star-spills-on-rejecting-an-idol-offer-to-become-an-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T16:17:00.000Z</news:publication_date>
-      <news:title>Song Kang Reveals He Turned Down Idol Offer to Pursue Acting</news:title>
-      <news:keywords>Debut, Awards, Tour, K-Drama, Song Kang</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bigbang-taeyangs-interest-in-a-job-at-yg-entertainment-creat/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T16:07:22.000Z</news:publication_date>
-      <news:title>Taeyang Sparks Buzz Over YG Recruitment Post, Fans Wonder If He’ll Return to the Label</news:title>
-      <news:keywords>BTS, BIGBANG, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/gay-k-pop-star-directly-mentions-homophobia-among-idols/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T15:55:14.000Z</news:publication_date>
-      <news:title>Gay K-Pop Star Breaks Silence on Idol Homophobia, Sparks Global Conversation</news:title>
-      <news:keywords>Comeback, Debut, Concert, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
