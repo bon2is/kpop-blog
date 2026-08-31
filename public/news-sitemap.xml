@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-idol-shocks-with-life-at-dorm-shes-been-staying-at-for-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T18:45:34.000Z</news:publication_date>
+      <news:title>Top Idol Reveals 19-Year Dorm Life in Shocking MBC Variety Clip</news:title>
+      <news:keywords>Debut, Concert, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/byun-yo-han-publicly-shows-affection-for-his-wife-tiffany-yo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T17:00:05.000Z</news:publication_date>
+      <news:title>Byun Yo Han Publicly Shows Affection for Tiffany Young, Sparking Fan Delight</news:title>
+      <news:keywords>Girls Generation, SNSD, Awards, Charts, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/stray-kids-bangchan-speaks-out-on-dangerous-incident-at-airp/</loc>
     <news:news>
       <news:publication>
@@ -14,6 +38,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/popular-third-gen-female-idol-shockingly-reveals-she-was-att/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T11:20:47.000Z</news:publication_date>
+      <news:title>Third-Gen Idol Shocks Fans Revealing Overseas Attack – Her Story Goes Viral</news:title>
+      <news:keywords>TWICE, IU, Comeback, Debut, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kickflip-confirmed-to-make-october-comeback/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +59,30 @@
       <news:publication_date>2026-08-31T08:23:25.000Z</news:publication_date>
       <news:title>KickFlip Confirms October Comeback, New Music Set for Release</news:title>
       <news:keywords>BTS, BLACKPINK, TWICE, Stray Kids, aespa</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/cha-woo-min-shocks-kang-hoon-with-a-mysterious-woman-from-hi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T06:37:06.000Z</news:publication_date>
+      <news:title>Cha Woo Min Shocks Kang Hoon with Mysterious Past Lover in “My Bias, My Boss”</news:title>
+      <news:keywords>ATEEZ, Charts, K-Drama, Cha Woo Min, Kang Hoon</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-hye-jun-and-kang-hoon-secretly-begin-dating-at-work-in-m/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T05:30:36.000Z</news:publication_date>
+      <news:title>Kim Hye Jun Sparks Romance Rumors in &apos;My Bias, My Boss&apos; – New Stills Reveal Secret Dating</news:title>
+      <news:keywords>IU, Charts, K-Drama, Kim Hye Jun, Kang Hoon</news:keywords>
     </news:news>
   </url>
   <url>
