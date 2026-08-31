@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-bangchan-speaks-out-on-dangerous-incident-at-airp/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T11:40:01.000Z</news:publication_date>
+      <news:title>Stray Kids&apos; Bang Chan Speaks Out on Airport Incident, Stuns Fans</news:title>
+      <news:keywords>BTS, Stray Kids, Comeback, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kickflip-confirmed-to-make-october-comeback/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T08:23:25.000Z</news:publication_date>
+      <news:title>KickFlip Confirms October Comeback, New Music Set for Release</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Stray Kids, aespa</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-unfamiliar-visuals-trigger-massive-respon/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,30 @@
       <news:publication_date>2026-08-31T04:26:21.000Z</news:publication_date>
       <news:title>BLACKPINK’s Jennie Faces Backlash Over ‘Using Kids’ Video Controversy</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-5-dramas-on-viki-in-august-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T04:06:28.000Z</news:publication_date>
+      <news:title>Viki&apos;s Top 5 August 2026 Dramas Stun Fans With Fresh Stories</news:title>
+      <news:keywords>EXO, IU, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/kim-min-ho-faces-company-commander-oh-dae-hwan-over-misfire-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T03:59:45.000Z</news:publication_date>
+      <news:title>New Recruit 4: Sabotage Stuns Fans as Kim Min Ho Clashes with Commander Oh Dae Hwan</news:title>
+      <news:keywords>Awards, Charts, K-Drama, New Recruit, Season 4</news:keywords>
     </news:news>
   </url>
   <url>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-08-30T20:54:25.000Z</news:publication_date>
       <news:title>ENHYPEN Makes History with First Billboard 200 No.1 Debut for &quot;THE SIN : BLISS&quot;</news:title>
       <news:keywords>BTS, BLACKPINK, Stray Kids, TXT, ENHYPEN</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-apinks-jeong-eun-ji-and-girls-generations-hyoyeon-hang/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T20:14:20.000Z</news:publication_date>
+      <news:title>Hyoyeon and Jeong Eun Ji Join &apos;The Manager&apos; – Fans Get Exclusive Bandmate Hangout</news:title>
+      <news:keywords>Girls Generation, SNSD, Concert, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -203,66 +263,6 @@
       <news:publication_date>2026-08-29T23:36:12.000Z</news:publication_date>
       <news:title>ENHYPEN Celebrates First Music Core Win for “Bloody Paradise” – Fans Go Wild</news:title>
       <news:keywords>BTS, TWICE, EXO, NCT, ENHYPEN</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-group-enters-hiatus-after-losing-half-the-members-7-mo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T18:13:48.000Z</news:publication_date>
-      <news:title>K-Pop Group Enters Hiatus After Losing Half Its Members – Shocking Turn</news:title>
-      <news:keywords>Comeback, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/fortune-telling-video-about-park-we-and-song-jieun-gains-att/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T15:48:01.000Z</news:publication_date>
-      <news:title>Park We&apos;s Fortune‑Telling Video Sparks Massive Backlash and Apology</news:title>
-      <news:keywords>Comeback, Charts, K-Drama, Park We, Song Jieun</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-star-candidly-confesses-his-arrogant-days/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T15:41:09.000Z</news:publication_date>
-      <news:title>K-Pop Star Confesses Arrogant Days After Music Show Win</news:title>
-      <news:keywords>BTS, IU, Comeback, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/female-k-pop-idol-bluntly-talks-about-her-treatment-of-ex-bo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T15:11:03.000Z</news:publication_date>
-      <news:title>EXID&apos;s Solji Opens Up About Ex‑Boyfriends, Sparking Honest Conversation</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-idol-star-opens-up-on-the-great-struggles-during-his-unk/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T13:54:34.000Z</news:publication_date>
-      <news:title>Kim Jaejoong Opens Up About Struggles in Japan, Shocking Fans with Raw Truth</news:title>
-      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
     </news:news>
   </url>
 </urlset>
