@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-unfamiliar-visuals-trigger-massive-respon/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T05:28:43.000Z</news:publication_date>
+      <news:title>IVE&apos;s Jang Wonyoung Stuns Fans with Grown‑Up Visuals in New Photo Reveal</news:title>
+      <news:keywords>BLACKPINK, TWICE, Stray Kids, IVE, ATEEZ</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-jennie-faces-serious-accusations-over-using-kids-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T04:26:21.000Z</news:publication_date>
+      <news:title>BLACKPINK’s Jennie Faces Backlash Over ‘Using Kids’ Video Controversy</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-and-v-flamed-for-nsfw-fan-service/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T21:58:13.000Z</news:publication_date>
+      <news:title>Jungkook &amp; V Spark Controversy with NSFW Fan Service Clip</news:title>
+      <news:keywords>BTS, Debut, Charts, Album, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/stray-kids-this-that-achieves-their-biggest-3rd-week-yet-in-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T21:15:03.000Z</news:publication_date>
+      <news:title>Stray Kids Breaks Billboard Record with &apos;THIS &amp; THAT&apos; Third-Week Surge</news:title>
+      <news:keywords>BTS, BLACKPINK, Stray Kids, aespa, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/enhypen-scores-first-no-1-on-billboard-200-with-the-sin-blis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T20:54:25.000Z</news:publication_date>
+      <news:title>ENHYPEN Makes History with First Billboard 200 No.1 Debut for &quot;THE SIN : BLISS&quot;</news:title>
+      <news:keywords>BTS, BLACKPINK, Stray Kids, TXT, ENHYPEN</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/katseye-face-heated-backlash-for-supposedly-deceiving-fans/</loc>
     <news:news>
       <news:publication>
@@ -203,90 +263,6 @@
       <news:publication_date>2026-08-29T13:54:34.000Z</news:publication_date>
       <news:title>Kim Jaejoong Opens Up About Struggles in Japan, Shocking Fans with Raw Truth</news:title>
       <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/6-new-k-pop-songs-bringing-2010s-party-tracks-back/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T06:10:45.000Z</news:publication_date>
-      <news:title>New K-Pop Party Anthems Revive 2010s Hits — 6 Fresh Tracks</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, NCT, SEVENTEEN</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-star-gets-real-about-having-a-side-career-while-being-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T02:54:34.000Z</news:publication_date>
-      <news:title>Kang Daniel Opens Up About Side Career While Still an Idol</news:title>
-      <news:keywords>IU, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/boynextdoors-sungho-confirmed-as-new-music-core-mc/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T02:09:22.000Z</news:publication_date>
-      <news:title>BOYNEXTDOOR&apos;s Sungho Confirmed as New Music Core MC – Breaks Hosting Record</news:title>
-      <news:keywords>EXO, NCT, Red Velvet, Stray Kids, LE SSERAFIM</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/5-must-watch-meta-bls-for-a-deepdive-into-the-genre/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T01:35:00.000Z</news:publication_date>
-      <news:title>Meta BL Dramas Take Center Stage: 5 Must-Watch Picks for Global Fans</news:title>
-      <news:keywords>aespa, ENHYPEN, IU, K-Drama, BL Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/katseye-manons-departure-seemingly-confirmed-with-her-remova/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T00:25:28.000Z</news:publication_date>
-      <news:title>KATSEYE Manon’s Departure Confirmed After Sudden Removal From Important Item</news:title>
-      <news:keywords>EXO, NCT, Comeback, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/freed-male-idol-calls-out-the-entire-k-pop-industry-hints-at/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T23:23:36.000Z</news:publication_date>
-      <news:title>Freed Stuns Fans With Bold Industry Call-Out, Hints at Chaos in Upcoming Tea Drop</news:title>
-      <news:keywords>BTS, Stray Kids, NewJeans, IU, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/k-pop-idol-debuts-in-his-8th-group-at-32-years-old/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T21:01:11.000Z</news:publication_date>
-      <news:title>Veteran Idol Debuts in 8th Group at 32, Proving Never Give Up Pays Off</news:title>
-      <news:keywords>EXO, NCT, SEVENTEEN, SHINee, Debut</news:keywords>
     </news:news>
   </url>
 </urlset>
