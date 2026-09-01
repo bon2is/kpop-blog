@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/kickflips-agency-shares-update-on-amarus-hiatus-from-group-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T06:08:08.000Z</news:publication_date>
+      <news:title>KickFlip&apos;s Amaru Hiatus Continues as Agency Confirms Health Update</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/the-boyzs-hyunjae-poses-in-new-profile-photos-as-actor-lee-j/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T05:06:09.000Z</news:publication_date>
+      <news:title>THE BOYZ Hyunjae Stuns Fans with New Actor Profile Photos as Lee Jae Hyun</news:title>
+      <news:keywords>BTS, THE BOYZ, IU, Debut, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/top-idol-shocks-with-life-at-dorm-shes-been-staying-at-for-1/</loc>
     <news:news>
       <news:publication>
@@ -275,54 +299,6 @@
       <news:publication_date>2026-08-30T07:20:10.000Z</news:publication_date>
       <news:title>KiiiKiii&apos;s &apos;Pop Off Pop Off&apos; Stays #1 on Soompi Chart – New Moves for aespa &amp; CORTIS</news:title>
       <news:keywords>aespa, ENHYPEN, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/4th-gen-idols-fall-bleed-on-stage-during-concert-fans-share-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T06:34:39.000Z</news:publication_date>
-      <news:title>4th‑Gen K‑Pop Idols Fall On Stage, Bleed — Fans React As Group Reassures All Good</news:title>
-      <news:keywords>Comeback, Debut, Concert, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-kim-you-jung-meets-got7s-park-jinyoung-while-undercove/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T04:49:00.000Z</news:publication_date>
-      <news:title>Kim You Jung &amp; GOT7&apos;s Park Jinyoung Stun Fans in ‘100 Days of Deception’ Teaser Drop</news:title>
-      <news:keywords>GOT7, Awards, K-Drama, Kim You Jung, Park Jinyoung</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/cortiss-greengreen-becomes-their-1st-album-to-spend-15-weeks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T03:47:45.000Z</news:publication_date>
-      <news:title>CORTIS&apos; &apos;GREENGREEN&apos; Breaks Billboard Record with 15 Weeks on the Chart</news:title>
-      <news:keywords>BTS, BLACKPINK, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-enhypen-celebrates-1st-ever-music-core-win-for-bloody-/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T23:36:12.000Z</news:publication_date>
-      <news:title>ENHYPEN Celebrates First Music Core Win for “Bloody Paradise” – Fans Go Wild</news:title>
-      <news:keywords>BTS, TWICE, EXO, NCT, ENHYPEN</news:keywords>
     </news:news>
   </url>
 </urlset>
