@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/story-about-ive-jang-wonyoungs-work-attitude-goes-viral/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T17:22:34.000Z</news:publication_date>
+      <news:title>IVE&apos;s Jang Wonyoung Stuns Fans with Viral Work Ethic Praise</news:title>
+      <news:keywords>IVE, Comeback, Debut, Awards, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/btss-jungkook-reveals-exactly-the-type-of-person-hes-looking/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T15:55:06.000Z</news:publication_date>
+      <news:title>Jungkook Reveals His Ideal Partner Type — Fans Scramble to See Who Fits</news:title>
+      <news:keywords>BTS, Charts, Jungkook, Interview, Personal Life</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-hyun-bin-jung-woo-sung-woo-do-hwan-and-more-risk-every/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-09-01T11:30:11.000Z</news:publication_date>
       <news:title>ALPHA DRIVE ONE Scores First Music Show Win with “BORN DIRE” on The Show</news:title>
       <news:keywords>TXT, Comeback, Debut, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/top-female-idols-comments-about-her-own-and-members-weight-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T10:40:05.000Z</news:publication_date>
+      <news:title>Top Female Idol Sparks Debate Over Weight Comments, Fans React</news:title>
+      <news:keywords>BTS, BLACKPINK, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -50,6 +86,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/yeonwoo-shakes-up-kim-hye-jun-and-kang-hoons-relationship-in/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T08:24:51.000Z</news:publication_date>
+      <news:title>Yeonwoo Shakes Up Kim Hye Jun &amp; Kang Hoon&apos;s On‑Screen Romance in &apos;My Bias, My Boss&apos;</news:title>
+      <news:keywords>Awards, Charts, K-Drama, Kim Hye Jun, Kang Hoon</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/kim-min-ho-and-his-fellow-soldiers-get-down-and-dirty-at-flo/</loc>
     <news:news>
       <news:publication>
@@ -59,6 +107,18 @@
       <news:publication_date>2026-09-01T08:16:22.000Z</news:publication_date>
       <news:title>New Recruit 4: Sabotage Drops Fresh Stills, Fans Rush to Stream the Flood‑Recovery Episode</news:title>
       <news:keywords>TXT, Charts, K-Drama, New Recruit, Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/quiz-press-play-or-slam-skip-on-these-k-pop-title-tracks-and/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T08:06:09.000Z</news:publication_date>
+      <news:title>K-Pop Title Tracks Quiz Reveals Your Personality Chaos</news:title>
+      <news:keywords>BTS, BLACKPINK, SEVENTEEN, aespa, Comeback</news:keywords>
     </news:news>
   </url>
   <url>
@@ -275,18 +335,6 @@
       <news:publication_date>2026-08-30T18:58:19.000Z</news:publication_date>
       <news:title>KATSEYE Faces Backlash After Fans Claim Deception Over Recent Appearance</news:title>
       <news:keywords>BTS, BLACKPINK, Comeback, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/idol-turned-actress-divulges-her-self-management-secrets/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T16:54:27.000Z</news:publication_date>
-      <news:title>Idol-Turned-Actress Reveals Self‑Care Secrets in Viral 30s Vlog</news:title>
-      <news:keywords>Debut, Awards, Charts, Album, Idol Actress</news:keywords>
     </news:news>
   </url>
 </urlset>
