@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/girl-group-idol-stuns-in-gorgeous-wedding-pictorial/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T16:26:35.000Z</news:publication_date>
+      <news:title>Girl Group Idol Stuns Fans with Gorgeous Wedding Pictorial and Date Reveal</news:title>
+      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/bruno-mars-gets-brutally-honest-about-possibly-not-performin/</loc>
     <news:news>
       <news:publication>
@@ -14,6 +26,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/31-year-old-former-girl-group-member-gets-candid-about-her-r/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T15:31:35.000Z</news:publication_date>
+      <news:title>Former Girl Group Star Opens Up on Retirement in Candid Instagram Video</news:title>
+      <news:keywords>Comeback, Charts, Album, K-Drama, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/beloved-actress-gives-birth-a-month-early/</loc>
     <news:news>
       <news:publication>
@@ -23,6 +47,18 @@
       <news:publication_date>2026-09-02T13:13:13.000Z</news:publication_date>
       <news:title>Kim Min-ju Gives Birth Early, Fans Celebrate New Mom’s Joyful Surprise</news:title>
       <news:keywords>K-Drama, Kim Min-ju, Actress, Motherhood, Celebrity News</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-female-idols-weverse-post-about-a-condom-sparks-majo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T10:10:16.000Z</news:publication_date>
+      <news:title>IU Shocks Fans With Bold Weverse Post About Condom, Sparks Massive Reaction</news:title>
+      <news:keywords>IU, Concert, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
   <url>
@@ -71,6 +107,18 @@
       <news:publication_date>2026-09-02T08:17:43.000Z</news:publication_date>
       <news:title>IVE&apos;s Jang Wonyoung&apos;s Sister Stuns Fans with Viral Visuals</news:title>
       <news:keywords>BTS, EXO, IVE, Comeback, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/got7s-park-jinyoung-and-kim-you-jung-hide-their-true-identit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T07:44:10.000Z</news:publication_date>
+      <news:title>Park Jinyoung Stuns Fans with Spy Romance Role in &quot;100 Days of Deception&quot;</news:title>
+      <news:keywords>GOT7, IU, Charts, Album, K-Drama</news:keywords>
     </news:news>
   </url>
   <url>
@@ -275,18 +323,6 @@
       <news:publication_date>2026-09-01T05:06:09.000Z</news:publication_date>
       <news:title>THE BOYZ Hyunjae Stuns Fans with New Actor Profile Photos as Lee Jae Hyun</news:title>
       <news:keywords>BTS, THE BOYZ, IU, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/top-idol-shocks-with-life-at-dorm-shes-been-staying-at-for-1/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T18:45:34.000Z</news:publication_date>
-      <news:title>Top Idol Reveals 19-Year Dorm Life in Shocking MBC Variety Clip</news:title>
-      <news:keywords>Debut, Concert, Charts, Album, Tour</news:keywords>
     </news:news>
   </url>
 </urlset>
