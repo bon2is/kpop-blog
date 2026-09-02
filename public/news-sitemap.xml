@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/beloved-actress-gives-birth-a-month-early/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T13:13:13.000Z</news:publication_date>
+      <news:title>Kim Min-ju Gives Birth Early, Fans Celebrate New Mom’s Joyful Surprise</news:title>
+      <news:keywords>K-Drama, Kim Min-ju, Actress, Motherhood, Celebrity News</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T10:05:33.000Z</news:publication_date>
+      <news:title>MODYSSEY Announces First-Ever Fan Concert Tour “HOW WE BLOOM” – Dates Revealed</news:title>
+      <news:keywords>Stray Kids, ATEEZ, Comeback, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-sm-idol-shares-his-story-of-meeting-btss-jungkook/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T09:45:43.000Z</news:publication_date>
+      <news:title>SM Star Reveals First Meeting With BTS Jungkook, Fans Go Wild</news:title>
+      <news:keywords>BTS, EXO, NCT, Red Velvet, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/katseye-hit-with-wave-of-criticism-for-performance-during-fi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T08:45:15.000Z</news:publication_date>
+      <news:title>KATSEYE Stuns Fans and Critics with Controversial World Tour Performance</news:title>
+      <news:keywords>TWICE, EXO, Comeback, Debut, Concert</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/ive-jang-wonyoungs-older-sisters-shocking-visuals-go-viral/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T08:17:43.000Z</news:publication_date>
+      <news:title>IVE&apos;s Jang Wonyoung&apos;s Sister Stuns Fans with Viral Visuals</news:title>
+      <news:keywords>BTS, EXO, IVE, Comeback, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/exos-suho-ateezs-jongho-chuu-and-more-confirmed-as-cast-memb/</loc>
     <news:news>
       <news:publication>
@@ -227,42 +287,6 @@
       <news:publication_date>2026-08-31T17:00:05.000Z</news:publication_date>
       <news:title>Byun Yo Han Publicly Shows Affection for Tiffany Young, Sparking Fan Delight</news:title>
       <news:keywords>Girls Generation, SNSD, Awards, Charts, K-Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/stray-kids-bangchan-speaks-out-on-dangerous-incident-at-airp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T11:40:01.000Z</news:publication_date>
-      <news:title>Stray Kids&apos; Bang Chan Speaks Out on Airport Incident, Stuns Fans</news:title>
-      <news:keywords>BTS, Stray Kids, Comeback, Debut, Concert</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-third-gen-female-idol-shockingly-reveals-she-was-att/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T11:20:47.000Z</news:publication_date>
-      <news:title>Third-Gen Idol Shocks Fans Revealing Overseas Attack – Her Story Goes Viral</news:title>
-      <news:keywords>TWICE, IU, Comeback, Debut, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kickflip-confirmed-to-make-october-comeback/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T08:23:25.000Z</news:publication_date>
-      <news:title>KickFlip Confirms October Comeback, New Music Set for Release</news:title>
-      <news:keywords>BTS, BLACKPINK, TWICE, Stray Kids, aespa</news:keywords>
     </news:news>
   </url>
 </urlset>
