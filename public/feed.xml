@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:37:30 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Bruno Mars Proposes Duet With BLACKPINK&apos;s Rosé, Sparks Global Buzz</title>
+      <link>https://kpop.andxo.com/article/bruno-mars-gets-brutally-honest-about-possibly-not-performin/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/bruno-mars-gets-brutally-honest-about-possibly-not-performin/</guid>
+      <description>Bruno Mars publicly asks Rosé for a duet, hinting at a possible future stage together in Korea.</description>
+      <pubDate>Wed, 02 Sep 2026 16:04:32 GMT</pubDate>
+      <category>drama</category>
+      <category>BTS</category>
+      <category>BLACKPINK</category>
+      <category>Debut</category>
+      <category>Concert</category>
+      <category>Awards</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bruno-mars-gets-brutally-honest-about-possibly-not-performin.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bruno-mars-gets-brutally-honest-about-possibly-not-performin.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/bruno-mars-gets-brutally-honest-about-possibly-not-performin.webp" />
+    </item>
     <item>
       <title>Kim Min-ju Gives Birth Early, Fans Celebrate New Mom’s Joyful Surprise</title>
       <link>https://kpop.andxo.com/article/beloved-actress-gives-birth-a-month-early/</link>
@@ -1676,23 +1693,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-opens-up-on-potentially-giving-birth-witho.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-opens-up-on-potentially-giving-birth-witho.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/female-k-pop-idol-opens-up-on-potentially-giving-birth-witho.webp" />
-    </item>
-    <item>
-      <title>TXT Announces 2026-2027 &quot;Steal The Wind&quot; World Tour Dates, Sparks Global Excitement</title>
-      <link>https://kpop.andxo.com/article/txt-announces-dates-and-cities-for-2026-2027-world-tour-stea/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/txt-announces-dates-and-cities-for-2026-2027-world-tour-stea/</guid>
-      <description>TXT reveals full schedule for their 2026-27 &quot;Steal The Wind&quot; world tour, starting with three Seoul shows in November.</description>
-      <pubDate>Wed, 26 Aug 2026 15:11:16 GMT</pubDate>
-      <category>drama</category>
-      <category>BTS</category>
-      <category>BLACKPINK</category>
-      <category>SEVENTEEN</category>
-      <category>TXT</category>
-      <category>Debut</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/txt-announces-dates-and-cities-for-2026-2027-world-tour-stea.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/txt-announces-dates-and-cities-for-2026-2027-world-tour-stea.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/txt-announces-dates-and-cities-for-2026-2027-world-tour-stea.webp" />
     </item>
   </channel>
 </rss>

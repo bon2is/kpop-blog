@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/bruno-mars-gets-brutally-honest-about-possibly-not-performin/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T16:04:32.000Z</news:publication_date>
+      <news:title>Bruno Mars Proposes Duet With BLACKPINK&apos;s Rosé, Sparks Global Buzz</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, Concert, Awards</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/beloved-actress-gives-birth-a-month-early/</loc>
     <news:news>
       <news:publication>
@@ -275,18 +287,6 @@
       <news:publication_date>2026-08-31T18:45:34.000Z</news:publication_date>
       <news:title>Top Idol Reveals 19-Year Dorm Life in Shocking MBC Variety Clip</news:title>
       <news:keywords>Debut, Concert, Charts, Album, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/byun-yo-han-publicly-shows-affection-for-his-wife-tiffany-yo/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T17:00:05.000Z</news:publication_date>
-      <news:title>Byun Yo Han Publicly Shows Affection for Tiffany Young, Sparking Fan Delight</news:title>
-      <news:keywords>Girls Generation, SNSD, Awards, Charts, K-Drama</news:keywords>
     </news:news>
   </url>
 </urlset>
