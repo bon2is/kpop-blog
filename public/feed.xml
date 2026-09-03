@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 17:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:40:59 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Chungha Reveals Why Her Look Changed as She Enters 30s</title>
+      <link>https://kpop.andxo.com/article/popular-k-pop-idol-gets-candid-about-her-drastically-changed/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/popular-k-pop-idol-gets-candid-about-her-drastically-changed/</guid>
+      <description>Chungha opens up about the lifestyle shifts behind her new look, sparking conversation among fans worldwide.</description>
+      <pubDate>Thu, 03 Sep 2026 17:38:35 GMT</pubDate>
+      <category>drama</category>
+      <category>Comeback</category>
+      <category>Charts</category>
+      <category>Chungha</category>
+      <category>Age</category>
+      <category>K‑Pop</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-k-pop-idol-gets-candid-about-her-drastically-changed.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-k-pop-idol-gets-candid-about-her-drastically-changed.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-k-pop-idol-gets-candid-about-her-drastically-changed.webp" />
+    </item>
     <item>
       <title>Idol&apos;s Comeback Announcement Sparks Wild Charlie Kirk Speculation</title>
       <link>https://kpop.andxo.com/article/popular-idols-comeback-announcement-met-with-ridiculous-spec/</link>
@@ -1679,23 +1696,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/die-4th-gen-idols-message-to-haters-sparks-hot-responses.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/die-4th-gen-idols-message-to-haters-sparks-hot-responses.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/die-4th-gen-idols-message-to-haters-sparks-hot-responses.webp" />
-    </item>
-    <item>
-      <title>SHINee Reveals Dorm Shower Contests on KBS’s “Let’s Live Together” – Fans Stunned</title>
-      <link>https://kpop.andxo.com/article/k-pop-boy-group-holds-shower-contests-while-living-in-dorm/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/k-pop-boy-group-holds-shower-contests-while-living-in-dorm/</guid>
-      <description>SHINee’s members recount wild ‘shower contests’ from their dorm days on KBS’s Let’s Live Together, sparking nostalgia and laughs.</description>
-      <pubDate>Thu, 27 Aug 2026 17:08:17 GMT</pubDate>
-      <category>drama</category>
-      <category>SHINee</category>
-      <category>Taemin</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <category>Tour</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-boy-group-holds-shower-contests-while-living-in-dorm.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-boy-group-holds-shower-contests-while-living-in-dorm.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-boy-group-holds-shower-contests-while-living-in-dorm.webp" />
     </item>
   </channel>
 </rss>
