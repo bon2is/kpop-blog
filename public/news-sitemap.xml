@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/popular-idols-comeback-announcement-met-with-ridiculous-spec/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T16:30:47.000Z</news:publication_date>
+      <news:title>Idol&apos;s Comeback Announcement Sparks Wild Charlie Kirk Speculation</news:title>
+      <news:keywords>Comeback, Charts, Album, MV, K-Pop</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/viral-tiktok-with-accusations-against-bts-sparks-hugely-heat/</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       <news:publication_date>2026-09-03T11:55:18.000Z</news:publication_date>
       <news:title>BTS Faces Viral TikTok Accusations – Fans Split Over Heated Debate</news:title>
       <news:keywords>BTS, Concert, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/viral-dating-rumors-between-popular-fourth-gen-idol-and-rapp/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T11:15:24.000Z</news:publication_date>
+      <news:title>Fourth-Gen Idol Sparks Dating Rumor Frenzy with Veteran Rapper</news:title>
+      <news:keywords>Comeback, Debut, Charts, Album, Tour</news:keywords>
     </news:news>
   </url>
   <url>
@@ -287,30 +311,6 @@
       <news:publication_date>2026-09-01T22:37:04.000Z</news:publication_date>
       <news:title>Kim Hee Jung Stuns Fans with &apos;Mission: Mompossible&apos; Teaser – Drama Drops Tomorrow</news:title>
       <news:keywords>Awards, K-Drama, Kim Hee Jung, Mission: Mompossible, Drama</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/story-about-ive-jang-wonyoungs-work-attitude-goes-viral/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T17:22:34.000Z</news:publication_date>
-      <news:title>IVE&apos;s Jang Wonyoung Stuns Fans with Viral Work Ethic Praise</news:title>
-      <news:keywords>IVE, Comeback, Debut, Awards, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/btss-jungkook-reveals-exactly-the-type-of-person-hes-looking/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T15:55:06.000Z</news:publication_date>
-      <news:title>Jungkook Reveals His Ideal Partner Type — Fans Scramble to See Who Fits</news:title>
-      <news:keywords>BTS, Charts, Jungkook, Interview, Personal Life</news:keywords>
     </news:news>
   </url>
 </urlset>
