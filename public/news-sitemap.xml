@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/sung-joon-and-kim-si-ah-reported-to-join-byeon-woo-seok-in-s/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T06:25:36.000Z</news:publication_date>
+      <news:title>Solo Leveling Cast Update: Sung Joon &amp; Kim Si Ah Join Netflix Adaptation</news:title>
+      <news:keywords>BTS, BLACKPINK, Debut, K-Drama, Solo Leveling</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/hybes-bang-si-hyuk-gets-referred-to-prosecution/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T06:15:42.000Z</news:publication_date>
+      <news:title>HYBE Chairman Bang Si-hyuk Faces Prosecution – What It Means for K‑Pop Giants</news:title>
+      <news:keywords>BTS, SEVENTEEN, LE SSERAFIM, TXT, Comeback</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/so-ji-sub-announces-dates-and-cities-for-2026-asia-fan-meeti/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T04:36:18.000Z</news:publication_date>
+      <news:title>So Ji Sub Announces Soulmate The Timeless Fan Meeting Tour Across Asia</news:title>
+      <news:keywords>Debut, Concert, Awards, Charts, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/jung-min-ah-and-dong-ha-bring-2-very-different-families-toge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T21:11:26.000Z</news:publication_date>
+      <news:title>Jung Min Ah &amp; Dong Ha Stun Fans with ‘Mission: Mompossible’ Drama Reveal</news:title>
+      <news:keywords>IU, Charts, K-Drama, Jung Min Ah, Dong Ha</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/girl-group-idol-stuns-in-gorgeous-wedding-pictorial/</loc>
     <news:news>
       <news:publication>
@@ -299,30 +347,6 @@
       <news:publication_date>2026-09-01T08:06:09.000Z</news:publication_date>
       <news:title>K-Pop Title Tracks Quiz Reveals Your Personality Chaos</news:title>
       <news:keywords>BTS, BLACKPINK, SEVENTEEN, aespa, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/kickflips-agency-shares-update-on-amarus-hiatus-from-group-a/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T06:08:08.000Z</news:publication_date>
-      <news:title>KickFlip&apos;s Amaru Hiatus Continues as Agency Confirms Health Update</news:title>
-      <news:keywords>Comeback, Debut, Charts, Album, MV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/the-boyzs-hyunjae-poses-in-new-profile-photos-as-actor-lee-j/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T05:06:09.000Z</news:publication_date>
-      <news:title>THE BOYZ Hyunjae Stuns Fans with New Actor Profile Photos as Lee Jae Hyun</news:title>
-      <news:keywords>BTS, THE BOYZ, IU, Debut, Awards</news:keywords>
     </news:news>
   </url>
 </urlset>
