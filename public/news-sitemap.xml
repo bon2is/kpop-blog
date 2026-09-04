@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespa-karinas-unedited-thigh-size-in-viral-photos-sparks-sho/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T15:36:20.000Z</news:publication_date>
+      <news:title>aespa Karina Stuns Fans as Unedited Thigh Photo Goes Viral</news:title>
+      <news:keywords>aespa, Debut, Awards, Charts, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/popular-rookie-group-hit-with-fierce-backlash-by-nct-fans/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T11:48:53.000Z</news:publication_date>
+      <news:title>RIIZE Faces Fierce Backlash From NCT Fans Over Recent Promotion</news:title>
+      <news:keywords>BTS, EXO, NCT, Stray Kids, TXT</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/ives-an-yu-jin-to-participate-in-hong-kong-concert-without-c/</loc>
     <news:news>
       <news:publication>
@@ -62,6 +86,18 @@
     </news:news>
   </url>
   <url>
+    <loc>https://kpop.andxo.com/article/watch-jtbc-gives-sneak-preview-of-2026-2027-drama-lineup/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T08:10:13.000Z</news:publication_date>
+      <news:title>JTBC Reveals 2026‑2027 Drama Lineup – Star‑Studded Casts &amp; Premiere Dates</news:title>
+      <news:keywords>Awards, Charts, Album, K-Drama, JTBC</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-ten-flaunts-his-sleek-moves-in-mv-for-outwest-solo-com/</loc>
     <news:news>
       <news:publication>
@@ -95,6 +131,18 @@
       <news:publication_date>2026-09-04T02:55:22.000Z</news:publication_date>
       <news:title>BLACKPINK&apos;s Lisa Opens Up About Dating, Sparks Heated Fan Debate</news:title>
       <news:keywords>BTS, BLACKPINK, EXO, Debut, Album</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/seo-kang-jun-and-ahn-eun-jin-are-a-couple-leading-polar-oppo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T02:32:26.000Z</news:publication_date>
+      <news:title>Seo Kang Jun &amp; Ahn Eun Jin Stun Fans with Polar‑Opposite Lives in New Drama</news:title>
+      <news:keywords>Charts, K-Drama, Seo Kang Jun, Ahn Eun Jin, A Love Other Than Yours</news:keywords>
     </news:news>
   </url>
   <url>
@@ -263,42 +311,6 @@
       <news:publication_date>2026-09-02T21:11:26.000Z</news:publication_date>
       <news:title>Jung Min Ah &amp; Dong Ha Stun Fans with ‘Mission: Mompossible’ Drama Reveal</news:title>
       <news:keywords>IU, Charts, K-Drama, Jung Min Ah, Dong Ha</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/girl-group-idol-stuns-in-gorgeous-wedding-pictorial/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T16:26:35.000Z</news:publication_date>
-      <news:title>Girl Group Idol Stuns Fans with Gorgeous Wedding Pictorial and Date Reveal</news:title>
-      <news:keywords>BTS, BLACKPINK, EXO, Comeback, Debut</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bruno-mars-gets-brutally-honest-about-possibly-not-performin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T16:04:32.000Z</news:publication_date>
-      <news:title>Bruno Mars Proposes Duet With BLACKPINK&apos;s Rosé, Sparks Global Buzz</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Concert, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/31-year-old-former-girl-group-member-gets-candid-about-her-r/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T15:31:35.000Z</news:publication_date>
-      <news:title>Former Girl Group Star Opens Up on Retirement in Candid Instagram Video</news:title>
-      <news:keywords>Comeback, Charts, Album, K-Drama, K-Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
