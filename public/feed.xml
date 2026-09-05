@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:33:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:51:29 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Top Idol Apologizes After Company Scolding Over Wardrobe Malfunction, Sparks Outrage</title>
+      <link>https://kpop.andxo.com/article/top-k-pop-idol-apologizes-after-companys-scolding-over-wardr/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/top-k-pop-idol-apologizes-after-companys-scolding-over-wardr/</guid>
+      <description>A leading K‑pop star publicly apologizes after her agency reprimanded her for a wardrobe slip, igniting fan fury and debate over artist rights.</description>
+      <pubDate>Sat, 05 Sep 2026 18:00:08 GMT</pubDate>
+      <category>drama</category>
+      <category>Comeback</category>
+      <category>Awards</category>
+      <category>Charts</category>
+      <category>Album</category>
+      <category>Tour</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-k-pop-idol-apologizes-after-companys-scolding-over-wardr.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-k-pop-idol-apologizes-after-companys-scolding-over-wardr.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/top-k-pop-idol-apologizes-after-companys-scolding-over-wardr.webp" />
+    </item>
     <item>
       <title>Lee Byung-hun &amp; Lee Min-jung&apos;s Marriage Faces Backlash After Idol&apos;s Shocking Posts</title>
       <link>https://kpop.andxo.com/article/lee-byung-hun-and-lee-min-jungs-marriage-slammed-by-disgrace/</link>
@@ -1685,23 +1702,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-star-gets-real-about-having-a-side-career-while-being-.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-star-gets-real-about-having-a-side-career-while-being-.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/k-pop-star-gets-real-about-having-a-side-career-while-being-.webp" />
-    </item>
-    <item>
-      <title>BOYNEXTDOOR&apos;s Sungho Confirmed as New Music Core MC – Breaks Hosting Record</title>
-      <link>https://kpop.andxo.com/article/boynextdoors-sungho-confirmed-as-new-music-core-mc/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/boynextdoors-sungho-confirmed-as-new-music-core-mc/</guid>
-      <description>BOYNEXTDOOR’s Sungho lands a coveted spot as the newest MC on MBC’s Music Core, sparking excitement for fans worldwide.</description>
-      <pubDate>Sat, 29 Aug 2026 02:09:22 GMT</pubDate>
-      <category>drama</category>
-      <category>EXO</category>
-      <category>NCT</category>
-      <category>Red Velvet</category>
-      <category>Stray Kids</category>
-      <category>LE SSERAFIM</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoors-sungho-confirmed-as-new-music-core-mc.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoors-sungho-confirmed-as-new-music-core-mc.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/boynextdoors-sungho-confirmed-as-new-music-core-mc.webp" />
     </item>
   </channel>
 </rss>

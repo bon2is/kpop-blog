@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/top-k-pop-idol-apologizes-after-companys-scolding-over-wardr/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T18:00:08.000Z</news:publication_date>
+      <news:title>Top Idol Apologizes After Company Scolding Over Wardrobe Malfunction, Sparks Outrage</news:title>
+      <news:keywords>Comeback, Awards, Charts, Album, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/lee-byung-hun-and-lee-min-jungs-marriage-slammed-by-disgrace/</loc>
     <news:news>
       <news:publication>
@@ -287,18 +299,6 @@
       <news:publication_date>2026-09-04T00:08:32.000Z</news:publication_date>
       <news:title>KGMA 2026 Lineup Revealed: ATEEZ, RIIZE &amp; TREASURE Set to Stun Fans</news:title>
       <news:keywords>ATEEZ, TREASURE, RIIZE, Debut, Awards</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-k-pop-idol-gets-candid-about-her-drastically-changed/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T17:38:35.000Z</news:publication_date>
-      <news:title>Chungha Reveals Why Her Look Changed as She Enters 30s</news:title>
-      <news:keywords>Comeback, Charts, Chungha, Age, K‑Pop</news:keywords>
     </news:news>
   </url>
 </urlset>
