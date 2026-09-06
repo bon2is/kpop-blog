@@ -7,7 +7,7 @@
     <link>https://kpop.andxo.com</link>
     <description>Discover K-Pop and K-Drama news with AI-curated summaries and original commentary.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:56:05 GMT</lastBuildDate>
     <managingEditor>hello@andxo.com (KPOP Daily)</managingEditor>
     <atom:link href="https://kpop.andxo.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,6 +15,23 @@
       <title>KPOP Daily</title>
       <link>https://kpop.andxo.com</link>
     </image>
+    <item>
+      <title>Girls’ Generation Member Opens Up on Tiffany’s Surprise Marriage Announcement</title>
+      <link>https://kpop.andxo.com/article/i-was-disappointed-girls-generation-member-surprises-with-ho/</link>
+      <guid isPermaLink="true">https://kpop.andxo.com/article/i-was-disappointed-girls-generation-member-surprises-with-ho/</guid>
+      <description>A Girls’ Generation star reveals how she first learned about Tiffany Young’s marriage, sparking buzz among fans worldwide.</description>
+      <pubDate>Sun, 06 Sep 2026 17:18:39 GMT</pubDate>
+      <category>drama</category>
+      <category>Girls Generation</category>
+      <category>SNSD</category>
+      <category>Debut</category>
+      <category>Charts</category>
+      <category>K-Drama</category>
+      <author>KPOP Daily</author>
+      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/i-was-disappointed-girls-generation-member-surprises-with-ho.webp" type="image/webp" length="0" />
+      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/i-was-disappointed-girls-generation-member-surprises-with-ho.webp" medium="image" />
+      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/i-was-disappointed-girls-generation-member-surprises-with-ho.webp" />
+    </item>
     <item>
       <title>NiziU Announces Korean Comeback with Sour Grapes Mini‑Album – Trailer Stuns Fans</title>
       <link>https://kpop.andxo.com/article/watch-niziu-announces-korean-comeback-date-with-intense-trai/</link>
@@ -1685,23 +1702,6 @@
       <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-idol-turned-actress-caught-on-intimate-dates-with-yo.webp" type="image/webp" length="0" />
       <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-idol-turned-actress-caught-on-intimate-dates-with-yo.webp" medium="image" />
       <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/popular-idol-turned-actress-caught-on-intimate-dates-with-yo.webp" />
-    </item>
-    <item>
-      <title>KiiiKiii&apos;s &apos;Pop Off Pop Off&apos; Stays #1 on Soompi Chart – New Moves for aespa &amp; CORTIS</title>
-      <link>https://kpop.andxo.com/article/soompis-k-pop-music-chart-2026-august-week-5/</link>
-      <guid isPermaLink="true">https://kpop.andxo.com/article/soompis-k-pop-music-chart-2026-august-week-5/</guid>
-      <description>KiiiKiii tops Soompi’s weekly chart for a second week as aespa climbs to #3 with &apos;LEMONADE&apos; and CORTIS rebounds to #2.</description>
-      <pubDate>Sun, 30 Aug 2026 07:20:10 GMT</pubDate>
-      <category>drama</category>
-      <category>aespa</category>
-      <category>ENHYPEN</category>
-      <category>Charts</category>
-      <category>Album</category>
-      <category>MV</category>
-      <author>KPOP Daily</author>
-      <enclosure url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/soompis-k-pop-music-chart-2026-august-week-5.webp" type="image/webp" length="0" />
-      <media:content url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/soompis-k-pop-music-chart-2026-august-week-5.webp" medium="image" />
-      <media:thumbnail url="https://kpop.andxo.comhttps://pub-da3c0f601b9e4ff780dac68cc6ca06ba.r2.dev/posts/soompis-k-pop-music-chart-2026-august-week-5.webp" />
     </item>
   </channel>
 </rss>

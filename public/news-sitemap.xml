@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/i-was-disappointed-girls-generation-member-surprises-with-ho/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T17:18:39.000Z</news:publication_date>
+      <news:title>Girls’ Generation Member Opens Up on Tiffany’s Surprise Marriage Announcement</news:title>
+      <news:keywords>Girls Generation, SNSD, Debut, Charts, K-Drama</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/watch-niziu-announces-korean-comeback-date-with-intense-trai/</loc>
     <news:news>
       <news:publication>
@@ -215,18 +227,6 @@
       <news:publication_date>2026-09-04T22:30:52.000Z</news:publication_date>
       <news:title>BLACKPINK Lisa Faces Accusations Over New Release – Fans React</news:title>
       <news:keywords>BLACKPINK, Charts, Album, MV, Tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/byun-yo-han-finally-divulges-the-reason-he-married-girls-gen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T16:57:56.000Z</news:publication_date>
-      <news:title>Byun Yo‑Han Reveals Heartfelt Reason He Married Girls’ Generation’s Tiffany</news:title>
-      <news:keywords>Girls Generation, IU, Charts, K-Drama, Byun Yo-Han</news:keywords>
     </news:news>
   </url>
 </urlset>
