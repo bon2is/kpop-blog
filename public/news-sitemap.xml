@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/aespa-karinas-recent-weight-gain-triggers-brutal-fanwar/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T09:08:29.000Z</news:publication_date>
+      <news:title>aespa&apos;s Karina Sparks Fan Debate Over Recent Weight Change</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, EXO, aespa</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/blackpinks-lisas-sawadika-becomes-fastest-mv-of-2026-to-hit-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T07:42:09.000Z</news:publication_date>
+      <news:title>Lisa&apos;s &apos;SaWaDiKa&apos; Breaks 2026 Record as Fastest 100M‑View MV</news:title>
+      <news:keywords>BLACKPINK, Awards, Charts, MV, Tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/idol-turned-sex-offender-taeils-clothes-sold-during-nct-even/</loc>
     <news:news>
       <news:publication>
@@ -191,90 +215,6 @@
       <news:publication_date>2026-09-04T14:52:01.000Z</news:publication_date>
       <news:title>Popular Idol Confirms Marriage to Ex-Idol, Reveals Secret Baby</news:title>
       <news:keywords>SEVENTEEN, TXT, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-rookie-group-hit-with-fierce-backlash-by-nct-fans/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T11:48:53.000Z</news:publication_date>
-      <news:title>RIIZE Faces Fierce Backlash From NCT Fans Over Recent Promotion</news:title>
-      <news:keywords>BTS, EXO, NCT, Stray Kids, TXT</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/ives-an-yu-jin-to-participate-in-hong-kong-concert-without-c/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T11:37:42.000Z</news:publication_date>
-      <news:title>IVE&apos;s An Yu Jin Skips Choreography for Hong Kong Concert Amid Knee Injury</news:title>
-      <news:keywords>BTS, EXO, IVE, Concert, Charts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-seo-kang-jun-and-ahn-eun-jin-struggle-to-keep-their-sp/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T10:36:44.000Z</news:publication_date>
-      <news:title>Seo Kang Jun &amp; Ahn Eun Jin Stir Fans in New ‘A Love Other Than Yours’ Trailer</news:title>
-      <news:keywords>Awards, Charts, K-Drama, Seo Kang Jun, Ahn Eun Jin</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-lisas-recent-comments-spark-speculations-about-pas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T10:05:44.000Z</news:publication_date>
-      <news:title>BLACKPINK Lisa Sparks Rumors Over Past Relationship in Shocking Interview</news:title>
-      <news:keywords>BTS, BLACKPINK, Debut, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/blackpink-jennies-irl-visuals-and-proportions-come-under-mal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T09:40:32.000Z</news:publication_date>
-      <news:title>Jennie Faces Malicious Photo Criticism – Fans Rally Behind BLACKPINK Star</news:title>
-      <news:keywords>BLACKPINK, Charts, Album, Tour, Jennie</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/bts-facing-the-music-for-promoting-ai-viral-video-sparks-sca/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T09:38:17.000Z</news:publication_date>
-      <news:title>BTS Faces Backlash Over AI Promotion – Fans React to Controversial Video</news:title>
-      <news:keywords>BTS, Charts, Album, AI, Controversy</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/watch-jtbc-gives-sneak-preview-of-2026-2027-drama-lineup/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T08:10:13.000Z</news:publication_date>
-      <news:title>JTBC Reveals 2026‑2027 Drama Lineup – Star‑Studded Casts &amp; Premiere Dates</news:title>
-      <news:keywords>Awards, Charts, Album, K-Drama, JTBC</news:keywords>
     </news:news>
   </url>
 </urlset>
