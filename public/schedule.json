@@ -1,19 +1,26 @@
 {
-  "lastUpdated": "2026-09-06T14:32:00.299Z",
+  "lastUpdated": "2026-09-06T16:43:50.931Z",
   "events": [
     {
-      "id": "broadcast-inkigayo-2026-09-06",
-      "date": "2026-09-06",
-      "time": "15:40",
-      "timezone": "KST",
-      "type": "broadcast",
-      "artist": "Various Artists",
-      "title": "Inkigayo",
-      "description": "SBS Inkigayo weekly music show",
-      "source": "recurring",
+      "id": "soompi-0-2026-09-07",
+      "date": "2026-09-07",
+      "type": "comeback",
+      "artist": "IU",
+      "title": "Watch: NiziU Announces Korean Comeback Date With Intense Trailer For &#8220;Sour Grapes&#8221;",
+      "source": "soompi",
       "links": {
-        "youtube": "https://www.youtube.com/@SBSenter",
-        "official": "https://programs.sbs.co.kr"
+        "official": "https://www.soompi.com/article/1868429wpp/watch-niziu-announces-korean-comeback-date-with-intense-trailer-for-sour-grapes"
+      }
+    },
+    {
+      "id": "soompi-1-2026-09-07",
+      "date": "2026-09-07",
+      "type": "concert",
+      "artist": "Watch",
+      "title": "Watch: KickFlip Announces Comeback Schedule + Plans For 1st Tour &#8220;ROCK OFF THE WALL&#8221;",
+      "source": "soompi",
+      "links": {
+        "official": "https://www.soompi.com/article/1868426wpp/watch-kickflip-announces-comeback-schedule-plans-for-1st-tour-rock-off-the-wall"
       }
     },
     {
@@ -314,6 +321,21 @@
       "links": {
         "youtube": "https://www.youtube.com/@SBSenter",
         "official": "https://programs.sbs.co.kr"
+      }
+    },
+    {
+      "id": "broadcast-show-champion-2026-10-07",
+      "date": "2026-10-07",
+      "time": "18:00",
+      "timezone": "KST",
+      "type": "broadcast",
+      "artist": "Various Artists",
+      "title": "Show Champion",
+      "description": "MBC M weekly music show",
+      "source": "recurring",
+      "links": {
+        "youtube": "https://www.youtube.com/@MBCkpop",
+        "official": "https://www.imbc.com"
       }
     }
   ]

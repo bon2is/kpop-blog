@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://kpop.andxo.com/article/watch-niziu-announces-korean-comeback-date-with-intense-trai/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T15:48:33.000Z</news:publication_date>
+      <news:title>NiziU Announces Korean Comeback with Sour Grapes Mini‑Album – Trailer Stuns Fans</news:title>
+      <news:keywords>BTS, BLACKPINK, TWICE, Stray Kids, aespa</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-kickflip-announces-comeback-schedule-plans-for-1st-tou/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T15:32:57.000Z</news:publication_date>
+      <news:title>KickFlip Announces Comeback Schedule and First World Tour &quot;Rock Off The Wall&quot;</news:title>
+      <news:keywords>Stray Kids, Comeback, Debut, Concert, Charts</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/watch-bigbang-takes-1st-win-for-biiig-on-inkigayo-performanc/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T14:43:27.000Z</news:publication_date>
+      <news:title>BIGBANG Takes First Inkigayo Win for “BiiiG” – Fans Celebrate Milestone</news:title>
+      <news:keywords>MONSTA X, ATEEZ, BIGBANG, SHINee, Taemin</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://kpop.andxo.com/article/korean-actress-unfiltered-reveal-of-belly-fat-sparks-heated-/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KPOP Daily</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T14:41:43.000Z</news:publication_date>
+      <news:title>Korean Actress Sparks Debate After Candid Belly Fat Reveal</news:title>
+      <news:keywords>K-Drama, Lee Soo-yeon, Body Positivity, Korean Actress, Celebrity News</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://kpop.andxo.com/article/aespa-karinas-recent-weight-gain-triggers-brutal-fanwar/</loc>
     <news:news>
       <news:publication>
@@ -179,42 +227,6 @@
       <news:publication_date>2026-09-04T16:57:56.000Z</news:publication_date>
       <news:title>Byun Yo‑Han Reveals Heartfelt Reason He Married Girls’ Generation’s Tiffany</news:title>
       <news:keywords>Girls Generation, IU, Charts, K-Drama, Byun Yo-Han</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/yg-entertainment-slammed-by-their-own-idols-parent/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T16:40:17.000Z</news:publication_date>
-      <news:title>YG Entertainment Slammed by Idol&apos;s Parent Over Management Concerns</news:title>
-      <news:keywords>BLACKPINK, EXO, TREASURE, BIGBANG, Comeback</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/aespa-karinas-unedited-thigh-size-in-viral-photos-sparks-sho/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T15:36:20.000Z</news:publication_date>
-      <news:title>aespa Karina Stuns Fans as Unedited Thigh Photo Goes Viral</news:title>
-      <news:keywords>aespa, Debut, Awards, Charts, Album</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://kpop.andxo.com/article/popular-idol-and-ex-idol-reportedly-married-and-secretly-rai/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KPOP Daily</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T14:52:01.000Z</news:publication_date>
-      <news:title>Popular Idol Confirms Marriage to Ex-Idol, Reveals Secret Baby</news:title>
-      <news:keywords>SEVENTEEN, TXT, Awards, Charts, Album</news:keywords>
     </news:news>
   </url>
 </urlset>
